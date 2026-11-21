@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": 0.6,
+ "floor_mm": -2.5,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.92,
+ "thumb": "end@1.00",
+ "pose_hash": "1813ea9b6fe4a540",
+ "view": [
+  12.0,
+  40.0
+ ],
+ "key": "sleeper-stretch",
+ "name_en": "Sleeper Stretch",
+ "template": "arm_stretch",
+ "gender": "m",
+ "seconds": 168.8,
+ "pose_seconds": 1.4,
+ "quality": 66,
+ "bytes": 340788,
+ "frames": 48,
+ "unique": 25
+}

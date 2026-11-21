@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": -0.0,
+ "floor_mm": -2.5,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.95,
+ "thumb": "end@1.00",
+ "pose_hash": "15dd7d4f24334fdf",
+ "view": [
+  80,
+  8
+ ],
+ "key": "thread-the-needle",
+ "name_en": "Thread the Needle",
+ "template": "cat_cow",
+ "gender": "m",
+ "seconds": 160.1,
+ "pose_seconds": 1.1,
+ "quality": 72,
+ "bytes": 303709,
+ "frames": 48,
+ "unique": 25
+}

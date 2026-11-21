@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": -0.3,
+ "floor_mm": 344.6,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.92,
+ "thumb": "end@1.00",
+ "pose_hash": "da04c04f3c7130d6",
+ "view": [
+  90,
+  7
+ ],
+ "key": "45-degree-glute-hyperextension",
+ "name_en": "45-Degree Glute Hyperextension",
+ "template": "back_extension",
+ "gender": "f",
+ "seconds": 126.4,
+ "pose_seconds": 1.1,
+ "quality": 72,
+ "bytes": 217096,
+ "frames": 48,
+ "unique": 25
+}

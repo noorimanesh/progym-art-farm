@@ -1,0 +1,38 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 2.288783399261119e-13,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  },
+  "R": {
+   "slide": 2.288783399261119e-13,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  }
+ },
+ "support_mm": 0.6,
+ "floor_mm": 8.0,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.71,
+ "thumb": "end@1.00",
+ "pose_hash": "818cd0f1b5043572",
+ "view": [
+  90,
+  7
+ ],
+ "key": "b-stance-hip-thrust",
+ "name_en": "B-Stance Hip Thrust",
+ "template": "hip_thrust",
+ "gender": "f",
+ "seconds": 157.8,
+ "pose_seconds": 1.9,
+ "quality": 72,
+ "bytes": 350561,
+ "frames": 48,
+ "unique": 25
+}

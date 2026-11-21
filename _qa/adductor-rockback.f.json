@@ -1,0 +1,33 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "R": {
+   "slide": 1.570092458683775e-13,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  }
+ },
+ "support_mm": 0.6,
+ "floor_mm": -2.0,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.92,
+ "thumb": "end@1.00",
+ "pose_hash": "b5f7acd0054eae3e",
+ "view": [
+  15.0,
+  8.0
+ ],
+ "key": "adductor-rockback",
+ "name_en": "Adductor Rockback",
+ "template": "child_pose",
+ "gender": "f",
+ "seconds": 195.4,
+ "pose_seconds": 1.5,
+ "quality": 42,
+ "bytes": 387625,
+ "frames": 48,
+ "unique": 25
+}

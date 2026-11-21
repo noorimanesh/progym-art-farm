@@ -1,0 +1,33 @@
+{
+ "issues": [],
+ "grip_mm": 4.1,
+ "feet": {
+  "L": {
+   "slide": 2.2377260456559047e-13,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  }
+ },
+ "support_mm": 0.6,
+ "floor_mm": 4.8,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.88,
+ "thumb": "end@1.00",
+ "pose_hash": "d75f5426071cc4d0",
+ "view": [
+  80,
+  10
+ ],
+ "key": "foam-roll-glutes",
+ "name_en": "Foam Roll Glutes",
+ "template": "foam_roll",
+ "gender": "f",
+ "seconds": 186.8,
+ "pose_seconds": 1.4,
+ "quality": 45,
+ "bytes": 405628,
+ "frames": 48,
+ "unique": 25
+}

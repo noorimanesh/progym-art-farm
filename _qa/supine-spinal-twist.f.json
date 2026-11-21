@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": -0.6,
+ "floor_mm": -2.6,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.92,
+ "thumb": "end@1.00",
+ "pose_hash": "d2d9a0f299778077",
+ "view": [
+  20.0,
+  30.0
+ ],
+ "key": "supine-spinal-twist",
+ "name_en": "Supine Spinal Twist",
+ "template": "x54",
+ "gender": "f",
+ "seconds": 169.2,
+ "pose_seconds": 1.2,
+ "quality": 66,
+ "bytes": 415302,
+ "frames": 48,
+ "unique": 25
+}

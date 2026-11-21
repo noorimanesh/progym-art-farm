@@ -1,0 +1,38 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 1.2412670766236365e-13,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  },
+  "R": {
+   "slide": 1.2412670766236365e-13,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  }
+ },
+ "support_mm": 0.5,
+ "floor_mm": 8.0,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.91,
+ "thumb": "end@1.00",
+ "pose_hash": "13b0ed2eace90afa",
+ "view": [
+  80,
+  10
+ ],
+ "key": "foam-roll-thoracic-spine",
+ "name_en": "Foam Roll Thoracic Spine",
+ "template": "foam_roll",
+ "gender": "f",
+ "seconds": 161.7,
+ "pose_seconds": 1.2,
+ "quality": 57,
+ "bytes": 382722,
+ "frames": 48,
+ "unique": 25
+}

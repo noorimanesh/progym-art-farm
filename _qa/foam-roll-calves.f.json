@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.9,
+ "feet": {},
+ "support_mm": 0.0,
+ "floor_mm": 4.8,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.9,
+ "thumb": "end@1.00",
+ "pose_hash": "f7670383ebeb7e0d",
+ "view": [
+  80,
+  10
+ ],
+ "key": "foam-roll-calves",
+ "name_en": "Foam Roll Calves",
+ "template": "foam_roll",
+ "gender": "f",
+ "seconds": 156.6,
+ "pose_seconds": 1.1,
+ "quality": 72,
+ "bytes": 360380,
+ "frames": 48,
+ "unique": 25
+}

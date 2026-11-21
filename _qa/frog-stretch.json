@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": -0.6,
+ "floor_mm": -2.6,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.92,
+ "thumb": "end@1.00",
+ "pose_hash": "dde3471d90a11caa",
+ "view": [
+  55.0,
+  30.0
+ ],
+ "key": "frog-stretch",
+ "name_en": "Frog Stretch",
+ "template": "butterfly_stretch",
+ "gender": "m",
+ "seconds": 165.6,
+ "pose_seconds": 1.4,
+ "quality": 66,
+ "bytes": 337704,
+ "frames": 48,
+ "unique": 25
+}

@@ -1,0 +1,33 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 2.2377260456559047e-13,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  }
+ },
+ "support_mm": 0.0,
+ "floor_mm": 4.1,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.95,
+ "thumb": "end@1.00",
+ "pose_hash": "a5aecd83350e4a25",
+ "view": [
+  80.0,
+  8.0
+ ],
+ "key": "knee-to-wall-ankle-mobilization",
+ "name_en": "Knee-to-Wall Ankle Mobilization",
+ "template": "x54",
+ "gender": "m",
+ "seconds": 182.9,
+ "pose_seconds": 6.1,
+ "quality": 69,
+ "bytes": 351525,
+ "frames": 48,
+ "unique": 25
+}

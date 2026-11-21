@@ -1,0 +1,38 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 4.4754520913118095e-13,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  },
+  "R": {
+   "slide": 4.4754520913118095e-13,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  }
+ },
+ "support_mm": 0.4,
+ "floor_mm": 8.0,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.79,
+ "thumb": "end@1.00",
+ "pose_hash": "aa4aac8e457d2a30",
+ "view": [
+  16.0,
+  28.0
+ ],
+ "key": "smith-machine-hip-thrust",
+ "name_en": "Smith Machine Hip Thrust",
+ "template": "hip_thrust",
+ "gender": "m",
+ "seconds": 210.2,
+ "pose_seconds": 1.9,
+ "quality": 30,
+ "bytes": 458997,
+ "frames": 48,
+ "unique": 25
+}
