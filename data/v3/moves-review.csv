@@ -1,0 +1,162 @@
+key,name_en,reason
+zottman-curl,Zottman Curl,confidence medium
+reverse-grip-triceps-pushdown,Reverse-Grip Triceps Pushdown,confidence medium
+pistol-squat,Pistol Squat,confidence medium
+reverse-crunch,Reverse Crunch,confidence medium
+standing-cable-chest-press,Standing Cable Chest Press,confidence medium
+cable-wood-chop,Cable Wood Chop,confidence medium
+standing-side-leg-raise,Standing Side Leg Raise,confidence medium
+dumbbell-reverse-wrist-curl,Dumbbell Reverse Wrist Curl,confidence medium
+reverse-hyperextension,Reverse Hyperextension,confidence medium
+wide-stance-barbell-squat,Wide-Stance Barbell Squat,confidence medium
+one-arm-cable-triceps-extension,One-Arm Cable Triceps Extension,confidence medium
+side-lying-groin-stretch,Side-Lying Groin Stretch,confidence medium
+decline-dumbbell-fly,Decline Dumbbell Fly,confidence medium
+wide-push-up,Wide Push-up,confidence medium
+neutral-grip-pull-up,Neutral-Grip Pull-up,confidence medium
+band-external-rotation,Band External Rotation,confidence medium
+reverse-cable-curl,Reverse Cable Curl,confidence medium
+jumping-lunge,Jumping Lunge,confidence medium
+single-leg-dumbbell-calf-raise,Single-Leg Dumbbell Calf Raise,confidence medium
+oblique-crunch,Oblique Crunch,confidence medium
+spider-crawl,Spider Crawl,confidence medium
+barbell-wrist-curl,Barbell Wrist Curl,confidence medium
+finger-curl,Finger Curl,confidence medium
+butt-kicks,Butt Kicks,confidence medium
+triceps-stretch,Triceps Stretch,confidence medium
+curtsy-lunge,Curtsy Lunge,confidence medium
+frog-pump,Frog Pump,confidence medium
+skater-jump,Skater Jump,confidence medium
+close-grip-bench-press,Close-Grip Bench Press,confidence medium
+triceps-dip,Triceps Dip,confidence medium
+dumbbell-triceps-kickback,Dumbbell Triceps Kickback,confidence medium
+cable-rope-hammer-curl,Cable Rope Hammer Curl,confidence medium
+reverse-barbell-curl,Reverse Barbell Curl,confidence medium
+arnold-press,Arnold Press,confidence medium
+chin-up,Chin-up,confidence medium
+sumo-deadlift,Sumo Deadlift,confidence medium
+walking-lunge,Walking Lunge,confidence medium
+hip-adduction-machine,Hip Adduction Machine,confidence medium
+hip-abduction-machine,Hip Abduction Machine,confidence medium
+seated-calf-raise,Seated Calf Raise,confidence medium
+elliptical-trainer,Elliptical Trainer,confidence medium
+barbell-21s,Barbell 21s,confidence medium
+jm-press,JM Press,confidence medium
+rope-triceps-pushdown,Rope Triceps Pushdown,confidence medium
+snatch-grip-deadlift,Snatch-Grip Deadlift,confidence medium
+svend-press,Svend Press,confidence medium
+single-arm-cable-fly,Single-Arm Cable Fly,confidence medium
+ski-ergometer,Ski Ergometer,confidence medium
+brisk-walking,Brisk Walking,confidence medium
+swimming,Swimming,confidence medium
+sprint-intervals,Sprint Intervals,confidence medium
+lateral-shuffle,Lateral Shuffle,confidence medium
+plank-jack,Plank Jack,confidence medium
+l-sit,L-Sit,confidence medium
+cable-oblique-crunch,Cable Oblique Crunch,confidence medium
+dumbbell-wrist-rotation,Dumbbell Wrist Rotation,confidence medium
+safety-bar-squat,Safety Bar Squat,confidence medium
+single-leg-leg-press,Single-Leg Leg Press,confidence medium
+broad-jump,Broad Jump,confidence medium
+tuck-jump,Tuck Jump,confidence medium
+machine-hip-thrust,Machine Hip Thrust,confidence medium
+b-stance-hip-thrust,B-Stance Hip Thrust,confidence medium
+thread-the-needle,Thread the Needle,confidence medium
+knee-to-wall-ankle-mobilization,Knee-to-Wall Ankle Mobilization,confidence medium
+foam-roll-glutes,Foam Roll Glutes,confidence medium
+seated-spinal-twist,Seated Spinal Twist,confidence medium
+hip-cars,Hip CARs,confidence medium
+cable-front-raise,Cable Front Raise,confidence medium
+kettlebell-overhead-press,Kettlebell Overhead Press,confidence medium
+band-face-pull,Band Face Pull,confidence medium
+suspension-hip-drop,Suspension Hip Drop,confidence medium
+suspension-leg-raise,Suspension Leg Raise,confidence medium
+hanging-oblique-knee-raise,Hanging Oblique Knee Raise,confidence medium
+high-plank-arm-reach,High Plank Arm Reach,confidence medium
+reverse-plank-on-elbows,Reverse Plank on Elbows,confidence medium
+plank-body-saw,Plank Body Saw,confidence medium
+stability-ball-plank-on-balance-trainer,Stability Ball Plank on Balance Trainer,confidence medium
+plank-surrender,Plank Surrender,confidence medium
+partner-plank-and-reach,Partner Plank and Reach,confidence medium
+cable-russian-twist,Cable Russian Twist,confidence medium
+partner-russian-twist,Partner Russian Twist,confidence medium
+band-standing-ab-twist,Band Standing Ab Twist,confidence medium
+pallof-press-walk-out,Pallof Press Walk Out,confidence medium
+supine-pallof-press,Supine Pallof Press,confidence medium
+pallof-press-and-twist,Pallof Press and Twist,confidence medium
+partner-pallof-twist,Partner Pallof Twist,confidence medium
+suspension-resisted-rotation,Suspension Resisted Rotation,confidence medium
+stance-jack,Stance Jack,confidence medium
+exercise-ball-pull-in,Exercise Ball Pull In,confidence medium
+high-butt-bear-crawl,High Butt Bear Crawl,confidence medium
+partner-sit-up-hi-five,Partner Sit-up Hi-Five,confidence medium
+overhead-weighted-sit-up,Overhead Weighted Sit-up,confidence medium
+decline-sit-up-with-medicine-ball-toss,Decline Sit-up with Medicine Ball Toss,confidence medium
+stability-ball-roll-out,Stability Ball Roll Out,confidence medium
+barbell-ab-rollout,Barbell Ab Rollout,confidence medium
+suspension-fallout,Suspension Fallout,confidence medium
+up-dog,Up Dog,confidence medium
+elbow-to-knee-crunch,Elbow to Knee Crunch,confidence medium
+balance-trainer-cable-crunch-with-side-bends,Balance Trainer Cable Crunch With Side Bends,confidence medium
+band-crunch,Band Crunch,confidence medium
+tuck-crunch,Tuck Crunch,confidence medium
+cocoon-crunch,Cocoon Crunch,confidence medium
+decline-oblique-crunch,Decline Oblique Crunch,confidence medium
+mini-band-mountain-climber,Mini Band Mountain Climber,confidence medium
+cross-body-mountain-climber,Cross Body Mountain Climber,confidence medium
+side-plank-clam-lift,Side Plank Clam Lift,confidence medium
+stomach-vacuum,Stomach Vacuum,confidence medium
+v-sit,V-Sit,confidence medium
+side-bend-stretch,Side Bend Stretch,confidence medium
+incline-barbell-skull-crusher,Incline Barbell Skull Crusher,confidence medium
+cable-one-arm-triceps-side-extension,Cable One-Arm Triceps Side Extension,confidence medium
+cable-one-arm-underhand-triceps-extension,Cable One-Arm Underhand Triceps Extension,confidence medium
+mini-band-triceps-press,Mini Band Triceps Press,confidence medium
+ring-dip,Ring Dip,confidence medium
+assisted-dip,Assisted Dip,confidence medium
+palms-down-barbell-wrist-curl,Palms-Down Barbell Wrist Curl,confidence medium
+band-reverse-curl,Band Reverse Curl,confidence medium
+wide-grip-barbell-curl,Wide Grip Barbell Curl,confidence medium
+dumbbell-drag-pause-curl,Dumbbell Drag Pause Curl,confidence medium
+dumbbell-wide-curl,Dumbbell Wide Curl,confidence medium
+ez-bar-reverse-grip-curl,EZ-Bar Reverse Grip Curl,confidence medium
+ez-bar-reverse-close-grip-curl,EZ-Bar Reverse Close Grip Curl,confidence medium
+reverse-dumbbell-curl,Reverse Dumbbell Curl,confidence medium
+v-bar-pull-up,V-Bar Pull-up,confidence medium
+mixed-grip-pull-up,Mixed Grip Pull-up,confidence medium
+australian-chin-up,Australian Chin-up,confidence medium
+rope-climb,Rope Climb,confidence medium
+cable-crossover-lat-pulldown,Cable Crossover Lat Pulldown,confidence medium
+reverse-grip-barbell-bent-over-row,Reverse Grip Barbell Bent Over Row,confidence medium
+kettlebell-alternating-row,Kettlebell Alternating Row,confidence medium
+bird-dog-row,Bird Dog Row,confidence medium
+balance-trainer-bar-assisted-dome-squat,Balance Trainer Bar Assisted Dome Squat,confidence medium
+balance-trainer-stability-ball-overhead-squat,Balance Trainer Stability Ball Overhead Squat,confidence medium
+balance-trainer-alternating-lunge,Balance Trainer Alternating Lunge,confidence medium
+balance-trainer-curtsy-lunge,Balance Trainer Curtsy Lunge,confidence medium
+balance-trainer-hesitation-lunge,Balance Trainer Hesitation Lunge,confidence medium
+balance-trainer-rear-lunge-kick,Balance Trainer Rear Lunge Kick,confidence medium
+partner-hook-squat,Partner Hook Squat,confidence medium
+partner-squat-and-throw,Partner Squat And Throw,confidence medium
+partner-band-jump,Partner Band Jump,confidence medium
+partner-back-to-back-wall-sit,Partner Back To Back Wall Sit,confidence medium
+partner-wall-sit-and-triceps-dip,Partner Wall Sit And Triceps Dip,confidence medium
+partner-plank-hold-and-jump,Partner Plank Hold And Jump,confidence medium
+reverse-grip-bench-press,Reverse Grip Bench Press,confidence medium
+cable-crossover-flat-bench-fly,Cable Crossover Flat Bench Fly,confidence medium
+band-pec-fly,Band Pec Fly,confidence medium
+band-single-arm-fly,Band Single-Arm Fly,confidence medium
+band-standing-decline-chest-press,Band Standing Decline Chest Press,confidence medium
+band-push-up,Band Push-up,confidence medium
+hand-release-push-up,Hand Release Push-up,confidence medium
+balance-trainer-push-up,Balance Trainer Push-up,confidence medium
+balance-trainer-wide-push-up,Balance Trainer Wide Push-up,confidence medium
+leg-raise-with-dumbbell-pull-over,Leg Raise With Dumbbell Pull Over,confidence medium
+partner-rolling-ball-push-up,Partner Rolling Ball Push-up,confidence medium
+side-leg-kick,Side Leg Kick,confidence medium
+prone-hip-circle,Prone Hip Circle,confidence medium
+reverse-leg-crossover,Reverse Leg Crossover,confidence medium
+foam-roll-lower-back,Foam Roll Lower Back,confidence medium
+smith-machine-hang-power-clean,Smith Machine Hang Power Clean,confidence medium
+landmine-press-and-catch,Landmine Press and Catch,confidence medium
+front-rack-stretch,Front Rack Stretch,confidence medium

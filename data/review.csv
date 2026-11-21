@@ -1,0 +1,458 @@
+slug,name_en,template,match,note,qa_male,qa_female,doubt
+reverse-leg-crossover,Reverse Leg Crossover,back_extension,fallback,no name rule; muscle-group fallback; stand-in pose for a complex or travelling drill,floor_pen:0.065;reach:0.175;grip_off:0.100,reach:0.285;grip_off:0.237,9
+balance-trainer-up-and-down-planks,Balance Trainer Up and Down Planks,plank,approx,stand-in pose for a complex or travelling drill,floor_pen:0.031;foot_slide_L:0.074;foot_slide_R:0.074,floor_pen:0.019;foot_slide_L:0.061;foot_slide_R:0.061,6
+cluster,Cluster,thruster,approx,,reach:0.155;grip_off:0.075,reach:0.115;grip_off:0.063,6
+landmine-core-rotation,Landmine Core Rotation,standing_twist,rule,,reach:0.158;grip_off:0.113;equip_floor:0.055,reach:0.185;grip_off:0.154;equip_floor:0.056,6
+partner-band-jump,Partner Band Jump,jump_squat,approx,partner drill shown solo,foot_slide_L:0.149;foot_slide_R:0.149,foot_slide_L:0.149;foot_slide_R:0.149,6
+tire-flip,Tire Flip,tire_flip,rule,,reach:0.480;grip_off:0.472;equip_floor:0.096,reach:0.474;grip_off:0.469;equip_floor:0.096,6
+trx-pike,TRX Pike,pike,rule,,reach:0.434;foot_slide_L:0.093;foot_slide_R:0.093,reach:0.434;foot_slide_L:0.068;foot_slide_R:0.068,6
+balance-trainer-reverse-hyperextension,Balance Trainer Reverse Hyperextension,back_extension,rule,,floor_pen:0.065;reach:0.175;grip_off:0.100,reach:0.285;grip_off:0.237,5
+reverse-hyperextension,Reverse Hyperextension,back_extension,rule,,floor_pen:0.065;reach:0.175;grip_off:0.100,reach:0.285;grip_off:0.237,5
+12-kneeling-shotgun-row,1/2 Kneeling Shotgun Row,db_row,approx,stand-in pose for a complex or travelling drill,reach:0.058,reach:0.087,4
+australian-chin-up,Australian Chin Up,pull_up,rule,,reach:0.097;grip_off:0.060,reach:0.078;grip_off:0.053,4
+balance-trainer-lateral-cross-over-jumps,Balance Trainer Lateral Cross Over Jumps,calf_raise,fallback,no name rule; muscle-group fallback,foot_slide_L:0.019;foot_slide_R:0.019,foot_slide_L:0.017;foot_slide_R:0.017,4
+balance-trainer-sumo-squat-jumps,Balance Trainer Sumo Squat Jumps,jump_squat,rule,,foot_slide_L:0.149;foot_slide_R:0.149,foot_slide_L:0.149;foot_slide_R:0.149,4
+balance-trainer-trx-squat-jumps,Balance Trainer TRX Squat Jumps,jump_squat,rule,,foot_slide_L:0.149;foot_slide_R:0.149,foot_slide_L:0.149;foot_slide_R:0.149,4
+balance-trainer-walk-out-plank,Balance Trainer Walk Out Plank,walkout,approx,stand-in pose for a complex or travelling drill,reach:0.067;foot_slide_L:0.020;foot_slide_R:0.020,reach:0.066;foot_slide_L:0.017;foot_slide_R:0.017,4
+banded-leg-drive,Banded Leg Drive,squat,fallback,no name rule; muscle-group fallback; stand-in pose for a complex or travelling drill,,,4
+behind-the-neck-push-press,Behind the Neck Push Press,power_clean,rule,,reach:0.155;grip_off:0.075,reach:0.115;grip_off:0.062,4
+bird-dog-rows,Bird Dog Rows,db_row,approx,stand-in pose for a complex or travelling drill,reach:0.058,reach:0.087,4
+butt-scoot,Butt Scoot,squat,fallback,no name rule; muscle-group fallback; stand-in pose for a complex or travelling drill,,,4
+clean-and-jerk,Clean and Jerk,power_clean,rule,,reach:0.155;grip_off:0.075,reach:0.115;grip_off:0.062,4
+clean-and-press,Clean and Press,power_clean,rule,,reach:0.155;grip_off:0.075,reach:0.115;grip_off:0.062,4
+front-squat-to-jerk,Front Squat to Jerk,power_clean,rule,,reach:0.155;grip_off:0.075,reach:0.115;grip_off:0.062,4
+gorilla-rows,Gorilla Rows,db_row,approx,stand-in pose for a complex or travelling drill,reach:0.058,reach:0.087,4
+isometric-biceps-hold,Isometric Biceps Hold,db_curl,fallback,no name rule; muscle-group fallback,,,4
+jump-squat,Jump Squat,jump_squat,rule,,foot_slide_L:0.149;foot_slide_R:0.149,foot_slide_L:0.149;foot_slide_R:0.149,4
+loop-band-overhead-pull-apart,Loop Band Overhead Pull Apart,barbell_row,fallback,no name rule; muscle-group fallback,,,4
+loop-band-shoulder-squeeze,Loop Band Shoulder Squeeze,barbell_row,fallback,no name rule; muscle-group fallback; stand-in pose for a complex or travelling drill,,,4
+loop-band-single-arm-archer-pull,Loop Band Single Arm Archer Pull,db_shoulder_press,fallback,no name rule; muscle-group fallback; stand-in pose for a complex or travelling drill,,,4
+mini-loop-band-jump-squat,Mini Loop Band Jump Squat,jump_squat,rule,,foot_slide_L:0.149;foot_slide_R:0.149,foot_slide_L:0.149;foot_slide_R:0.149,4
+mini-loop-band-scapular-retraction,Mini Loop Band Scapular Retraction,db_shoulder_press,fallback,no name rule; muscle-group fallback; stand-in pose for a complex or travelling drill,,,4
+partner-plank-and-reach,Partner Plank and Reach,plank,approx,partner drill shown solo,floor_pen:0.387,floor_pen:0.289,4
+plank-body-saw,Plank Body Saw,plank,rule,,floor_pen:0.031;foot_slide_L:0.120;foot_slide_R:0.120,floor_pen:0.019;foot_slide_L:0.120;foot_slide_R:0.120,4
+power-clean-and-press,Power Clean and Press,power_clean,rule,,reach:0.155;grip_off:0.075,reach:0.115;grip_off:0.062,4
+power-clean-thruster,Power Clean Thruster,thruster,rule,,reach:0.155;grip_off:0.075,reach:0.115;grip_off:0.063,4
+push-jerk,Push Jerk,power_clean,rule,,reach:0.155;grip_off:0.075,reach:0.115;grip_off:0.062,4
+push-press,Push Press,power_clean,rule,,reach:0.155;grip_off:0.075,reach:0.115;grip_off:0.062,4
+pvc-clean-and-jerk,PVC Clean and Jerk,power_clean,rule,,reach:0.146;grip_off:0.075,reach:0.110;grip_off:0.062,4
+pvc-jerk-press,PVC Jerk Press,power_clean,rule,,reach:0.146;grip_off:0.075,reach:0.110;grip_off:0.062,4
+quadruped-plank-with-leg-extensions,Quadruped Plank With Leg Extensions,bird_dog,approx,,reach:0.062,reach:0.053,4
+renegade-row,Renegade Row,plank,rule,,floor_pen:0.159;equip_floor:0.215,floor_pen:0.113;equip_floor:0.183,4
+shotgun-row,Shotgun Row,db_row,approx,stand-in pose for a complex or travelling drill,reach:0.058,reach:0.087,4
+shoulder-squeeze,Shoulder Squeeze,db_shoulder_press,fallback,no name rule; muscle-group fallback; stand-in pose for a complex or travelling drill,,,4
+single-arm-bottoms-up-kettlebell-press,Single Arm Bottoms-up Kettlebell Press,db_shoulder_press,fallback,no name rule; muscle-group fallback,,,4
+single-leg-cycles,Single-Leg Cycles,romanian_deadlift,fallback,no name rule; muscle-group fallback; stand-in pose for a complex or travelling drill,,,4
+split-jerk,Split Jerk,power_clean,rule,,reach:0.155;grip_off:0.075,reach:0.115;grip_off:0.062,4
+stability-ball-hyperextension,Stability Ball Hyperextension,back_extension,rule,,reach:0.066;foot_slide_L:0.050;foot_slide_R:0.050,reach:0.271;foot_slide_L:0.080;foot_slide_R:0.080,4
+thruster,Thruster,thruster,rule,,reach:0.155;grip_off:0.075,reach:0.115;grip_off:0.063,4
+trx-hip-throw,TRX Hip Throw,barbell_row,fallback,no name rule; muscle-group fallback; stand-in pose for a complex or travelling drill,,,4
+trx-jump-squats,TRX Jump Squats,jump_squat,rule,,foot_slide_L:0.149;foot_slide_R:0.149,foot_slide_L:0.149;foot_slide_R:0.149,4
+trx-rocket-launchers,TRX Rocket Launchers,squat,fallback,no name rule; muscle-group fallback; stand-in pose for a complex or travelling drill,,,4
+walking-side-kicks-half-turn,Walking Side Kicks Half Turn,hip_adduction_standing,fallback,no name rule; muscle-group fallback; stand-in pose for a complex or travelling drill,,,4
+weighted-ball-hyperextension,Weighted Ball Hyperextension,back_extension,rule,,reach:0.066;foot_slide_L:0.050;foot_slide_R:0.050,reach:0.271;foot_slide_L:0.080;foot_slide_R:0.080,4
+bench-t-spine-stretch,Bench T-Spine Stretch,arm_stretch,approx,stand-in pose for a complex or travelling drill,reach:0.072,,3
+iron-cross,Iron Cross,arm_stretch,approx,stand-in pose for a complex or travelling drill,reach:0.072,,3
+open-book-stretch,Open Book Stretch,arm_stretch,approx,stand-in pose for a complex or travelling drill,reach:0.072,,3
+pvc-around-the-world,PVC Around the World,arm_stretch,approx,stand-in pose for a complex or travelling drill,reach:0.072,,3
+reach-behind-and-open,Reach Behind and Open,arm_stretch,approx,stand-in pose for a complex or travelling drill,reach:0.072,,3
+21s,21’s,barbell_curl,approx,stand-in pose for a complex or travelling drill,,,2
+a-skips,A-Skips,high_knees,approx,stand-in pose for a complex or travelling drill,,,2
+ab-skips,AB-Skips,high_knees,approx,stand-in pose for a complex or travelling drill,,,2
+ac-skips,AC-Skips,high_knees,approx,stand-in pose for a complex or travelling drill,,,2
+acb-skips,ACB-Skips,high_knees,approx,stand-in pose for a complex or travelling drill,,,2
+airplane,Airplane,single_leg_rdl,approx,stand-in pose for a complex or travelling drill,,,2
+ankle-circles,Ankle Circles,standing_still,approx,stand-in pose for a complex or travelling drill,,,2
+archer-pull-up,Archer Pull Up,pull_up,approx,stand-in pose for a complex or travelling drill,reach:0.013,,2
+around-the-worlds,Around the Worlds,db_fly,approx,stand-in pose for a complex or travelling drill,,,2
+assisted-dip,Assisted Dip,dip,rule,,equip_floor:0.080,equip_floor:0.080,2
+australian-crawl,Australian Crawl,superman,approx,stand-in pose for a complex or travelling drill,,,2
+b-skips,B-Skips,high_knees,approx,stand-in pose for a complex or travelling drill,,,2
+balance-trainer-bar-assisted-dome-squat,Balance Trainer Bar Assisted Dome Squat,squat,approx,stand-in pose for a complex or travelling drill,,,2
+balance-trainer-bird-dog,Balance Trainer Bird Dog,bird_dog,rule,,reach:0.062,reach:0.053,2
+balance-trainer-braced-bicycle-kicks,Balance Trainer Braced Bicycle Kicks,bicycle_crunch,approx,,,,2
+balance-trainer-braced-frog-kicks,Balance Trainer Braced Frog Kicks,v_up,approx,stand-in pose for a complex or travelling drill,,,2
+balance-trainer-burpee,Balance Trainer Burpee,burpee,rule,,floor_pen:0.131;foot_slide_L:0.017;foot_slide_R:0.017,floor_pen:0.247;foot_slide_L:0.015;foot_slide_R:0.015,2
+balance-trainer-burpee-with-pushup,Balance Trainer Burpee with Pushup,burpee,rule,,floor_pen:0.131;foot_slide_L:0.017;foot_slide_R:0.017,floor_pen:0.247;foot_slide_L:0.015;foot_slide_R:0.015,2
+balance-trainer-front-back-cross-jumps,Balance Trainer Front-Back Cross Jumps,lateral_hop,approx,stand-in pose for a complex or travelling drill,,,2
+balance-trainer-hesitation-lunges,Balance Trainer Hesitation Lunges,forward_lunge,approx,stand-in pose for a complex or travelling drill,foot_slide_L:0.026,foot_slide_L:0.023,2
+balance-trainer-knee-up-squats,Balance Trainer Knee Up Squats,bodyweight_squat,approx,stand-in pose for a complex or travelling drill,,,2
+balance-trainer-lateral-dome-squats,Balance Trainer Lateral Dome Squats,squat,approx,stand-in pose for a complex or travelling drill,,,2
+balance-trainer-lateral-floor-toe-taps,Balance Trainer Lateral Floor Toe Taps,lateral_hop,approx,stand-in pose for a complex or travelling drill,,,2
+balance-trainer-leg-crossover-planks,Balance Trainer Leg Crossover Planks,plank,approx,stand-in pose for a complex or travelling drill,floor_pen:0.021,floor_pen:0.019,2
+balance-trainer-lying-toe-taps,Balance Trainer Lying Toe Taps,lateral_hop,approx,stand-in pose for a complex or travelling drill,,,2
+balance-trainer-overhead-weighted-crunch,Balance Trainer Overhead Weighted Crunch,crunch,approx,stand-in pose for a complex or travelling drill,,,2
+balance-trainer-side-star-plank,Balance Trainer Side Star Plank,side_plank,approx,stand-in pose for a complex or travelling drill,,,2
+balance-trainer-single-leg-crunches,Balance Trainer Single Leg Crunches,v_up,approx,stand-in pose for a complex or travelling drill,,,2
+balance-trainer-single-leg-glute-drop,Balance Trainer Single Leg Glute Drop,pistol_squat,approx,,,,2
+balance-trainer-slow-climbers,Balance Trainer Slow Climbers,mountain_climber,approx,stand-in pose for a complex or travelling drill,floor_pen:0.021,floor_pen:0.019,2
+balance-trainer-speed-climbers,Balance Trainer Speed Climbers,mountain_climber,approx,stand-in pose for a complex or travelling drill,floor_pen:0.021,floor_pen:0.019,2
+balance-trainer-star-plank-knee-to-elbow,Balance Trainer Star Plank Knee to Elbow,plank,approx,stand-in pose for a complex or travelling drill,floor_pen:0.021,floor_pen:0.019,2
+balance-trainer-toe-taps,Balance Trainer Toe Taps,lateral_hop,approx,stand-in pose for a complex or travelling drill,,,2
+balance-trainer-traveling-dome-planks,Balance Trainer Traveling Dome Planks,plank,approx,stand-in pose for a complex or travelling drill,floor_pen:0.021,floor_pen:0.019,2
+balance-trainer-trx-pistol-squats,Balance Trainer TRX Pistol Squats,pistol_squat,approx,,,,2
+bar-muscle-up,Bar Muscle Up,pull_up,approx,stand-in pose for a complex or travelling drill,,,2
+barbell-shoulder-press,Barbell Shoulder Press,overhead_press,approx,,,,2
+bear-crawl,Bear Crawl,bear_crawl,approx,stand-in pose for a complex or travelling drill,floor_pen:0.022,floor_pen:0.020,2
+bird-dog,Bird Dog,bird_dog,rule,,reach:0.062,reach:0.053,2
+bounds,Bounds,broad_jump,approx,stand-in pose for a complex or travelling drill,,,2
+box-shuffle,Box Shuffle,lateral_hop,approx,stand-in pose for a complex or travelling drill,,,2
+box-step-down,Box Step Down,step_up,approx,stand-in pose for a complex or travelling drill,,,2
+bridge-side-to-side,Bridge Side to Side,glute_bridge,approx,stand-in pose for a complex or travelling drill,,,2
+bridge-up-up-down-down,Bridge Up Up Down Down,glute_bridge,approx,stand-in pose for a complex or travelling drill,,,2
+bridge-walk,Bridge Walk,glute_bridge,approx,stand-in pose for a complex or travelling drill,,,2
+burpee,Burpee,burpee,rule,,floor_pen:0.131;foot_slide_L:0.017;foot_slide_R:0.017,floor_pen:0.247;foot_slide_L:0.015;foot_slide_R:0.015,2
+burpee-broad-jump,Burpee Broad Jump,burpee,rule,,floor_pen:0.131;foot_slide_L:0.017;foot_slide_R:0.017,floor_pen:0.247;foot_slide_L:0.015;foot_slide_R:0.015,2
+burpee-high-jump,Burpee High Jump,burpee,rule,,floor_pen:0.131;foot_slide_L:0.017;foot_slide_R:0.017,floor_pen:0.247;foot_slide_L:0.015;foot_slide_R:0.015,2
+butt-kick,Butt Kick,high_knees,approx,stand-in pose for a complex or travelling drill,,,2
+butterfly-pull-up,Butterfly Pull Up,pull_up,approx,stand-in pose for a complex or travelling drill,,,2
+cable-wood-chop-low-to-high,Cable Wood Chop (Low to High),woodchop,rule,,reach:0.126;grip_off:0.102,reach:0.037;grip_off:0.021,2
+cat-cow,Cat Cow,cat_cow,rule,,reach:0.083,reach:0.084,2
+chest-expansion,Chest Expansion,arm_stretch,approx,stand-in pose for a complex or travelling drill,,,2
+childs-pose,Child's Pose,child_pose,rule,,reach:0.101,reach:0.137,2
+cobra-triceps-extension,Cobra Triceps Extension,overhead_triceps_extension,approx,stand-in pose for a complex or travelling drill,,,2
+crab-pose,Crab Pose,reverse_plank,rule,,reach:0.062,reach:0.085,2
+crab-reach,Crab Reach,reverse_plank,rule,,reach:0.062,reach:0.085,2
+decline-sit-up-with-medicine-ball-toss,Decline Sit Up with Medicine Ball Toss,sit_up,approx,stand-in pose for a complex or travelling drill,,,2
+deficit-calf-stretch,Deficit Calf Stretch,calf_stretch,rule,,reach:0.202,reach:0.229,2
+double-dumbbell-hang-snatch,Double Dumbbell Hang Snatch,kb_clean,rule,,reach:0.042;grip_off:0.041,reach:0.089;grip_off:0.087,2
+double-dumbbell-power-snatch,Double Dumbbell Power Snatch,kb_clean,rule,,reach:0.042;grip_off:0.041,reach:0.089;grip_off:0.087,2
+duck-walk,Duck Walk,bodyweight_squat,approx,stand-in pose for a complex or travelling drill,,,2
+dumbbell-clean,Dumbbell Clean,kb_clean,rule,,reach:0.042;grip_off:0.041,reach:0.089;grip_off:0.087,2
+dumbbell-cuban-shoulder-rotations,Dumbbell Cuban Shoulder Rotations,external_rotation,approx,stand-in pose for a complex or travelling drill,,,2
+dumbbell-halo-to-oblique-crunch,Dumbbell Halo To Oblique Crunch,kb_halo,approx,stand-in pose for a complex or travelling drill,,,2
+dumbbell-hang-power-clean,Dumbbell Hang Power Clean,kb_clean,rule,,reach:0.042;grip_off:0.041,reach:0.089;grip_off:0.087,2
+dumbbell-hang-snatch,Dumbbell Hang Snatch,kb_clean,rule,,reach:0.042;grip_off:0.041,reach:0.089;grip_off:0.087,2
+dumbbell-larson-press,Dumbbell Larson Press,db_bench_press,approx,stand-in pose for a complex or travelling drill,,,2
+dumbbell-no-money-curls,Dumbbell No Money Curls,db_curl,approx,stand-in pose for a complex or travelling drill,,,2
+dumbbell-romanian-deadlift-to-high-pull,Dumbbell Romanian Deadlift to High Pull,romanian_deadlift,approx,,,,2
+dumbbell-row,Dumbbell Row,db_row,rule,,reach:0.058,reach:0.087,2
+dumbbell-snatch,Dumbbell Snatch,kb_clean,rule,,reach:0.042;grip_off:0.041,reach:0.089;grip_off:0.087,2
+dumbbell-v-sit-cross-jab,Dumbbell V-Sit Cross Jab,russian_twist,approx,stand-in pose for a complex or travelling drill,,,2
+ez-bar-pjr-pull-over,EZ Bar PJR Pull Over,pullover,approx,stand-in pose for a complex or travelling drill,,,2
+foam-roll-calves,Foam Roll Calves,foam_roll,rule,,reach:0.168,reach:0.158,2
+foam-roll-glute-bridge,Foam Roll Glute Bridge,foam_roll,rule,,reach:0.061,reach:0.109,2
+foam-roll-glutes,Foam Roll Glutes,foam_roll,rule,,reach:0.061,reach:0.109,2
+foam-roll-hamstrings,Foam Roll Hamstrings,foam_roll,rule,,reach:0.168,reach:0.158,2
+foam-roll-hip-abductors,Foam Roll Hip Abductors,foam_roll,rule,,reach:0.061,reach:0.109,2
+foam-roll-hip-thrust,Foam Roll Hip Thrust,foam_roll,rule,,reach:0.168,reach:0.158,2
+front-plate-raise,Front Plate Raise,front_raise,rule,,reach:0.100,reach:0.070,2
+glute-kickback-machine,Glute Kickback Machine,glute_kickback_machine,approx,,,,2
+grape-vinecarioca,Grape Vine/Carioca,high_knees,approx,stand-in pose for a complex or travelling drill,,,2
+handstand-hold,Handstand Hold,push_up,approx,stand-in pose for a complex or travelling drill,,floor_pen:0.046;reach:0.016,2
+handstand-push-up,Handstand Push Up,push_up,approx,stand-in pose for a complex or travelling drill,,floor_pen:0.046;reach:0.016,2
+handstand-walk,Handstand Walk,push_up,approx,stand-in pose for a complex or travelling drill,,floor_pen:0.046;reach:0.016,2
+heel-press,Heel Press,leg_press,approx,stand-in pose for a complex or travelling drill,,,2
+high-butt-bear-crawl,High Butt Bear Crawl,bear_crawl,approx,stand-in pose for a complex or travelling drill,floor_pen:0.022,floor_pen:0.020,2
+high-knee-grape-vinecarioca,High Knee Grape Vine/Carioca,high_knees,approx,stand-in pose for a complex or travelling drill,,,2
+high-plank-arm-reach,High Plank Arm Reach,plank,rule,,floor_pen:0.169,floor_pen:0.121,2
+hip-flow,Hip Flow,standing_still,approx,stand-in pose for a complex or travelling drill,,,2
+hip-lift-march,Hip Lift March,glute_bridge,approx,stand-in pose for a complex or travelling drill,,,2
+hurdle-step-over,Hurdle Step Over,leg_swing,approx,stand-in pose for a complex or travelling drill,,,2
+inchworm,Inchworm,walkout,rule,,reach:0.067;foot_slide_L:0.020;foot_slide_R:0.020,reach:0.066;foot_slide_L:0.017;foot_slide_R:0.017,2
+incline-dumbbell-row,Incline Dumbbell Row,db_row,rule,,reach:0.058,reach:0.087,2
+incline-svend-press,Incline Svend Press,chest_press_standing,approx,stand-in pose for a complex or travelling drill,,,2
+kettlebell-clean-and-jerk,Kettlebell Clean and Jerk,kb_clean,rule,,reach:0.042;grip_off:0.041,reach:0.089;grip_off:0.087,2
+kettlebell-hang-clean,Kettlebell Hang Clean,kb_clean,rule,,reach:0.042;grip_off:0.041,reach:0.089;grip_off:0.087,2
+kettlebell-jerk,Kettlebell Jerk,kb_clean,rule,,reach:0.042;grip_off:0.041,reach:0.089;grip_off:0.087,2
+kettlebell-lunge-with-rotation,Kettlebell Lunge with Rotation,forward_lunge,approx,stand-in pose for a complex or travelling drill,foot_slide_L:0.026,foot_slide_L:0.023,2
+kettlebell-pistol-squat,Kettlebell Pistol Squat,pistol_squat,approx,,,,2
+kettlebell-power-clean,Kettlebell Power Clean,kb_clean,rule,,reach:0.042;grip_off:0.041,reach:0.089;grip_off:0.087,2
+kettlebell-row,Kettlebell Row,db_row,rule,,reach:0.058,reach:0.087,2
+kettlebell-snatch,Kettlebell Snatch,kb_clean,rule,,reach:0.042;grip_off:0.041,reach:0.089;grip_off:0.087,2
+kipping-handstand-push-up,Kipping Handstand Push Up,push_up,approx,stand-in pose for a complex or travelling drill,,floor_pen:0.046;reach:0.016,2
+kneeling-squat,Kneeling Squat,squat,approx,stand-in pose for a complex or travelling drill,,,2
+landmine-press,Landmine Press,landmine_press,rule,,equip_floor:0.076,equip_floor:0.076,2
+landmine-press-and-catch,Landmine Press and Catch,landmine_press,rule,,equip_floor:0.076,equip_floor:0.076,2
+landmine-romanian-deadlift,Landmine Romanian Deadlift,romanian_deadlift,rule,,equip_floor:0.096,equip_floor:0.098,2
+landmine-row,Landmine Row,tbar_row,rule,,equip_floor:0.105,equip_floor:0.104,2
+landmine-single-leg-romanian-deadlift,Landmine Single Leg Romanian Deadlift,single_leg_rdl,rule,,equip_floor:0.096,equip_floor:0.098,2
+landmine-squat,Landmine Squat,back_squat,rule,,equip_floor:0.096,equip_floor:0.097,2
+landmine-squat-to-press,Landmine Squat to Press,thruster,rule,,equip_floor:0.076,equip_floor:0.076,2
+landmine-sumo-squat,Landmine Sumo Squat,sumo_squat,rule,,equip_floor:0.091,equip_floor:0.093,2
+lateral-bound,Lateral Bound,skater_jump,approx,,,,2
+lateral-box-shuffle,Lateral Box Shuffle,lateral_hop,approx,stand-in pose for a complex or travelling drill,,,2
+lateral-cone-hop,Lateral Cone Hop,lateral_hop,approx,stand-in pose for a complex or travelling drill,,,2
+loop-band-glute-kickback,Loop Band Glute Kickback,glute_kickback_machine,approx,,,,2
+loop-band-side-step,Loop Band Side Step,hip_abduction_standing,approx,stand-in pose for a complex or travelling drill,,,2
+loop-band-standing-single-arm-row,Loop Band Standing Single Arm Row,db_row,rule,,reach:0.058,reach:0.087,2
+lower-back-stretch,Lower Back Stretch,knee_to_chest,approx,,,,2
+lower-body-crawl,Lower Body Crawl,bear_crawl,approx,stand-in pose for a complex or travelling drill,floor_pen:0.022,floor_pen:0.020,2
+lunge-to-lateral-reach,Lunge to Lateral Reach,forward_lunge,approx,stand-in pose for a complex or travelling drill,foot_slide_L:0.026,foot_slide_L:0.023,2
+lunge-with-ankle-grab,Lunge with Ankle Grab,forward_lunge,approx,stand-in pose for a complex or travelling drill,foot_slide_L:0.026,foot_slide_L:0.023,2
+lying-figure-four,Lying Figure Four,pigeon_pose,approx,stand-in pose for a complex or travelling drill,,,2
+meadow-landmine-row,Meadow Landmine Row,tbar_row,rule,,equip_floor:0.105,equip_floor:0.104,2
+medicine-ball-slam,Medicine Ball Slam,medball_slam,rule,,reach:0.107,reach:0.161,2
+mini-loop-band-around-the-world-plank,Mini Loop Band Around the World Plank,plank,approx,stand-in pose for a complex or travelling drill,floor_pen:0.031,floor_pen:0.019,2
+mini-loop-band-lateral-walk,Mini Loop Band Lateral Walk,hip_abduction_standing,approx,stand-in pose for a complex or travelling drill,,,2
+mini-loop-band-overhead-fly,Mini Loop Band Overhead Fly,lateral_raise,approx,,,,2
+muscle-up,Muscle Up,pull_up,approx,stand-in pose for a complex or travelling drill,,,2
+partner-back-to-back-wall-sit,Partner Back To Back Wall Sit,wall_sit,approx,partner drill shown solo,,,2
+partner-band-sprint,Partner Band Sprint,treadmill_run,approx,stand-in pose for a complex or travelling drill; partner drill shown solo,,,2
+partner-banded-reverse-leg-raise,Partner Banded Reverse Leg Raise,leg_raise,approx,partner drill shown solo,,,2
+partner-curl-handoff,Partner Curl Handoff,db_curl,approx,stand-in pose for a complex or travelling drill; partner drill shown solo,,,2
+partner-floor-glute-ham-raise,Partner Floor Glute-Ham Raise,glute_ham_raise,approx,partner drill shown solo,,,2
+partner-hamstring-stretch,Partner Hamstring Stretch,seated_forward_bend,approx,partner drill shown solo,,reach:0.037,2
+partner-handstand,Partner Handstand,push_up,approx,stand-in pose for a complex or travelling drill; partner drill shown solo,,floor_pen:0.046;reach:0.016,2
+partner-hook-squat,Partner Hook Squat,squat,approx,partner drill shown solo,,,2
+partner-leg-toss-windshields,Partner Leg Toss Windshields,windshield_wiper,approx,stand-in pose for a complex or travelling drill; partner drill shown solo,,,2
+partner-leg-up-stretch,Partner Leg Up Stretch,seated_forward_bend,approx,partner drill shown solo,,reach:0.037,2
+partner-lying-leg-throw-down,Partner Lying Leg Throw Down,leg_raise,approx,stand-in pose for a complex or travelling drill; partner drill shown solo,,,2
+partner-medicine-ball-chest-pass,Partner Medicine Ball Chest Pass,medball_slam,approx,partner drill shown solo,,,2
+partner-medicine-ball-full-twist,Partner Medicine Ball Full Twist,russian_twist,approx,partner drill shown solo,,,2
+partner-pallof-twist,Partner Pallof Twist,pallof_press,approx,partner drill shown solo,reach:0.013,,2
+partner-plank-hold-and-jump,Partner Plank Hold And Jump,plank,approx,partner drill shown solo,floor_pen:0.031,floor_pen:0.019,2
+partner-push-up-reach,Partner Push Up Reach,push_up,approx,partner drill shown solo,floor_pen:0.021,floor_pen:0.019,2
+partner-rolling-ball-push-up,Partner Rolling Ball Push Up,push_up,approx,stand-in pose for a complex or travelling drill; partner drill shown solo,floor_pen:0.021,floor_pen:0.019,2
+partner-russian-twist,Partner Russian Twist,russian_twist,approx,partner drill shown solo,,,2
+partner-sit-up-hi-five,Partner Sit Up Hi-Five,sit_up,approx,stand-in pose for a complex or travelling drill; partner drill shown solo,,,2
+partner-sit-up-toss,Partner Sit Up Toss,sit_up,approx,stand-in pose for a complex or travelling drill; partner drill shown solo,,,2
+partner-squat-and-throw,Partner Squat And Throw,medball_slam,approx,stand-in pose for a complex or travelling drill; partner drill shown solo,,,2
+partner-standing-chest-press,Partner Standing Chest Press,chest_press_standing,approx,partner drill shown solo,,,2
+partner-wall-sit-and-tricep-dip,Partner Wall Sit And Tricep Dip,dip,approx,partner drill shown solo,,,2
+partner-wheelbarrow-push-up,Partner Wheelbarrow Push Up,push_up,approx,partner drill shown solo,floor_pen:0.021,floor_pen:0.019,2
+partner-wheelbarrow-walk,Partner Wheelbarrow Walk,push_up,approx,partner drill shown solo,floor_pen:0.021,floor_pen:0.019,2
+pigeon-pose,Pigeon Pose,pigeon_pose,rule,,reach:0.057,reach:0.091,2
+pike-push-up,Pike Push Up,push_up,approx,,,floor_pen:0.046;reach:0.016,2
+pistol-squat,Pistol Squat,pistol_squat,approx,,,,2
+plank-jack,Plank Jack,jumping_jack,approx,stand-in pose for a complex or travelling drill,,,2
+plank-jack-on-elbows,Plank Jack on Elbows,jumping_jack,approx,stand-in pose for a complex or travelling drill,,,2
+plank-surrender,Plank Surrender,plank,approx,stand-in pose for a complex or travelling drill,floor_pen:0.031,floor_pen:0.019,2
+plate-flips,Plate Flips,farmer_walk,approx,stand-in pose for a complex or travelling drill,,reach:0.013,2
+plate-pinch,Plate Pinch,farmer_walk,approx,stand-in pose for a complex or travelling drill,,reach:0.013,2
+power-skips,Power Skips,broad_jump,approx,stand-in pose for a complex or travelling drill,,,2
+prone-calf-stretch,Prone Calf Stretch,calf_stretch,rule,,reach:0.202,reach:0.229,2
+pvc-forearm-stretch,PVC Forearm Stretch,arm_stretch,rule,,reach:0.278,reach:0.188,2
+pvc-helicopter,PVC Helicopter,arm_stretch,approx,stand-in pose for a complex or travelling drill,,,2
+reverse-bear-crawl,Reverse Bear Crawl,bear_crawl,approx,stand-in pose for a complex or travelling drill,floor_pen:0.022,floor_pen:0.020,2
+romanian-deadlift-to-high-pull,Romanian Deadlift to High Pull,romanian_deadlift,approx,,,,2
+runners-butt-kick,Runners Butt Kick,high_knees,approx,stand-in pose for a complex or travelling drill,,,2
+seated-barbell-shoulder-press,Seated Barbell Shoulder Press,overhead_press,approx,,,,2
+seated-figure-four,Seated Figure Four,pigeon_pose,approx,stand-in pose for a complex or travelling drill,,,2
+seated-point-and-flex,Seated Point And Flex,standing_still,approx,stand-in pose for a complex or travelling drill,,,2
+single-arm-bottoms-up-kettlebell-clean,Single Arm Bottoms-up Kettlebell Clean,kb_clean,rule,,reach:0.042;grip_off:0.041,reach:0.089;grip_off:0.087,2
+single-arm-landmine-press,Single Arm Landmine Press,landmine_press,rule,,equip_floor:0.075,equip_floor:0.076,2
+single-arm-landmine-row,Single Arm Landmine Row,tbar_row,rule,,equip_floor:0.105,equip_floor:0.104,2
+single-arm-lat-pulldown,Single Arm Lat Pulldown,lat_pulldown,rule,,reach:0.080,reach:0.152,2
+single-arm-overhead-kettlebell-squat,Single Arm Overhead Kettlebell Squat,overhead_squat,approx,,,,2
+single-dumbbell-power-clean,Single Dumbbell Power Clean,kb_clean,rule,,reach:0.042;grip_off:0.041,reach:0.089;grip_off:0.087,2
+single-dumbbell-power-clean-and-jerk,Single Dumbbell Power Clean and Jerk,kb_clean,rule,,reach:0.042;grip_off:0.041,reach:0.089;grip_off:0.087,2
+single-leg-butt-kick,Single Leg Butt Kick,high_knees,approx,stand-in pose for a complex or travelling drill,,,2
+single-leg-foam-roll-hip-thrust,Single Leg Foam Roll Hip Thrust,foam_roll,rule,,reach:0.168,reach:0.158,2
+single-leg-straight-forward-bend,Single Leg Straight Forward Bend,standing_forward_bend,rule,,floor_pen:0.066,floor_pen:0.051,2
+smith-machine-pistol-squat,Smith Machine Pistol Squat,pistol_squat,approx,,,,2
+squat-side-kick,Squat Side Kick,bodyweight_squat,approx,stand-in pose for a complex or travelling drill,,,2
+squat-with-rotation,Squat with Rotation,bodyweight_squat,approx,stand-in pose for a complex or travelling drill,,,2
+stability-ball-abdominal-twist,Stability Ball Abdominal Twist,russian_twist,approx,,,,2
+stability-ball-back-extension,Stability Ball Back Extension,back_extension,rule,,reach:0.066;foot_slide_L:0.050;foot_slide_R:0.050,reach:0.111;foot_slide_L:0.022;foot_slide_R:0.022,2
+stability-ball-pike,Stability Ball Pike,pike,rule,,reach:0.334;foot_slide_L:0.031;foot_slide_R:0.031,reach:0.335,2
+stability-ball-seated-twist,Stability Ball Seated Twist,russian_twist,approx,,,,2
+stance-jack,Stance Jack,jumping_jack,approx,stand-in pose for a complex or travelling drill,,,2
+stir-the-pot,Stir the Pot,plank,approx,stand-in pose for a complex or travelling drill,floor_pen:0.021,floor_pen:0.019,2
+stomach-vacuum,Stomach Vacuum,standing_still,approx,stand-in pose for a complex or travelling drill,,,2
+superman-with-scaption,Superman with Scaption,superman,approx,stand-in pose for a complex or travelling drill,,,2
+supine-back-stretch,Supine Back Stretch,knee_to_chest,approx,,,,2
+svend-press,Svend Press,chest_press_standing,approx,stand-in pose for a complex or travelling drill,,,2
+t-bar-row,T-Bar Row,tbar_row,rule,,equip_floor:0.105,equip_floor:0.104,2
+table-top-bear-crawl,Table Top Bear Crawl,bear_crawl,approx,stand-in pose for a complex or travelling drill,floor_pen:0.022,floor_pen:0.020,2
+toes-to-bar-kipping,Toes to Bar Kipping,hanging_leg_raise,approx,stand-in pose for a complex or travelling drill,reach:0.018,,2
+trx-clock-pull,TRX Clock Pull,inverted_row,approx,stand-in pose for a complex or travelling drill,,,2
+trx-crossing-balance-lunge,TRX Crossing Balance Lunge,forward_lunge,approx,stand-in pose for a complex or travelling drill,foot_slide_L:0.026,foot_slide_L:0.023,2
+trx-figure-four-squat,TRX Figure Four Squat,squat,approx,stand-in pose for a complex or travelling drill,,,2
+trx-hip-drop,TRX Hip Drop,glute_bridge,approx,stand-in pose for a complex or travelling drill,reach:0.014,reach:0.045,2
+trx-pistol-squat,TRX Pistol Squat,pistol_squat,approx,,,,2
+trx-power-pull,TRX Power Pull,inverted_row,approx,stand-in pose for a complex or travelling drill,,,2
+trx-resisted-rotation-1,TRX Resisted Rotation 1,standing_twist,approx,stand-in pose for a complex or travelling drill,,,2
+trx-resisted-rotation-2,TRX Resisted Rotation 2,standing_twist,approx,stand-in pose for a complex or travelling drill,,,2
+trx-resisted-rotation-3,TRX Resisted Rotation 3,standing_twist,approx,stand-in pose for a complex or travelling drill,,,2
+trx-single-leg-squat,TRX Single Leg Squat,pistol_squat,approx,,,,2
+trx-sprinter-start,TRX Sprinter Start,treadmill_run,approx,stand-in pose for a complex or travelling drill,,,2
+trx-swimmer-pull,TRX Swimmer Pull,superman,approx,stand-in pose for a complex or travelling drill,,,2
+waiter-curls,Waiter Curls,db_curl,approx,stand-in pose for a complex or travelling drill,,,2
+walkout,Walkout,walkout,rule,,reach:0.067;foot_slide_L:0.020;foot_slide_R:0.020,reach:0.066;foot_slide_L:0.017;foot_slide_R:0.017,2
+wall-knee-drive,Wall Knee Drive,standing_knee_raise,approx,stand-in pose for a complex or travelling drill,,,2
+wall-triple-knee-drive,Wall Triple Knee Drive,standing_knee_raise,approx,stand-in pose for a complex or travelling drill,,,2
+wrist-extension-stretch,Wrist Extension Stretch,arm_stretch,rule,,reach:0.278,reach:0.188,2
+battle-ropes,Battle Ropes,battle_ropes,rule,,,reach:0.067;grip_off:0.045,1
+battle-ropes-lateral-whip,Battle Ropes Lateral Whip,battle_ropes,rule,,,reach:0.067;grip_off:0.045,1
+battle-ropes-outside-slam,Battle Ropes Outside Slam,battle_ropes,rule,,,reach:0.067;grip_off:0.045,1
+battle-ropes-outside-spiral,Battle Ropes Outside Spiral,battle_ropes,rule,,,reach:0.067;grip_off:0.045,1
+bent-over-shoulder-stretch,Bent Over Shoulder Stretch,arm_stretch,rule,,reach:0.072,,1
+cable-preacher-curl,Cable Preacher Curl,preacher_curl,rule,,,reach:0.119,1
+cross-body-arm-stretch,Cross-body Arm Stretch,arm_stretch,rule,,reach:0.072,,1
+dumbbell-preacher-curls,Dumbbell Preacher Curls,preacher_curl,rule,,,reach:0.119,1
+front-rack-stretch,Front Rack Stretch,arm_stretch,rule,,reach:0.072,,1
+hanging-knee-raise,Hanging Knee Raise,hanging_leg_raise,rule,,reach:0.059,reach:0.042,1
+hanging-leg-raise,Hanging Leg Raise,hanging_leg_raise,rule,,reach:0.059,reach:0.042,1
+machine-preacher-curl,Machine Preacher Curl,preacher_curl,rule,,,reach:0.119,1
+pendlay-row,Pendlay Row,barbell_row,rule,,equip_floor:0.062,equip_floor:0.028,1
+plank-shoulder-taps,Plank Shoulder Taps,plank,rule,,floor_pen:0.062,floor_pen:0.030,1
+preacher-curl,Preacher Curl,preacher_curl,rule,,,reach:0.119,1
+pvc-shoulder-flexion,PVC Shoulder Flexion,arm_stretch,rule,,reach:0.072,,1
+rope-climb,Rope Climb,pull_up,rule,,reach:0.078,reach:0.049,1
+seated-dumbbell-rear-delt-raise,Seated Dumbbell Rear Delt Raise,rear_delt_raise,rule,,floor_pen:0.019;equip_floor:0.103,equip_floor:0.021,1
+single-arm-preacher-curl,Single Arm Preacher Curl,preacher_curl,rule,,,reach:0.119,1
+spider-curls,Spider Curls,preacher_curl,rule,,,reach:0.119,1
+zottman-preacher-curl,Zottman Preacher Curl,preacher_curl,rule,,,reach:0.119,1
+ab-rollout,Ab Rollout,ab_rollout,rule,,reach:0.033,,0
+alternating-medicine-ball-push-up,Alternating Medicine Ball Push Up,push_up,rule,,floor_pen:0.021,floor_pen:0.019,0
+alternating-single-arm-kettlebell-swing,Alternating Single Arm Kettlebell Swing,kb_swing,rule,,reach:0.014,,0
+assisted-neutral-grip-pull-up,Assisted Neutral Grip Pull Up,pull_up,rule,,reach:0.017,reach:0.013,0
+australian-pull-up,Australian Pull Up,pull_up,rule,,reach:0.029,,0
+balance-trainer-alternating-lunge,Balance Trainer Alternating Lunge,forward_lunge,rule,,foot_slide_L:0.026,foot_slide_L:0.023,0
+balance-trainer-dome-push-ups,Balance Trainer Dome Push Ups,push_up,rule,,floor_pen:0.021,floor_pen:0.019,0
+balance-trainer-incline-push-up,Balance Trainer Incline Push Up,push_up,rule,,floor_pen:0.021,floor_pen:0.019,0
+balance-trainer-mountain-climber,Balance Trainer Mountain Climber,mountain_climber,rule,,floor_pen:0.021,floor_pen:0.019,0
+balance-trainer-narrow-push-up,Balance Trainer Narrow Push Up,push_up,rule,,floor_pen:0.021,floor_pen:0.019,0
+balance-trainer-plank,Balance Trainer Plank,plank,rule,,floor_pen:0.021,floor_pen:0.019,0
+balance-trainer-push-up,Balance Trainer Push Up,push_up,rule,,floor_pen:0.021,floor_pen:0.019,0
+balance-trainer-shoulder-tap-planks,Balance Trainer Shoulder Tap Planks,plank,rule,,floor_pen:0.021,floor_pen:0.019,0
+balance-trainer-single-leg-trx-lunges,Balance Trainer Single Leg TRX Lunges,forward_lunge,rule,,foot_slide_L:0.026,foot_slide_L:0.023,0
+balance-trainer-spiderman-push-up,Balance Trainer Spiderman Push Up,push_up,rule,,floor_pen:0.021,floor_pen:0.019,0
+balance-trainer-stability-ball-push-up,Balance Trainer Stability Ball Push Up,push_up,rule,,floor_pen:0.021,floor_pen:0.019,0
+balance-trainer-trx-front-to-back-lunges,Balance Trainer TRX Front to Back Lunges,forward_lunge,rule,,foot_slide_L:0.026,foot_slide_L:0.023,0
+balance-trainer-wide-pushups,Balance Trainer Wide Pushups,push_up,rule,,floor_pen:0.021,floor_pen:0.019,0
+balance-trainer-wood-choppers,Balance Trainer Wood Choppers,woodchop,rule,,reach:0.017,reach:0.050;grip_off:0.028,0
+banded-curtsy-lunge,Banded Curtsy Lunge,curtsy_lunge,rule,,floor_pen:0.014,floor_pen:0.013,0
+barbell-bulgarian-split-jump,Barbell Bulgarian Split Jump,bulgarian_split_squat,rule,,reach:0.031,reach:0.036,0
+barbell-curtsy-lunge,Barbell Curtsy Lunge,curtsy_lunge,rule,,floor_pen:0.014,floor_pen:0.013,0
+barbell-lunge,Barbell Lunge,forward_lunge,rule,,foot_slide_L:0.026,foot_slide_L:0.023,0
+barbell-seated-calf-raise,Barbell Seated Calf Raise,seated_calf_raise,rule,,foot_slide_L:0.018;foot_slide_R:0.018,foot_slide_L:0.015;foot_slide_R:0.015,0
+bench-dip,Bench Dip,dip,rule,,,reach:0.019,0
+bodyweight-bulgarian-split-squat,Bodyweight Bulgarian Split Squat,bulgarian_split_squat,rule,,reach:0.029,reach:0.026,0
+bulgarian-split-jumps,Bulgarian Split Jumps,bulgarian_split_squat,rule,,reach:0.029,reach:0.026,0
+bulgarian-split-squat,Bulgarian Split Squat,bulgarian_split_squat,rule,,reach:0.029,reach:0.026,0
+butterfly-stretch,Butterfly Stretch,butterfly_stretch,rule,,,reach:0.031;grip_off:0.028,0
+cable-pull-through,Cable Pull Through,cable_pull_through,rule,,reach:0.033;grip_off:0.018,reach:0.025,0
+cable-row,Cable Row,cable_row,rule,,reach:0.017,,0
+cable-wood-chop,Cable Wood Chop,woodchop,rule,,reach:0.017,reach:0.050;grip_off:0.028,0
+calf-raise,Calf Raise,calf_raise,rule,,foot_slide_L:0.019;foot_slide_R:0.019,foot_slide_L:0.017;foot_slide_R:0.017,0
+calf-raise-to-shrug,Calf Raise to Shrug,calf_raise,rule,,foot_slide_L:0.019;foot_slide_R:0.019,foot_slide_L:0.017;foot_slide_R:0.017,0
+cross-body-mountain-climber,Cross Body Mountain Climber,mountain_climber,rule,,floor_pen:0.021,floor_pen:0.019,0
+curtsy-lunge,Curtsy Lunge,curtsy_lunge,rule,,floor_pen:0.014,floor_pen:0.013,0
+deadlift-to-calf-raise,Deadlift to Calf Raise,calf_raise,rule,,foot_slide_L:0.019;foot_slide_R:0.019,foot_slide_L:0.017;foot_slide_R:0.017,0
+diamond-push-up,Diamond Push Up,push_up,rule,,floor_pen:0.021,floor_pen:0.019,0
+downward-dog,Downward Dog,downward_dog,rule,,,floor_pen:0.046;reach:0.016,0
+downward-dog-push-up,Downward Dog Push Up,push_up,rule,,floor_pen:0.021,floor_pen:0.019,0
+dumbbell-bulgarian-split-jumps,Dumbbell Bulgarian Split Jumps,bulgarian_split_squat,rule,,,reach:0.013,0
+dumbbell-bulgarian-split-squat,Dumbbell Bulgarian Split Squat,bulgarian_split_squat,rule,,reach:0.031,reach:0.013,0
+dumbbell-calf-raise-to-high-pull,Dumbbell Calf Raise to High Pull,calf_raise,rule,,foot_slide_L:0.019;foot_slide_R:0.019,reach:0.013;foot_slide_L:0.017;foot_slide_R:0.017,0
+dumbbell-calf-raise-to-shrug,Dumbbell Calf Raise to Shrug,calf_raise,rule,,foot_slide_L:0.019;foot_slide_R:0.019,reach:0.013;foot_slide_L:0.017;foot_slide_R:0.017,0
+dumbbell-curtsy-lunge,Dumbbell Curtsy Lunge,curtsy_lunge,rule,,floor_pen:0.014,floor_pen:0.013;reach:0.013,0
+dumbbell-deficit-reverse-lunge,Dumbbell Deficit Reverse Lunge,reverse_lunge,rule,,,reach:0.013,0
+dumbbell-kneel-to-stand,Dumbbell Kneel to Stand,split_squat,rule,,,reach:0.013,0
+dumbbell-lunge,Dumbbell Lunge,forward_lunge,rule,,foot_slide_L:0.026,reach:0.013;foot_slide_L:0.023,0
+dumbbell-romanian-deadlift-to-calf-raise,Dumbbell Romanian Deadlift to Calf Raise,calf_raise,rule,,foot_slide_L:0.019;foot_slide_R:0.019,reach:0.013;foot_slide_L:0.017;foot_slide_R:0.017,0
+dumbbell-squat,Dumbbell Squat,squat,rule,,,reach:0.013,0
+dumbbell-step-up,Dumbbell Step Up,step_up,rule,,,reach:0.013,0
+dumbbell-toe-walks,Dumbbell Toe Walks,calf_raise,rule,,foot_slide_L:0.019;foot_slide_R:0.019,reach:0.013;foot_slide_L:0.017;foot_slide_R:0.017,0
+dumbbell-walking-lunge,Dumbbell Walking Lunge,forward_lunge,rule,,foot_slide_L:0.026,reach:0.013;foot_slide_L:0.023,0
+elevated-plank,Elevated Plank,plank,rule,,floor_pen:0.031,floor_pen:0.019,0
+elevated-plank-with-slow-mountain-climber,Elevated Plank With Slow Mountain Climber,mountain_climber,rule,,floor_pen:0.021,floor_pen:0.019,0
+exercise-ball-push-up,Exercise Ball Push Up,push_up,rule,,floor_pen:0.021,floor_pen:0.019,0
+extended-plank,Extended Plank,plank,rule,,floor_pen:0.021,floor_pen:0.019,0
+fan-stretch,Fan Stretch,seated_forward_bend,rule,,,reach:0.027,0
+farmers-carry,Farmer's Carry,farmer_walk,rule,,,reach:0.013,0
+farmers-walk,Farmer's Walk,farmer_walk,rule,,,reach:0.013,0
+forward-lunge-with-twist,Forward Lunge with Twist,forward_lunge,rule,,foot_slide_L:0.026,foot_slide_L:0.023,0
+forward-stability-ball-plank,Forward Stability Ball Plank,plank,rule,,floor_pen:0.021,floor_pen:0.019,0
+full-kneeling-pallof-press,Full Kneeling Pallof Press,pallof_press,rule,,reach:0.013,,0
+half-center-split,Half Center Split,seated_forward_bend,rule,,,reach:0.027,0
+hand-release-push-up,Hand Release Push Up,push_up,rule,,floor_pen:0.021,floor_pen:0.019,0
+hanging-oblique-knee-raise,Hanging Oblique Knee Raise,hanging_leg_raise,rule,,reach:0.048,reach:0.035,0
+hanging-windshield-wiper,Hanging Windshield Wiper,hanging_leg_raise,rule,,reach:0.048,reach:0.035,0
+incline-push-up,Incline Push Up,push_up,rule,,floor_pen:0.021,floor_pen:0.019,0
+incline-tricep-push-up,Incline Tricep Push Up,push_up,rule,,floor_pen:0.021,floor_pen:0.019,0
+inverted-row,Inverted Row,inverted_row,rule,,reach:0.029,,0
+kettlebell-single-arm-farmer-walk,Kettlebell Single Arm Farmer Walk,farmer_walk,rule,,,reach:0.013,0
+kettlebell-single-arm-overhead-lunge,Kettlebell Single Arm Overhead Lunge,forward_lunge,rule,,foot_slide_L:0.026,foot_slide_L:0.023,0
+kettlebell-suitcase-deadlift,Kettlebell Suitcase Deadlift,deadlift,rule,,,reach:0.013,0
+kettlebell-swing,Kettlebell Swing,kb_swing,rule,,reach:0.014,,0
+kettlebell-swing-american,Kettlebell Swing American,kb_swing,rule,,reach:0.014,,0
+kettlebell-toe-walks,Kettlebell Toe Walks,calf_raise,rule,,foot_slide_L:0.019;foot_slide_R:0.019,reach:0.013;foot_slide_L:0.017;foot_slide_R:0.017,0
+kneeling-hamstring-stretch,Kneeling Hamstring Stretch,seated_forward_bend,rule,,,reach:0.037,0
+lateral-step-up,Lateral Step Up,step_up,rule,,reach:0.025,reach:0.026,0
+leg-extension,Leg Extension,leg_extension,rule,,,reach:0.015,0
+loop-band-bulgarian-split-squat,Loop Band Bulgarian Split Squat,bulgarian_split_squat,rule,,reach:0.031,reach:0.030,0
+loop-band-leg-extension,Loop Band Leg Extension,leg_extension,rule,,floor_pen:0.033,,0
+loop-band-push-up,Loop Band Push Up,push_up,rule,,floor_pen:0.021,floor_pen:0.019,0
+lunge,Lunge,forward_lunge,rule,,foot_slide_L:0.026,foot_slide_L:0.023,0
+lunge-to-hamstring-stretch,Lunge to Hamstring Stretch,forward_lunge,rule,,foot_slide_L:0.026,foot_slide_L:0.023,0
+lunge-twist,Lunge Twist,forward_lunge,rule,,foot_slide_L:0.026,foot_slide_L:0.023,0
+machine-hip-abductor,Machine Hip Abductor,hip_abductor_machine,rule,,,reach:0.017;grip_off:0.017,0
+machine-hip-adductor,Machine Hip Adductor,hip_abductor_machine,rule,,,reach:0.017;grip_off:0.017,0
+medicine-ball-curtsy-lunge,Medicine Ball Curtsy Lunge,curtsy_lunge,rule,,floor_pen:0.014,floor_pen:0.013,0
+medicine-ball-lunge,Medicine Ball Lunge,forward_lunge,rule,,foot_slide_L:0.026,foot_slide_L:0.023,0
+medicine-ball-overhead-lunge,Medicine Ball Overhead Lunge,forward_lunge,rule,,foot_slide_L:0.026,foot_slide_L:0.023,0
+medicine-ball-push-up,Medicine Ball Push Up,push_up,rule,,floor_pen:0.021,floor_pen:0.019,0
+mini-loop-band-lunge,Mini Loop Band Lunge,forward_lunge,rule,,foot_slide_L:0.026,foot_slide_L:0.023,0
+mini-loop-band-lunge-kickback,Mini Loop Band Lunge Kickback,forward_lunge,rule,,foot_slide_L:0.026,foot_slide_L:0.023,0
+mini-loop-band-mountain-climber,Mini Loop Band Mountain Climber,mountain_climber,rule,,floor_pen:0.021,floor_pen:0.019,0
+mountain-climber,Mountain Climber,mountain_climber,rule,,floor_pen:0.021,floor_pen:0.019,0
+neutral-grip-pull-up,Neutral Grip Pull Up,pull_up,rule,,reach:0.017,reach:0.013,0
+overhead-barbell-lunge,Overhead Barbell Lunge,forward_lunge,rule,,foot_slide_L:0.026,foot_slide_L:0.023,0
+overhead-dumbbell-lunge,Overhead Dumbbell Lunge,forward_lunge,rule,,foot_slide_L:0.026,foot_slide_L:0.023,0
+pallof-press,Pallof Press,pallof_press,rule,,reach:0.013,,0
+pallof-press-and-twist,Pallof Press and Twist,pallof_press,rule,,reach:0.013,,0
+pallof-press-walk-out,Pallof Press Walk Out,pallof_press,rule,,reach:0.013,,0
+pancake,Pancake,seated_forward_bend,rule,,,reach:0.027,0
+pause-barbell-lunge,Pause Barbell Lunge,forward_lunge,rule,,foot_slide_L:0.026,foot_slide_L:0.023,0
+plank,Plank,plank,rule,,floor_pen:0.031,floor_pen:0.019,0
+plank-hip-dip,Plank Hip Dip,plank,rule,,floor_pen:0.031,floor_pen:0.019,0
+plank-with-dumbbell-pull-through,Plank With Dumbbell Pull Through,plank,rule,,floor_pen:0.031,floor_pen:0.019,0
+push-up,Push Up,push_up,rule,,floor_pen:0.021,floor_pen:0.019,0
+pvc-tricep-stretch,PVC Tricep Stretch,arm_stretch,rule,,reach:0.029,,0
+quadruped-plank-hold,Quadruped Plank Hold,plank,rule,,floor_pen:0.031,floor_pen:0.019,0
+rotation-push-up,Rotation Push Up,push_up,rule,,floor_pen:0.021,floor_pen:0.019,0
+seated-dumbbell-calf-raise,Seated Dumbbell Calf Raise,seated_calf_raise,rule,,foot_slide_L:0.018;foot_slide_R:0.018,foot_slide_L:0.015;foot_slide_R:0.015,0
+seated-dumbbell-one-leg-calf-raise,Seated Dumbbell One-Leg Calf Raise,seated_calf_raise,rule,,foot_slide_L:0.018;foot_slide_R:0.018,foot_slide_L:0.015;foot_slide_R:0.015,0
+seated-forward-bend,Seated Forward Bend,seated_forward_bend,rule,,,reach:0.037,0
+seated-leg-curl,Seated Leg Curl,seated_leg_curl,rule,,,reach:0.015,0
+single-arm-farmer-walk,Single Arm Farmer Walk,farmer_walk,rule,,,reach:0.013,0
+single-arm-kettlebell-deadlift,Single Arm Kettlebell Deadlift,deadlift,rule,,,reach:0.013,0
+single-arm-kettlebell-swing,Single Arm Kettlebell Swing,kb_swing,rule,,reach:0.014,,0
+single-arm-overhead-dumbbell-lunge,Single Arm Overhead Dumbbell Lunge,forward_lunge,rule,,foot_slide_L:0.026,foot_slide_L:0.023,0
+single-arm-push-up,Single Arm Push Up,push_up,rule,,floor_pen:0.021,floor_pen:0.019,0
+single-kettlebell-suitcase-deadlift,Single Kettlebell Suitcase Deadlift,deadlift,rule,,,reach:0.013,0
+single-leg-kettlebell-deadlift,Single Leg Kettlebell Deadlift,single_leg_rdl,rule,,,reach:0.013,0
+single-leg-leg-extension,Single Leg Leg Extension,leg_extension,rule,,,reach:0.015,0
+single-leg-standing-calf-raise,Single Leg Standing Calf Raise,calf_raise,rule,,foot_slide_R:0.019,foot_slide_R:0.017,0
+sled-drag,Sled Drag,sled_push,rule,,floor_pen:0.014,floor_pen:0.013,0
+sled-pull,Sled Pull,sled_push,rule,,floor_pen:0.014,floor_pen:0.013,0
+sled-push,Sled Push,sled_push,rule,,floor_pen:0.014;reach:0.030,floor_pen:0.013;reach:0.043,0
+smith-machine-calf-raise,Smith Machine Calf Raise,calf_raise,rule,,foot_slide_L:0.019;foot_slide_R:0.019,foot_slide_L:0.017;foot_slide_R:0.017,0
+smith-machine-reverse-calf-raises,Smith Machine Reverse Calf Raises,calf_raise,rule,,foot_slide_L:0.019;foot_slide_R:0.019,foot_slide_L:0.017;foot_slide_R:0.017,0
+spiderman-plank-crunch,Spiderman Plank Crunch,plank,rule,,floor_pen:0.031,floor_pen:0.019,0
+stability-ball-hip-bridge,Stability Ball Hip Bridge,glute_bridge,rule,,,reach:0.026,0
+stability-ball-plank,Stability Ball Plank,plank,rule,,floor_pen:0.021,floor_pen:0.019,0
+stability-ball-plank-on-balance-trainer,Stability Ball Plank on Balance Trainer,plank,rule,,floor_pen:0.021,floor_pen:0.019,0
+standing-barbell-calf-raise,Standing Barbell Calf Raise,calf_raise,rule,,foot_slide_L:0.019;foot_slide_R:0.019,foot_slide_L:0.017;foot_slide_R:0.017,0
+standing-dumbbell-calf-raise,Standing Dumbbell Calf Raise,calf_raise,rule,,foot_slide_L:0.019;foot_slide_R:0.019,reach:0.013;foot_slide_L:0.017;foot_slide_R:0.017,0
+standing-hip-flexor-stretch,Standing Hip Flexor Stretch,hip_flexor_stretch,rule,,floor_pen:0.014,floor_pen:0.013,0
+standing-kettlebell-calf-raise,Standing Kettlebell Calf Raise,calf_raise,rule,,foot_slide_L:0.019;foot_slide_R:0.019,reach:0.013;foot_slide_L:0.017;foot_slide_R:0.017,0
+standing-machine-calf-press,Standing Machine Calf Press,calf_raise,rule,,foot_slide_L:0.019;foot_slide_R:0.019,foot_slide_L:0.017;foot_slide_R:0.017,0
+standing-machine-calf-raise,Standing Machine Calf Raise,calf_raise,rule,,foot_slide_L:0.019;foot_slide_R:0.019,foot_slide_L:0.017;foot_slide_R:0.017,0
+supine-pallof-press,Supine Pallof Press,pallof_press,rule,,reach:0.013,,0
+toes-to-bar,Toes to Bar,hanging_leg_raise,rule,,reach:0.018,,0
+trap-bar-deadlift,Trap Bar Deadlift,deadlift,rule,,,reach:0.013,0
+tricep-push-up,Tricep Push Up,push_up,rule,,floor_pen:0.021,floor_pen:0.019,0
+tricep-stretch,Tricep Stretch,arm_stretch,rule,,reach:0.029,,0
+trx-ab-rollout,TRX Ab Rollout,ab_rollout,rule,,foot_slide_L:0.017;foot_slide_R:0.017,foot_slide_L:0.015;foot_slide_R:0.015,0
+trx-atomic-push-up,TRX Atomic Push Up,push_up,rule,,floor_pen:0.021,floor_pen:0.019,0
+trx-balance-lunge,TRX Balance Lunge,forward_lunge,rule,,foot_slide_L:0.026,foot_slide_L:0.023,0
+trx-bridge,TRX Bridge,glute_bridge,rule,,reach:0.014,reach:0.045,0
+trx-calf-raise,TRX Calf Raise,calf_raise,rule,,foot_slide_L:0.019;foot_slide_R:0.019,foot_slide_L:0.017;foot_slide_R:0.017,0
+trx-curtsy-lunge,TRX Curtsy Lunge,curtsy_lunge,rule,,floor_pen:0.014,floor_pen:0.013,0
+trx-fallout,TRX Fallout,ab_rollout,rule,,foot_slide_L:0.017;foot_slide_R:0.017,foot_slide_L:0.015;foot_slide_R:0.015,0
+trx-forward-lunge-with-chest-stretch,TRX Forward Lunge with Chest Stretch,forward_lunge,rule,,foot_slide_L:0.026,foot_slide_L:0.023,0
+trx-glute-bridge,TRX Glute Bridge,glute_bridge,rule,,reach:0.014,reach:0.045,0
+trx-hamstring-runner,TRX Hamstring Runner,glute_bridge,rule,,reach:0.014,reach:0.045,0
+trx-kneeling-oblique-rollout,TRX Kneeling Oblique Rollout,ab_rollout,rule,,foot_slide_L:0.017;foot_slide_R:0.017,foot_slide_L:0.015;foot_slide_R:0.015,0
+trx-lunge,TRX Lunge,forward_lunge,rule,,foot_slide_L:0.026,foot_slide_L:0.023,0
+trx-push-up,TRX Push Up,push_up,rule,,floor_pen:0.021,floor_pen:0.019,0
+trx-push-up-plus,TRX Push Up Plus,push_up,rule,,floor_pen:0.021,floor_pen:0.019,0
+trx-scapular-push-up,TRX Scapular Push Up,push_up,rule,,floor_pen:0.021,floor_pen:0.019,0
+v-bar-pull-up,V-Bar Pull Up,pull_up,rule,,reach:0.017,reach:0.013,0
+v-bar-pulldown,V-Bar Pulldown,lat_pulldown,rule,,reach:0.019,reach:0.014,0
+walking-lunge,Walking Lunge,forward_lunge,rule,,foot_slide_L:0.026,foot_slide_L:0.023,0
+walkout-to-push-up,Walkout to Push Up,push_up,rule,,floor_pen:0.021,floor_pen:0.019,0

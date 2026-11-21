@@ -1,0 +1,222 @@
+slug,name_en,template,match,reason
+incline-dumbbell-press,Incline Dumbbell Press,push_up,fallback,no name rule; fallback from pattern horizontal_push
+overhead-press,Overhead Press,overhead_press,approx,approximate rule: overhead press|military|shoulder press|front press|seated barbell shoulder|behind the neck
+band-pull-apart,Band Pull-apart,db_shoulder_press,fallback,no name rule; fallback from pattern isolation
+treadmill,Treadmill,treadmill_run,approx,approximate rule: treadmill|\brun\b|sprint
+stationary-bike,Stationary Bike,bike,approx,approximate rule: \bbike\b|cycling|bicycle(?! crunch)
+jump-rope,Jump Rope,high_knees,fallback,no name rule; fallback from pattern cardio
+burpee,Burpee,burpee,approx,template burpee vs table pattern hinge
+pistol-squat,Pistol Squat,pistol_squat,approx,approximate rule: (single leg|pistol|glute drop).*squat|single leg glute drop|trx single leg squat
+cable-glute-kickback,Cable Glute Kickback,glute_kickback_machine,approx,approximate rule: kickback machine|glute kickback
+worlds-greatest-stretch,World's Greatest Stretch,forward_lunge,approx,approximate rule: world's greatest stretch
+shoulder-dislocates,Shoulder Dislocates,arm_circles,approx,approximate rule: shoulder dislocate|shoulder cars
+neck-stretch,Neck Stretch,standing_still,approx,approximate rule: neck (stretch|isometric)|chin tuck
+seated-knee-tuck,Seated Knee Tuck,v_up,approx,approximate rule: seated knee tuck
+barbell-hack-squat,Barbell Hack Squat,deadlift,approx,approximate rule: barbell hack squat
+side-lying-groin-stretch,Side-Lying Groin Stretch,butterfly_stretch,approx,approximate rule: side lying groin stretch
+dumbbell-scaption,Dumbbell Scaption,front_raise,approx,stand-in pose for a complex or travelling drill
+cuban-press,Cuban Press,external_rotation,approx,stand-in pose for a complex or travelling drill
+hamstring-slide,Hamstring Slide,glute_bridge,approx,approximate rule: hamstring slide
+band-monster-walk,Band Monster Walk,hip_abduction_standing,approx,approximate rule: monster walk|lateral walk
+spider-crawl,Spider Crawl,bear_crawl,approx,stand-in pose for a complex or travelling drill
+wrist-roller,Wrist Roller,front_raise,approx,approximate rule: wrist roller
+finger-curl,Finger Curl,wrist_curl,approx,approximate rule: finger curl|hand gripper|wrist rotation
+recumbent-bike,Recumbent Bike,bike,approx,approximate rule: \bbike\b|cycling|bicycle(?! crunch)
+butt-kicks,Butt Kicks,high_knees,approx,stand-in pose for a complex or travelling drill
+kettlebell-figure-8,Kettlebell Figure 8,kb_swing,approx,approximate rule: kettlebell figure 8
+ankle-circles,Ankle Circles,standing_still,approx,stand-in pose for a complex or travelling drill
+knee-across-the-body-stretch,Knee Across the Body Stretch,knee_to_chest,approx,approximate rule: knee across the body|supine spinal twist
+hollow-body-hold,Hollow Body Hold,leg_raise,approx,approximate rule: hollow body
+bear-crawl,Bear Crawl,bear_crawl,approx,stand-in pose for a complex or travelling drill
+glute-kickback-machine,Glute Kickback Machine,glute_kickback_machine,approx,approximate rule: kickback machine|glute kickback
+pike-push-up,Pike Push-up,push_up,approx,approximate rule: handstand|pike push
+tibialis-raise,Tibialis Raise,calf_raise,approx,approximate rule: tibialis raise
+shadow-boxing,Shadow Boxing,chest_press_standing,approx,approximate rule: shadow boxing
+thoracic-open-book,Thoracic Open Book,arm_stretch,approx,stand-in pose for a complex or travelling drill
+chin-tuck,Chin Tuck,standing_still,approx,approximate rule: neck (stretch|isometric)|chin tuck
+wall-angel,Wall Angel,arm_stretch,approx,approximate rule: wall angel
+seated-barbell-press,Seated Barbell Press,overhead_press,approx,approximate rule: seated barbell press|\bz press
+stair-climber,Stair Climber,step_up,approx,approximate rule: stair climber
+barbell-21s,Barbell 21s,barbell_curl,approx,stand-in pose for a complex or travelling drill
+waiter-curl,Waiter Curl,db_curl,approx,stand-in pose for a complex or travelling drill
+suspension-biceps-curl,Suspension Biceps Curl,inverted_row,approx,approximate rule: suspension biceps curl
+jm-press,JM Press,bench_press,approx,approximate rule: \bjm press
+renegade-row,Renegade Row,plank,approx,template plank vs table pattern horizontal_pull
+kettlebell-gorilla-row,Kettlebell Gorilla Row,db_row,approx,stand-in pose for a complex or travelling drill
+svend-press,Svend Press,chest_press_standing,approx,stand-in pose for a complex or travelling drill
+archer-push-up,Archer Push-up,push_up,approx,stand-in pose for a complex or travelling drill
+air-bike,Air Bike,bike,approx,approximate rule: \bbike\b|cycling|bicycle(?! crunch)
+ski-ergometer,Ski Ergometer,straight_arm_pulldown,approx,approximate rule: ski ergometer
+running,Running,treadmill_run,approx,approximate rule: ^running$|brisk walking
+brisk-walking,Brisk Walking,treadmill_run,approx,approximate rule: ^running$|brisk walking
+swimming,Swimming,superman,approx,approximate rule: ^swimming$
+sprint-intervals,Sprint Intervals,treadmill_run,approx,stand-in pose for a complex or travelling drill
+plank-jack,Plank Jack,plank,approx,template plank vs table pattern cardio; stand-in pose for a complex or travelling drill
+man-maker,Man Maker,burpee,approx,approximate rule: man maker|devil press
+devil-press,Devil Press,burpee,approx,approximate rule: man maker|devil press
+dragon-flag,Dragon Flag,leg_raise,approx,approximate rule: dragon flag
+stir-the-pot,Stir the Pot,plank,approx,stand-in pose for a complex or travelling drill
+suspension-atomic-push-up,Suspension Atomic Push-up,push_up,approx,template push_up vs table pattern anti_rotation
+plate-pinch-hold,Plate Pinch Hold,farmer_walk,approx,stand-in pose for a complex or travelling drill
+hand-gripper,Hand Gripper,wrist_curl,approx,approximate rule: finger curl|hand gripper|wrist rotation
+dumbbell-wrist-rotation,Dumbbell Wrist Rotation,wrist_curl,approx,approximate rule: finger curl|hand gripper|wrist rotation
+neck-isometric-hold,Neck Isometric Hold,standing_still,approx,approximate rule: neck (stretch|isometric)|chin tuck
+lying-neck-flexion,Lying Neck Flexion,crunch,approx,approximate rule: lying neck flexion
+lying-neck-extension,Lying Neck Extension,superman,approx,approximate rule: lying neck extension
+suspension-pistol-squat,Suspension Pistol Squat,pistol_squat,approx,approximate rule: (single leg|pistol|glute drop).*squat|single leg glute drop|trx single leg squat
+pogo-hops,Pogo Hops,lateral_hop,approx,approximate rule: pogo hop
+thread-the-needle,Thread the Needle,cat_cow,approx,approximate rule: thread the needle
+knee-to-wall-ankle-mobilization,Knee-to-Wall Ankle Mobilization,calf_stretch,approx,approximate rule: knee to wall ankle
+seated-spinal-twist,Seated Spinal Twist,russian_twist,approx,approximate rule: seated spinal twist
+supine-spinal-twist,Supine Spinal Twist,knee_to_chest,approx,approximate rule: knee across the body|supine spinal twist
+shoulder-cars,Shoulder CARs,arm_circles,approx,approximate rule: shoulder dislocate|shoulder cars
+adductor-rockback,Adductor Rockback,child_pose,approx,approximate rule: adductor rockback
+jefferson-curl,Jefferson Curl,standing_forward_bend,approx,approximate rule: jefferson curl
+reverse-snow-angel,Reverse Snow Angel,superman,approx,approximate rule: reverse snow angel|prone y t w|reverse leg crossover
+z-press,Z Press,overhead_press,approx,approximate rule: seated barbell press|\bz press
+incline-y-raise,Incline Y-Raise,rear_delt_raise,approx,approximate rule: incline y raise|band y raise|band overhead pull apart
+prone-y-t-w-raise,Prone Y-T-W Raise,superman,approx,approximate rule: reverse snow angel|prone y t w|reverse leg crossover
+handstand-push-up,Handstand Push-up,push_up,approx,stand-in pose for a complex or travelling drill
+cable-y-raise,Cable Y-Raise,front_raise,approx,approximate rule: dumbbell scaption|cable y raise
+suspension-hip-drop,Suspension Hip Drop,side_plank,approx,stand-in pose for a complex or travelling drill
+hip-lift-march,Hip Lift March,glute_bridge,approx,stand-in pose for a complex or travelling drill
+balance-trainer-up-and-down-plank,Balance Trainer Up and Down Plank,plank,approx,stand-in pose for a complex or travelling drill
+balance-trainer-walk-out-plank,Balance Trainer Walk Out Plank,walkout,approx,stand-in pose for a complex or travelling drill
+balance-trainer-star-plank-knee-to-elbow,Balance Trainer Star Plank Knee to Elbow,plank,approx,stand-in pose for a complex or travelling drill
+balance-trainer-traveling-dome-plank,Balance Trainer Traveling Dome Plank,plank,approx,stand-in pose for a complex or travelling drill
+plank-hip-dip,Plank Hip Dip,plank,approx,template plank vs table pattern rotation
+balance-trainer-leg-crossover-plank,Balance Trainer Leg Crossover Plank,plank,approx,template plank vs table pattern rotation; stand-in pose for a complex or travelling drill
+band-side-plank-row,Band Side Plank Row,side_plank,approx,approximate rule: band side plank row
+band-plank-row,Band Plank Row,plank,approx,approximate rule: band plank row
+plank-surrender,Plank Surrender,plank,approx,stand-in pose for a complex or travelling drill
+plank-jack-on-elbows,Plank Jack on Elbows,plank,approx,stand-in pose for a complex or travelling drill
+quadruped-plank-with-leg-extensions,Quadruped Plank With Leg Extensions,bird_dog,approx,approximate rule: quadruped plank with leg
+mini-band-around-the-world-plank,Mini Band Around the World Plank,plank,approx,stand-in pose for a complex or travelling drill
+balance-trainer-side-star-plank,Balance Trainer Side Star Plank,side_plank,approx,stand-in pose for a complex or travelling drill
+partner-plank-and-reach,Partner Plank and Reach,plank,approx,partner drill shown solo
+partner-russian-twist,Partner Russian Twist,russian_twist,approx,partner drill shown solo
+partner-medicine-ball-full-twist,Partner Medicine Ball Full Twist,russian_twist,approx,partner drill shown solo
+stability-ball-abdominal-twist,Stability Ball Abdominal Twist,russian_twist,approx,approximate rule: stability ball (abdominal|seated) twist|full twist
+stability-ball-seated-twist,Stability Ball Seated Twist,russian_twist,approx,approximate rule: stability ball (abdominal|seated) twist|full twist
+partner-pallof-twist,Partner Pallof Twist,pallof_press,approx,partner drill shown solo
+partner-lying-leg-throw-down,Partner Lying Leg Throw Down,leg_raise,approx,stand-in pose for a complex or travelling drill; partner drill shown solo
+partner-leg-toss-windshields,Partner Leg Toss Windshields,windshield_wiper,approx,stand-in pose for a complex or travelling drill; partner drill shown solo
+stance-jack,Stance Jack,jumping_jack,approx,stand-in pose for a complex or travelling drill
+high-butt-bear-crawl,High Butt Bear Crawl,bear_crawl,approx,stand-in pose for a complex or travelling drill
+partner-sit-up-toss,Partner Sit-up Toss,sit_up,approx,stand-in pose for a complex or travelling drill; partner drill shown solo
+partner-sit-up-hi-five,Partner Sit-up Hi-Five,sit_up,approx,stand-in pose for a complex or travelling drill; partner drill shown solo
+glute-ham-raise-sit-up,Glute Ham Raise Sit-up,sit_up,approx,approximate rule: glute ham raise sit
+decline-sit-up-with-medicine-ball-toss,Decline Sit-up with Medicine Ball Toss,sit_up,approx,stand-in pose for a complex or travelling drill
+balance-trainer-braced-bicycle-kick,Balance Trainer Braced Bicycle Kick,bicycle_crunch,approx,approximate rule: bicycle kick
+balance-trainer-braced-frog-kick,Balance Trainer Braced Frog Kick,reverse_crunch,approx,approximate rule: braced frog kick
+dumbbell-v-sit-cross-jab,Dumbbell V-Sit Cross Jab,russian_twist,approx,stand-in pose for a complex or travelling drill
+balance-trainer-overhead-weighted-crunch,Balance Trainer Overhead Weighted Crunch,crunch,approx,stand-in pose for a complex or travelling drill
+spiderman-plank-crunch,Spiderman Plank Crunch,plank,approx,template plank vs table pattern rotation
+reverse-lunge-with-half-kneeling-pallof-press,Reverse Lunge With Half-Kneeling Pallof Press,reverse_lunge,approx,template reverse_lunge vs table pattern anti_rotation
+mini-band-toe-touch,Mini Band Toe Touch,v_up,approx,approximate rule: mini band toe touch
+kipping-toes-to-bar,Kipping Toes-to-Bar,hanging_leg_raise,approx,stand-in pose for a complex or travelling drill
+stomach-vacuum,Stomach Vacuum,standing_still,approx,stand-in pose for a complex or travelling drill
+dumbbell-halo-to-oblique-crunch,Dumbbell Halo To Oblique Crunch,kb_halo,approx,stand-in pose for a complex or travelling drill
+dowel-helicopter,Dowel Helicopter,standing_twist,approx,stand-in pose for a complex or travelling drill
+mini-band-triceps-press,Mini Band Triceps Press,triceps_pushdown,approx,approximate rule: mini band triceps press
+cobra-triceps-extension,Cobra Triceps Extension,cobra,approx,stand-in pose for a complex or travelling drill
+plate-flips,Plate Flips,farmer_walk,approx,stand-in pose for a complex or travelling drill
+dumbbell-no-money-curl,Dumbbell No Money Curl,db_curl,approx,stand-in pose for a complex or travelling drill
+isometric-biceps-hold,Isometric Biceps Hold,db_curl,approx,approximate rule: isometric biceps
+archer-pull-up,Archer Pull-up,pull_up,approx,stand-in pose for a complex or travelling drill
+butterfly-pull-up,Butterfly Pull-up,pull_up,approx,stand-in pose for a complex or travelling drill
+australian-chin-up,Australian Chin-up,pull_up,approx,template pull_up vs table pattern horizontal_pull
+ez-bar-pjr-pull-over,EZ Bar PJR Pull Over,pullover,approx,stand-in pose for a complex or travelling drill
+bird-dog-row,Bird Dog Row,db_row,approx,stand-in pose for a complex or travelling drill
+shotgun-row,Shotgun Row,db_row,approx,stand-in pose for a complex or travelling drill
+half-kneeling-shotgun-row,Half Kneeling Shotgun Row,db_row,approx,stand-in pose for a complex or travelling drill
+band-y-raise,Band Y Raise,rear_delt_raise,approx,approximate rule: incline y raise|band y raise|band overhead pull apart
+band-overhead-pull-apart,Band Overhead Pull Apart,rear_delt_raise,approx,approximate rule: incline y raise|band y raise|band overhead pull apart
+suspension-clock-pull,Suspension Clock Pull,inverted_row,approx,stand-in pose for a complex or travelling drill
+suspension-swimmer-pull,Suspension Swimmer Pull,superman,approx,template superman vs table pattern vertical_pull; stand-in pose for a complex or travelling drill
+suspension-power-pull,Suspension Power Pull,inverted_row,approx,stand-in pose for a complex or travelling drill
+balance-trainer-knee-up-squat,Balance Trainer Knee Up Squat,bodyweight_squat,approx,stand-in pose for a complex or travelling drill
+balance-trainer-bar-assisted-dome-squat,Balance Trainer Bar Assisted Dome Squat,squat,approx,stand-in pose for a complex or travelling drill
+balance-trainer-lateral-dome-squat,Balance Trainer Lateral Dome Squat,squat,approx,stand-in pose for a complex or travelling drill
+balance-trainer-single-leg-glute-drop,Balance Trainer Single-Leg Glute Drop,pistol_squat,approx,approximate rule: (single leg|pistol|glute drop).*squat|single leg glute drop|trx single leg squat
+balance-trainer-suspension-pistol-squat,Balance Trainer Suspension Pistol Squat,pistol_squat,approx,approximate rule: (single leg|pistol|glute drop).*squat|single leg glute drop|trx single leg squat
+balance-trainer-lateral-cross-over-jump,Balance Trainer Lateral Cross Over Jump,lateral_hop,approx,approximate rule: cross ?over jump|front back cross jump
+balance-trainer-front-back-cross-jump,Balance Trainer Front-Back Cross Jump,lateral_hop,approx,stand-in pose for a complex or travelling drill
+balance-trainer-toe-tap,Balance Trainer Toe Tap,high_knees,approx,approximate rule: balance trainer toe tap
+balance-trainer-lateral-floor-toe-tap,Balance Trainer Lateral Floor Toe Tap,lateral_hop,approx,approximate rule: lateral floor toe tap
+balance-trainer-hesitation-lunge,Balance Trainer Hesitation Lunge,forward_lunge,approx,stand-in pose for a complex or travelling drill
+partner-hook-squat,Partner Hook Squat,squat,approx,partner drill shown solo
+partner-squat-and-throw,Partner Squat And Throw,medball_slam,approx,stand-in pose for a complex or travelling drill; partner drill shown solo
+partner-band-jump,Partner Band Jump,jump_squat,approx,partner drill shown solo
+partner-band-sprint,Partner Band Sprint,treadmill_run,approx,stand-in pose for a complex or travelling drill; partner drill shown solo
+partner-back-to-back-wall-sit,Partner Back To Back Wall Sit,wall_sit,approx,partner drill shown solo
+partner-wall-sit-and-triceps-dip,Partner Wall Sit And Triceps Dip,wall_sit,approx,partner drill shown solo
+partner-plank-hold-and-jump,Partner Plank Hold And Jump,plank,approx,partner drill shown solo
+dumbbell-larson-press,Dumbbell Larson Press,db_bench_press,approx,stand-in pose for a complex or travelling drill
+incline-svend-press,Incline Svend Press,chest_press_standing,approx,stand-in pose for a complex or travelling drill
+around-the-worlds,Around the Worlds,db_fly,approx,stand-in pose for a complex or travelling drill
+partner-medicine-ball-chest-pass,Partner Medicine Ball Chest Pass,medball_slam,approx,partner drill shown solo
+partner-standing-chest-press,Partner Standing Chest Press,chest_press_standing,approx,partner drill shown solo
+partner-rolling-ball-push-up,Partner Rolling Ball Push-up,push_up,approx,stand-in pose for a complex or travelling drill; partner drill shown solo
+partner-push-up-reach,Partner Push-up Reach,push_up,approx,partner drill shown solo
+partner-wheelbarrow-push-up,Partner Wheelbarrow Push-up,push_up,approx,partner drill shown solo
+kneeling-squat,Kneeling Squat,squat,approx,template squat vs table pattern hinge; stand-in pose for a complex or travelling drill
+partner-banded-reverse-leg-raise,Partner Banded Reverse Leg Raise,superman,approx,partner drill shown solo
+seated-figure-four,Seated Figure Four,pigeon_pose,approx,stand-in pose for a complex or travelling drill
+balance-trainer-lying-toe-tap,Balance Trainer Lying Toe Tap,dead_bug,approx,approximate rule: lying toe tap
+dumbbell-romanian-deadlift-to-high-pull,Dumbbell Romanian Deadlift to High Pull,romanian_deadlift,approx,approximate rule: (romanian deadlift|rdl) to high pull
+romanian-deadlift-to-high-pull,Romanian Deadlift to High Pull,romanian_deadlift,approx,approximate rule: (romanian deadlift|rdl) to high pull
+airplane,Airplane,single_leg_rdl,approx,stand-in pose for a complex or travelling drill
+reverse-bear-crawl,Reverse Bear Crawl,bear_crawl,approx,stand-in pose for a complex or travelling drill
+single-leg-cycles,Single-Leg Cycles,flutter_kick,approx,stand-in pose for a complex or travelling drill
+partner-hamstring-stretch,Partner Hamstring Stretch,seated_forward_bend,approx,partner drill shown solo
+lunge-to-lateral-reach,Lunge to Lateral Reach,forward_lunge,approx,stand-in pose for a complex or travelling drill
+mini-band-lateral-walk,Mini Band Lateral Walk,hip_abduction_standing,approx,stand-in pose for a complex or travelling drill
+hurdle-step-over,Hurdle Step Over,leg_swing,approx,stand-in pose for a complex or travelling drill
+seated-point-and-flex,Seated Point And Flex,standing_still,approx,stand-in pose for a complex or travelling drill
+superman-with-scaption,Superman with Scaption,superman,approx,stand-in pose for a complex or travelling drill
+australian-crawl,Australian Crawl,superman,approx,stand-in pose for a complex or travelling drill
+reverse-leg-crossover,Reverse Leg Crossover,superman,approx,stand-in pose for a complex or travelling drill
+bridge-side-to-side,Bridge Side to Side,glute_bridge,approx,stand-in pose for a complex or travelling drill
+bridge-walk,Bridge Walk,glute_bridge,approx,stand-in pose for a complex or travelling drill
+kettlebell-lunge-with-rotation,Kettlebell Lunge with Rotation,forward_lunge,approx,stand-in pose for a complex or travelling drill
+lunge-with-ankle-grab,Lunge with Ankle Grab,forward_lunge,approx,stand-in pose for a complex or travelling drill
+suspension-crossing-balance-lunge,Suspension Crossing Balance Lunge,forward_lunge,approx,stand-in pose for a complex or travelling drill
+box-step-down,Box Step Down,step_up,approx,stand-in pose for a complex or travelling drill
+cluster,Cluster,thruster,approx,approximate rule: cluster
+power-skip,Power Skip,broad_jump,approx,stand-in pose for a complex or travelling drill
+a-skip,A-Skip,high_knees,approx,stand-in pose for a complex or travelling drill
+b-skip,B-Skip,high_knees,approx,stand-in pose for a complex or travelling drill
+carioca,Carioca,high_knees,approx,stand-in pose for a complex or travelling drill
+high-knee-carioca,High Knee Carioca,high_knees,approx,stand-in pose for a complex or travelling drill
+single-leg-butt-kick,Single-Leg Butt Kick,high_knees,approx,stand-in pose for a complex or travelling drill
+runners-butt-kick,Runners Butt Kick,high_knees,approx,stand-in pose for a complex or travelling drill
+bounds,Bounds,broad_jump,approx,stand-in pose for a complex or travelling drill
+lateral-cone-hop,Lateral Cone Hop,lateral_hop,approx,stand-in pose for a complex or travelling drill
+lateral-box-shuffle,Lateral Box Shuffle,lateral_hop,approx,stand-in pose for a complex or travelling drill
+box-shuffle,Box Shuffle,lateral_hop,approx,stand-in pose for a complex or travelling drill
+suspension-sprinter-start,Suspension Sprinter Start,treadmill_run,approx,stand-in pose for a complex or travelling drill
+banded-leg-drive,Banded Leg Drive,standing_knee_raise,approx,stand-in pose for a complex or travelling drill
+wall-knee-drive,Wall Knee Drive,standing_knee_raise,approx,stand-in pose for a complex or travelling drill
+wall-triple-knee-drive,Wall Triple Knee Drive,standing_knee_raise,approx,stand-in pose for a complex or travelling drill
+duck-walk,Duck Walk,bodyweight_squat,approx,stand-in pose for a complex or travelling drill
+mini-band-hip-flexor,Mini Band Hip Flexor,standing_knee_raise,approx,approximate rule: mini band hip flexor
+hip-flow,Hip Flow,standing_still,approx,stand-in pose for a complex or travelling drill
+butt-scoot,Butt Scoot,butt_scoot,approx,stand-in pose for a complex or travelling drill
+dumbbell-cuban-shoulder-rotation,Dumbbell Cuban Shoulder Rotation,external_rotation,approx,stand-in pose for a complex or travelling drill
+mini-band-scapular-retraction,Mini Band Scapular Retraction,rear_delt_raise,approx,stand-in pose for a complex or travelling drill
+shoulder-squeeze,Shoulder Squeeze,rear_delt_raise,approx,stand-in pose for a complex or travelling drill
+mini-band-overhead-fly,Mini Band Overhead Fly,lateral_raise,approx,approximate rule: overhead fly
+band-single-arm-archer-pull,Band Single-Arm Archer Pull,face_pull,approx,stand-in pose for a complex or travelling drill
+handstand-hold,Handstand Hold,push_up,approx,stand-in pose for a complex or travelling drill
+handstand-walk,Handstand Walk,push_up,approx,stand-in pose for a complex or travelling drill
+kipping-handstand-push-up,Kipping Handstand Push-up,push_up,approx,stand-in pose for a complex or travelling drill
+partner-handstand,Partner Handstand,push_up,approx,stand-in pose for a complex or travelling drill; partner drill shown solo
+partner-wheelbarrow-walk,Partner Wheelbarrow Walk,push_up,approx,partner drill shown solo
+reach-behind-and-open,Reach Behind and Open,arm_stretch,approx,stand-in pose for a complex or travelling drill
+suspension-figure-four-squat,Suspension Figure Four Squat,squat,approx,stand-in pose for a complex or travelling drill
+squat-with-rotation,Squat with Rotation,bodyweight_squat,approx,stand-in pose for a complex or travelling drill
+squat-side-kick,Squat Side Kick,bodyweight_squat,approx,stand-in pose for a complex or travelling drill
+single-arm-overhead-kettlebell-squat,Single-Arm Overhead Kettlebell Squat,overhead_squat,approx,approximate rule: single arm overhead kettlebell squat
+smith-machine-pistol-squat,Smith Machine Pistol Squat,pistol_squat,approx,approximate rule: (single leg|pistol|glute drop).*squat|single leg glute drop|trx single leg squat
+kettlebell-pistol-squat,Kettlebell Pistol Squat,pistol_squat,approx,approximate rule: (single leg|pistol|glute drop).*squat|single leg glute drop|trx single leg squat

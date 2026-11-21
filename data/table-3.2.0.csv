@@ -1,0 +1,1014 @@
+id,name_en,muscle,target_muscles,secondary_targets,equipment,equipment_tags,pattern,force,mechanic,animation
+1,"Decline Dumbbell Bench Press",chest,chest,"triceps,front_delt",dumbbell,"dumbbell,bench",horizontal_push,push,compound,assets/ex/decline-dumbbell-bench-press.webp
+2,"Dumbbell Floor Press",chest,chest,"triceps,front_delt",dumbbell,dumbbell,horizontal_push,push,compound,assets/ex/dumbbell-floor-press.webp
+3,"Dumbbell Pullover",chest,chest,"upper_back,triceps",dumbbell,"dumbbell,bench",isolation,pull,isolation,assets/ex/dumbbell-pullover.webp
+4,"Low Cable Crossover",chest,chest,front_delt,cable,cable,isolation,push,isolation,assets/ex/low-cable-crossover.webp
+5,"Incline Push-up",chest,"upper_chest,chest","triceps,front_delt,abs",bodyweight,bodyweight,horizontal_push,push,compound,assets/ex/incline-push-up.webp
+6,"Band-Assisted Pull-up",back,lats,"biceps,rear_delt,abs",band,"band,pullup_bar",vertical_pull,pull,compound,assets/ex/band-assisted-pull-up.webp
+7,"Machine High Row",back,"upper_back,lats","biceps,rear_delt",machine,machine,horizontal_pull,pull,compound,assets/ex/machine-high-row.webp
+8,"One-Arm Kettlebell Row",back,"upper_back,lats","biceps,rear_delt,abs",kettlebell,kettlebell,horizontal_pull,pull,compound,assets/ex/one-arm-kettlebell-row.webp
+9,"Rack Pull",back,"lower_back,upper_back","glutes,hamstrings,quads",barbell,barbell,hinge,pull,compound,assets/ex/rack-pull.webp
+10,"Stiff-Leg Barbell Deadlift",hamstrings,hamstrings,"glutes,lower_back",barbell,barbell,hinge,pull,compound,assets/ex/stiff-leg-barbell-deadlift.webp
+11,"Stiff-Leg Dumbbell Deadlift",hamstrings,hamstrings,"glutes,lower_back",dumbbell,dumbbell,hinge,pull,compound,assets/ex/stiff-leg-dumbbell-deadlift.webp
+12,"Glute-Ham Raise",hamstrings,hamstrings,"glutes,calves,upper_back",machine,machine,isolation,pull,isolation,assets/ex/glute-ham-raise.webp
+13,"Nordic Hamstring Curl",hamstrings,hamstrings,"glutes,calves",bodyweight,bodyweight,isolation,pull,isolation,assets/ex/nordic-hamstring-curl.webp
+14,"Cable Lateral Raise",shoulders,side_delt,,cable,cable,isolation,push,isolation,assets/ex/cable-lateral-raise.webp
+15,"Machine Shoulder Press",shoulders,"front_delt,side_delt",triceps,machine,machine,vertical_push,push,compound,assets/ex/machine-shoulder-press.webp
+16,"Push Press",shoulders,"front_delt,side_delt","triceps,quads,abs,glutes",barbell,barbell,vertical_push,push,compound,assets/ex/push-press.webp
+17,"Band Lateral Raise",shoulders,side_delt,,band,band,isolation,push,isolation,assets/ex/band-lateral-raise.webp
+18,"Standing Cable Curl",biceps,biceps,front_delt,cable,cable,isolation,pull,isolation,assets/ex/standing-cable-curl.webp
+19,"Spider Curl",biceps,biceps,front_delt,barbell,barbell,isolation,pull,isolation,assets/ex/spider-curl.webp
+20,"Zottman Curl",biceps,biceps,forearms,dumbbell,dumbbell,isolation,pull,isolation,assets/ex/zottman-curl.webp
+21,"Drag Curl",biceps,biceps,front_delt,barbell,barbell,isolation,pull,isolation,assets/ex/drag-curl.webp
+22,"High Cable Curl",biceps,biceps,front_delt,cable,cable,isolation,pull,isolation,assets/ex/high-cable-curl.webp
+23,"Reverse-Grip Triceps Pushdown",triceps,triceps,,cable,cable,isolation,push,isolation,assets/ex/reverse-grip-triceps-pushdown.webp
+24,"Tate Press",triceps,triceps,chest,dumbbell,"dumbbell,bench",horizontal_push,push,isolation,assets/ex/tate-press.webp
+25,"Close-Grip Incline Push-up",triceps,triceps,"chest,front_delt,abs",bodyweight,bodyweight,horizontal_push,push,compound,assets/ex/close-grip-incline-push-up.webp
+26,"Dumbbell Split Squat",legs,quads,"glutes,hamstrings",dumbbell,dumbbell,lunge,push,compound,assets/ex/dumbbell-split-squat.webp
+27,"Dumbbell Reverse Lunge",legs,quads,"glutes,hamstrings,calves",dumbbell,dumbbell,lunge,push,compound,assets/ex/dumbbell-reverse-lunge.webp
+28,"Jump Squat",legs,quads,"glutes,hamstrings,calves",bodyweight,bodyweight,squat,push,compound,assets/ex/jump-squat.webp
+29,"Pistol Squat",legs,quads,"glutes,hamstrings,abs",bodyweight,bodyweight,lunge,push,compound,assets/ex/pistol-squat.webp
+30,"Sissy Squat",legs,quads,abs,bodyweight,bodyweight,squat,push,isolation,assets/ex/sissy-squat.webp
+31,"Sled Push",legs,quads,"glutes,hamstrings,calves,upper_back",machine,"machine,sled",squat,push,compound,assets/ex/sled-push.webp
+32,"Leg Press Calf Raise",calves,calves,,machine,machine,squat,push,isolation,assets/ex/leg-press-calf-raise.webp
+33,"Donkey Calf Raise",calves,calves,,bodyweight,bodyweight,isolation,push,isolation,assets/ex/donkey-calf-raise.webp
+34,"Step-up with Knee Raise",glutes,glutes,"quads,hamstrings,abs",bodyweight,"bodyweight,box",lunge,pull,compound,assets/ex/step-up-with-knee-raise.webp
+35,"Cable Pull-through",glutes,glutes,"hamstrings,lower_back",cable,cable,hinge,pull,compound,assets/ex/cable-pull-through.webp
+36,"Cable Glute Kickback",glutes,glutes,hamstrings,cable,cable,isolation,push,isolation,assets/ex/cable-glute-kickback.webp
+37,"Donkey Kick",glutes,glutes,"hamstrings,abs",bodyweight,bodyweight,isolation,push,isolation,assets/ex/donkey-kick.webp
+38,"Reverse Crunch",abs,abs,,bodyweight,bodyweight,isolation,pull,isolation,assets/ex/reverse-crunch.webp
+39,Sit-up,abs,abs,,bodyweight,bodyweight,isolation,pull,isolation,assets/ex/sit-up.webp
+40,"Decline Crunch",abs,abs,,bench,bench,isolation,pull,isolation,assets/ex/decline-crunch.webp
+41,"Pallof Press",abs,"obliques,abs","front_delt,glutes",cable,cable,anti_rotation,push,isolation,assets/ex/pallof-press.webp
+42,V-up,abs,abs,,bodyweight,bodyweight,isolation,pull,isolation,assets/ex/v-up.webp
+43,"Hanging Pike",abs,abs,"upper_back,hamstrings",bodyweight,"bodyweight,pullup_bar",isolation,pull,isolation,assets/ex/hanging-pike.webp
+44,"Landmine Rotation",abs,"obliques,abs","front_delt,glutes",barbell,"barbell,landmine",rotation,dynamic,compound,assets/ex/landmine-rotation.webp
+45,"Medicine Ball Slam",fullbody,"quads,glutes,upper_back","abs,front_delt",ball,ball,hinge,dynamic,compound,assets/ex/medicine-ball-slam.webp
+46,"Kettlebell Thruster",fullbody,"quads,glutes,upper_back","front_delt,triceps,abs",kettlebell,kettlebell,squat,dynamic,compound,assets/ex/kettlebell-thruster.webp
+47,"Turkish Get-up",fullbody,"quads,glutes,upper_back","front_delt,abs",kettlebell,kettlebell,hinge,dynamic,compound,assets/ex/turkish-get-up.webp
+48,"Power Clean",fullbody,"quads,glutes,upper_back","hamstrings,front_delt,abs",barbell,barbell,hinge,dynamic,compound,assets/ex/power-clean.webp
+49,"Cat-Cow Stretch",mobility,"upper_back,lower_back",abs,none,none,mobility,dynamic,isolation,assets/ex/cat-cow-stretch.webp
+50,"Child's Pose",mobility,"upper_back,lower_back",front_delt,none,none,mobility,static,isolation,assets/ex/child-s-pose.webp
+51,"Kneeling Hip Flexor Stretch",mobility,quads,glutes,none,none,mobility,static,isolation,assets/ex/kneeling-hip-flexor-stretch.webp
+52,"Lying Hamstring Stretch",mobility,hamstrings,calves,none,none,mobility,static,isolation,assets/ex/lying-hamstring-stretch.webp
+53,"World's Greatest Stretch",mobility,,"quads,hamstrings,glutes,upper_back,front_delt",none,none,mobility,dynamic,isolation,assets/ex/world-s-greatest-stretch.webp
+54,"Standing Quad Stretch",mobility,quads,,none,none,mobility,static,isolation,assets/ex/standing-quad-stretch.webp
+55,"Chest and Shoulder Stretch",mobility,chest,front_delt,none,none,mobility,static,isolation,assets/ex/chest-and-shoulder-stretch.webp
+56,"Cross-Body Shoulder Stretch",mobility,"front_delt,rear_delt",upper_back,none,none,mobility,static,isolation,assets/ex/cross-body-shoulder-stretch.webp
+57,"Standing Toe Touch",mobility,hamstrings,"calves,upper_back",none,none,mobility,pull,isolation,assets/ex/standing-toe-touch.webp
+58,"Dynamic Chest Stretch",mobility,chest,front_delt,none,none,mobility,static,isolation,assets/ex/dynamic-chest-stretch.webp
+59,"Shoulder Dislocates",mobility,"front_delt,rear_delt","chest,upper_back",band,band,mobility,dynamic,isolation,assets/ex/shoulder-dislocates.webp
+60,"Neck Stretch",mobility,neck,,none,none,mobility,static,isolation,assets/ex/neck-stretch.webp
+61,"Smith Machine Bench Press",chest,chest,"front_delt,triceps",machine,"machine,smith",horizontal_push,push,compound,assets/ex/smith-machine-bench-press.webp
+62,"Smith Machine Incline Press",chest,"upper_chest,chest","front_delt,triceps",machine,"machine,smith",horizontal_push,push,compound,assets/ex/smith-machine-incline-press.webp
+63,"Incline Cable Fly",chest,"upper_chest,chest",front_delt,cable,cable,isolation,pull,isolation,assets/ex/incline-cable-fly.webp
+64,"Standing Cable Chest Press",chest,chest,"front_delt,triceps,abs",cable,cable,horizontal_push,push,compound,assets/ex/standing-cable-chest-press.webp
+65,"Dumbbell Side Bend",abs,"obliques,abs",,dumbbell,dumbbell,isolation,push,isolation,assets/ex/dumbbell-side-bend.webp
+66,"Cable Wood Chop",abs,"obliques,abs",front_delt,cable,cable,rotation,dynamic,compound,assets/ex/cable-wood-chop.webp
+67,"Cable Reverse Crunch",abs,abs,,cable,cable,isolation,pull,isolation,assets/ex/cable-reverse-crunch.webp
+68,"Seated Knee Tuck",abs,abs,,bodyweight,bodyweight,isolation,pull,isolation,assets/ex/seated-knee-tuck.webp
+69,"Standing Side Leg Raise",glutes,"abductors,glutes",quads,bodyweight,bodyweight,isolation,pull,isolation,assets/ex/standing-side-leg-raise.webp
+70,"Machine Preacher Curl",biceps,biceps,forearms,machine,machine,isolation,pull,isolation,assets/ex/machine-preacher-curl.webp
+71,"Cable Preacher Curl",biceps,biceps,forearms,cable,"cable,bench",isolation,pull,isolation,assets/ex/cable-preacher-curl.webp
+72,"Machine Biceps Curl",biceps,biceps,forearms,machine,machine,isolation,pull,isolation,assets/ex/machine-biceps-curl.webp
+73,"Standing Barbell Calf Raise",calves,calves,abs,barbell,barbell,isolation,push,isolation,assets/ex/standing-barbell-calf-raise.webp
+74,"Smith Machine Calf Raise",calves,calves,,machine,"machine,smith",isolation,push,isolation,assets/ex/smith-machine-calf-raise.webp
+75,"Standing Dumbbell Calf Raise",calves,calves,,dumbbell,dumbbell,isolation,push,isolation,assets/ex/standing-dumbbell-calf-raise.webp
+76,"Dumbbell Wrist Curl",forearms,forearms,biceps,dumbbell,dumbbell,isolation,pull,isolation,assets/ex/dumbbell-wrist-curl.webp
+77,"Dumbbell Reverse Wrist Curl",forearms,forearms,,dumbbell,dumbbell,isolation,pull,isolation,assets/ex/dumbbell-reverse-wrist-curl.webp
+78,"Standing Leg Curl",hamstrings,hamstrings,calves,machine,machine,isolation,pull,isolation,assets/ex/standing-leg-curl.webp
+79,"Reverse Hyperextension",glutes,glutes,"hamstrings,lower_back",machine,machine,hinge,pull,isolation,assets/ex/reverse-hyperextension.webp
+80,"Kettlebell Single-Leg Deadlift",hamstrings,hamstrings,"glutes,lower_back",kettlebell,kettlebell,hinge,pull,compound,assets/ex/kettlebell-single-leg-deadlift.webp
+81,"Wide-Grip Lat Pulldown",back,lats,"biceps,rear_delt",cable,cable,vertical_pull,pull,compound,assets/ex/wide-grip-lat-pulldown.webp
+82,"One-Arm Lat Pulldown",back,lats,"biceps,rear_delt,forearms",cable,cable,vertical_pull,pull,compound,assets/ex/one-arm-lat-pulldown.webp
+83,"One-Arm Seated Cable Row",back,"upper_back,lats","biceps,rear_delt,forearms",cable,cable,horizontal_pull,pull,compound,assets/ex/one-arm-seated-cable-row.webp
+84,"Smith Machine Bent-Over Row",back,"upper_back,lats","biceps,rear_delt,hamstrings,forearms",machine,"machine,smith",horizontal_pull,pull,compound,assets/ex/smith-machine-bent-over-row.webp
+85,"Chest-Supported Dumbbell Row",back,"upper_back,lats","biceps,rear_delt,forearms",dumbbell,"dumbbell,bench",horizontal_pull,pull,compound,assets/ex/chest-supported-dumbbell-row.webp
+86,"Barbell Lunge",legs,quads,"glutes,hamstrings,calves,abs",barbell,barbell,lunge,push,compound,assets/ex/barbell-lunge.webp
+87,"Wide-Stance Barbell Squat",legs,quads,"glutes,hamstrings,abs",barbell,barbell,squat,push,compound,assets/ex/wide-stance-barbell-squat.webp
+88,"Single-Leg Leg Extension",legs,quads,,machine,machine,isolation,push,isolation,assets/ex/single-leg-leg-extension.webp
+89,"Barbell Hack Squat",legs,quads,"glutes,hamstrings,forearms,lower_back",barbell,barbell,squat,push,compound,assets/ex/barbell-hack-squat.webp
+90,"Smith Machine Shoulder Press",shoulders,"front_delt,side_delt","triceps,chest",machine,"machine,smith",vertical_push,push,compound,assets/ex/smith-machine-shoulder-press.webp
+91,"Cable Rear Delt Fly",shoulders,rear_delt,upper_back,cable,cable,isolation,pull,isolation,assets/ex/cable-rear-delt-fly.webp
+92,"Reverse Machine Fly",shoulders,rear_delt,upper_back,machine,machine,isolation,pull,isolation,assets/ex/reverse-machine-fly.webp
+93,"Cable Shrug",shoulders,traps,"forearms,upper_back",cable,cable,isolation,pull,isolation,assets/ex/cable-shrug.webp
+94,"Smith Machine Upright Row",shoulders,side_delt,"upper_back,biceps,forearms",machine,"machine,smith",horizontal_pull,pull,compound,assets/ex/smith-machine-upright-row.webp
+95,"Machine Triceps Extension",triceps,triceps,,machine,machine,isolation,push,isolation,assets/ex/machine-triceps-extension.webp
+96,"One-Arm Cable Triceps Extension",triceps,triceps,,cable,cable,isolation,push,isolation,assets/ex/one-arm-cable-triceps-extension.webp
+97,"Lying Dumbbell Triceps Extension",triceps,triceps,,dumbbell,"dumbbell,bench",isolation,push,isolation,assets/ex/lying-dumbbell-triceps-extension.webp
+98,"Kettlebell Sumo High Pull",fullbody,"quads,glutes,upper_back","rear_delt,hamstrings",kettlebell,kettlebell,hinge,dynamic,compound,assets/ex/kettlebell-sumo-high-pull.webp
+99,"Side-Lying Groin Stretch",mobility,adductors,"quads,glutes",none,none,mobility,static,isolation,assets/ex/side-lying-groin-stretch.webp
+100,"Standing Calf Stretch",mobility,calves,,none,none,mobility,static,isolation,assets/ex/standing-calf-stretch.webp
+101,"Seated Hamstring Stretch",mobility,hamstrings,,none,none,mobility,static,isolation,assets/ex/seated-hamstring-stretch.webp
+102,"Standing Biceps Stretch",mobility,biceps,"chest,front_delt",none,none,mobility,static,isolation,assets/ex/standing-biceps-stretch.webp
+103,"Decline Dumbbell Fly",chest,chest,front_delt,dumbbell,"dumbbell,bench",isolation,pull,isolation,assets/ex/decline-dumbbell-fly.webp
+104,"Wide Push-up",chest,chest,"triceps,front_delt,abs",bodyweight,bodyweight,horizontal_push,push,compound,assets/ex/wide-push-up.webp
+105,"Incline Machine Chest Press",chest,"upper_chest,chest","front_delt,triceps",machine,machine,horizontal_push,push,compound,assets/ex/incline-machine-chest-press.webp
+106,"Plyo Push-up",chest,chest,"triceps,front_delt,abs",bodyweight,bodyweight,horizontal_push,push,compound,assets/ex/plyo-push-up.webp
+107,"Reverse-Grip Lat Pulldown",back,lats,"biceps,forearms",cable,cable,vertical_pull,pull,compound,assets/ex/reverse-grip-lat-pulldown.webp
+108,"Machine Row",back,"upper_back,lats","biceps,rear_delt",machine,machine,horizontal_pull,pull,compound,assets/ex/machine-row.webp
+109,"Neutral-Grip Pull-up",back,lats,"biceps,forearms",bodyweight,"bodyweight,pullup_bar",vertical_pull,pull,compound,assets/ex/neutral-grip-pull-up.webp
+110,"Scapular Pull-up",back,lats,"forearms,rear_delt",bodyweight,"bodyweight,pullup_bar",vertical_pull,pull,isolation,assets/ex/scapular-pull-up.webp
+111,"Trap Bar Deadlift",back,"lower_back,upper_back","quads,glutes,hamstrings,forearms",barbell,"barbell,trap_bar",hinge,pull,compound,assets/ex/trap-bar-deadlift.webp
+112,"Band Shoulder Press",shoulders,"front_delt,side_delt","triceps,abs",band,band,vertical_push,push,compound,assets/ex/band-shoulder-press.webp
+113,"Band External Rotation",shoulders,rear_delt,,band,band,rotation,dynamic,isolation,assets/ex/band-external-rotation.webp
+114,"Dumbbell Scaption",shoulders,"side_delt,rear_delt",upper_back,dumbbell,dumbbell,isolation,push,isolation,assets/ex/dumbbell-scaption.webp
+115,"Cuban Press",shoulders,"side_delt,rear_delt","upper_back,triceps",dumbbell,dumbbell,vertical_push,push,compound,assets/ex/cuban-press.webp
+116,"Cross-Body Hammer Curl",biceps,biceps,forearms,dumbbell,dumbbell,isolation,pull,isolation,assets/ex/cross-body-hammer-curl.webp
+117,"Overhead Cable Curl",biceps,biceps,forearms,cable,cable,isolation,pull,isolation,assets/ex/overhead-cable-curl.webp
+118,"Reverse Cable Curl",biceps,biceps,forearms,cable,cable,isolation,pull,isolation,assets/ex/reverse-cable-curl.webp
+119,"Incline Hammer Curl",biceps,biceps,forearms,dumbbell,"dumbbell,bench",isolation,pull,isolation,assets/ex/incline-hammer-curl.webp
+120,"Machine Dip",triceps,triceps,"chest,front_delt",machine,machine,horizontal_push,push,compound,assets/ex/machine-dip.webp
+121,"Band Overhead Triceps Extension",triceps,triceps,,band,band,isolation,push,isolation,assets/ex/band-overhead-triceps-extension.webp
+122,"Close-Grip Dumbbell Press",triceps,triceps,"chest,front_delt",dumbbell,"dumbbell,bench",horizontal_push,push,compound,assets/ex/close-grip-dumbbell-press.webp
+123,"Standing Overhead Barbell Triceps Extension",triceps,triceps,"front_delt,abs",barbell,barbell,isolation,push,isolation,assets/ex/standing-overhead-barbell-triceps-extension.webp
+124,"Dumbbell Sumo Squat",legs,quads,glutes,dumbbell,dumbbell,squat,push,compound,assets/ex/dumbbell-sumo-squat.webp
+125,"Box Squat",legs,quads,"glutes,hamstrings",barbell,"barbell,box",squat,push,compound,assets/ex/box-squat.webp
+126,"Barbell Step-up",legs,quads,"glutes,hamstrings",barbell,"barbell,box",lunge,push,compound,assets/ex/barbell-step-up.webp
+127,"Band Squat",legs,quads,"glutes,hamstrings",band,band,squat,push,compound,assets/ex/band-squat.webp
+128,"Double Kettlebell Front Squat",legs,quads,"glutes,abs",kettlebell,kettlebell,squat,push,compound,assets/ex/double-kettlebell-front-squat.webp
+129,"Jumping Lunge",legs,quads,"glutes,hamstrings,calves",bodyweight,bodyweight,lunge,push,compound,assets/ex/jumping-lunge.webp
+130,"Stability Ball Leg Curl",hamstrings,hamstrings,"glutes,abs",ball,ball,isolation,pull,isolation,assets/ex/stability-ball-leg-curl.webp
+131,"Band Good Morning",hamstrings,hamstrings,glutes,band,band,hinge,pull,compound,assets/ex/band-good-morning.webp
+132,"Hamstring Slide",hamstrings,hamstrings,"glutes,abs",bodyweight,bodyweight,isolation,push,isolation,assets/ex/hamstring-slide.webp
+133,"Stability Ball Hip Bridge",glutes,glutes,"hamstrings,abs",ball,ball,hinge,pull,compound,assets/ex/stability-ball-hip-bridge.webp
+134,"Band Monster Walk",glutes,"abductors,glutes",quads,band,band,hinge,pull,compound,assets/ex/band-monster-walk.webp
+135,"Banded Glute Bridge",glutes,glutes,hamstrings,band,band,hinge,pull,compound,assets/ex/banded-glute-bridge.webp
+136,"Band Calf Raise",calves,calves,,band,band,isolation,push,isolation,assets/ex/band-calf-raise.webp
+137,"Single-Leg Dumbbell Calf Raise",calves,calves,,dumbbell,dumbbell,isolation,push,isolation,assets/ex/single-leg-dumbbell-calf-raise.webp
+138,"Ab Crunch Machine",abs,abs,,machine,machine,isolation,pull,isolation,assets/ex/ab-crunch-machine.webp
+139,"Stability Ball Crunch",abs,abs,,ball,ball,isolation,pull,isolation,assets/ex/stability-ball-crunch.webp
+140,"Oblique Crunch",abs,"obliques,abs",,bodyweight,bodyweight,isolation,pull,isolation,assets/ex/oblique-crunch.webp
+141,"Heel Touch",abs,"obliques,abs",,bodyweight,bodyweight,isolation,push,isolation,assets/ex/heel-touch.webp
+142,"Jackknife Sit-up",abs,abs,quads,bodyweight,bodyweight,isolation,pull,compound,assets/ex/jackknife-sit-up.webp
+143,"Spider Crawl",abs,abs,"front_delt,triceps,chest",bodyweight,bodyweight,carry,dynamic,compound,assets/ex/spider-crawl.webp
+144,"Barbell Wrist Curl",forearms,forearms,,barbell,barbell,isolation,pull,isolation,assets/ex/barbell-wrist-curl.webp
+145,"Wrist Roller",forearms,forearms,front_delt,none,none,isolation,push,isolation,assets/ex/wrist-roller.webp
+146,"Finger Curl",forearms,forearms,,barbell,barbell,isolation,pull,isolation,assets/ex/finger-curl.webp
+147,"Recumbent Bike",cardio,,"quads,glutes,calves",machine,machine,cardio,dynamic,compound,assets/ex/recumbent-bike.webp
+148,"Battle Ropes",cardio,,"front_delt,upper_back,abs,forearms",none,none,cardio,dynamic,compound,assets/ex/battle-ropes.webp
+149,"Butt Kicks",cardio,,"hamstrings,calves,glutes",bodyweight,bodyweight,cardio,dynamic,compound,assets/ex/butt-kicks.webp
+150,"Star Jump",cardio,,"quads,front_delt,calves,glutes",bodyweight,bodyweight,cardio,dynamic,compound,assets/ex/star-jump.webp
+151,"One-Arm Kettlebell Swing",fullbody,"quads,glutes,upper_back","hamstrings,abs,front_delt,lower_back",kettlebell,kettlebell,hinge,dynamic,compound,assets/ex/one-arm-kettlebell-swing.webp
+152,"Kettlebell Figure 8",fullbody,"quads,glutes,upper_back","abs,hamstrings,forearms",kettlebell,kettlebell,rotation,dynamic,compound,assets/ex/kettlebell-figure-8.webp
+153,"Barbell Clean and Press",fullbody,"quads,glutes,upper_back","front_delt,triceps",barbell,barbell,hinge,dynamic,compound,assets/ex/barbell-clean-and-press.webp
+154,"Arm Circles",mobility,"front_delt,rear_delt",,none,none,mobility,dynamic,isolation,assets/ex/arm-circles.webp
+155,"Ankle Circles",mobility,calves,,none,none,mobility,dynamic,isolation,assets/ex/ankle-circles.webp
+156,"Hug Knees to Chest",mobility,glutes,abs,none,none,mobility,static,isolation,assets/ex/hug-knees-to-chest.webp
+157,"Triceps Stretch",mobility,triceps,front_delt,none,none,mobility,static,isolation,assets/ex/triceps-stretch.webp
+158,"Knee Across the Body Stretch",mobility,glutes,abs,none,none,mobility,static,isolation,assets/ex/knee-across-the-body-stretch.webp
+159,"Standing Hip Circles",mobility,glutes,abs,none,none,mobility,dynamic,isolation,assets/ex/standing-hip-circles.webp
+160,"Wall Calf Stretch",mobility,calves,,none,none,mobility,static,isolation,assets/ex/wall-calf-stretch.webp
+161,Inchworm,mobility,"upper_back,lower_back","front_delt,hamstrings,abs,chest",bodyweight,bodyweight,mobility,dynamic,compound,assets/ex/inchworm.webp
+162,"Bird Dog",abs,abs,"upper_back,glutes",bodyweight,bodyweight,anti_rotation,push,compound,
+163,"Hollow Body Hold",abs,abs,,bodyweight,bodyweight,anti_rotation,static,isolation,
+164,"Plank Shoulder Tap",abs,abs,"front_delt,chest",bodyweight,bodyweight,anti_rotation,static,compound,
+165,"Bear Crawl",fullbody,"quads,glutes,upper_back","front_delt,abs",bodyweight,bodyweight,carry,dynamic,compound,
+166,"Wall Sit",legs,quads,glutes,bodyweight,bodyweight,squat,static,isolation,
+167,"Lateral Lunge",legs,quads,"glutes,hamstrings",bodyweight,bodyweight,lunge,push,compound,
+168,"Curtsy Lunge",glutes,glutes,quads,bodyweight,bodyweight,lunge,push,compound,
+169,"Fire Hydrant",glutes,"abductors,glutes",,bodyweight,bodyweight,isolation,push,isolation,
+170,Clamshell,glutes,"abductors,glutes",,bodyweight,bodyweight,isolation,push,isolation,
+171,"Glute Kickback Machine",glutes,glutes,hamstrings,machine,machine,isolation,push,isolation,
+172,"Cable Hip Abduction",glutes,"abductors,glutes",,cable,cable,isolation,push,isolation,
+173,"Frog Pump",glutes,glutes,,bodyweight,bodyweight,hinge,pull,isolation,
+174,"Knee Push-up",chest,chest,"triceps,front_delt",bodyweight,bodyweight,horizontal_push,push,compound,
+175,"Pike Push-up",shoulders,"front_delt,side_delt","triceps,chest",bodyweight,bodyweight,vertical_push,pull,compound,
+176,"Assisted Pull-up Machine",back,lats,"biceps,rear_delt",machine,machine,vertical_pull,pull,compound,
+177,"Machine Lateral Raise",shoulders,side_delt,,machine,machine,isolation,push,isolation,
+178,"Dumbbell Bent-Over Row",back,"upper_back,lats","biceps,rear_delt",dumbbell,dumbbell,horizontal_pull,pull,compound,
+179,"Dead Hang",forearms,forearms,"upper_back,front_delt",bodyweight,"bodyweight,pullup_bar",isolation,static,isolation,
+180,"Tibialis Raise",calves,tibialis,,bodyweight,bodyweight,isolation,pull,isolation,
+181,"Skater Jump",cardio,,"quads,glutes",bodyweight,bodyweight,cardio,dynamic,compound,
+182,"Shadow Boxing",cardio,,"front_delt,abs",none,none,cardio,dynamic,compound,
+183,"Leg Swings",mobility,hamstrings,glutes,none,none,mobility,dynamic,isolation,
+184,"Cobra Stretch",mobility,"upper_back,lower_back",abs,none,none,mobility,static,isolation,
+185,"Downward Dog",mobility,hamstrings,"calves,front_delt",none,none,mobility,static,isolation,
+186,"Pigeon Stretch",mobility,glutes,,none,none,mobility,static,isolation,
+187,"90/90 Hip Stretch",mobility,glutes,,none,none,mobility,static,isolation,
+188,"Thoracic Open Book",mobility,"upper_back,lower_back",chest,none,none,mobility,dynamic,isolation,
+189,"Butterfly Stretch",mobility,adductors,,none,none,mobility,static,isolation,
+190,"Figure-4 Glute Stretch",mobility,glutes,,none,none,mobility,static,isolation,
+191,"Chin Tuck",mobility,neck,,none,none,mobility,static,isolation,
+192,"Wall Angel",mobility,"front_delt,rear_delt",upper_back,none,none,mobility,dynamic,isolation,
+193,"Wrist Flexor Stretch",mobility,forearms,,none,none,mobility,static,isolation,
+194,"Incline Barbell Bench Press",chest,"upper_chest,chest",,barbell,"barbell,bench",horizontal_push,push,compound,assets/ex/incline-barbell-bench-press.webp
+195,"Decline Barbell Bench Press",chest,chest,,barbell,"barbell,bench",horizontal_push,push,compound,assets/ex/decline-barbell-bench-press.webp
+196,"Incline Dumbbell Fly",chest,"upper_chest,chest",,dumbbell,"dumbbell,bench",isolation,pull,isolation,assets/ex/incline-dumbbell-fly.webp
+197,"Chest Dip",chest,chest,,bodyweight,bodyweight,horizontal_push,push,compound,assets/ex/chest-dip.webp
+198,"Machine Fly",chest,chest,,machine,machine,isolation,pull,isolation,assets/ex/machine-fly.webp
+199,"Close-Grip Bench Press",triceps,triceps,,barbell,"barbell,bench",horizontal_push,push,compound,assets/ex/close-grip-bench-press.webp
+200,"Triceps Dip",triceps,triceps,,bodyweight,bodyweight,horizontal_push,push,compound,assets/ex/triceps-dip.webp
+201,"Overhead Cable Rope Extension",triceps,triceps,,cable,cable,isolation,push,isolation,assets/ex/overhead-cable-rope-extension.webp
+202,"Dumbbell Triceps Kickback",triceps,triceps,,dumbbell,dumbbell,isolation,push,isolation,assets/ex/dumbbell-triceps-kickback.webp
+203,"Preacher Curl",biceps,biceps,,barbell,"barbell,bench",isolation,pull,isolation,assets/ex/preacher-curl.webp
+204,"EZ-Bar Curl",biceps,biceps,,barbell,"barbell,ez_bar",isolation,pull,isolation,assets/ex/ez-bar-curl.webp
+205,"Concentration Curl",biceps,biceps,,dumbbell,dumbbell,isolation,pull,isolation,assets/ex/concentration-curl.webp
+206,"Incline Dumbbell Curl",biceps,biceps,,dumbbell,"dumbbell,bench",isolation,pull,isolation,assets/ex/incline-dumbbell-curl.webp
+207,"Cable Rope Hammer Curl",biceps,biceps,,cable,cable,isolation,pull,isolation,assets/ex/cable-rope-hammer-curl.webp
+208,"Reverse Barbell Curl",biceps,biceps,,barbell,barbell,isolation,pull,isolation,assets/ex/reverse-barbell-curl.webp
+209,"Seated Barbell Press",shoulders,"front_delt,side_delt",,barbell,barbell,vertical_push,push,compound,assets/ex/seated-barbell-press.webp
+210,"Arnold Press",shoulders,"front_delt,side_delt",,dumbbell,dumbbell,vertical_push,push,compound,assets/ex/arnold-press.webp
+211,"Front Raise",shoulders,front_delt,,dumbbell,dumbbell,isolation,push,isolation,assets/ex/front-raise.webp
+212,"Upright Row",shoulders,side_delt,,barbell,barbell,horizontal_pull,pull,compound,assets/ex/upright-row.webp
+213,"Barbell Shrug",shoulders,traps,,barbell,barbell,isolation,pull,isolation,assets/ex/barbell-shrug.webp
+214,"Dumbbell Shrug",shoulders,traps,,dumbbell,dumbbell,isolation,pull,isolation,assets/ex/dumbbell-shrug.webp
+215,"Reverse Fly",shoulders,rear_delt,,dumbbell,dumbbell,isolation,pull,isolation,assets/ex/reverse-fly.webp
+216,Chin-up,back,lats,,bodyweight,"bodyweight,pullup_bar",vertical_pull,pull,compound,assets/ex/chin-up.webp
+217,"T-Bar Row",back,"upper_back,lats",,barbell,barbell,horizontal_pull,pull,compound,assets/ex/t-bar-row.webp
+218,"Close-Grip Lat Pulldown",back,lats,,cable,cable,vertical_pull,pull,compound,assets/ex/close-grip-lat-pulldown.webp
+219,"Straight-Arm Pulldown",back,lats,,cable,cable,vertical_pull,pull,isolation,assets/ex/straight-arm-pulldown.webp
+220,"Back Extension",back,"lower_back,upper_back",,bench,bench,hinge,pull,isolation,assets/ex/back-extension.webp
+221,"Inverted Row",back,"upper_back,lats",,bodyweight,bodyweight,horizontal_pull,pull,compound,assets/ex/inverted-row.webp
+222,"Good Morning",hamstrings,hamstrings,,barbell,barbell,hinge,pull,compound,assets/ex/good-morning.webp
+223,"Sumo Deadlift",glutes,glutes,,barbell,barbell,hinge,pull,compound,assets/ex/sumo-deadlift.webp
+224,"Front Squat",legs,quads,,barbell,barbell,squat,push,compound,assets/ex/front-squat.webp
+225,"Hack Squat",legs,quads,,machine,machine,squat,push,compound,assets/ex/hack-squat.webp
+226,"Smith Machine Squat",legs,quads,,machine,"machine,smith",squat,push,compound,assets/ex/smith-machine-squat.webp
+227,"Walking Lunge",legs,quads,,barbell,barbell,lunge,push,compound,assets/ex/walking-lunge.webp
+228,"Dumbbell Step-up",legs,quads,,dumbbell,"dumbbell,box",lunge,push,compound,assets/ex/dumbbell-step-up.webp
+229,"Seated Leg Curl",hamstrings,hamstrings,,machine,machine,isolation,pull,isolation,assets/ex/seated-leg-curl.webp
+230,"Hip Adduction Machine",legs,adductors,,machine,machine,isolation,push,isolation,assets/ex/hip-adduction-machine.webp
+231,"Hip Abduction Machine",glutes,"abductors,glutes",,machine,machine,isolation,push,isolation,assets/ex/hip-abduction-machine.webp
+232,"Seated Calf Raise",calves,calves,,machine,machine,isolation,push,isolation,assets/ex/seated-calf-raise.webp
+233,"Single-Leg Glute Bridge",glutes,glutes,,bodyweight,bodyweight,hinge,pull,isolation,assets/ex/single-leg-glute-bridge.webp
+234,"Hanging Leg Raise",abs,abs,,bodyweight,"bodyweight,pullup_bar",isolation,pull,isolation,assets/ex/hanging-leg-raise.webp
+235,"Russian Twist",abs,"obliques,abs",,bodyweight,bodyweight,rotation,dynamic,isolation,assets/ex/russian-twist.webp
+236,"Bicycle Crunch",abs,"obliques,abs",,bodyweight,bodyweight,isolation,pull,isolation,assets/ex/bicycle-crunch.webp
+237,"Side Plank",abs,"obliques,abs",,bodyweight,bodyweight,anti_rotation,static,isolation,assets/ex/side-plank.webp
+238,"Ab Wheel Rollout",abs,abs,,none,none,anti_rotation,push,isolation,assets/ex/ab-wheel-rollout.webp
+239,"Flutter Kicks",abs,abs,,bodyweight,bodyweight,isolation,pull,isolation,assets/ex/flutter-kicks.webp
+240,"Dead Bug",abs,abs,,bodyweight,bodyweight,anti_rotation,push,isolation,assets/ex/dead-bug.webp
+241,"Rowing Machine",cardio,,,machine,machine,cardio,dynamic,compound,assets/ex/rowing-machine.webp
+242,"Elliptical Trainer",cardio,,,machine,machine,cardio,dynamic,compound,assets/ex/elliptical-trainer.webp
+243,"Stair Climber",cardio,,,machine,machine,cardio,dynamic,compound,assets/ex/stair-climber.webp
+244,"Box Jump",legs,quads,,none,"none,box",squat,push,compound,assets/ex/box-jump.webp
+245,"Farmer's Walk",fullbody,"quads,glutes,upper_back",,dumbbell,dumbbell,carry,dynamic,compound,assets/ex/farmers-walk.webp
+246,"Bayesian Cable Curl",biceps,biceps,"forearms,front_delt",cable,cable,isolation,pull,isolation,
+247,"Dumbbell Preacher Curl",biceps,biceps,forearms,dumbbell,"dumbbell,bench",isolation,pull,isolation,
+248,"Barbell 21s",biceps,biceps,forearms,barbell,barbell,isolation,pull,isolation,
+249,"Kettlebell Curl",biceps,biceps,forearms,kettlebell,kettlebell,isolation,pull,isolation,
+250,"Waiter Curl",biceps,biceps,forearms,dumbbell,dumbbell,isolation,pull,isolation,
+251,"Suspension Biceps Curl",biceps,biceps,"forearms,rear_delt,abs",bodyweight,suspension,isolation,pull,isolation,
+252,"JM Press",triceps,triceps,"chest,front_delt",barbell,"barbell,bench",horizontal_push,push,compound,
+253,"Rope Triceps Pushdown",triceps,triceps,forearms,cable,cable,isolation,push,isolation,
+254,"Cable Triceps Kickback",triceps,triceps,rear_delt,cable,cable,isolation,push,isolation,
+255,"Single-Arm Overhead Dumbbell Extension",triceps,triceps,abs,dumbbell,dumbbell,isolation,push,isolation,
+256,"Band Triceps Pushdown",triceps,triceps,forearms,band,band,isolation,push,isolation,
+257,"Suspension Triceps Extension",triceps,triceps,"abs,chest",bodyweight,suspension,isolation,push,isolation,
+258,"Pendlay Row",back,"upper_back,lats","rear_delt,biceps,lower_back",barbell,barbell,horizontal_pull,pull,compound,
+259,"Seal Row",back,"upper_back,lats","rear_delt,biceps",barbell,"barbell,bench",horizontal_pull,pull,compound,
+260,"Meadows Row",back,"lats,upper_back","rear_delt,biceps,forearms",barbell,landmine,horizontal_pull,pull,compound,
+261,"Chest-Supported T-Bar Row",back,"upper_back,lats","rear_delt,biceps",machine,machine,horizontal_pull,pull,compound,
+262,"Plate-Loaded Lat Pulldown",back,lats,"biceps,upper_back,rear_delt",machine,machine,vertical_pull,pull,compound,
+263,"Wide-Grip Seated Cable Row",back,"upper_back,rear_delt","lats,biceps,traps",cable,cable,horizontal_pull,pull,compound,
+264,"Renegade Row",back,"upper_back,lats","abs,obliques,triceps,front_delt",dumbbell,dumbbell,horizontal_pull,pull,compound,
+265,"Weighted Pull-up",back,lats,"biceps,upper_back,forearms,abs",bodyweight,"pullup_bar,plate",vertical_pull,pull,compound,
+266,Muscle-up,back,"lats,triceps","chest,biceps,abs,front_delt",bodyweight,pullup_bar,vertical_pull,pull,compound,
+267,"Snatch-Grip Deadlift",back,"upper_back,lower_back,traps","glutes,hamstrings,quads,forearms",barbell,barbell,hinge,pull,compound,
+268,"Deficit Deadlift",back,"lower_back,glutes","hamstrings,quads,upper_back,forearms",barbell,"barbell,box",hinge,pull,compound,
+269,"Kettlebell Gorilla Row",back,"upper_back,lats","biceps,rear_delt,obliques,lower_back",kettlebell,kettlebell,horizontal_pull,pull,compound,
+270,"Dumbbell Deadlift",back,"lower_back,glutes","hamstrings,quads,upper_back,forearms",dumbbell,dumbbell,hinge,pull,compound,
+271,"Suspension Row",back,"upper_back,lats","biceps,rear_delt,abs",bodyweight,suspension,horizontal_pull,pull,compound,
+272,"Cable Pull-over",back,lats,"triceps,abs,chest",cable,cable,isolation,pull,isolation,
+273,"Svend Press",chest,chest,"front_delt,triceps",barbell,plate,horizontal_push,push,isolation,
+274,"Dumbbell Squeeze Press",chest,chest,"triceps,front_delt",dumbbell,"dumbbell,bench",horizontal_push,push,compound,
+275,"Archer Push-up",chest,chest,"triceps,front_delt,abs",bodyweight,bodyweight,horizontal_push,push,compound,
+276,"Deficit Push-up",chest,chest,"triceps,front_delt,abs",bodyweight,"bodyweight,box",horizontal_push,push,compound,
+277,"Single-Arm Cable Fly",chest,chest,front_delt,cable,cable,isolation,push,isolation,
+278,"Decline Machine Chest Press",chest,chest,"triceps,front_delt",machine,machine,horizontal_push,push,compound,
+279,"Barbell Floor Press",chest,chest,"triceps,front_delt",barbell,barbell,horizontal_push,push,compound,
+280,"Kettlebell Floor Press",chest,chest,"triceps,front_delt",kettlebell,kettlebell,horizontal_push,push,compound,
+281,"Suspension Chest Press",chest,chest,"triceps,front_delt,abs",bodyweight,suspension,horizontal_push,push,compound,
+282,"Air Bike",cardio,,"quads,glutes,front_delt,triceps",machine,machine,cardio,dynamic,compound,
+283,"Ski Ergometer",cardio,,"lats,triceps,abs,glutes",machine,machine,cardio,dynamic,compound,
+284,Running,cardio,,"quads,calves,hamstrings,glutes",none,none,cardio,dynamic,compound,
+285,"Brisk Walking",cardio,,"calves,glutes,quads",none,none,cardio,dynamic,compound,
+286,Swimming,cardio,,"lats,front_delt,triceps,abs",none,none,cardio,dynamic,compound,
+287,"Sprint Intervals",cardio,,"hamstrings,glutes,quads,calves",none,none,cardio,dynamic,compound,
+288,"Lateral Shuffle",cardio,,"quads,abductors,adductors,calves",bodyweight,bodyweight,cardio,dynamic,compound,
+289,"Plank Jack",cardio,,"abs,front_delt,abductors,calves",bodyweight,bodyweight,cardio,dynamic,compound,
+290,"Dumbbell Thruster",fullbody,"quads,front_delt","glutes,triceps,abs,side_delt",dumbbell,dumbbell,squat,push,compound,
+291,"Barbell Thruster",fullbody,"quads,front_delt","glutes,triceps,abs,upper_back",barbell,barbell,squat,push,compound,
+292,"Wall Ball",fullbody,"quads,front_delt","glutes,triceps,abs",ball,ball,squat,push,compound,
+293,"Man Maker",fullbody,"chest,upper_back,quads","front_delt,triceps,abs,glutes",dumbbell,dumbbell,hinge,dynamic,compound,
+294,"Devil Press",fullbody,"glutes,hamstrings,front_delt","chest,triceps,upper_back,abs",dumbbell,dumbbell,hinge,dynamic,compound,
+295,"Dumbbell Snatch",fullbody,"glutes,hamstrings,front_delt","quads,traps,upper_back,abs",dumbbell,dumbbell,hinge,dynamic,compound,
+296,"Kettlebell Clean",fullbody,"glutes,hamstrings","upper_back,biceps,forearms,abs",kettlebell,kettlebell,hinge,dynamic,compound,
+297,"Kettlebell Snatch",fullbody,"glutes,hamstrings,front_delt","upper_back,traps,forearms,abs",kettlebell,kettlebell,hinge,dynamic,compound,
+298,"Hang Power Clean",fullbody,"glutes,hamstrings,traps","quads,upper_back,front_delt,forearms",barbell,barbell,hinge,dynamic,compound,
+299,"Clean and Jerk",fullbody,"glutes,quads,front_delt","hamstrings,traps,triceps,upper_back",barbell,barbell,hinge,dynamic,compound,
+300,"Barbell Snatch",fullbody,"glutes,hamstrings,traps","quads,front_delt,upper_back,abs",barbell,barbell,hinge,dynamic,compound,
+301,"Sled Drag",fullbody,"quads,glutes","calves,hamstrings,upper_back,forearms",machine,sled,carry,pull,compound,
+302,"Hanging Knee Raise",abs,abs,"obliques,forearms,lats",bodyweight,pullup_bar,isolation,pull,isolation,
+303,"Captain's Chair Knee Raise",abs,abs,obliques,machine,machine,isolation,pull,isolation,
+304,Toes-to-Bar,abs,abs,"obliques,lats,forearms",bodyweight,pullup_bar,isolation,pull,compound,
+305,"Dragon Flag",abs,abs,"obliques,lats,glutes",bench,bench,isolation,static,compound,
+306,L-Sit,abs,abs,"triceps,quads,front_delt",bodyweight,bodyweight,isolation,static,compound,
+307,"Windshield Wipers",abs,"obliques,abs",adductors,bodyweight,bodyweight,rotation,dynamic,compound,
+308,"Plank Up-Down",abs,abs,"triceps,front_delt,obliques",bodyweight,bodyweight,anti_rotation,dynamic,compound,
+309,"Side Plank Hip Dip",abs,obliques,"abs,abductors",bodyweight,bodyweight,anti_rotation,dynamic,isolation,
+310,"Stir the Pot",abs,abs,"obliques,front_delt,lats",ball,ball,anti_rotation,static,compound,
+311,"Suitcase Carry",abs,obliques,"abs,forearms,traps,abductors",dumbbell,dumbbell,carry,static,compound,
+312,"Decline Sit-up",abs,abs,obliques,bench,bench,isolation,pull,isolation,
+313,"Toe Touch Crunch",abs,abs,obliques,bodyweight,bodyweight,isolation,pull,isolation,
+314,"Bear Plank Hold",abs,abs,"front_delt,quads,obliques",bodyweight,bodyweight,anti_rotation,static,compound,
+315,"Suspension Atomic Push-up",abs,abs,"chest,triceps,front_delt",bodyweight,suspension,anti_rotation,push,compound,
+316,"Cable Oblique Crunch",abs,obliques,abs,cable,cable,isolation,pull,isolation,
+317,"Plate Pinch Hold",forearms,forearms,,barbell,plate,isolation,static,isolation,
+318,"Hand Gripper",forearms,forearms,,none,none,isolation,pull,isolation,
+319,"Dumbbell Wrist Rotation",forearms,forearms,biceps,dumbbell,dumbbell,rotation,dynamic,isolation,
+320,"Neck Isometric Hold",neck,neck,traps,none,none,isolation,static,isolation,
+321,"Lying Neck Flexion",neck,neck,,bodyweight,"bodyweight,bench",isolation,pull,isolation,
+322,"Lying Neck Extension",neck,neck,"traps,upper_back",bodyweight,"bodyweight,bench",isolation,push,isolation,
+323,"Pendulum Squat",legs,quads,"glutes,adductors",machine,machine,squat,push,compound,
+324,"Belt Squat",legs,"quads,glutes","adductors,hamstrings",machine,machine,squat,push,compound,
+325,"Safety Bar Squat",legs,"quads,glutes","upper_back,hamstrings,abs",barbell,barbell,squat,push,compound,
+326,"Heel-Elevated Goblet Squat",legs,quads,"glutes,abs,adductors",dumbbell,"dumbbell,plate",squat,push,compound,
+327,"Zercher Squat",legs,"quads,glutes","abs,upper_back,biceps,adductors",barbell,barbell,squat,push,compound,
+328,"Overhead Squat",legs,"quads,glutes","front_delt,traps,abs,upper_back",barbell,barbell,squat,push,compound,
+329,"Pause Squat",legs,"quads,glutes","hamstrings,lower_back,abs",barbell,barbell,squat,push,compound,
+330,"Reverse Nordic",legs,quads,abs,bodyweight,bodyweight,isolation,push,isolation,
+331,"Spanish Squat",legs,quads,glutes,band,band,squat,push,compound,
+332,"Single-Leg Leg Press",legs,"quads,glutes","hamstrings,adductors",machine,machine,squat,push,compound,
+333,"Smith Machine Split Squat",legs,"quads,glutes","hamstrings,adductors",machine,smith,lunge,push,compound,
+334,"Cossack Squat",legs,"quads,adductors","glutes,hamstrings",bodyweight,bodyweight,lunge,push,compound,
+335,"Bodyweight Lunge",legs,"quads,glutes","hamstrings,calves,adductors",bodyweight,bodyweight,lunge,push,compound,
+336,"Broad Jump",legs,"quads,glutes","hamstrings,calves",bodyweight,bodyweight,squat,push,compound,
+337,"Tuck Jump",legs,quads,"glutes,calves,abs",bodyweight,bodyweight,squat,push,compound,
+338,"Copenhagen Plank",legs,adductors,"obliques,abs,abductors",bench,bench,anti_rotation,static,isolation,
+339,"Suspension Pistol Squat",legs,"quads,glutes","hamstrings,abs,calves",bodyweight,suspension,lunge,push,compound,
+340,"Smith Machine Reverse Lunge",legs,"quads,glutes","hamstrings,adductors",machine,smith,lunge,push,compound,
+341,"Band Leg Curl",hamstrings,hamstrings,calves,band,band,isolation,pull,isolation,
+342,"Single-Leg Romanian Deadlift",hamstrings,"hamstrings,glutes","lower_back,abductors,abs",bodyweight,bodyweight,hinge,pull,compound,
+343,"Kettlebell Deadlift",hamstrings,"hamstrings,glutes","lower_back,quads,forearms",kettlebell,kettlebell,hinge,pull,compound,
+344,"Suspension Hamstring Curl",hamstrings,hamstrings,"glutes,abs,calves",bodyweight,suspension,isolation,pull,isolation,
+345,"Dumbbell Hip Thrust",glutes,glutes,"hamstrings,quads,abs",dumbbell,"dumbbell,bench",hinge,push,compound,
+346,"Machine Hip Thrust",glutes,glutes,"hamstrings,quads",machine,machine,hinge,push,compound,
+347,"B-Stance Hip Thrust",glutes,glutes,"hamstrings,quads,abductors",barbell,"barbell,bench",hinge,push,compound,
+348,"Smith Machine Hip Thrust",glutes,glutes,"hamstrings,quads",machine,"smith,bench",hinge,push,compound,
+349,"Kettlebell Sumo Deadlift",glutes,"glutes,adductors","quads,hamstrings,lower_back",kettlebell,kettlebell,hinge,pull,compound,
+350,"45-Degree Glute Hyperextension",glutes,glutes,"hamstrings,lower_back",bench,bench,hinge,pull,isolation,
+351,"Deficit Reverse Lunge",glutes,"glutes,quads","hamstrings,adductors",dumbbell,"dumbbell,box",lunge,push,compound,
+352,"Seated Dumbbell Calf Raise",calves,calves,,dumbbell,"dumbbell,bench",isolation,push,isolation,
+353,"Pogo Hops",calves,calves,"quads,tibialis",bodyweight,bodyweight,cardio,push,compound,
+354,"Thread the Needle",mobility,upper_back,"rear_delt,obliques",none,none,mobility,dynamic,isolation,
+355,"Couch Stretch",mobility,quads,abs,none,none,mobility,static,isolation,
+356,"Frog Stretch",mobility,adductors,glutes,none,none,mobility,static,isolation,
+357,"Deep Squat Hold",mobility,"adductors,glutes","calves,lower_back",none,none,mobility,static,compound,
+358,"Knee-to-Wall Ankle Mobilization",mobility,calves,tibialis,none,none,mobility,dynamic,isolation,
+359,"Sleeper Stretch",mobility,rear_delt,upper_back,none,none,mobility,static,isolation,
+360,"Kneeling Lat Stretch",mobility,lats,"triceps,upper_back",bench,bench,mobility,static,isolation,
+361,"Foam Roll Thoracic Spine",mobility,upper_back,traps,none,foam_roller,mobility,dynamic,isolation,
+362,"Foam Roll Quads",mobility,quads,,none,foam_roller,mobility,dynamic,isolation,
+363,"Foam Roll Glutes",mobility,glutes,abductors,none,foam_roller,mobility,dynamic,isolation,
+364,"Foam Roll Calves",mobility,calves,,none,foam_roller,mobility,dynamic,isolation,
+365,"Seated Spinal Twist",mobility,"upper_back,lower_back","obliques,glutes",none,none,mobility,static,isolation,
+366,"Supine Spinal Twist",mobility,lower_back,"glutes,obliques,chest",none,none,mobility,static,isolation,
+367,"Shoulder CARs",mobility,"front_delt,rear_delt","side_delt,upper_back",none,none,mobility,dynamic,isolation,
+368,"Hip CARs",mobility,"glutes,adductors","abductors,abs",none,none,mobility,dynamic,isolation,
+369,"Adductor Rockback",mobility,adductors,"hamstrings,glutes",none,none,mobility,dynamic,isolation,
+370,"Jefferson Curl",mobility,"hamstrings,lower_back","upper_back,glutes",dumbbell,"dumbbell,box",mobility,dynamic,compound,
+371,"Reverse Snow Angel",mobility,"upper_back,rear_delt","traps,lower_back",none,none,mobility,dynamic,isolation,
+372,"Landmine Press",shoulders,"front_delt,upper_chest","triceps,side_delt,obliques",barbell,landmine,vertical_push,push,compound,
+373,"Z Press",shoulders,"front_delt,side_delt","triceps,abs,upper_back",barbell,barbell,vertical_push,push,compound,
+374,"Plate Front Raise",shoulders,front_delt,"upper_chest,side_delt,traps",barbell,plate,isolation,push,isolation,
+375,"Cable Front Raise",shoulders,front_delt,"upper_chest,side_delt",cable,cable,isolation,push,isolation,
+376,"Incline Y-Raise",shoulders,"side_delt,traps","rear_delt,upper_back",dumbbell,"dumbbell,bench",isolation,push,isolation,
+377,"Prone Y-T-W Raise",shoulders,"rear_delt,upper_back,traps","side_delt,lower_back",bodyweight,bodyweight,isolation,pull,isolation,
+378,"Dumbbell Upright Row",shoulders,"side_delt,traps","biceps,front_delt,forearms",dumbbell,dumbbell,isolation,pull,compound,
+379,"Kettlebell Halo",shoulders,"front_delt,side_delt","triceps,upper_back,abs",kettlebell,kettlebell,rotation,dynamic,compound,
+380,"Kettlebell Overhead Press",shoulders,"front_delt,side_delt","triceps,abs,obliques",kettlebell,kettlebell,vertical_push,push,compound,
+381,"Handstand Push-up",shoulders,"front_delt,side_delt","triceps,traps,abs",bodyweight,bodyweight,vertical_push,push,compound,
+382,"Lean-Away Lateral Raise",shoulders,side_delt,"traps,front_delt",dumbbell,dumbbell,isolation,push,isolation,
+383,"Band Face Pull",shoulders,rear_delt,"upper_back,traps",band,band,horizontal_pull,pull,isolation,
+384,"Cable Y-Raise",shoulders,side_delt,"traps,upper_back,rear_delt",cable,cable,isolation,push,isolation,
+385,"Trap Bar Shrug",shoulders,traps,"forearms,upper_back",barbell,trap_bar,isolation,pull,isolation,
+386,"Overhead Carry",shoulders,"front_delt,side_delt,traps","triceps,abs,obliques",dumbbell,dumbbell,carry,static,compound,
+387,Windmill,abs,obliques,"glutes,hamstrings,side_delt",none,none,rotation,dynamic,compound,
+388,"Kettlebell Windmill",abs,obliques,"glutes,hamstrings,side_delt,front_delt",kettlebell,kettlebell,rotation,dynamic,compound,
+389,"Dowel Windmill",mobility,"obliques,hamstrings","glutes,side_delt",none,none,mobility,dynamic,compound,
+390,"Suspension Hip Drop",abs,obliques,"abs,abductors",bodyweight,suspension,anti_rotation,dynamic,isolation,
+391,"Suspension Leg Raise",abs,abs,obliques,bodyweight,suspension,anti_rotation,dynamic,isolation,
+392,"Leg Raises with Stability Ball",abs,abs,adductors,ball,ball,anti_rotation,dynamic,isolation,
+393,"Mini Band Leg Raise",abs,abs,quads,band,band,anti_rotation,dynamic,isolation,
+394,"Vertical Leg Raise",abs,abs,"quads,obliques",machine,machine,anti_rotation,dynamic,isolation,
+395,"Hanging Oblique Knee Raise",abs,obliques,"abs,forearms",bodyweight,pullup_bar,rotation,dynamic,isolation,
+396,"Hip Lift March",glutes,glutes,"abs,hamstrings",bodyweight,bodyweight,hinge,static,isolation,
+397,"Hanging Windshield Wiper",abs,"obliques,abs","lats,forearms",bodyweight,pullup_bar,rotation,dynamic,compound,
+398,"Suspension Pike",abs,abs,"front_delt,quads",bodyweight,suspension,anti_rotation,dynamic,compound,
+399,"Stability Ball Pike",abs,abs,"front_delt,quads",ball,ball,anti_rotation,dynamic,compound,
+400,"Balance Trainer Bird Dog",abs,"abs,lower_back","glutes,rear_delt",ball,balance_trainer,anti_rotation,static,compound,
+401,"High Plank Arm Reach",abs,abs,"front_delt,obliques",bodyweight,bodyweight,anti_rotation,static,compound,
+402,"Balance Trainer Up and Down Plank",abs,"abs,triceps","front_delt,chest",ball,balance_trainer,anti_rotation,dynamic,compound,
+403,"Balance Trainer Walk Out Plank",abs,abs,"front_delt,triceps,hamstrings",ball,balance_trainer,anti_rotation,dynamic,compound,
+404,"Balance Trainer Star Plank Knee to Elbow",abs,obliques,"abductors,side_delt",ball,balance_trainer,anti_rotation,dynamic,compound,
+405,"Balance Trainer Traveling Dome Plank",abs,abs,"front_delt,triceps",ball,balance_trainer,anti_rotation,dynamic,compound,
+406,"Reverse Plank",abs,"glutes,hamstrings","lower_back,triceps,rear_delt",bodyweight,bodyweight,hinge,static,compound,
+407,"Reverse Plank on Elbows",abs,"glutes,hamstrings","lower_back,rear_delt",bodyweight,bodyweight,hinge,static,compound,
+408,"Suspension Reverse Plank",abs,"glutes,hamstrings","lower_back,triceps",bodyweight,suspension,hinge,static,compound,
+409,"Plank Body Saw",abs,abs,"front_delt,lats",bodyweight,bodyweight,anti_rotation,dynamic,isolation,
+410,"Suspension Bodysaw",abs,abs,"front_delt,lats",bodyweight,suspension,anti_rotation,dynamic,isolation,
+411,"Plank Hip Dip",abs,obliques,abs,bodyweight,bodyweight,rotation,dynamic,isolation,
+412,"Stability Ball Plank",abs,abs,"front_delt,triceps,quads",ball,ball,anti_rotation,static,compound,
+413,"Forward Stability Ball Plank",abs,abs,front_delt,ball,ball,anti_rotation,static,compound,
+414,"Stability Ball Plank on Balance Trainer",abs,abs,"front_delt,triceps",ball,"ball,balance_trainer",anti_rotation,static,compound,
+415,"Balance Trainer Leg Crossover Plank",abs,"obliques,abs",front_delt,ball,balance_trainer,rotation,dynamic,compound,
+416,"Plank With Dumbbell Pull Through",abs,"abs,obliques","front_delt,lats",dumbbell,dumbbell,anti_rotation,dynamic,compound,
+417,"Mini Band Plank with Straight Leg Kickback",glutes,glutes,abs,band,band,isolation,dynamic,isolation,
+418,"Balance Trainer Shoulder Tap Plank",abs,abs,"front_delt,triceps,chest",ball,balance_trainer,anti_rotation,static,compound,
+419,"Balance Trainer Plank",abs,abs,front_delt,ball,balance_trainer,anti_rotation,static,compound,
+420,"Elevated Plank",abs,abs,"front_delt,chest",bodyweight,"bodyweight,bench",anti_rotation,static,compound,
+421,"Elevated Plank With Slow Mountain Climber",abs,abs,"front_delt,quads",bodyweight,"bodyweight,bench",anti_rotation,dynamic,compound,
+422,"Suspension Side Plank",abs,obliques,"abductors,abs",bodyweight,suspension,anti_rotation,static,isolation,
+423,"Side Plank With Knees Bent",abs,obliques,abductors,bodyweight,bodyweight,anti_rotation,static,isolation,
+424,"Band Side Plank Row",abs,obliques,"lats,upper_back,rear_delt",band,band,anti_rotation,pull,compound,
+425,"Band Plank Row",abs,abs,"lats,upper_back,obliques",band,band,anti_rotation,pull,compound,
+426,"Plank Surrender",abs,abs,"triceps,front_delt",bodyweight,bodyweight,anti_rotation,dynamic,compound,
+427,"Plank Jack on Elbows",abs,abs,"abductors,front_delt",bodyweight,bodyweight,anti_rotation,dynamic,compound,
+428,"Quadruped Plank With Leg Extensions",abs,abs,"glutes,front_delt,hamstrings",bodyweight,bodyweight,anti_rotation,static,compound,
+429,"Mini Band Around the World Plank",abs,"abs,abductors","glutes,front_delt",band,band,anti_rotation,dynamic,compound,
+430,"Balance Trainer Side Star Plank",abs,"obliques,abductors",side_delt,ball,balance_trainer,anti_rotation,static,isolation,
+431,"Extended Plank",abs,abs,"lats,front_delt",bodyweight,bodyweight,anti_rotation,static,compound,
+432,"Suspension Plank",abs,abs,"front_delt,quads",bodyweight,suspension,anti_rotation,static,compound,
+433,"Partner Plank and Reach",abs,abs,"front_delt,obliques",none,none,anti_rotation,static,compound,
+434,"Medicine Ball Russian Twist",abs,"obliques,abs",front_delt,ball,ball,rotation,dynamic,isolation,
+435,"Stability Ball Russian Twist",abs,obliques,"glutes,abs",ball,ball,rotation,dynamic,compound,
+436,"Cable Russian Twist",abs,obliques,abs,cable,cable,rotation,dynamic,isolation,
+437,"Partner Russian Twist",abs,obliques,abs,ball,ball,rotation,dynamic,isolation,
+438,"Partner Medicine Ball Full Twist",abs,obliques,"front_delt,abs",ball,ball,rotation,dynamic,compound,
+439,"Balance Trainer Russian Twist",abs,"obliques,abs",front_delt,ball,balance_trainer,rotation,dynamic,isolation,
+440,"Decline Russian Twist",abs,"obliques,abs",front_delt,bench,bench,rotation,dynamic,isolation,
+441,"Band Standing Ab Twist",abs,obliques,abs,band,band,rotation,dynamic,isolation,
+442,"Standing Cable Core Twist",abs,obliques,"abs,front_delt",cable,cable,rotation,dynamic,isolation,
+443,"Stability Ball Abdominal Twist",abs,obliques,abs,ball,ball,rotation,dynamic,isolation,
+444,"Stability Ball Seated Twist",abs,obliques,"abs,front_delt",ball,ball,rotation,dynamic,isolation,
+445,"Torture Twist",abs,"obliques,abs",forearms,bench,bench,rotation,dynamic,isolation,
+446,"Weighted Torture Twist",abs,"obliques,abs","adductors,forearms",bench,"bench,ball",rotation,dynamic,isolation,
+447,"Pallof Press Walk Out",abs,"obliques,abs",glutes,cable,cable,anti_rotation,static,isolation,
+448,"Supine Pallof Press",abs,"obliques,abs",front_delt,band,band,anti_rotation,static,isolation,
+449,"Full Kneeling Pallof Press",abs,"obliques,abs","glutes,front_delt",cable,cable,anti_rotation,static,isolation,
+450,"Pallof Press and Twist",abs,obliques,"abs,front_delt",cable,cable,rotation,dynamic,isolation,
+451,"Partner Pallof Twist",abs,"obliques,abs",front_delt,band,band,anti_rotation,static,isolation,
+452,"Suspension Resisted Rotation",abs,obliques,"front_delt,abs",bodyweight,suspension,rotation,dynamic,isolation,
+453,"Partner Lying Leg Throw Down",abs,abs,quads,none,none,anti_rotation,dynamic,isolation,
+454,"Partner Leg Toss Windshields",abs,"obliques,abs",quads,none,none,rotation,dynamic,isolation,
+455,"Stance Jack",cardio,,"quads,glutes,abs",bodyweight,bodyweight,cardio,dynamic,compound,
+456,"Exercise Ball Pull In",abs,abs,"front_delt,quads",ball,ball,anti_rotation,dynamic,compound,
+457,"Balance Trainer Stability Ball Knee Tuck",abs,abs,"front_delt,triceps",ball,"ball,balance_trainer",anti_rotation,dynamic,compound,
+458,"Cable Wood Chop (Low to High)",abs,obliques,"front_delt,glutes,abs",cable,cable,rotation,dynamic,compound,
+459,"Balance Trainer Wood Chopper",abs,obliques,"quads,glutes,front_delt",ball,"balance_trainer,ball",rotation,dynamic,compound,
+460,"High Butt Bear Crawl",fullbody,front_delt,"hamstrings,abs,calves",bodyweight,bodyweight,carry,dynamic,compound,
+461,"Dowel Lateral Bend",mobility,obliques,lats,none,none,mobility,dynamic,isolation,
+462,"Partner Sit-up Toss",abs,abs,"front_delt,chest,triceps",ball,ball,anti_rotation,dynamic,compound,
+463,"Partner Sit-up Hi-Five",abs,abs,obliques,none,none,anti_rotation,dynamic,isolation,
+464,"Medicine Ball Overhead Sit-up",abs,abs,front_delt,ball,ball,anti_rotation,dynamic,compound,
+465,"Overhead Weighted Sit-up",abs,abs,"front_delt,triceps",barbell,plate,anti_rotation,dynamic,compound,
+466,"Decline Overhead Weighted Sit-up",abs,abs,"front_delt,triceps",bench,"bench,plate",anti_rotation,dynamic,compound,
+467,"Glute Ham Raise Sit-up",abs,abs,quads,machine,machine,anti_rotation,dynamic,isolation,
+468,"Decline Sit-up with Medicine Ball Toss",abs,abs,"chest,triceps,front_delt",bench,"bench,ball",anti_rotation,dynamic,compound,
+469,"Kettlebell Sit-up and Press",abs,abs,"front_delt,triceps",kettlebell,kettlebell,vertical_push,push,compound,
+470,"Crab Reach",mobility,"glutes,front_delt","chest,obliques,quads",bodyweight,bodyweight,mobility,dynamic,compound,
+471,"Stability Ball Roll Out",abs,abs,"lats,front_delt",ball,ball,anti_rotation,dynamic,isolation,
+472,"Barbell Ab Rollout",abs,abs,"lats,front_delt,triceps",barbell,"barbell,plate",anti_rotation,dynamic,isolation,
+473,"Suspension Fallout",abs,abs,"lats,front_delt",bodyweight,suspension,anti_rotation,dynamic,isolation,
+474,"Suspension Ab Rollout",abs,abs,"lats,front_delt",bodyweight,suspension,anti_rotation,dynamic,isolation,
+475,"Suspension Kneeling Oblique Rollout",abs,"obliques,abs",lats,bodyweight,suspension,anti_rotation,dynamic,isolation,
+476,"Up Dog",mobility,abs,"chest,quads,front_delt",none,none,mobility,static,isolation,
+477,"Suspension Scapular Push-up",shoulders,front_delt,"chest,abs",bodyweight,suspension,horizontal_push,push,isolation,
+478,"Balance Trainer Braced Bicycle Kick",abs,abs,quads,ball,balance_trainer,anti_rotation,dynamic,isolation,
+479,"Balance Trainer Braced Frog Kick",abs,abs,"quads,adductors",ball,balance_trainer,anti_rotation,dynamic,isolation,
+480,"Dumbbell V-Sit Cross Jab",abs,"obliques,abs",front_delt,dumbbell,dumbbell,rotation,dynamic,compound,
+481,"Mini Band Scissor Kick",abs,abs,"quads,abductors",band,band,anti_rotation,dynamic,isolation,
+482,"Scissor Crossover Kick",abs,abs,"adductors,quads",bodyweight,bodyweight,anti_rotation,dynamic,isolation,
+483,"Elbow to Knee Crunch",abs,"obliques,abs",,bodyweight,bodyweight,rotation,dynamic,isolation,
+484,"Standing Elbow to Knee Crunch",abs,"obliques,abs",quads,bodyweight,bodyweight,rotation,dynamic,compound,
+485,"Standing Oblique Crunch",abs,obliques,abductors,bodyweight,bodyweight,rotation,dynamic,isolation,
+486,"Balance Trainer Cable Crunch With Side Bends",abs,"abs,obliques",,cable,"cable,balance_trainer",rotation,dynamic,isolation,
+487,"Band Crunch",abs,abs,,band,band,anti_rotation,dynamic,isolation,
+488,"Balance Trainer Crunch",abs,abs,,ball,balance_trainer,anti_rotation,dynamic,isolation,
+489,"Balance Trainer Single-Leg Crunch",abs,abs,obliques,ball,balance_trainer,anti_rotation,dynamic,isolation,
+490,"Balance Trainer Overhead Weighted Crunch",abs,abs,front_delt,ball,"balance_trainer,ball",anti_rotation,dynamic,isolation,
+491,"Medicine Ball Leg Crunch",abs,abs,adductors,ball,ball,anti_rotation,dynamic,isolation,
+492,"Tuck Crunch",abs,abs,,bodyweight,bodyweight,anti_rotation,dynamic,isolation,
+493,"Cocoon Crunch",abs,abs,quads,bodyweight,bodyweight,anti_rotation,dynamic,isolation,
+494,"Stability Ball Bicycle Crunch",abs,"obliques,abs",,ball,ball,rotation,dynamic,isolation,
+495,"Stability Ball Oblique Crunch",abs,obliques,abductors,ball,ball,rotation,dynamic,isolation,
+496,"Decline Oblique Crunch",abs,"obliques,abs",,bench,bench,rotation,dynamic,isolation,
+497,"Decline Reverse Crunch",abs,abs,,bench,bench,anti_rotation,dynamic,isolation,
+498,"Spiderman Plank Crunch",abs,"obliques,abs","front_delt,glutes",bodyweight,bodyweight,rotation,dynamic,compound,
+499,"Balance Trainer Slow Climber",abs,abs,"front_delt,quads",ball,balance_trainer,anti_rotation,dynamic,compound,
+500,"Balance Trainer Speed Climber",cardio,,"abs,front_delt,quads",ball,balance_trainer,cardio,dynamic,compound,
+501,"Mini Band Mountain Climber",abs,abs,"quads,front_delt",band,band,anti_rotation,dynamic,compound,
+502,"Cross Body Mountain Climber",abs,"obliques,abs","front_delt,quads",bodyweight,bodyweight,rotation,dynamic,compound,
+503,"Reverse Lunge With Half-Kneeling Pallof Press",abs,"obliques,abs","quads,glutes",cable,cable,anti_rotation,static,compound,
+504,"Opposite Leg Toe Touch",abs,"obliques,abs",hamstrings,bodyweight,bodyweight,rotation,dynamic,isolation,
+505,"Mini Band Toe Touch",abs,abs,"quads,abductors",band,band,anti_rotation,dynamic,isolation,
+506,"Kipping Toes-to-Bar",abs,abs,"lats,forearms",bodyweight,pullup_bar,anti_rotation,dynamic,compound,
+507,"Seated Toe Tap",abs,abs,quads,bodyweight,bodyweight,anti_rotation,dynamic,isolation,
+508,"Side Plank Leg Lift",abs,"obliques,abductors",glutes,bodyweight,bodyweight,anti_rotation,static,isolation,
+509,"Side Plank Lift",abs,obliques,abductors,bodyweight,bodyweight,anti_rotation,dynamic,isolation,
+510,"Side Plank Clam Lift",glutes,"abductors,obliques",glutes,bodyweight,bodyweight,isolation,dynamic,isolation,
+511,"Balance Trainer Single-Leg Lift",abs,abs,quads,ball,balance_trainer,anti_rotation,dynamic,isolation,
+512,"Stomach Vacuum",abs,abs,,none,none,anti_rotation,static,isolation,
+513,V-Sit,abs,abs,quads,bodyweight,bodyweight,anti_rotation,static,isolation,
+514,"Dumbbell Halo To Oblique Crunch",abs,obliques,"front_delt,side_delt,abs",dumbbell,dumbbell,rotation,dynamic,compound,
+515,"Dowel Helicopter",mobility,obliques,upper_back,none,none,mobility,dynamic,isolation,
+516,"Stability Ball V-pass",abs,abs,"quads,front_delt",ball,ball,anti_rotation,dynamic,compound,
+517,"Side Bend Stretch",mobility,obliques,lats,none,none,mobility,static,isolation,
+518,"Smith Machine Close-Grip Bench Press",triceps,"triceps,chest",front_delt,machine,"smith,bench",horizontal_push,push,compound,
+519,"Incline Barbell Skull Crusher",triceps,triceps,forearms,barbell,"ez_bar,bench",isolation,push,isolation,
+520,"Cable One-Arm Triceps Side Extension",triceps,triceps,rear_delt,cable,cable,isolation,push,isolation,
+521,"Cable One-Arm Underhand Triceps Extension",triceps,triceps,forearms,cable,cable,isolation,push,isolation,
+522,"Band Single-Arm Triceps Extension",triceps,triceps,,band,band,isolation,push,isolation,
+523,"Mini Band Triceps Press",triceps,triceps,,band,band,isolation,push,isolation,
+524,"Cobra Triceps Extension",triceps,triceps,"chest,front_delt,lower_back",bodyweight,bodyweight,horizontal_push,push,isolation,
+525,"Ring Dip",triceps,"triceps,chest","front_delt,abs",bodyweight,suspension,vertical_push,push,compound,
+526,"Assisted Dip",triceps,"triceps,chest",front_delt,machine,machine,vertical_push,push,compound,
+527,"Dowel Triceps Stretch",mobility,triceps,lats,none,none,mobility,static,isolation,
+528,"Cable Wrist Curl",forearms,forearms,,cable,cable,isolation,pull,isolation,
+529,"Palms-Down Barbell Wrist Curl",forearms,forearms,,barbell,barbell,isolation,pull,isolation,
+530,"Band Reverse Curl",forearms,"forearms,biceps",,band,band,isolation,pull,isolation,
+531,"Plate Flips",forearms,forearms,front_delt,barbell,plate,isolation,dynamic,isolation,
+532,"Wrist Extension Stretch",mobility,forearms,,none,none,mobility,static,isolation,
+533,"Dowel Forearm Stretch",mobility,forearms,front_delt,none,none,mobility,static,isolation,
+534,"Wide Grip Barbell Curl",biceps,biceps,forearms,barbell,barbell,isolation,pull,isolation,
+535,"Barbell Pause Curl",biceps,biceps,forearms,barbell,barbell,isolation,pull,isolation,
+536,"EZ-Bar Pause Curl",biceps,biceps,forearms,barbell,ez_bar,isolation,pull,isolation,
+537,"Dumbbell Pause Curl",biceps,biceps,forearms,dumbbell,dumbbell,isolation,pull,isolation,
+538,"Dumbbell Hammer Pause Curl",biceps,"biceps,forearms",,dumbbell,dumbbell,isolation,pull,isolation,
+539,"Dumbbell Drag Curl",biceps,biceps,rear_delt,dumbbell,dumbbell,isolation,pull,isolation,
+540,"Dumbbell Drag Pause Curl",biceps,biceps,rear_delt,dumbbell,dumbbell,isolation,pull,isolation,
+541,"Dumbbell Wide Curl",biceps,biceps,forearms,dumbbell,dumbbell,isolation,pull,isolation,
+542,"Close-Grip EZ-Bar Curl",biceps,biceps,forearms,barbell,ez_bar,isolation,pull,isolation,
+543,"EZ-Bar Reverse Grip Curl",biceps,"biceps,forearms",,barbell,ez_bar,isolation,pull,isolation,
+544,"EZ-Bar Reverse Close Grip Curl",biceps,"forearms,biceps",,barbell,ez_bar,isolation,pull,isolation,
+545,"Reverse Dumbbell Curl",biceps,"forearms,biceps",,dumbbell,dumbbell,isolation,pull,isolation,
+546,"Band Hammer Curl",biceps,"biceps,forearms",,band,band,isolation,pull,isolation,
+547,"Mini Band Kneeling Biceps Curl",biceps,biceps,,band,band,isolation,pull,isolation,
+548,"Single-Arm Cable Biceps Curl",biceps,biceps,forearms,cable,cable,isolation,pull,isolation,
+549,"Zottman Preacher Curl",biceps,"biceps,forearms",,dumbbell,"dumbbell,bench",isolation,pull,isolation,
+550,"Biceps Curl To Shoulder Press",biceps,"biceps,front_delt","triceps,side_delt",dumbbell,dumbbell,vertical_push,pull,compound,
+551,"Dumbbell Hammer Curl To Front Press",biceps,"biceps,front_delt","forearms,triceps",dumbbell,dumbbell,vertical_push,pull,compound,
+552,"Dumbbell No Money Curl",biceps,biceps,rear_delt,dumbbell,dumbbell,rotation,pull,isolation,
+553,"Isometric Biceps Hold",biceps,biceps,forearms,dumbbell,dumbbell,isolation,static,isolation,
+554,"Wide Grip Pull-up",back,lats,"upper_back,biceps,rear_delt",bodyweight,pullup_bar,vertical_pull,pull,compound,
+555,"V-Bar Pull-up",back,lats,"biceps,upper_back",bodyweight,pullup_bar,vertical_pull,pull,compound,
+556,"Mixed Grip Pull-up",back,lats,"biceps,upper_back,obliques",bodyweight,pullup_bar,vertical_pull,pull,compound,
+557,"Archer Pull-up",back,lats,"biceps,upper_back,forearms",bodyweight,pullup_bar,vertical_pull,pull,compound,
+558,"Butterfly Pull-up",back,lats,"biceps,abs,front_delt",bodyweight,pullup_bar,vertical_pull,pull,compound,
+559,"Band Wide Grip Pull-up",back,lats,"upper_back,biceps",band,"band,pullup_bar",vertical_pull,pull,compound,
+560,"Band Negative Pull-up",back,lats,"biceps,upper_back",band,"band,pullup_bar",vertical_pull,pull,compound,
+561,"Assisted Wide Grip Pull-up",back,lats,"upper_back,biceps",machine,machine,vertical_pull,pull,compound,
+562,"Assisted Neutral Grip Pull-up",back,lats,"biceps,upper_back",machine,machine,vertical_pull,pull,compound,
+563,"Assisted Chin-up",back,"lats,biceps","upper_back,forearms",machine,machine,vertical_pull,pull,compound,
+564,"Band Chin-up",back,"lats,biceps",upper_back,band,"band,pullup_bar",vertical_pull,pull,compound,
+565,"Band Negative Chin-up",back,"lats,biceps",upper_back,band,"band,pullup_bar",vertical_pull,pull,compound,
+566,"Australian Chin-up",back,"upper_back,lats,biceps",rear_delt,bodyweight,bodyweight,horizontal_pull,pull,compound,
+567,"Rope Climb",back,"lats,biceps,forearms","upper_back,abs",none,none,vertical_pull,pull,compound,
+568,"EZ Bar PJR Pull Over",triceps,triceps,"lats,front_delt",barbell,"ez_bar,bench",isolation,push,compound,
+569,"EZ-Bar Pull Over",back,lats,"chest,triceps",barbell,"ez_bar,bench",isolation,pull,isolation,
+570,"Band Straight-Arm Pulldown",back,lats,"triceps,abs",band,band,vertical_pull,pull,isolation,
+571,"Cable Crossover Lat Pulldown",back,lats,"biceps,upper_back,rear_delt",cable,cable,vertical_pull,pull,compound,
+572,"Reverse Grip Barbell Bent Over Row",back,"lats,upper_back","biceps,rear_delt",barbell,barbell,horizontal_pull,pull,compound,
+573,"Trap Bar Bent Over Row",back,"lats,upper_back","biceps,rear_delt",barbell,trap_bar,horizontal_pull,pull,compound,
+574,"Kettlebell Alternating Row",back,"lats,upper_back","biceps,rear_delt,abs",kettlebell,kettlebell,horizontal_pull,pull,compound,
+575,"Bird Dog Row",back,"lats,upper_back","glutes,lower_back,abs",dumbbell,"dumbbell,bench",horizontal_pull,pull,compound,
+576,"Single-Arm Landmine Row",back,"lats,upper_back","biceps,rear_delt",barbell,landmine,horizontal_pull,pull,compound,
+577,"Shotgun Row",back,lats,"upper_back,biceps,obliques",cable,cable,horizontal_pull,pull,compound,
+578,"Half Kneeling Shotgun Row",back,lats,"upper_back,obliques,glutes",cable,cable,horizontal_pull,pull,compound,
+579,"Band Bent Over Row",back,"lats,upper_back","biceps,rear_delt",band,band,horizontal_pull,pull,compound,
+580,"Single-Arm Band Row",back,"lats,upper_back","biceps,obliques",band,band,horizontal_pull,pull,compound,
+581,"Mini Band Kneeling Row",back,"upper_back,lats",biceps,band,band,horizontal_pull,pull,compound,
+582,"Band Rear Delt Fly",shoulders,rear_delt,upper_back,band,band,horizontal_pull,pull,isolation,
+583,"Band Y Raise",shoulders,"upper_back,rear_delt","side_delt,traps",band,band,vertical_pull,pull,isolation,
+584,"Band Overhead Pull Apart",back,"upper_back,lats",rear_delt,band,band,vertical_pull,pull,isolation,
+585,"Prone I's",shoulders,"upper_back,traps",rear_delt,bodyweight,bodyweight,isolation,pull,isolation,
+586,"Foam Roll Lats",mobility,lats,,none,foam_roller,mobility,dynamic,isolation,
+587,"Suspension Clock Pull",shoulders,"rear_delt,upper_back","traps,side_delt",bodyweight,suspension,horizontal_pull,pull,isolation,
+588,"Suspension Swimmer Pull",back,lats,"triceps,abs",bodyweight,suspension,vertical_pull,pull,isolation,
+589,"Suspension Power Pull",back,"lats,upper_back","obliques,biceps",bodyweight,suspension,horizontal_pull,pull,compound,
+590,"Balance Trainer Squat",legs,"quads,glutes","hamstrings,calves,abs",ball,balance_trainer,squat,push,compound,
+591,"Balance Trainer Knee Up Squat",legs,"quads,glutes","abs,calves",ball,balance_trainer,squat,push,compound,
+592,"Balance Trainer Bar Assisted Dome Squat",legs,"quads,glutes",calves,ball,balance_trainer,squat,push,compound,
+593,"Balance Trainer Goblet Squat",legs,"quads,glutes","abs,upper_back",ball,"balance_trainer,dumbbell",squat,push,compound,
+594,"Balance Trainer Stability Ball Overhead Squat",legs,"quads,glutes","abs,front_delt,upper_back",ball,"balance_trainer,ball",squat,push,compound,
+595,"Balance Trainer Lateral Dome Squat",legs,"quads,glutes","adductors,abductors",ball,balance_trainer,squat,push,compound,
+596,"Balance Trainer Single-Leg Glute Drop",legs,"glutes,quads","abductors,calves",ball,balance_trainer,squat,push,compound,
+597,"Balance Trainer Suspension Pistol Squat",legs,"quads,glutes","calves,abs",ball,"balance_trainer,suspension",squat,push,compound,
+598,"Balance Trainer Suspension Squat Jump",legs,"quads,glutes",calves,ball,"balance_trainer,suspension",squat,push,compound,
+599,"Balance Trainer Sumo Squat Jump",legs,"quads,adductors,glutes",calves,ball,balance_trainer,squat,push,compound,
+600,"Balance Trainer Lateral Jump",legs,"quads,glutes","calves,abductors,adductors",ball,balance_trainer,squat,push,compound,
+601,"Balance Trainer Lateral Cross Over Jump",legs,"quads,calves","glutes,abductors",ball,balance_trainer,squat,push,compound,
+602,"Balance Trainer Front-Back Cross Jump",legs,"calves,quads",glutes,ball,balance_trainer,squat,push,compound,
+603,"Balance Trainer Toe Tap",cardio,,"calves,quads",ball,balance_trainer,cardio,dynamic,compound,
+604,"Balance Trainer Lateral Floor Toe Tap",legs,"quads,glutes","calves,abductors",ball,balance_trainer,squat,dynamic,compound,
+605,"Balance Trainer Alternating Lunge",legs,"quads,glutes","hamstrings,calves",ball,balance_trainer,lunge,push,compound,
+606,"Balance Trainer Alternating Lunge Jump",legs,"quads,glutes","calves,hamstrings",ball,balance_trainer,lunge,push,compound,
+607,"Balance Trainer Curtsy Lunge",legs,"glutes,quads","adductors,abductors",ball,balance_trainer,lunge,push,compound,
+608,"Balance Trainer Hesitation Lunge",legs,"quads,glutes",hamstrings,ball,balance_trainer,lunge,push,compound,
+609,"Balance Trainer Rear Lunge Kick",legs,"glutes,quads","hamstrings,abs",ball,balance_trainer,lunge,dynamic,compound,
+610,"Balance Trainer Single-Leg Suspension Lunge",legs,"quads,glutes","hamstrings,calves",ball,"balance_trainer,suspension",lunge,push,compound,
+611,"Balance Trainer Suspension Front to Back Lunge",legs,"quads,glutes","hamstrings,calves",ball,"balance_trainer,suspension",lunge,push,compound,
+612,"Balance Trainer Burpee",fullbody,"quads,glutes,abs","triceps,front_delt,lower_back",ball,balance_trainer,squat,dynamic,compound,
+613,"Balance Trainer Burpee with Push-up",fullbody,"quads,glutes,chest","triceps,front_delt,abs",ball,balance_trainer,squat,dynamic,compound,
+614,"Balance Trainer Single-Leg Kneeling Good Morning",hamstrings,"hamstrings,lower_back","glutes,abs",ball,balance_trainer,hinge,pull,isolation,
+615,"Partner Hook Squat",legs,"quads,glutes","upper_back,forearms",none,none,squat,push,compound,
+616,"Partner Squat And Throw",fullbody,"quads,glutes,front_delt","triceps,abs",ball,ball,squat,push,compound,
+617,"Partner Band Jump",legs,"quads,glutes","calves,hamstrings",band,band,squat,push,compound,
+618,"Partner Band Sprint",cardio,,"quads,glutes,calves,hamstrings",band,band,cardio,dynamic,compound,
+619,"Partner Back To Back Wall Sit",legs,quads,glutes,none,none,squat,static,isolation,
+620,"Partner Wall Sit And Triceps Dip",fullbody,"quads,triceps","glutes,front_delt",none,none,squat,push,compound,
+621,"Partner Plank Hold And Jump",fullbody,"quads,abs","calves,glutes,front_delt",none,none,squat,dynamic,compound,
+622,"Pause Bench Press",chest,chest,"triceps,front_delt",barbell,"barbell,bench",horizontal_push,push,compound,
+623,"Pause Barbell Incline Bench Press",chest,upper_chest,"front_delt,triceps",barbell,"barbell,bench",horizontal_push,push,compound,
+624,"Pause Barbell Decline Bench Press",chest,chest,"triceps,front_delt",barbell,"barbell,bench",horizontal_push,push,compound,
+625,"Reverse Grip Bench Press",chest,"upper_chest,triceps",front_delt,barbell,"barbell,bench",horizontal_push,push,compound,
+626,"Alternating Dumbbell Bench Press",chest,chest,"triceps,front_delt,abs",dumbbell,"dumbbell,bench",horizontal_push,push,compound,
+627,"Single-Arm Floor Press",chest,"chest,triceps","front_delt,obliques",dumbbell,dumbbell,horizontal_push,push,compound,
+628,"Dumbbell Larson Press",chest,chest,"triceps,front_delt,abs",dumbbell,"dumbbell,bench",horizontal_push,push,compound,
+629,"Incline Dumbbell Squeeze Press",chest,"upper_chest,triceps",front_delt,dumbbell,"dumbbell,bench",horizontal_push,push,compound,
+630,"Incline Svend Press",chest,upper_chest,"front_delt,triceps",barbell,"plate,bench",horizontal_push,push,isolation,
+631,"Smith Machine Decline Press",chest,chest,"triceps,front_delt",machine,"smith,bench",horizontal_push,push,compound,
+632,"Single-Arm Cable Press",chest,chest,"triceps,front_delt,obliques",cable,cable,horizontal_push,push,compound,
+633,"Incline Cable Chest Press",chest,upper_chest,"triceps,front_delt",cable,"cable,bench",horizontal_push,push,compound,
+634,"Cable Crossover Flat Bench Fly",chest,chest,front_delt,cable,"cable,bench",isolation,push,isolation,
+635,"Mid Cable Crossover Fly",chest,chest,front_delt,cable,cable,isolation,push,isolation,
+636,"Single-Arm Low Cable Crossover Fly",chest,upper_chest,front_delt,cable,cable,isolation,push,isolation,
+637,"Band Pec Fly",chest,chest,front_delt,band,band,isolation,push,isolation,
+638,"Band Single-Arm Fly",chest,chest,front_delt,band,band,isolation,push,isolation,
+639,"Suspension Chest Fly",chest,chest,"front_delt,abs",bodyweight,suspension,isolation,push,isolation,
+640,"Band Standing Decline Chest Press",chest,chest,"triceps,front_delt",band,band,horizontal_push,push,compound,
+641,"Band Standing Incline Chest Press",chest,upper_chest,"front_delt,triceps",band,band,horizontal_push,push,compound,
+642,"Band Single-Arm Incline Chest Press",chest,upper_chest,"triceps,obliques",band,band,horizontal_push,push,compound,
+643,"Band Push-up",chest,chest,"triceps,front_delt,abs",band,band,horizontal_push,push,compound,
+644,"Medicine Ball Push-up",chest,chest,"triceps,front_delt,abs",ball,ball,horizontal_push,push,compound,
+645,"Alternating Medicine Ball Push-up",chest,chest,"triceps,front_delt,abs",ball,ball,horizontal_push,push,compound,
+646,"Exercise Ball Push-up",chest,chest,"triceps,front_delt,abs",ball,ball,horizontal_push,push,compound,
+647,"Hand Release Push-up",chest,chest,"triceps,front_delt,upper_back",bodyweight,bodyweight,horizontal_push,push,compound,
+648,"Triceps Push-up",triceps,"triceps,chest",front_delt,bodyweight,bodyweight,horizontal_push,push,compound,
+649,"Single-Arm Push-up",chest,"chest,triceps","front_delt,obliques,abs",bodyweight,bodyweight,horizontal_push,push,compound,
+650,"Rotation Push-up",chest,"chest,obliques","triceps,front_delt",bodyweight,bodyweight,horizontal_push,push,compound,
+651,"Walkout to Push-up",fullbody,"chest,hamstrings","triceps,front_delt,abs",bodyweight,bodyweight,horizontal_push,push,compound,
+652,"Suspension Push-up",chest,chest,"triceps,front_delt,abs",bodyweight,suspension,horizontal_push,push,compound,
+653,"Suspension Push-up Plus",chest,"chest,front_delt","triceps,abs",bodyweight,suspension,horizontal_push,push,compound,
+654,"Balance Trainer Push-up",chest,chest,"triceps,front_delt,abs",ball,balance_trainer,horizontal_push,push,compound,
+655,"Balance Trainer Wide Push-up",chest,chest,"front_delt,triceps",ball,balance_trainer,horizontal_push,push,compound,
+656,"Balance Trainer Narrow Push-up",triceps,"triceps,chest","front_delt,abs",ball,balance_trainer,horizontal_push,push,compound,
+657,"Balance Trainer Dome Push-up",chest,chest,"triceps,front_delt",ball,balance_trainer,horizontal_push,push,compound,
+658,"Balance Trainer Incline Push-up",chest,chest,"triceps,front_delt",ball,balance_trainer,horizontal_push,push,compound,
+659,"Balance Trainer Spiderman Push-up",chest,"chest,obliques","triceps,front_delt",ball,balance_trainer,horizontal_push,push,compound,
+660,"Balance Trainer Stability Ball Push-up",chest,chest,"front_delt,triceps,abs",ball,"balance_trainer,ball",horizontal_push,push,compound,
+661,"Around the Worlds",chest,chest,"front_delt,lats",dumbbell,"dumbbell,bench",isolation,push,isolation,
+662,"Leg Raise With Dumbbell Pull Over",abs,"abs,lats",chest,dumbbell,"dumbbell,bench",anti_rotation,dynamic,compound,
+663,"Hug A Ball",chest,chest,"front_delt,biceps",ball,ball,isolation,static,isolation,
+664,"Crab Pose",glutes,"glutes,triceps","hamstrings,front_delt,chest",bodyweight,bodyweight,hinge,static,compound,
+665,"Foam Roll Chest",mobility,chest,"front_delt,upper_back",none,foam_roller,mobility,static,isolation,
+666,"Partner Medicine Ball Chest Pass",chest,"chest,triceps","front_delt,abs",ball,ball,horizontal_push,push,compound,
+667,"Partner Standing Chest Press",chest,chest,"triceps,front_delt",band,band,horizontal_push,push,compound,
+668,"Partner Rolling Ball Push-up",chest,chest,"triceps,front_delt,abs",ball,ball,horizontal_push,push,compound,
+669,"Partner Push-up Reach",chest,chest,"triceps,front_delt,abs",bodyweight,bodyweight,horizontal_push,push,compound,
+670,"Partner Wheelbarrow Push-up",chest,"chest,triceps","front_delt,abs",none,none,horizontal_push,push,compound,
+671,Step-up,legs,"quads,glutes","hamstrings,calves",bodyweight,"bodyweight,box",lunge,push,compound,
+672,"Kneeling Squat",glutes,glutes,"hamstrings,abs",barbell,barbell,hinge,pull,isolation,
+673,"Balance Trainer Rear Glute Raise",glutes,glutes,"abs,front_delt",ball,balance_trainer,isolation,pull,isolation,
+674,"Partner Banded Reverse Leg Raise",glutes,glutes,"hamstrings,lower_back",band,band,isolation,pull,isolation,
+675,"Box Drop",legs,"quads,glutes","calves,hamstrings",none,box,squat,dynamic,compound,
+676,"Mini Band Standing Hip Extension",glutes,glutes,hamstrings,band,band,isolation,pull,isolation,
+677,"Straight Leg Kickback",glutes,glutes,hamstrings,bodyweight,bodyweight,isolation,pull,isolation,
+678,"Suspension Glute Bridge",glutes,"glutes,hamstrings",abs,bodyweight,suspension,hinge,pull,isolation,
+679,"Smith Machine Glute Bridge",glutes,glutes,"hamstrings,abs",machine,smith,hinge,pull,isolation,
+680,"Barbell Glute Bridge",glutes,glutes,"hamstrings,abs",barbell,barbell,hinge,pull,isolation,
+681,"Dumbbell Glute Bridge",glutes,glutes,"hamstrings,abs",dumbbell,dumbbell,hinge,pull,isolation,
+682,"Medicine Ball Glute Bridge",glutes,glutes,"adductors,hamstrings",ball,ball,hinge,pull,isolation,
+683,"Foam Roll Glute Bridge",glutes,"glutes,hamstrings",abs,none,foam_roller,hinge,pull,isolation,
+684,"Banded Glute Bridge with Alternating Leg Raise",glutes,"glutes,abductors","quads,abs",band,band,hinge,static,isolation,
+685,"Single-Leg Glute Bridge with External Rotation",glutes,glutes,"hamstrings,abductors",bodyweight,bodyweight,hinge,pull,isolation,
+686,"Elevated Hip Bridge",glutes,"glutes,hamstrings",abs,bodyweight,"bodyweight,bench",hinge,pull,isolation,
+687,"Seated Figure Four",mobility,glutes,lower_back,none,none,mobility,static,isolation,
+688,"Standing Leg Side Circle",glutes,abductors,"glutes,abs",bodyweight,bodyweight,isolation,dynamic,isolation,
+689,"Standing Leg Side Hold",glutes,abductors,"glutes,abs",bodyweight,bodyweight,isolation,static,isolation,
+690,"Side Leg Hip Circle",glutes,abductors,glutes,bodyweight,bodyweight,isolation,dynamic,isolation,
+691,"Side Leg Kick",glutes,abductors,"glutes,abs",bodyweight,bodyweight,isolation,dynamic,isolation,
+692,"Kettlebell Swing American",fullbody,"glutes,hamstrings","front_delt,lower_back,upper_back,abs",kettlebell,kettlebell,hinge,dynamic,compound,
+693,"Prone Flutter Kick",glutes,"glutes,lower_back",hamstrings,bodyweight,bodyweight,hinge,dynamic,isolation,
+694,"Mini Band Fire Hydrant",glutes,"abductors,glutes",abs,band,band,isolation,push,isolation,
+695,"Knee to Chest Stretch",mobility,"glutes,lower_back",hamstrings,none,none,mobility,static,isolation,
+696,"Medicine Ball Curtsy Lunge",legs,"glutes,quads","adductors,abductors",ball,ball,lunge,push,compound,
+697,"Medicine Ball Reverse Lunge",legs,"quads,glutes",hamstrings,ball,ball,lunge,push,compound,
+698,"Balance Trainer Lying Toe Tap",glutes,glutes,"abs,hamstrings",ball,balance_trainer,hinge,static,isolation,
+699,"Balance Trainer Reverse Hyperextension",glutes,"glutes,lower_back",hamstrings,ball,balance_trainer,hinge,pull,isolation,
+700,"Medicine Ball Hip Thrust",glutes,glutes,"hamstrings,abs",ball,"ball,bench",hinge,pull,isolation,
+701,"Stability Ball Hip Thrust",glutes,glutes,"hamstrings,abs",ball,ball,hinge,pull,isolation,
+702,"Single-Leg Stability Ball Hip Thrust",glutes,glutes,"hamstrings,abs",ball,ball,hinge,pull,isolation,
+703,"Foam Roll Hip Thrust",glutes,"glutes,hamstrings",abs,none,"foam_roller,bench",hinge,pull,isolation,
+704,"Single-Leg Foam Roll Hip Thrust",glutes,"glutes,hamstrings",abs,none,"foam_roller,bench",hinge,pull,isolation,
+705,"Single-Leg Hip Thrust",glutes,glutes,"hamstrings,abs",bodyweight,"bodyweight,bench",hinge,pull,isolation,
+706,"Band Hip Thrust",glutes,glutes,hamstrings,band,"band,bench",hinge,pull,isolation,
+707,"Mini Band Hip Thrust",glutes,"glutes,abductors",hamstrings,band,"band,bench",hinge,pull,isolation,
+708,"Mini Band Glute Bridge",glutes,"glutes,abductors",hamstrings,band,band,hinge,pull,isolation,
+709,"Balance Trainer Balance Bar Hip Thruster",glutes,glutes,"hamstrings,quads,abs",ball,"balance_trainer,barbell",hinge,pull,isolation,
+710,"Balance Trainer Single-Leg Hip Thruster",glutes,glutes,"abs,hamstrings,quads",ball,balance_trainer,hinge,pull,isolation,
+711,"Hip Hinge",mobility,"hamstrings,glutes",lower_back,none,none,hinge,pull,compound,
+712,"Dowel Good Morning",mobility,hamstrings,"lower_back,glutes",none,none,hinge,pull,compound,
+713,"Dumbbell Good Morning",hamstrings,hamstrings,"glutes,lower_back",dumbbell,dumbbell,hinge,pull,compound,
+714,"Kettlebell Good Morning",hamstrings,hamstrings,"glutes,lower_back,abs",kettlebell,kettlebell,hinge,pull,compound,
+715,"Band Romanian Deadlift",hamstrings,"hamstrings,glutes",lower_back,band,band,hinge,pull,compound,
+716,"Medicine Ball Romanian Deadlift",hamstrings,"hamstrings,glutes",lower_back,ball,ball,hinge,pull,compound,
+717,"Medicine Ball Single-Leg Romanian Deadlift",hamstrings,"hamstrings,glutes","lower_back,abs",ball,ball,hinge,pull,compound,
+718,"Landmine Romanian Deadlift",hamstrings,"hamstrings,glutes","quads,upper_back",barbell,landmine,hinge,pull,compound,
+719,"Landmine Single-Leg Romanian Deadlift",hamstrings,"hamstrings,glutes","lower_back,obliques",barbell,landmine,hinge,pull,compound,
+720,"Elevated Platform Barbell Romanian Deadlift",hamstrings,"hamstrings,glutes","lower_back,upper_back",barbell,"barbell,box",hinge,pull,compound,
+721,"Smith Machine Stiff-Leg Deadlift",hamstrings,"hamstrings,glutes",lower_back,machine,smith,hinge,pull,compound,
+722,"Single-Arm Kettlebell Deadlift",hamstrings,"glutes,hamstrings","obliques,forearms,quads",kettlebell,kettlebell,hinge,pull,compound,
+723,"Deadlift to Calf Raise",hamstrings,"glutes,hamstrings,calves","quads,lower_back,traps",barbell,barbell,hinge,pull,compound,
+724,"Dumbbell Romanian Deadlift to Calf Raise",hamstrings,"hamstrings,glutes,calves",lower_back,dumbbell,dumbbell,hinge,pull,compound,
+725,"Dumbbell Romanian Deadlift to Shrug",hamstrings,"hamstrings,glutes,traps","lower_back,forearms",dumbbell,dumbbell,hinge,pull,compound,
+726,"Dumbbell Romanian Deadlift to High Pull",hamstrings,"hamstrings,glutes,traps","side_delt,upper_back",dumbbell,dumbbell,hinge,pull,compound,
+727,"Dumbbell Romanian Deadlift to Bent Over Row",hamstrings,"hamstrings,lats,upper_back","glutes,lower_back,biceps",dumbbell,dumbbell,hinge,pull,compound,
+728,"Romanian Deadlift to Bent-Over Row",hamstrings,"hamstrings,lats,upper_back","glutes,lower_back,biceps",barbell,barbell,hinge,pull,compound,
+729,"Romanian Deadlift to Shrug",hamstrings,"hamstrings,glutes,traps","lower_back,forearms",barbell,barbell,hinge,pull,compound,
+730,"Romanian Deadlift to High Pull",hamstrings,"hamstrings,glutes,traps","side_delt,upper_back",barbell,barbell,hinge,pull,compound,
+731,"Bodyweight Kneeling Banded Deadlift",glutes,glutes,hamstrings,band,band,hinge,pull,isolation,
+732,"Alternating Single-Arm Kettlebell Swing",fullbody,"glutes,hamstrings","forearms,obliques,lower_back",kettlebell,kettlebell,hinge,dynamic,compound,
+733,"Cable Row with Squat",fullbody,"quads,lats,upper_back","glutes,biceps,hamstrings",cable,cable,squat,pull,compound,
+734,"Standing Band Hamstring Curl",hamstrings,hamstrings,calves,band,band,isolation,pull,isolation,
+735,"Suspension Bridge",hamstrings,"hamstrings,glutes",lower_back,bodyweight,suspension,hinge,pull,isolation,
+736,"Suspension Hamstring Runner",hamstrings,hamstrings,"glutes,abs,lower_back",bodyweight,suspension,hinge,dynamic,isolation,
+737,Airplane,glutes,"glutes,hamstrings","obliques,abductors",bodyweight,bodyweight,hinge,dynamic,compound,
+738,"Reverse Bear Crawl",fullbody,"quads,front_delt","abs,glutes,chest",bodyweight,bodyweight,carry,dynamic,compound,
+739,"Single-Leg Cycles",cardio,,"hamstrings,quads,glutes,calves",bodyweight,bodyweight,cardio,dynamic,compound,
+740,"Walking Front Kick",mobility,hamstrings,glutes,none,none,mobility,dynamic,compound,
+741,"Foam Roll Hamstrings",mobility,hamstrings,,none,foam_roller,mobility,dynamic,isolation,
+742,"Partner Hamstring Stretch",mobility,hamstrings,calves,none,none,mobility,static,isolation,
+743,"Kneeling Hamstring Stretch",mobility,hamstrings,calves,none,none,mobility,static,isolation,
+744,"Seated Forward Bend",mobility,hamstrings,"calves,lower_back",none,none,mobility,static,isolation,
+745,"Crossover Standing Forward Bend",mobility,hamstrings,"abductors,glutes",none,none,mobility,static,isolation,
+746,"Single-Leg Straight Forward Bend",mobility,hamstrings,calves,none,none,mobility,static,isolation,
+747,"Standing Splits",mobility,hamstrings,"glutes,calves",none,none,mobility,static,isolation,
+748,Pancake,mobility,"adductors,hamstrings",lower_back,none,none,mobility,static,isolation,
+749,"Lunge to Hamstring Stretch",mobility,"hamstrings,quads",glutes,none,none,mobility,dynamic,compound,
+750,"Lunge to Lateral Reach",mobility,"obliques,quads","lats,glutes",none,none,mobility,dynamic,compound,
+751,"Mini Band Single-Leg Romanian Deadlift with Row",hamstrings,"hamstrings,lats","glutes,upper_back,abs",band,band,hinge,pull,compound,
+752,"Standing Hip Adduction",legs,adductors,abs,bodyweight,bodyweight,isolation,pull,isolation,
+753,"Band Standing Hip Adduction",legs,adductors,abs,band,band,isolation,pull,isolation,
+754,"Cable Hip Adduction",legs,adductors,abs,cable,cable,isolation,pull,isolation,
+755,"Lateral Lunge Stretch",mobility,adductors,hamstrings,none,none,mobility,static,isolation,
+756,"Fan Stretch",mobility,"adductors,hamstrings","lower_back,calves",none,none,mobility,static,isolation,
+757,"Foam Roll Hip Flexors",mobility,quads,adductors,none,foam_roller,mobility,dynamic,isolation,
+758,"Foam Roll Hip Adductors",mobility,adductors,,none,foam_roller,mobility,dynamic,isolation,
+759,"Foam Roll Hip Abductors",mobility,abductors,glutes,none,foam_roller,mobility,dynamic,isolation,
+760,"Side Leg Raise",glutes,abductors,glutes,bodyweight,bodyweight,isolation,push,isolation,
+761,"Mini Band Side-Lying Hip Abduction",glutes,abductors,glutes,band,band,isolation,push,isolation,
+762,"Mini Band Side-Lying Clam",glutes,"abductors,glutes",,band,band,isolation,push,isolation,
+763,"Band Standing Hip Abduction",glutes,abductors,glutes,band,band,isolation,push,isolation,
+764,"Mini Band Lateral Walk",glutes,"abductors,glutes",quads,band,band,isolation,push,isolation,
+765,"Fire Hydrant Circle",glutes,"abductors,glutes",abs,bodyweight,bodyweight,isolation,dynamic,isolation,
+766,"Dumbbell Fire Hydrant Circle",glutes,"abductors,glutes",abs,dumbbell,dumbbell,isolation,dynamic,isolation,
+767,"Mini Band Fire Hydrant Circle",glutes,"abductors,glutes",abs,band,band,isolation,dynamic,isolation,
+768,"Prone Hip Circle",mobility,"glutes,adductors","abductors,lower_back",none,none,mobility,dynamic,isolation,
+769,"Hurdle Step Over",mobility,"abductors,adductors","glutes,quads",none,none,mobility,dynamic,compound,
+770,"Standing Hip Flexor Stretch",mobility,quads,abs,none,none,mobility,static,isolation,
+771,"Shin Box Hip Flexor",mobility,"quads,glutes",lower_back,none,none,mobility,static,isolation,
+772,"Seated Point And Flex",calves,calves,tibialis,band,band,isolation,dynamic,isolation,
+773,"Single-Leg Standing Calf Raise",calves,calves,,bodyweight,bodyweight,isolation,push,isolation,
+774,"Suspension Calf Raise",calves,calves,abs,bodyweight,suspension,isolation,push,isolation,
+775,"Barbell Seated Calf Raise",calves,calves,,barbell,"barbell,bench",isolation,push,isolation,
+776,"Smith Machine Reverse Calf Raise",calves,tibialis,,machine,smith,isolation,pull,isolation,
+777,"Dumbbell Calf Raise to Shrug",calves,"calves,traps",forearms,dumbbell,dumbbell,isolation,push,compound,
+778,"Calf Raise to Shrug",calves,"calves,traps",forearms,barbell,barbell,isolation,push,compound,
+779,"Dumbbell Calf Raise to High Pull",calves,"calves,traps","side_delt,upper_back",dumbbell,dumbbell,isolation,pull,compound,
+780,"Dumbbell Toe Walk",calves,calves,"forearms,traps",dumbbell,dumbbell,carry,static,isolation,
+781,"Deficit Calf Stretch",mobility,calves,,none,box,mobility,static,isolation,
+782,"Prone Calf Stretch",mobility,calves,hamstrings,none,none,mobility,static,isolation,
+783,"Stability Ball Back Extension",back,lower_back,"glutes,hamstrings",ball,ball,hinge,pull,isolation,
+784,"Weighted Ball Hyperextension",back,lower_back,"glutes,hamstrings,upper_back",ball,"ball,plate",hinge,pull,isolation,
+785,"Seated Back Extension",back,lower_back,glutes,machine,machine,hinge,pull,isolation,
+786,"Band Superman Press",back,"lower_back,upper_back","rear_delt,front_delt",band,band,isolation,push,compound,
+787,"Superman with Scaption",back,"lower_back,upper_back","rear_delt,glutes",bodyweight,bodyweight,hinge,pull,isolation,
+788,"Medicine Ball Superman",back,"lower_back,upper_back","glutes,hamstrings,rear_delt",ball,ball,hinge,pull,isolation,
+789,"Dumbbell Superman",back,"lower_back,upper_back","glutes,rear_delt",dumbbell,dumbbell,hinge,pull,isolation,
+790,"Alternating Superman",back,lower_back,"glutes,rear_delt,hamstrings",bodyweight,bodyweight,hinge,pull,isolation,
+791,"Australian Crawl",back,"lower_back,upper_back","glutes,rear_delt,hamstrings",bodyweight,bodyweight,hinge,dynamic,isolation,
+792,"Reverse Leg Crossover",mobility,"lower_back,obliques","glutes,quads",none,none,mobility,dynamic,isolation,
+793,"Foam Roll Lower Back",mobility,lower_back,,none,foam_roller,mobility,dynamic,isolation,
+794,"Stiff-Leg Barbell Good Morning",hamstrings,hamstrings,"lower_back,glutes",barbell,barbell,hinge,pull,compound,
+795,"Bridge Side to Side",glutes,glutes,"obliques,hamstrings",bodyweight,bodyweight,hinge,static,isolation,
+796,"Bridge Walk",hamstrings,"hamstrings,glutes",lower_back,bodyweight,bodyweight,hinge,static,compound,
+797,"Reverse Lunge",legs,"quads,glutes","hamstrings,adductors",bodyweight,bodyweight,lunge,push,compound,
+798,"Dumbbell Walking Lunge",legs,"quads,glutes","hamstrings,adductors,forearms",dumbbell,dumbbell,lunge,push,compound,
+799,"Pause Barbell Lunge",legs,"quads,glutes","hamstrings,adductors",barbell,barbell,lunge,push,compound,
+800,"Medicine Ball Lunge",legs,"quads,glutes","hamstrings,abs",ball,ball,lunge,push,compound,
+801,"Medicine Ball Overhead Lunge",legs,"quads,glutes","front_delt,abs,upper_back",ball,ball,lunge,push,compound,
+802,"Medicine Ball Side Lunge",legs,"quads,adductors,glutes",hamstrings,ball,ball,lunge,push,compound,
+803,"Overhead Dumbbell Lunge",legs,"quads,glutes","front_delt,side_delt,abs",dumbbell,dumbbell,lunge,push,compound,
+804,"Single-Arm Overhead Dumbbell Lunge",legs,"quads,glutes","obliques,side_delt,abs",dumbbell,dumbbell,lunge,push,compound,
+805,"Kettlebell Single-Arm Overhead Lunge",legs,"quads,glutes","obliques,side_delt,abs",kettlebell,kettlebell,lunge,push,compound,
+806,"Overhead Barbell Lunge",legs,"quads,glutes","front_delt,upper_back,abs",barbell,barbell,lunge,push,compound,
+807,"Kettlebell Racked Reverse Lunge",legs,"quads,glutes","abs,upper_back",kettlebell,kettlebell,lunge,push,compound,
+808,"Kettlebell Lunge with Rotation",legs,"quads,glutes,obliques",abs,kettlebell,kettlebell,lunge,dynamic,compound,
+809,"Lunge Twist",legs,"quads,glutes",obliques,bodyweight,bodyweight,lunge,dynamic,compound,
+810,"Lunge with Ankle Grab",mobility,quads,glutes,none,none,mobility,static,isolation,
+811,"Mini Band Lunge",legs,"quads,glutes,abductors",hamstrings,band,band,lunge,push,compound,
+812,"Mini Band Lunge Kickback",legs,"glutes,quads",hamstrings,band,band,lunge,push,compound,
+813,"Banded Curtsy Lunge",legs,"glutes,quads,abductors",adductors,band,band,lunge,push,compound,
+814,"Dumbbell Curtsy Lunge",legs,"glutes,quads","adductors,abductors",dumbbell,dumbbell,lunge,push,compound,
+815,"Barbell Curtsy Lunge",legs,"glutes,quads","adductors,abductors",barbell,barbell,lunge,push,compound,
+816,"Pulse Lunge",legs,"quads,glutes",hamstrings,bodyweight,bodyweight,lunge,push,compound,
+817,"Band Pulse Lunge",legs,"quads,glutes",hamstrings,band,band,lunge,push,compound,
+818,"Suspension Lunge",legs,"quads,glutes","hamstrings,adductors",bodyweight,suspension,lunge,push,compound,
+819,"Suspension Pulse Lunge",legs,"quads,glutes",hamstrings,bodyweight,suspension,lunge,push,compound,
+820,"Suspension Balance Lunge",legs,"quads,glutes","hamstrings,calves",bodyweight,suspension,lunge,push,compound,
+821,"Suspension Crossing Balance Lunge",legs,"glutes,quads","abductors,adductors",bodyweight,suspension,lunge,push,compound,
+822,"Suspension Curtsy Lunge",legs,"glutes,quads","adductors,abductors",bodyweight,suspension,lunge,push,compound,
+823,"Suspension Lateral Lunge",legs,"quads,adductors,glutes",hamstrings,bodyweight,suspension,lunge,push,compound,
+824,"Suspension Forward Lunge with Chest Stretch",mobility,"chest,quads","front_delt,glutes",bodyweight,suspension,mobility,static,compound,
+825,"Suspension Reverse Lunge to Knee Drive",legs,"quads,glutes","hamstrings,calves",bodyweight,suspension,lunge,dynamic,compound,
+826,"Suspension Reverse Lunge to Jump",legs,"quads,glutes","calves,hamstrings",bodyweight,suspension,lunge,dynamic,compound,
+827,"Kneel to Stand",legs,"quads,glutes","hamstrings,abs",bodyweight,bodyweight,lunge,push,compound,
+828,"Dumbbell Kneel to Stand",legs,"quads,glutes","forearms,traps,abs",dumbbell,dumbbell,lunge,push,compound,
+829,"Dumbbell Overhead Kneel to Stand",legs,"quads,glutes","side_delt,traps,abs",dumbbell,dumbbell,lunge,push,compound,
+830,"Lateral Step Up",legs,"quads,glutes",abductors,bodyweight,"bodyweight,box",lunge,push,compound,
+831,"Lateral Step Up with Knee Drive",legs,"quads,glutes","abductors,abs",bodyweight,"bodyweight,box",lunge,push,compound,
+832,"Box Step Down",legs,quads,"glutes,abductors",bodyweight,"bodyweight,box",squat,push,compound,
+833,"Step Up to Deficit Reverse Lunge",legs,"quads,glutes","hamstrings,adductors",dumbbell,"dumbbell,box",lunge,push,compound,
+834,"Bodyweight Step Up to Deficit Reverse Lunge",legs,"quads,glutes",hamstrings,bodyweight,"bodyweight,box",lunge,push,compound,
+835,Clean,fullbody,"glutes,quads,traps","hamstrings,upper_back,front_delt,calves",barbell,barbell,hinge,dynamic,compound,
+836,"Hang Clean",fullbody,"glutes,quads,traps","hamstrings,front_delt,forearms",barbell,barbell,hinge,dynamic,compound,
+837,"Clean from Blocks",fullbody,"glutes,quads,traps","hamstrings,front_delt,calves",barbell,"barbell,box",hinge,dynamic,compound,
+838,"Power Clean from Blocks",fullbody,"glutes,quads,traps","hamstrings,front_delt",barbell,"barbell,box",hinge,dynamic,compound,
+839,"Power Clean to Front Squat",fullbody,"glutes,quads,traps","hamstrings,front_delt,upper_back",barbell,barbell,hinge,dynamic,compound,
+840,"Clean Pull",fullbody,"glutes,hamstrings,traps","quads,upper_back,forearms",barbell,barbell,hinge,pull,compound,
+841,"Clean High Pull",fullbody,"glutes,traps,hamstrings","quads,side_delt,upper_back",barbell,barbell,hinge,pull,compound,
+842,"Clean Pull to Hang Clean",fullbody,"glutes,quads,traps","hamstrings,front_delt",barbell,barbell,hinge,dynamic,compound,
+843,"Clean Deadlift",hamstrings,"hamstrings,glutes,quads","lower_back,traps,forearms",barbell,barbell,hinge,pull,compound,
+844,"Split Clean",fullbody,"glutes,quads,traps","hamstrings,front_delt",barbell,barbell,hinge,dynamic,compound,
+845,Cluster,fullbody,"quads,glutes,front_delt","traps,triceps,hamstrings,abs",barbell,barbell,squat,dynamic,compound,
+846,"Front Squat to Jerk",fullbody,"quads,front_delt","glutes,triceps,abs",barbell,barbell,squat,push,compound,
+847,"Push Jerk",shoulders,"front_delt,triceps","quads,glutes,abs",barbell,barbell,vertical_push,push,compound,
+848,"Split Jerk",shoulders,"front_delt,triceps","quads,glutes,abs",barbell,barbell,vertical_push,push,compound,
+849,"Dowel Jerk Press",shoulders,front_delt,"triceps,quads",none,none,vertical_push,push,compound,
+850,"Dowel Clean and Jerk",fullbody,"glutes,quads","front_delt,traps",none,none,hinge,dynamic,compound,
+851,"Dowel Hang Clean",fullbody,"glutes,hamstrings","traps,front_delt",none,none,hinge,dynamic,compound,
+852,"Dowel Snatch",fullbody,"glutes,upper_back","front_delt,quads",none,none,hinge,dynamic,compound,
+853,"Power Snatch",fullbody,"glutes,hamstrings,traps","quads,front_delt,upper_back",barbell,barbell,hinge,dynamic,compound,
+854,"Hang Power Snatch",fullbody,"glutes,hamstrings,traps","front_delt,quads,upper_back",barbell,barbell,hinge,dynamic,compound,
+855,"Hang Snatch",fullbody,"glutes,hamstrings,traps","quads,front_delt,upper_back,abs",barbell,barbell,hinge,dynamic,compound,
+856,"Snatch from Blocks",fullbody,"glutes,hamstrings,traps","quads,front_delt,upper_back",barbell,"barbell,box",hinge,dynamic,compound,
+857,"Power Snatch from Blocks",fullbody,"glutes,hamstrings,traps","front_delt,upper_back",barbell,"barbell,box",hinge,dynamic,compound,
+858,"Power Snatch to Overhead Squat",fullbody,"glutes,quads,traps","front_delt,upper_back,abs",barbell,barbell,squat,dynamic,compound,
+859,"Snatch Balance",fullbody,"quads,front_delt","upper_back,triceps,abs",barbell,barbell,squat,dynamic,compound,
+860,"Snatch Pull",fullbody,"glutes,hamstrings,traps","quads,upper_back,forearms",barbell,barbell,hinge,pull,compound,
+861,"Snatch High Pull",fullbody,"glutes,traps,hamstrings","side_delt,upper_back,quads",barbell,barbell,hinge,pull,compound,
+862,"Snatch Pull to Low Hang Snatch",fullbody,"glutes,hamstrings,traps","quads,front_delt",barbell,barbell,hinge,dynamic,compound,
+863,"Split Snatch",fullbody,"glutes,hamstrings,traps","quads,front_delt,upper_back",barbell,barbell,hinge,dynamic,compound,
+864,"Muscle Snatch",shoulders,"traps,rear_delt,upper_back","glutes,hamstrings,side_delt",barbell,barbell,vertical_pull,pull,compound,
+865,"Muscle Clean",shoulders,"traps,front_delt,upper_back","glutes,hamstrings,forearms",barbell,barbell,vertical_pull,pull,compound,
+866,"Smith Machine Hang Power Clean",fullbody,"glutes,traps","hamstrings,front_delt,quads",machine,smith,hinge,dynamic,compound,
+867,"Dumbbell Clean",fullbody,"glutes,hamstrings,traps","quads,front_delt,forearms",dumbbell,dumbbell,hinge,dynamic,compound,
+868,"Dumbbell Hang Power Clean",fullbody,"glutes,traps","hamstrings,front_delt,quads",dumbbell,dumbbell,hinge,dynamic,compound,
+869,"Single Dumbbell Power Clean",fullbody,"glutes,traps","hamstrings,front_delt,obliques",dumbbell,dumbbell,hinge,dynamic,compound,
+870,"Single Dumbbell Power Clean and Jerk",fullbody,"glutes,front_delt,traps","quads,triceps,obliques",dumbbell,dumbbell,hinge,dynamic,compound,
+871,"Double Dumbbell Power Snatch",fullbody,"glutes,hamstrings,traps","front_delt,quads,triceps",dumbbell,dumbbell,hinge,dynamic,compound,
+872,"Double Dumbbell Hang Snatch",fullbody,"glutes,hamstrings,traps","front_delt,quads,triceps",dumbbell,dumbbell,hinge,dynamic,compound,
+873,"Dumbbell Hang Snatch",fullbody,"glutes,hamstrings,front_delt","traps,triceps,quads",dumbbell,dumbbell,hinge,dynamic,compound,
+874,"Kettlebell Clean and Jerk",fullbody,"glutes,front_delt,triceps","quads,hamstrings,traps,abs",kettlebell,kettlebell,hinge,dynamic,compound,
+875,"Kettlebell Jerk",shoulders,"front_delt,triceps","quads,calves,abs",kettlebell,kettlebell,vertical_push,push,compound,
+876,"Behind the Neck Push Press",shoulders,"front_delt,side_delt,triceps","traps,quads",barbell,barbell,vertical_push,push,compound,
+877,"Single-Arm Bottoms-up Kettlebell Clean",forearms,"forearms,glutes","hamstrings,front_delt",kettlebell,kettlebell,hinge,dynamic,compound,
+878,"Sumo Deadlift High Pull",fullbody,"glutes,traps,hamstrings","quads,side_delt,adductors",barbell,barbell,hinge,pull,compound,
+879,"Tire Flip",fullbody,"glutes,quads,hamstrings","upper_back,chest,triceps,forearms",none,none,hinge,dynamic,compound,
+880,"Power Skip",cardio,,"calves,glutes,quads,abs",bodyweight,bodyweight,cardio,dynamic,compound,
+881,A-Skip,cardio,,"calves,quads,glutes,abs",bodyweight,bodyweight,cardio,dynamic,compound,
+882,B-Skip,cardio,,"hamstrings,calves,quads,glutes",bodyweight,bodyweight,cardio,dynamic,compound,
+883,Carioca,cardio,,"abductors,adductors,obliques,calves",bodyweight,bodyweight,cardio,dynamic,compound,
+884,"High Knee Carioca",cardio,,"abductors,adductors,obliques,quads",bodyweight,bodyweight,cardio,dynamic,compound,
+885,"Single-Leg Butt Kick",cardio,,"hamstrings,calves,quads",bodyweight,bodyweight,cardio,dynamic,compound,
+886,"Runners Butt Kick",cardio,,"hamstrings,calves,glutes,abs",bodyweight,bodyweight,cardio,dynamic,compound,
+887,Bounds,legs,"glutes,quads","calves,hamstrings,abs",bodyweight,bodyweight,lunge,push,compound,
+888,"Forward Line Hop",calves,calves,"quads,glutes,tibialis",bodyweight,bodyweight,cardio,push,compound,
+889,"Forward 1-Foot Line Hop",calves,calves,"quads,glutes,tibialis",bodyweight,bodyweight,cardio,push,compound,
+890,"Lateral Line Hop",calves,calves,"abductors,adductors,quads",bodyweight,bodyweight,cardio,push,compound,
+891,"Lateral 1-Foot Line Hop",calves,calves,"abductors,adductors,glutes",bodyweight,bodyweight,cardio,push,compound,
+892,"Lateral Cone Hop",legs,"quads,glutes","adductors,abductors,calves",bodyweight,bodyweight,squat,push,compound,
+893,"Lateral Box Jump",legs,"quads,glutes","adductors,abductors,calves",none,box,squat,push,compound,
+894,"1-Step Box Jump",legs,"quads,glutes","calves,hamstrings,abs",none,box,squat,push,compound,
+895,"Reverse Box Jump",legs,"quads,glutes","calves,hamstrings",none,box,squat,push,compound,
+896,"High Depth Jump",legs,"quads,glutes","calves,hamstrings",none,box,squat,push,compound,
+897,"2-Box Depth Jump",legs,"quads,glutes","calves,hamstrings",none,box,squat,push,compound,
+898,"Broad Depth Jump",legs,"glutes,quads","hamstrings,calves",none,box,squat,push,compound,
+899,"Lateral Box Shuffle",cardio,,"quads,glutes,calves,adductors",none,box,cardio,dynamic,compound,
+900,"Box Shuffle",cardio,,"quads,calves,glutes",none,box,cardio,dynamic,compound,
+901,"Bulgarian Split Jump",legs,"quads,glutes","calves,hamstrings,abs",bodyweight,"bodyweight,bench",lunge,push,compound,
+902,"Dumbbell Bulgarian Split Jump",legs,"quads,glutes","calves,hamstrings,abs",dumbbell,"dumbbell,bench",lunge,push,compound,
+903,"Barbell Bulgarian Split Jump",legs,"quads,glutes","calves,hamstrings,abs",barbell,"barbell,bench",lunge,push,compound,
+904,"Burpee High Jump",fullbody,"quads,glutes,chest","triceps,front_delt,calves,abs",bodyweight,bodyweight,squat,dynamic,compound,
+905,"Burpee Broad Jump",fullbody,"quads,glutes,chest","triceps,hamstrings,abs",bodyweight,bodyweight,squat,dynamic,compound,
+906,"Suspension Jump Squat",legs,"quads,glutes",calves,bodyweight,suspension,squat,push,compound,
+907,"Mini Band Jump Squat",legs,"quads,glutes,abductors",calves,band,band,squat,push,compound,
+908,"Suspension Ice Skater",legs,"glutes,quads","adductors,abductors",bodyweight,suspension,lunge,dynamic,compound,
+909,"Suspension Sprinter Start",legs,"quads,glutes","calves,hamstrings,abs",bodyweight,suspension,lunge,dynamic,compound,
+910,"Cable Knee Drive",legs,quads,"abs,calves",cable,cable,isolation,pull,isolation,
+911,"Banded Leg Drive",legs,quads,"abs,calves",band,band,isolation,pull,isolation,
+912,"Wall Knee Drive",legs,quads,"calves,abs,glutes",bodyweight,bodyweight,cardio,dynamic,compound,
+913,"Wall Triple Knee Drive",legs,quads,"calves,abs,glutes",bodyweight,bodyweight,cardio,dynamic,compound,
+914,"Duck Walk",legs,"quads,glutes","calves,adductors",bodyweight,bodyweight,squat,dynamic,compound,
+915,"Sled Pull",legs,"quads,glutes","calves,hamstrings,upper_back",machine,sled,carry,pull,compound,
+916,"Mini Band Alternating Leg Raise",legs,quads,"abs,glutes",band,band,isolation,pull,isolation,
+917,"Mini Band Standing Hip Flexion",legs,quads,abs,band,band,isolation,pull,isolation,
+918,"Mini Band Hip Flexor",legs,quads,abs,band,band,isolation,pull,isolation,
+919,"Suspension Mountain Climber",abs,abs,"front_delt,quads",bodyweight,suspension,anti_rotation,dynamic,compound,
+920,"Balance Trainer Mountain Climber",abs,abs,"front_delt,quads,chest",ball,balance_trainer,anti_rotation,dynamic,compound,
+921,"Hip Flow",mobility,"glutes,adductors","abductors,quads",none,none,mobility,dynamic,isolation,
+922,"Butt Scoot",glutes,"glutes,hamstrings","obliques,quads",none,none,mobility,dynamic,compound,
+923,"Shin Box Quad Stretch",mobility,quads,glutes,none,none,mobility,static,isolation,
+924,"Dumbbell Front Press",shoulders,front_delt,"triceps,side_delt",dumbbell,dumbbell,vertical_push,push,compound,
+925,"Single-Arm Dumbbell Front Press",shoulders,front_delt,"triceps,obliques,abs",dumbbell,dumbbell,vertical_push,push,compound,
+926,"Single-Arm Dumbbell Shoulder Press",shoulders,"front_delt,side_delt","triceps,obliques,abs",dumbbell,dumbbell,vertical_push,push,compound,
+927,"Cable Shoulder Press",shoulders,"front_delt,side_delt",triceps,cable,cable,vertical_push,push,compound,
+928,"Single-Arm Bottoms-up Kettlebell Press",shoulders,front_delt,"forearms,triceps,abs",kettlebell,kettlebell,vertical_push,push,compound,
+929,"Landmine Press and Catch",shoulders,"front_delt,chest","triceps,obliques,quads",barbell,landmine,vertical_push,push,compound,
+930,"Band Upright Row",shoulders,"side_delt,traps",biceps,band,band,vertical_pull,pull,compound,
+931,"Smith Machine One-Arm Upright Row",shoulders,"side_delt,traps",biceps,machine,smith,vertical_pull,pull,compound,
+932,"Cable Upright Row",shoulders,"side_delt,traps",biceps,cable,cable,vertical_pull,pull,compound,
+933,"Barbell Front Raise",shoulders,front_delt,upper_chest,barbell,barbell,isolation,push,isolation,
+934,"Dumbbell Underhand Front Raise",shoulders,front_delt,"biceps,upper_chest",dumbbell,dumbbell,isolation,push,isolation,
+935,"Band Front Raise",shoulders,front_delt,upper_chest,band,band,isolation,push,isolation,
+936,"Band Underhand Front Raise",shoulders,front_delt,biceps,band,band,isolation,push,isolation,
+937,"Mini Band Lateral Raise",shoulders,side_delt,rear_delt,band,band,isolation,push,isolation,
+938,"Dumbbell Lateral Raise To Front Raise",shoulders,"side_delt,front_delt",traps,dumbbell,dumbbell,isolation,push,isolation,
+939,"Behind the Back Cable Lateral Raise",shoulders,side_delt,rear_delt,cable,cable,isolation,push,isolation,
+940,"Underhand Rear Delt Raise",shoulders,rear_delt,"upper_back,lower_back",dumbbell,dumbbell,isolation,pull,isolation,
+941,"Elbows Out Bent Over Dumbbell Row",shoulders,"rear_delt,upper_back","traps,biceps",dumbbell,dumbbell,horizontal_pull,pull,compound,
+942,"Cable Shoulder External Rotation",shoulders,rear_delt,upper_back,cable,cable,rotation,pull,isolation,
+943,"Cable Shoulder External Rotation at 90°",shoulders,rear_delt,upper_back,cable,cable,rotation,pull,isolation,
+944,"Cable Shoulder Internal Rotation",shoulders,front_delt,chest,cable,cable,rotation,pull,isolation,
+945,"Cable Shoulder Internal Rotation at 90°",shoulders,front_delt,chest,cable,cable,rotation,pull,isolation,
+946,"Band Shoulder External Rotation at 90°",shoulders,rear_delt,upper_back,band,band,rotation,pull,isolation,
+947,"Band Shoulder Internal Rotation",shoulders,front_delt,chest,band,band,rotation,pull,isolation,
+948,"Band Shoulder Internal Rotation at 90°",shoulders,front_delt,chest,band,band,rotation,pull,isolation,
+949,"Dowel Shoulder External Rotation",mobility,"chest,front_delt",rear_delt,none,none,mobility,static,isolation,
+950,"Dumbbell Cuban Shoulder Rotation",shoulders,"rear_delt,side_delt",traps,dumbbell,dumbbell,rotation,pull,isolation,
+951,"Mini Band Scapular Retraction",shoulders,"upper_back,rear_delt",traps,band,band,horizontal_pull,pull,isolation,
+952,"Shoulder Squeeze",shoulders,upper_back,"rear_delt,traps",none,none,isolation,static,isolation,
+953,"Mini Band Overhead Fly",shoulders,"side_delt,upper_back",rear_delt,band,band,isolation,pull,isolation,
+954,"Band Single-Arm Archer Pull",back,"rear_delt,upper_back","biceps,obliques",band,band,horizontal_pull,pull,compound,
+955,"Dumbbell Punches",shoulders,front_delt,"triceps,obliques",dumbbell,dumbbell,horizontal_push,push,compound,
+956,"Battle Ropes Lateral Whip",cardio,,"side_delt,upper_back,abs",none,none,cardio,dynamic,compound,
+957,"Battle Ropes Outside Slam",cardio,,"front_delt,side_delt,abs,upper_back",none,none,cardio,dynamic,compound,
+958,"Battle Ropes Outside Spiral",cardio,,"side_delt,rear_delt,abs",none,none,cardio,dynamic,compound,
+959,"Suspension T Deltoid Fly",shoulders,"rear_delt,upper_back",traps,bodyweight,suspension,horizontal_pull,pull,isolation,
+960,"Suspension W Deltoid Fly",shoulders,"rear_delt,upper_back",traps,bodyweight,suspension,horizontal_pull,pull,isolation,
+961,"Suspension Y Deltoid Fly",shoulders,"rear_delt,upper_back","traps,side_delt",bodyweight,suspension,vertical_pull,pull,isolation,
+962,"Handstand Hold",shoulders,"front_delt,triceps","side_delt,traps,abs",bodyweight,bodyweight,vertical_push,static,compound,
+963,"Handstand Walk",shoulders,"front_delt,triceps","side_delt,traps,abs",bodyweight,bodyweight,vertical_push,dynamic,compound,
+964,"Kipping Handstand Push-up",shoulders,"front_delt,triceps","side_delt,abs,glutes",bodyweight,bodyweight,vertical_push,push,compound,
+965,"Partner Handstand",shoulders,"front_delt,triceps","abs,traps",none,none,vertical_push,static,compound,
+966,"Partner Wheelbarrow Walk",shoulders,"front_delt,triceps","abs,chest",none,none,carry,dynamic,compound,
+967,"Reach Behind and Open",mobility,upper_back,"chest,obliques",none,none,mobility,dynamic,isolation,
+968,"Dowel Shoulder Flexion",mobility,"lats,front_delt",chest,none,none,mobility,dynamic,isolation,
+969,"Front Rack Stretch",mobility,"lats,triceps",forearms,none,none,mobility,static,isolation,
+970,"Overhead Dowel Shoulder Stretch",mobility,"lats,front_delt",chest,none,none,mobility,static,isolation,
+971,"Band Overhead Shoulder Stretch",mobility,lats,"front_delt,chest",band,band,mobility,static,isolation,
+972,"Wall Shoulder Stretch",mobility,"lats,front_delt",chest,none,none,mobility,static,isolation,
+973,"Bent Over Shoulder Stretch",mobility,"lats,upper_back","hamstrings,front_delt",none,none,mobility,static,isolation,
+974,"Barbell Behind The Back Shrug",shoulders,traps,"upper_back,forearms",barbell,barbell,isolation,pull,isolation,
+975,"Smith Machine Behind the Back Shrug",shoulders,traps,upper_back,machine,smith,isolation,pull,isolation,
+976,"Smith Machine Shrug",shoulders,traps,"upper_back,forearms",machine,smith,isolation,pull,isolation,
+977,"Machine Shrug",shoulders,traps,"forearms,upper_back",machine,machine,isolation,pull,isolation,
+978,"Split Squat",legs,"quads,glutes","adductors,hamstrings",bodyweight,bodyweight,lunge,push,compound,
+979,"Bodyweight Bulgarian Split Squat",legs,"quads,glutes","adductors,hamstrings",bodyweight,"bodyweight,bench",lunge,push,compound,
+980,"Band Bulgarian Split Squat",legs,"quads,glutes","adductors,hamstrings",band,"band,bench",lunge,push,compound,
+981,"Suspension Split Squat",legs,"quads,glutes","hamstrings,calves",bodyweight,suspension,lunge,push,compound,
+982,"Suspension Squat",legs,"quads,glutes",hamstrings,bodyweight,suspension,squat,push,compound,
+983,"Suspension Squat and Row",fullbody,"quads,lats","glutes,upper_back,biceps",bodyweight,suspension,squat,pull,compound,
+984,"Suspension Figure Four Squat",legs,"quads,glutes",hamstrings,bodyweight,suspension,squat,push,compound,
+985,"Suspension Cossack Squat",legs,"quads,adductors","glutes,hamstrings",bodyweight,suspension,lunge,push,compound,
+986,"Medicine Ball Squat",legs,"quads,glutes","abs,upper_back",ball,ball,squat,push,compound,
+987,"Squat with Rotation",legs,"quads,glutes",obliques,bodyweight,bodyweight,squat,dynamic,compound,
+988,"Squat Side Kick",legs,"quads,glutes",abductors,bodyweight,bodyweight,squat,dynamic,compound,
+989,"Machine Squat",legs,"quads,glutes","hamstrings,adductors",machine,machine,squat,push,compound,
+990,"Dumbbell Squat",legs,"quads,glutes","hamstrings,forearms",dumbbell,dumbbell,squat,push,compound,
+991,"Landmine Squat",legs,"quads,glutes","abs,upper_back",barbell,landmine,squat,push,compound,
+992,"Landmine Squat to Press",fullbody,"quads,front_delt","glutes,triceps,abs",barbell,landmine,squat,push,compound,
+993,"Landmine Sumo Squat",legs,"quads,adductors,glutes",hamstrings,barbell,landmine,squat,push,compound,
+994,"Sumo Squat",legs,"quads,adductors,glutes",hamstrings,bodyweight,bodyweight,squat,push,compound,
+995,"Mini Band Squat",legs,"quads,glutes,abductors",hamstrings,band,band,squat,push,compound,
+996,"Dowel Overhead Squat",mobility,"quads,upper_back","glutes,front_delt,abs",none,none,squat,push,compound,
+997,"Single-Arm Overhead Kettlebell Squat",legs,"quads,glutes","side_delt,obliques,upper_back",kettlebell,kettlebell,squat,push,compound,
+998,"Band Squat to Press",fullbody,"quads,front_delt","glutes,triceps",band,band,squat,push,compound,
+999,"Barbell Back Squat with Deep Partial Squat",legs,"quads,glutes","adductors,hamstrings",barbell,barbell,squat,push,compound,
+1000,"Pulse Back Squat",legs,"quads,glutes","hamstrings,calves",barbell,barbell,squat,push,compound,
+1001,"Kettlebell Front Squat",legs,"quads,glutes","obliques,abs,upper_back",kettlebell,kettlebell,squat,push,compound,
+1002,"Pause Front Squat",legs,quads,"glutes,abs,upper_back",barbell,barbell,squat,push,compound,
+1003,"Box Front Squat",legs,"quads,glutes","abs,upper_back",barbell,"barbell,box",squat,push,compound,
+1004,"Smith Machine Pistol Squat",legs,"quads,glutes","hamstrings,calves",machine,smith,squat,push,compound,
+1005,"Kettlebell Pistol Squat",legs,"quads,glutes","abs,hamstrings,calves",kettlebell,kettlebell,squat,push,compound,
+1006,"Weighted Wall Sit",legs,quads,glutes,barbell,plate,squat,static,isolation,
+1007,"Band Leg Press",legs,"quads,glutes",hamstrings,band,band,squat,push,compound,
+1008,"Band Leg Extension",legs,quads,,band,band,isolation,push,isolation,
+1009,"Band Deadlift",hamstrings,"glutes,hamstrings","quads,lower_back",band,band,hinge,pull,compound,
+1010,"Band Sumo Deadlift",hamstrings,"glutes,adductors","quads,hamstrings",band,band,hinge,pull,compound,
+1011,"Kettlebell Suitcase Deadlift",hamstrings,"glutes,quads","hamstrings,forearms,upper_back",kettlebell,kettlebell,hinge,pull,compound,
+1012,"Single Kettlebell Suitcase Deadlift",hamstrings,"glutes,quads","obliques,forearms,hamstrings",kettlebell,kettlebell,hinge,pull,compound,
+1013,"Dowel Romanian Deadlift",hamstrings,"hamstrings,glutes",lower_back,none,none,hinge,pull,compound,

@@ -1,0 +1,69 @@
+name: Render farm
+
+# ProGym exercise art 5.5 (style v5): the whole library (data/v5/all-moves.csv) split into 40 slices rendered in
+# parallel, male and female; each slice publishes its videos, pictures and checks to the branch out/<slice>.
+on:
+  workflow_dispatch:
+    inputs:
+      only:
+        description: 'comma-separated keys to render (empty = whole library)'
+        required: false
+        default: ''
+  push:
+    branches: [ main ]
+    paths: [ 'farm/go' ]
+
+permissions:
+  contents: write
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    strategy:
+      fail-fast: false
+      max-parallel: 20
+      matrix:
+        slice: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39]
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: pip
+          cache-dependency-path: farm/requirements.txt
+      - name: Install Blender (bpy) and ffmpeg
+        run: |
+          pip install -q -r farm/requirements.txt
+          which ffmpeg || (sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg)
+          python -c "import bpy; print(bpy.app.version_string)"; nproc
+      - name: Render this slice (male, then female)
+        shell: bash
+        run: |
+          set -euo pipefail
+          N=40; I=${{ matrix.slice }}
+          TOTAL=$(($(wc -l < data/v5/all-moves.csv) - 1))
+          S=$(( TOTAL * I / N )); E=$(( TOTAL * (I + 1) / N ))
+          ONLY="${{ github.event.inputs.only }}"
+          ARGS="--moves data/v5/all-moves.csv --out out --style v5 --threads $(nproc) --skip-existing"
+          if [ -n "$ONLY" ]; then ARGS="$ARGS --only $ONLY"; [ "$I" = "0" ] || exit 0; else ARGS="$ARGS --start $S --end $E"; fi
+          for G in m f; do
+            python -m artgen.render3 $ARGS --gender $G 2>&1 | grep --line-buffered -E '^\[|^done|Error|Traceback' || true
+          done
+          ls out/*.mp4 | wc -l
+      - name: Publish to out/slice-N
+        if: always()
+        shell: bash
+        run: |
+          mkdir -p pub/_qa
+          cp out/*.mp4 out/*.webp pub/ 2>/dev/null || true
+          cp out/_qa/*.json pub/_qa/ 2>/dev/null || true
+          cd pub
+          git init -q
+          git config user.name "progym-farm"
+          git config user.email "build@progym.ir"
+          B="out/slice-${{ matrix.slice }}"
+          git checkout -q -b "$B"
+          git add -A
+          git commit -q -m "Slice ${{ matrix.slice }} of $GITHUB_SHA" || exit 0
+          git push -q -f "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git" "$B"

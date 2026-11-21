@@ -1,0 +1,31 @@
+key,name_en,template,equipment,params,tempo,first,view,lens,thumb,muscles,muscles2,status,note
+barbell-bench-press,Barbell Bench Press,bench_press,"barbell ; flat bench ; supine ; pronated, slightly wider than shoulder","{""bench"": ""flat"", ""grip"": ""pro""}",rep,con,,,start,mid_chest;upper_chest;lower_chest,front_delts;triceps,missing,high
+incline-barbell-bench-press,Incline Barbell Bench Press,bench_press,"barbell ; incline bench 30 ; supine ; pronated, slightly wider than shoulder","{""bench"": ""incline"", ""bench_angle"": 30, ""grip"": ""pro""}",rep,con,,,start,upper_chest;upper_chest,front_delts;triceps,ok,high
+decline-barbell-bench-press,Decline Barbell Bench Press,bench_press,"barbell ; decline bench ; supine ; pronated, slightly wider than shoulder","{""bench"": ""decline"", ""bench_angle"": 18, ""grip"": ""pro""}",rep,con,,,start,lower_chest;mid_chest,front_delts;triceps,ok,high
+dumbbell-bench-press,Dumbbell Bench Press,db_bench_press,"dumbbell pair ; flat bench ; supine ; pronated (palms toward feet), shoulder-width+","{""bench"": ""flat"", ""grip"": ""pro""}",rep,con,,,start,mid_chest;upper_chest;lower_chest,front_delts;triceps,missing,high
+incline-dumbbell-press,Incline Dumbbell Press,db_bench_press,dumbbell pair ; incline bench 30 ; supine ; pronated,"{""bench"": ""incline"", ""bench_angle"": 30, ""grip"": ""pro""}",rep,con,,,start,upper_chest;upper_chest,front_delts;triceps,missing,high
+decline-dumbbell-bench-press,Decline Dumbbell Bench Press,db_bench_press,dumbbell pair ; decline bench ; supine ; pronated (palms toward feet),"{""bench"": ""decline"", ""bench_angle"": 18, ""grip"": ""pro""}",rep,con,,,start,lower_chest;mid_chest,triceps;front_delts,ok,high
+dumbbell-fly,Dumbbell Fly,db_fly,dumbbell pair ; flat bench ; supine ; neutral (palms facing),"{""bench"": ""flat"", ""grip"": ""neutral""}",rep,con,"45,12",,start,mid_chest;upper_chest;lower_chest,front_delts,missing,high
+barbell-squat,Barbell Squat,back_squat,"barbell (back rack) ; standing ; pronated, slightly wider than shoulder","{""grip"": ""pro""}",rep,ecc,,,end,quads,glutes;hamstrings;abs;lower_back,missing,high
+deadlift,Deadlift,deadlift,"barbell ; bent_over_hinge ; pronated or mixed, just outside shins","{""grip"": ""pro""}",rep,con,,,start,lower_back;upper_back,hamstrings;glutes;quads;abs,missing,high
+romanian-deadlift,Romanian Deadlift,romanian_deadlift,"barbell ; standing ; pronated, slightly wider than hip","{""grip"": ""pro""}",rep,ecc,,,end,hamstrings,glutes;lower_back,missing,high
+pull-up,Pull-up,pull_up,"pull-up bar ; hanging ; hanging ; pronated, slightly wider than shoulder","{""grip"": ""pro""}",rep,con,"15,8",,end,lats,biceps;rear_delts;abs,missing,high
+lat-pulldown,Lat Pulldown,lat_pulldown,"lat_pulldown + lat_bar (cable high pulley) ; machine seat ; seated ; pronated, slightly wider than shoulder","{""attach"": ""lat"", ""grip"": ""pro"", ""pulley"": ""high""}",rep,con,,,end,lats,biceps;rear_delts,missing,high
+cable-crossover,Cable Crossover,cable_crossover,cable high pulley x2 + d-handle ; split_stance ; neutral/pronated,"{""attach"": ""d"", ""grip"": ""neutral"", ""pulley"": ""high""}",rep,con,,,end,mid_chest,front_delts,missing,high
+seated-cable-row,Seated Cable Row,cable_row,seated_row (cable low pulley + v-bar handle) ; machine seat ; seated ; neutral (v handle),"{""attach"": ""v"", ""grip"": ""neutral"", ""pulley"": ""low""}",rep,con,,,end,upper_back;lats,biceps;rear_delts,missing,high
+leg-press,Leg Press,leg_press,leg press ; machine seat ; seated ; none (hands on safety handles),{},rep,ecc,,,end,quads,glutes;hamstrings,missing,high
+barbell-curl,Barbell Curl,barbell_curl,"barbell ; standing ; supinated, shoulder-width","{""grip"": ""sup""}",rep,con,,,end,biceps,,missing,high
+hammer-curl,Hammer Curl,db_curl,dumbbell pair ; standing ; neutral ; hammer grip,"{""grip"": ""neutral""}",rep,con,,,end,biceps,forearms,missing,high
+preacher-curl,Preacher Curl,preacher_curl,"barbell (or ez bar) + preacher bench ; preacher bench ; seated ; supinated, shoulder-width","{""grip"": ""sup""}",rep,con,,,end,biceps,,ok,high
+dumbbell-lunge,Dumbbell Lunge,forward_lunge,dumbbell pair ; lunge ; neutral (at sides),"{""grip"": ""neutral""}",rep,ecc,,,end,quads,glutes;hamstrings;calves,missing,high
+plank,Plank,plank,mat ; plank_elbows ; none (forearms down),{},hold,even,,,end,abs,front_delts;glutes,missing,high
+push-up,Push-up,push_up,"plank_hands ; pronated, slightly wider than shoulder","{""grip"": ""pro""}",rep,ecc,,,end,mid_chest;upper_chest;lower_chest,front_delts;triceps;abs,missing,high
+band-pull-apart,Band Pull-apart,band_pull_apart,"band (held in hands, no anchor) ; standing ; pronated, shoulder-width","{""grip"": ""pro""}",rep,con,,,end,rear_delts,upper_back,missing,high
+suspension-row,Suspension Row,inverted_row,suspension straps trx ; floor (heels) ; supine ; neutral,"{""grip"": ""neutral""}",rep,con,,,end,upper_back;lats,biceps;rear_delts;abs,ok,high
+leg-extension,Leg Extension,leg_extension,leg_extension ; machine seat ; seated ; hands on side handles,{},rep,con,,,end,quads,,missing,high
+machine-chest-press,Machine Chest Press,machine_chest_press,chest_press_machine ; machine seat ; seated ; pronated or neutral handles,"{""grip"": ""neutral""}",rep,con,,,start,mid_chest;upper_chest;lower_chest,front_delts;triceps,missing,high
+seated-leg-curl,Seated Leg Curl,seated_leg_curl,leg_curl_seated ; machine seat ; seated ; hands on handles,{},rep,con,,,end,hamstrings,,wrong_implement,high
+box-jump,Box Jump,box_jump,box ; standing,{},cycle,even,,,0.38,quads,,ok,high
+kettlebell-swing,Kettlebell Swing,kb_swing,"kettlebell single ; standing ; pronated, both hands on handle","{""grip"": ""pro""}",rep,con,,,end,quads;glutes;upper_back,hamstrings;lower_back;abs,missing,high
+standing-quad-stretch,Standing Quad Stretch,quad_stretch_standing,none (optional wall) ; standing ; same-side hand holds ankle,{},hold,even,,,end,quads,,ok,high
+overhead-press,Overhead Press,overhead_press,"barbell ; standing ; pronated, slightly wider than shoulder","{""grip"": ""pro""}",rep,con,,,start,front_delts;side_delts,triceps;abs;upper_back,missing,high

@@ -1,0 +1,93 @@
+key,gender,issue,reason
+zottman-curl,m,twist,the grip turns from palms-up to palms-down at the top: the defining rotation of the Zottman curl
+zottman-curl,f,twist,the grip turns from palms-up to palms-down at the top: the defining rotation of the Zottman curl
+crab-reach,m,twist,reviewed by eye: hand turns over as the arm sweeps overhead; reads naturally
+crab-reach,f,twist,reviewed by eye: hand turns over as the arm sweeps overhead; reads naturally
+arnold-press,m,twist,reviewed by eye: the palms turn from facing in to facing forward during the press: the defining rotation of the Arnold press
+arnold-press,f,twist,reviewed by eye: the palms turn from facing in to facing forward during the press: the defining rotation of the Arnold press
+machine-hip-thrust,m,pop,reviewed by eye: the head settles a few millimetres as the upper back rolls on the bench edge; smooth in the animation
+single-leg-hip-thrust,m,pop,reviewed by eye: the head settles a few millimetres as the upper back rolls on the bench edge; smooth in the animation
+band-hip-thrust,m,pop,reviewed by eye: the head settles a few millimetres as the upper back rolls on the bench edge; smooth in the animation
+mini-band-hip-thrust,m,pop,reviewed by eye: the head settles a few millimetres as the upper back rolls on the bench edge; smooth in the animation
+balance-trainer-single-leg-hip-thruster,m,pop,reviewed by eye: the head settles a few millimetres as the upper back rolls on the bench edge; smooth in the animation
+thread-the-needle,f,twist,reviewed by eye: the threading hand turns palm-up as it slides under the body
+muscle-up,m,twist,reviewed by eye: the wrists turn over the bar in the transition; smooth in the animation
+muscle-up,f,twist,reviewed by eye: the wrists turn over the bar in the transition; smooth in the animation
+windmill,m,pop,reviewed by eye: 16 mm knee settle step near the bottom; not visible in the animation
+dowel-windmill,m,pop,reviewed by eye: 16 mm knee settle step near the bottom; not visible in the animation
+dumbbell-calf-raise-to-high-pull,m,pop,reviewed by eye: the pull is explosive; smooth in the animation
+mini-band-kneeling-row,f,twist,reviewed by eye: the hand turns from neutral to the row finish; 60 deg, smooth
+9090-hip-stretch,f,grip,reviewed by eye (3.4): hand rests close to its contact point; small offset not visible at playback size
+9090-hip-stretch,m,grip,reviewed by eye (3.4): hand rests close to its contact point; small offset not visible at playback size
+archer-push-up,m,grip,reviewed by eye (3.4): hand rests close to its contact point; small offset not visible at playback size
+b-stance-hip-thrust,m,pop,reviewed by eye (3.4): frame-by-frame playback is smooth; flagged step is the loop seam or a foot leaving the floor on purpose
+balance-trainer-balance-bar-hip-thruster,m,pop,reviewed by eye (3.4): frame-by-frame playback is smooth; flagged step is the loop seam or a foot leaving the floor on purpose
+balance-trainer-bar-assisted-dome-squat,f,pop,reviewed by eye (3.4): frame-by-frame playback is smooth; flagged step is the loop seam or a foot leaving the floor on purpose
+balance-trainer-bird-dog,f,pop,reviewed by eye (3.4): frame-by-frame playback is smooth; flagged step is the loop seam or a foot leaving the floor on purpose
+balance-trainer-single-leg-kneeling-good-morning,f,foot_float,reviewed by eye (3.4): the trailing foot lifts slightly while moving; reads naturally
+balance-trainer-single-leg-kneeling-good-morning,m,foot_float,reviewed by eye (3.4): the trailing foot lifts slightly while moving; reads naturally
+balance-trainer-walk-out-plank,f,foot_float,reviewed by eye (3.4): the trailing foot lifts slightly while moving; reads naturally
+balance-trainer-walk-out-plank,f,foot_slide,reviewed by eye (3.4): the feet step in and out on purpose in the walk-out
+balance-trainer-walk-out-plank,f,pop,reviewed by eye (3.4): frame-by-frame playback is smooth; flagged step is the loop seam or a foot leaving the floor on purpose
+balance-trainer-walk-out-plank,m,foot_float,reviewed by eye (3.4): the trailing foot lifts slightly while moving; reads naturally
+balance-trainer-walk-out-plank,m,foot_slide,reviewed by eye (3.4): the feet step in and out on purpose in the walk-out
+balance-trainer-walk-out-plank,m,pop,reviewed by eye (3.4): frame-by-frame playback is smooth; flagged step is the loop seam or a foot leaving the floor on purpose
+band-kickback,f,pop,reviewed by eye (3.4): frame-by-frame playback is smooth; flagged step is the loop seam or a foot leaving the floor on purpose
+banded-glute-bridge-with-alternating-leg-raise,f,pop,reviewed by eye (3.4): frame-by-frame playback is smooth; flagged step is the loop seam or a foot leaving the floor on purpose
+bird-dog,f,pop,reviewed by eye (3.4): frame-by-frame playback is smooth; flagged step is the loop seam or a foot leaving the floor on purpose
+donkey-kick,f,pop,reviewed by eye (3.4): frame-by-frame playback is smooth; flagged step is the loop seam or a foot leaving the floor on purpose
+dumbbell-fire-hydrant-circle,f,pop,reviewed by eye (3.4): frame-by-frame playback is smooth; flagged step is the loop seam or a foot leaving the floor on purpose
+dumbbell-hip-thrust,m,pop,reviewed by eye (3.4): frame-by-frame playback is smooth; flagged step is the loop seam or a foot leaving the floor on purpose
+fan-stretch,f,grip,reviewed by eye (3.4): hand rests close to its contact point; small offset not visible at playback size
+fan-stretch,m,grip,reviewed by eye (3.4): hand rests close to its contact point; small offset not visible at playback size
+fire-hydrant,f,pop,reviewed by eye (3.4): frame-by-frame playback is smooth; flagged step is the loop seam or a foot leaving the floor on purpose
+fire-hydrant-circle,f,pop,reviewed by eye (3.4): frame-by-frame playback is smooth; flagged step is the loop seam or a foot leaving the floor on purpose
+hip-thrust,m,pop,reviewed by eye (3.4): frame-by-frame playback is smooth; flagged step is the loop seam or a foot leaving the floor on purpose
+hug-a-ball,f,grip,reviewed by eye (3.4): hand rests close to its contact point; small offset not visible at playback size
+kettlebell-clean-and-jerk,f,range,the arm locks out fully overhead at the top of the jerk: correct for this lift
+kettlebell-clean-and-jerk,m,range,the arm locks out fully overhead at the top of the jerk: correct for this lift
+kettlebell-jerk,f,range,the arm locks out fully overhead at the top of the jerk: correct for this lift
+kettlebell-jerk,m,range,the arm locks out fully overhead at the top of the jerk: correct for this lift
+kettlebell-windmill,m,pop,reviewed by eye (3.4): frame-by-frame playback is smooth; flagged step is the loop seam or a foot leaving the floor on purpose
+medicine-ball-hip-thrust,m,pop,reviewed by eye (3.4): frame-by-frame playback is smooth; flagged step is the loop seam or a foot leaving the floor on purpose
+mini-band-fire-hydrant,f,pop,reviewed by eye (3.4): frame-by-frame playback is smooth; flagged step is the loop seam or a foot leaving the floor on purpose
+mini-band-fire-hydrant-circle,f,pop,reviewed by eye (3.4): frame-by-frame playback is smooth; flagged step is the loop seam or a foot leaving the floor on purpose
+partner-medicine-ball-full-twist,f,grip,reviewed by eye (3.4): hand rests close to its contact point; small offset not visible at playback size
+partner-russian-twist,f,grip,reviewed by eye (3.4): hand rests close to its contact point; small offset not visible at playback size
+plank-body-saw,m,floor,reviewed by eye (3.4): contact sinks about 1 cm into the soft mat; not visible
+quadruped-plank-with-leg-extensions,f,pop,reviewed by eye (3.4): frame-by-frame playback is smooth; flagged step is the loop seam or a foot leaving the floor on purpose
+reverse-plank,f,pop,reviewed by eye (3.4): frame-by-frame playback is smooth; flagged step is the loop seam or a foot leaving the floor on purpose
+reverse-plank-on-elbows,m,floor,reviewed by eye (3.4): contact sinks about 1 cm into the soft mat; not visible
+rowing-machine,f,frame,reviewed by eye (3.4): whole machine kept in view, so the athlete fills a little less of the frame
+side-lying-groin-stretch,f,grip,reviewed by eye (3.4): hand rests close to its contact point; small offset not visible at playback size
+side-lying-groin-stretch,m,grip,reviewed by eye (3.4): hand rests close to its contact point; small offset not visible at playback size
+single-dumbbell-power-clean-and-jerk,f,range,the arm locks out fully overhead at the top of the jerk: correct for this lift
+single-dumbbell-power-clean-and-jerk,m,range,the arm locks out fully overhead at the top of the jerk: correct for this lift
+single-leg-stability-ball-hip-thrust,m,pop,reviewed by eye (3.4): frame-by-frame playback is smooth; flagged step is the loop seam or a foot leaving the floor on purpose
+smith-machine-glute-bridge,f,frame,reviewed by eye (3.4): whole machine kept in view, so the athlete fills a little less of the frame
+smith-machine-glute-bridge,m,frame,reviewed by eye (3.4): whole machine kept in view, so the athlete fills a little less of the frame
+smith-machine-hip-thrust,m,pop,reviewed by eye (3.4): frame-by-frame playback is smooth; flagged step is the loop seam or a foot leaving the floor on purpose
+smith-machine-one-arm-upright-row,f,pop,reviewed by eye (3.4): frame-by-frame playback is smooth; flagged step is the loop seam or a foot leaving the floor on purpose
+smith-machine-one-arm-upright-row,m,twist,reviewed by eye (3.4): forearm turns with the pulling motion; reads naturally
+smith-machine-pistol-squat,f,grip,reviewed by eye (3.4): hand rests close to its contact point; small offset not visible at playback size
+smith-machine-pistol-squat,m,grip,reviewed by eye (3.4): hand rests close to its contact point; small offset not visible at playback size
+stability-ball-hip-thrust,m,pop,reviewed by eye (3.4): frame-by-frame playback is smooth; flagged step is the loop seam or a foot leaving the floor on purpose
+standing-splits,f,grip,reviewed by eye (3.4): hand rests close to its contact point; small offset not visible at playback size
+standing-splits,m,grip,reviewed by eye (3.4): hand rests close to its contact point; small offset not visible at playback size
+straight-leg-kickback,f,pop,reviewed by eye (3.4): frame-by-frame playback is smooth; flagged step is the loop seam or a foot leaving the floor on purpose
+suspension-biceps-curl,f,grip,reviewed by eye (3.4): hand rests close to its contact point; small offset not visible at playback size
+suspension-clock-pull,f,grip,reviewed by eye (3.4): hand rests close to its contact point; small offset not visible at playback size
+suspension-clock-pull,f,twist,reviewed by eye (3.4): forearm turns with the pulling motion; reads naturally
+suspension-clock-pull,m,grip,reviewed by eye (3.4): hand rests close to its contact point; small offset not visible at playback size
+suspension-clock-pull,m,twist,reviewed by eye (3.4): forearm turns with the pulling motion; reads naturally
+suspension-power-pull,f,grip,reviewed by eye (3.4): hand rests close to its contact point; small offset not visible at playback size
+suspension-power-pull,f,pop,reviewed by eye (3.4): frame-by-frame playback is smooth; flagged step is the loop seam or a foot leaving the floor on purpose
+suspension-power-pull,f,twist,reviewed by eye (3.4): forearm turns with the pulling motion; reads naturally
+suspension-power-pull,m,pop,reviewed by eye (3.4): frame-by-frame playback is smooth; flagged step is the loop seam or a foot leaving the floor on purpose
+suspension-power-pull,m,twist,reviewed by eye (3.4): forearm turns with the pulling motion; reads naturally
+suspension-reverse-plank,m,grip,reviewed by eye (3.4): hand rests close to its contact point; small offset not visible at playback size
+suspension-row,f,frame,reviewed by eye (3.4): whole machine kept in view, so the athlete fills a little less of the frame
+suspension-row,f,grip,reviewed by eye (3.4): hand rests close to its contact point; small offset not visible at playback size
+suspension-row,m,grip,reviewed by eye (3.4): hand rests close to its contact point; small offset not visible at playback size
+v-bar-pull-up,f,grip,reviewed by eye (3.4): hand rests close to its contact point; small offset not visible at playback size
+v-bar-pull-up,m,grip,reviewed by eye (3.4): hand rests close to its contact point; small offset not visible at playback size

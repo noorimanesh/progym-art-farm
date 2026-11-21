@@ -1,0 +1,42 @@
+key,name_en,template,equipment,params,tempo,first,view,lens,thumb,muscles,muscles2,status,note
+kettlebell-figure-8,Kettlebell Figure 8,x54,kettlebell single ; bent_over_hinge ; one hand at a time,"{""freeze"": ""L""}",cycle,con,"70,10",,end,quads;glutes;upper_back,abs;hamstrings;forearms,wrong_exercise,high
+glute-kickback-machine,Glute Kickback Machine,x54,glute_kickback_machine ; machine (chest/forearm pad) ; standing ; hands on handles,{},rep,con,"80,8",,end,glutes,hamstrings,wrong_implement,high
+chest-supported-t-bar-row,Chest-Supported T-Bar Row,x54,"t_bar_row_machine (chest pad) ; machine (chest pad, foot platform) ; prone ; neutral or pronated handles","{""grip"": ""neutral""}",rep,con,"80,8",,end,upper_back;lats,rear_delts;biceps,wrong_support,high
+man-maker,Man Maker,x54,dumbbell pair ; plank_hands ; neutral on dumbbells,"{""grip"": ""neutral""}",cycle,even,"75,12",,0.32,mid_chest;upper_back;quads,front_delts;triceps;abs;glutes,wrong_implement,high
+devil-press,Devil Press,x54f,dumbbell pair ; plank_hands ; neutral on dumbbells,"{""grip"": ""neutral""}",cycle,even,"75,12",,0.32,glutes;hamstrings;front_delts,mid_chest;triceps;upper_back;abs,wrong_implement,high
+dragon-flag,Dragon Flag,x54,flat bench ; supine ; none (hands grip bench behind head),{},rep,con,,,end,abs,obliques;lats;glutes,wrong_support,high
+safety-bar-squat,Safety Bar Squat,x54,safety_squat_bar ; standing ; neutral front handles,"{""grip"": ""neutral""}",rep,ecc,"62,8",,end,quads;glutes,upper_back;hamstrings;abs,wrong_implement,medium
+suspension-leg-raise,Suspension Leg Raise,x54,suspension straps trx ; supine ; neutral,"{""grip"": ""neutral""}",rep,con,"80,12",,end,abs,obliques,wrong_implement,medium
+balance-trainer-up-and-down-plank,Balance Trainer Up and Down Plank,x54,bosu (dome down) ; bosu (flat side) ; plank_elbows to plank_hands ; neutral (edges),"{""grip"": ""neutral""}",rep,even,"65,12",,end,abs;triceps,front_delts;mid_chest,wrong_implement,high
+balance-trainer-traveling-dome-plank,Balance Trainer Traveling Dome Plank,x54,bosu (dome up) ; bosu + floor ; plank_hands,{},cycle,even,"20,14",,end,abs,front_delts;triceps,wrong_position,high
+partner-pallof-twist,Partner Pallof Twist,x54,mat ; partner,"{""grip"": ""neutral""}",rep,even,"20,10",,end,obliques;abs,front_delts,wrong_implement,medium
+glute-ham-raise-sit-up,Glute Ham Raise Sit-up,x54,glute_ham_developer ; ghd pad (hips) ; seated (face up) ; none (arms crossed),{},rep,con,"80,8",,end,abs,quads,wrong_support,high
+suspension-kneeling-oblique-rollout,Suspension Kneeling Oblique Rollout,x54,suspension straps trx ; kneeling ; pronated,"{""grip"": ""pro""}",alt,ecc,"60,10",,end,obliques;abs,lats,wrong_position,high
+balance-trainer-cable-crunch-with-side-bends,Balance Trainer Cable Crunch With Side Bends,x54,cable low pulley ; rope ; bosu ; bosu (lower back) ; supine ; neutral,"{""attach"": ""rope"", ""grip"": ""neutral"", ""pulley"": ""low""}",alt,con,"60,14",,end,abs;obliques,,wrong_exercise,medium
+balance-trainer-single-leg-crunch,Balance Trainer Single-Leg Crunch,x54,bosu ; bosu (lower back) ; supine,{},rep,con,"80,12",,end,abs,obliques,wrong_exercise,high
+reverse-lunge-with-half-kneeling-pallof-press,Reverse Lunge With Half-Kneeling Pallof Press,x54,cable mid pulley ; d-handle ; standing to half_kneeling ; neutral,"{""attach"": ""d"", ""grip"": ""neutral"", ""pulley"": ""mid""}",rep,ecc,"20,8",,end,obliques;abs,quads;glutes,wrong_implement,high
+balance-trainer-single-leg-lift,Balance Trainer Single-Leg Lift,x54,bosu ; bosu (seated) ; seated (lean back) ; none (hands on dome edge),{},rep,con,,,end,abs,quads,wrong_exercise,high
+dumbbell-halo-to-oblique-crunch,Dumbbell Halo To Oblique Crunch,x54,dumbbell single ; standing ; neutral (both ends),"{""grip"": ""neutral""}",cycle,even,"20,8",,end,obliques,front_delts;side_delts;abs,wrong_motion,high
+stability-ball-v-pass,Stability Ball V-pass,x54,stability ball ; supine,{},rep,con,"80,12",,end,abs,quads;front_delts,wrong_implement,high
+mini-band-triceps-press,Mini Band Triceps Press,x54,mini band (between hands) ; standing ; neutral,"{""freeze"": ""L"", ""grip"": ""neutral""}",rep,con,"15,8",,end,triceps,,wrong_implement,medium
+foam-roll-lats,Foam Roll Lats,x54,foam roller ; side_lying,{},rep,even,"10,22",,end,lats,,wrong_position,high
+suspension-swimmer-pull,Suspension Swimmer Pull,x54,suspension straps trx ; standing (leaning back) ; pronated,"{""grip"": ""pro""}",rep,con,"80,8",,end,lats,triceps;abs,wrong_exercise,high
+balance-trainer-stability-ball-overhead-squat,Balance Trainer Stability Ball Overhead Squat,x54,bosu ; stability ball ; bosu ; standing,{},rep,ecc,"60,8",,end,quads;glutes,abs;front_delts;upper_back,wrong_implement,medium
+balance-trainer-burpee,Balance Trainer Burpee,x54f,bosu (lifted) ; standing to plank_hands ; neutral (edges),"{""grip"": ""neutral""}",cycle,even,"75,12",,0.32,quads;glutes;abs,triceps;front_delts;lower_back,wrong_implement,high
+balance-trainer-burpee-with-push-up,Balance Trainer Burpee with Push-up,x54f,bosu (lifted) ; standing to plank_hands ; neutral (edges),"{""grip"": ""neutral""}",cycle,even,"75,12",,0.32,quads;glutes;mid_chest,triceps;front_delts;abs,wrong_implement,high
+partner-band-sprint,Partner Band Sprint,x54f,mat ; partner,{},cycle,even,"65,8",,0.25,quads;glutes;calves,hamstrings,wrong_implement,high
+partner-wall-sit-and-triceps-dip,Partner Wall Sit And Triceps Dip,x54,mat ; partner,"{""grip"": ""neutral""}",rep,even,"60,8",,end,quads;triceps,glutes;front_delts,wrong_motion,medium
+partner-plank-hold-and-jump,Partner Plank Hold And Jump,x54f,mat ; partner,{},cycle,even,"40,14",,end,quads;abs,calves;glutes;front_delts,wrong_motion,medium
+rotation-push-up,Rotation Push-up,x54,plank_hands to side_plank ; pronated,"{""grip"": ""pro""}",rep,ecc,"15,8",,end,mid_chest;obliques,triceps;front_delts,wrong_motion,high
+walkout-to-push-up,Walkout to Push-up,x54,standing to plank_hands ; pronated,"{""grip"": ""pro""}",cycle,even,"75,10",,end,mid_chest;hamstrings,triceps;front_delts;abs,wrong_motion,high
+partner-rolling-ball-push-up,Partner Rolling Ball Push-up,x54,mat ; partner,"{""grip"": ""pro""}",cycle,ecc,"25,18",,end,mid_chest;upper_chest;lower_chest,triceps;front_delts;abs,wrong_implement,medium
+partner-wheelbarrow-push-up,Partner Wheelbarrow Push-up,x54,mat ; partner,"{""grip"": ""pro""}",rep,ecc,"75,10",,end,mid_chest;triceps,front_delts;abs,wrong_position,high
+balance-trainer-rear-glute-raise,Balance Trainer Rear Glute Raise,x54,balance trainer bosu;mat ; quadruped,{},rep,con,"85,10",,end,glutes,abs;front_delts,wrong_implement,high
+single-leg-glute-bridge-with-external-rotation,Single-Leg Glute Bridge with External Rotation,x54,mat ; supine,{},rep,con,,,end,glutes,hamstrings;abductors,wrong_position,high
+single-leg-foam-roll-hip-thrust,Single-Leg Foam Roll Hip Thrust,x54,foam roller;bench ; flat bench ; supine,{},rep,even,"80,8",,end,glutes;hamstrings,abs,wrong_support,high
+foam-roll-hip-abductors,Foam Roll Hip Abductors,x54,foam roller;mat ; side_lying ; forearm on floor,{},rep,even,"10,22",,end,abductors,glutes,wrong_position,high
+reverse-leg-crossover,Reverse Leg Crossover,x54,mat ; prone ; arms out in a t,{},alt,con,"60,30",,end,lower_back;obliques,glutes;quads,wrong_exercise,medium
+cable-shoulder-press,Cable Shoulder Press,x54,cable low pulley;d-handle x2;bench ; upright bench seated (or standing) ; seated ; pronated on handles,"{""attach"": ""d"", ""bench"": ""upright"", ""bench_angle"": 82, ""grip"": ""pro"", ""pulley"": ""low""}",rep,con,"25,8",,start,front_delts;side_delts,triceps,wrong_implement,high
+handstand-walk,Handstand Walk,x54,mat ; handstand ; pronated,"{""grip"": ""pro""}",cycle,even,"85,6",,end,front_delts;triceps,side_delts;traps;abs,wrong_exercise,high
+partner-wheelbarrow-walk,Partner Wheelbarrow Walk,x54,mat ; partner,"{""grip"": ""pro""}",cycle,ecc,"75,10",,end,front_delts;triceps,abs;mid_chest,wrong_position,high
+machine-shrug,Machine Shrug,x54,shrug_machine ; standing ; neutral on side handles,"{""grip"": ""neutral""}",rep,con,"40,8",,end,traps,forearms;upper_back,wrong_implement,high

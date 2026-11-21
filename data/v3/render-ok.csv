@@ -1,0 +1,337 @@
+key,name_en,template,equipment,params,tempo,first,view,lens,thumb,muscles,muscles2,status,note
+decline-dumbbell-bench-press,Decline Dumbbell Bench Press,db_bench_press,dumbbell pair ; decline bench ; supine ; pronated (palms toward feet),"{""bench"": ""decline"", ""bench_angle"": 18, ""grip"": ""pro""}",rep,con,,,start,lower_chest;mid_chest,triceps;front_delts,ok,high
+dumbbell-floor-press,Dumbbell Floor Press,db_bench_press,dumbbell pair ; supine ; pronated,"{""bench"": ""floor"", ""grip"": ""pro""}",rep,con,,,start,mid_chest;upper_chest;lower_chest,triceps;front_delts,ok,high
+dumbbell-pullover,Dumbbell Pullover,pullover,dumbbell single (both hands on top plate) ; flat bench ; supine ; both hands cup inner plate,{},rep,con,,,end,mid_chest,upper_back;triceps,ok,high
+incline-push-up,Incline Push-up,push_up,"flat bench ; flat bench (hands) ; plank_hands ; pronated, slightly wider than shoulder","{""grip"": ""pro""}",rep,ecc,,,end,upper_chest;upper_chest,triceps;front_delts;abs,ok,high
+one-arm-kettlebell-row,One-Arm Kettlebell Row,db_row,kettlebell single ; flat bench ; bent_over_hinge ; neutral,"{""freeze"": ""L"", ""grip"": ""neutral""}",rep,con,,,end,upper_back;lats,biceps;rear_delts;abs,ok,high
+rack-pull,Rack Pull,deadlift,"barbell + power rack pins ; bent_over_hinge ; pronated or mixed, just outside thighs","{""grip"": ""pro""}",rep,con,,,start,lower_back;upper_back,glutes;hamstrings;quads,ok,high
+stiff-leg-barbell-deadlift,Stiff-Leg Barbell Deadlift,romanian_deadlift,"barbell ; standing ; pronated, shoulder-width","{""grip"": ""pro""}",rep,ecc,,,end,hamstrings,glutes;lower_back,ok,high
+stiff-leg-dumbbell-deadlift,Stiff-Leg Dumbbell Deadlift,romanian_deadlift,dumbbell pair ; standing ; pronated (palms toward thighs),"{""grip"": ""pro""}",rep,ecc,,,end,hamstrings,glutes;lower_back,ok,high
+cable-lateral-raise,Cable Lateral Raise,lateral_raise,cable low pulley + d-handle ; standing ; neutral,"{""attach"": ""d"", ""freeze"": ""L"", ""grip"": ""neutral"", ""pulley"": ""low""}",rep,con,,,end,side_delts,,ok,high
+push-press,Push Press,power_clean,"barbell ; standing ; pronated, slightly wider than shoulder","{""grip"": ""pro""}",rep,con,,,end,front_delts;side_delts,triceps;quads;abs;glutes,ok,high
+band-lateral-raise,Band Lateral Raise,lateral_raise,band under feet ; standing ; neutral,"{""grip"": ""neutral""}",rep,con,,,end,side_delts,,ok,high
+standing-cable-curl,Standing Cable Curl,barbell_curl,"cable low pulley + straight bar ; standing ; supinated, shoulder-width","{""attach"": ""bar"", ""grip"": ""sup"", ""pulley"": ""low""}",rep,con,,,end,biceps,front_delts,ok,high
+zottman-curl,Zottman Curl,db_curl,"dumbbell pair ; standing ; supinated up, pronated down","{""grip"": ""sup""}",rep,con,"15,8",,end,biceps,forearms,ok,medium
+reverse-grip-triceps-pushdown,Reverse-Grip Triceps Pushdown,triceps_pushdown,"cable high pulley + straight bar ; standing ; supinated, shoulder-width","{""attach"": ""bar"", ""grip"": ""sup"", ""pulley"": ""high""}",rep,con,,,end,triceps,,ok,medium
+close-grip-incline-push-up,Close-Grip Incline Push-up,push_up,"flat bench ; flat bench (hands) ; plank_hands ; pronated, narrow","{""grip"": ""pro"", ""width"": ""close""}",rep,ecc,,,end,triceps,mid_chest;front_delts;abs,ok,high
+dumbbell-split-squat,Dumbbell Split Squat,split_squat,dumbbell pair ; split_stance ; neutral,"{""grip"": ""neutral""}",rep,ecc,,,end,quads,glutes;hamstrings,ok,high
+dumbbell-reverse-lunge,Dumbbell Reverse Lunge,reverse_lunge,dumbbell pair ; lunge ; neutral,"{""grip"": ""neutral""}",rep,ecc,,,end,quads,glutes;hamstrings;calves,ok,high
+jump-squat,Jump Squat,jump_squat,standing,{},rep,even,,,end,quads,glutes;hamstrings;calves,ok,high
+pistol-squat,Pistol Squat,pistol_squat,"none (steps mention optional kettlebell at chest) ; standing ; none, arms forward (or kettlebell by horns)",{},rep,ecc,,,end,quads,glutes;hamstrings;abs,ok,medium
+sled-push,Sled Push,sled_push,sled ; standing ; neutral on vertical posts,"{""grip"": ""neutral""}",rep,even,,,end,quads,glutes;hamstrings;calves;upper_back,ok,high
+cable-pull-through,Cable Pull-through,cable_pull_through,"cable low pulley + rope ; standing ; neutral, rope between legs","{""attach"": ""rope"", ""grip"": ""neutral"", ""pulley"": ""low""}",rep,con,,,end,glutes,hamstrings;lower_back,ok,high
+donkey-kick,Donkey Kick,donkey_kick,mat ; quadruped,{},rep,con,,,end,glutes,hamstrings;abs,ok,high
+reverse-crunch,Reverse Crunch,reverse_crunch,mat ; supine ; palms down at sides,{},rep,con,,,end,abs,,ok,medium
+sit-up,Sit-up,sit_up,mat ; supine ; arms crossed on chest,{},rep,con,,,end,abs,,ok,high
+decline-crunch,Decline Crunch,crunch,decline_bench ; decline bench ; supine ; arms crossed on chest,"{""bench"": ""decline"", ""bench_angle"": 18}",rep,con,,,end,abs,,ok,high
+v-up,V-up,v_up,mat ; supine,{},rep,con,,,end,abs,,ok,high
+landmine-rotation,Landmine Rotation,standing_twist,landmine + barbell ; standing ; both hands overlapped on bar end,{},rep,even,,,end,obliques;abs,front_delts;glutes,ok,high
+medicine-ball-slam,Medicine Ball Slam,medball_slam,medicine ball (slam ball) ; standing ; both hands on ball,{},rep,even,,,end,quads;glutes;upper_back,abs;front_delts,ok,high
+kettlebell-thruster,Kettlebell Thruster,thruster,"kettlebell pair (or x1) ; standing ; neutral, rack position","{""grip"": ""neutral""}",rep,con,,,end,quads;glutes;upper_back,front_delts;triceps;abs,ok,high
+cat-cow-stretch,Cat-Cow Stretch,cat_cow,mat ; quadruped,{},rep,even,,,end,upper_back;lower_back,abs,ok,high
+childs-pose,Child's Pose,child_pose,mat ; kneeling,{},hold,even,,,end,upper_back;lower_back,front_delts,ok,high
+kneeling-hip-flexor-stretch,Kneeling Hip Flexor Stretch,hip_flexor_stretch,mat ; half_kneeling ; hands on hips,{},hold,even,,,end,quads,glutes,ok,high
+standing-quad-stretch,Standing Quad Stretch,quad_stretch_standing,none (optional wall) ; standing ; same-side hand holds ankle,{},hold,even,,,end,quads,,ok,high
+cross-body-shoulder-stretch,Cross-Body Shoulder Stretch,arm_stretch,standing ; other hand above elbow,{},hold,even,,,end,front_delts;rear_delts,upper_back,ok,high
+standing-toe-touch,Standing Toe Touch,standing_forward_bend,standing,{},hold,even,,,end,hamstrings,calves;upper_back,ok,high
+smith-machine-bench-press,Smith Machine Bench Press,bench_press,"smith ; flat bench ; supine ; pronated, slightly wider than shoulder","{""bench"": ""flat"", ""grip"": ""pro""}",rep,con,,,start,mid_chest;upper_chest;lower_chest,front_delts;triceps,ok,high
+smith-machine-incline-press,Smith Machine Incline Press,bench_press,"smith ; incline bench 30 ; supine ; pronated, slightly wider than shoulder","{""bench"": ""incline"", ""bench_angle"": 30, ""grip"": ""pro""}",rep,con,,,start,upper_chest;upper_chest,front_delts;triceps,ok,high
+standing-cable-chest-press,Standing Cable Chest Press,chest_press_standing,cable mid pulley x2 + d-handle ; split_stance ; pronated/neutral,"{""attach"": ""d"", ""grip"": ""neutral"", ""pulley"": ""mid""}",rep,con,,,start,mid_chest;upper_chest;lower_chest,front_delts;triceps;abs,ok,medium
+cable-wood-chop,Cable Wood Chop,woodchop,cable high pulley + d-handle ; standing ; both hands on one handle,"{""attach"": ""d"", ""pulley"": ""high""}",rep,even,,,end,obliques;abs,front_delts,ok,medium
+standing-side-leg-raise,Standing Side Leg Raise,hip_abduction_standing,none (wall/chair for balance) ; standing ; hand on support,{},rep,con,,,end,abductors;glutes,quads,ok,medium
+cable-preacher-curl,Cable Preacher Curl,preacher_curl,"cable low pulley + straight bar, preacher bench ; preacher bench ; seated ; supinated","{""attach"": ""bar"", ""grip"": ""sup"", ""pulley"": ""low""}",rep,con,,,end,biceps,forearms,ok,high
+standing-barbell-calf-raise,Standing Barbell Calf Raise,calf_raise,barbell (back rack) + plate/step ; step ; standing ; pronated on bar,"{""grip"": ""pro""}",rep,con,,,end,calves,abs,ok,high
+smith-machine-calf-raise,Smith Machine Calf Raise,calf_raise,smith + step ; step ; standing ; pronated on bar,"{""grip"": ""pro""}",rep,con,,,end,calves,,ok,high
+standing-dumbbell-calf-raise,Standing Dumbbell Calf Raise,calf_raise,dumbbell pair + step ; step ; standing ; neutral,"{""grip"": ""neutral""}",rep,con,,,end,calves,,ok,high
+reverse-hyperextension,Reverse Hyperextension,back_extension,"reverse_hyper machine (or high bench) ; flat bench (high, hips at edge) ; prone ; hands grip bench/handles",{},rep,con,,,end,glutes,hamstrings;lower_back,ok,medium
+kettlebell-single-leg-deadlift,Kettlebell Single-Leg Deadlift,single_leg_rdl,"kettlebell single ; standing ; pronated, hand opposite standing leg","{""grip"": ""pro""}",rep,ecc,,,end,hamstrings,glutes;lower_back,ok,high
+one-arm-lat-pulldown,One-Arm Lat Pulldown,lat_pulldown,"cable high pulley + d-handle (lat_pulldown seat) ; machine seat ; seated ; neutral or pronated, one hand","{""attach"": ""d"", ""freeze"": ""L"", ""grip"": ""neutral"", ""pulley"": ""high""}",rep,con,,,end,lats,biceps;rear_delts;forearms,ok,high
+one-arm-seated-cable-row,One-Arm Seated Cable Row,cable_row,"seated_row (cable low pulley + d-handle) ; machine seat ; seated ; neutral, one hand","{""attach"": ""d"", ""freeze"": ""L"", ""grip"": ""neutral"", ""pulley"": ""low""}",rep,con,,,end,upper_back;lats,biceps;rear_delts;forearms,ok,high
+smith-machine-bent-over-row,Smith Machine Bent-Over Row,barbell_row,"smith ; bent_over_hinge ; pronated, slightly wider than shoulder","{""grip"": ""pro""}",rep,con,,,end,upper_back;lats,biceps;rear_delts;hamstrings;forearms,ok,high
+barbell-lunge,Barbell Lunge,forward_lunge,barbell (back rack) ; lunge ; pronated on bar,"{""grip"": ""pro""}",rep,ecc,,,end,quads,glutes;hamstrings;calves;abs,ok,high
+smith-machine-upright-row,Smith Machine Upright Row,upright_row,"smith ; standing ; pronated, slightly wider than shoulder","{""grip"": ""pro""}",rep,con,,,end,side_delts,upper_back;biceps;forearms,ok,high
+lying-dumbbell-triceps-extension,Lying Dumbbell Triceps Extension,skull_crusher,dumbbell pair ; flat bench ; supine ; neutral,"{""bench"": ""flat"", ""grip"": ""neutral""}",rep,con,,,end,triceps,,ok,high
+standing-calf-stretch,Standing Calf Stretch,calf_stretch,wall ; wall ; split_stance ; hands on wall,{},hold,even,,,end,calves,,ok,high
+scapular-pull-up,Scapular Pull-up,pull_up,"pull-up bar ; hanging ; hanging ; pronated, slightly wider than shoulder","{""grip"": ""pro""}",rep,con,"15,8",,end,lats,forearms;rear_delts,ok,high
+trap-bar-deadlift,Trap Bar Deadlift,deadlift,"trap bar ; standing ; neutral, side handles","{""grip"": ""neutral""}",rep,con,,,start,lower_back;upper_back,quads;glutes;hamstrings;forearms,ok,high
+band-shoulder-press,Band Shoulder Press,db_shoulder_press,band under feet ; standing ; pronated,"{""grip"": ""pro""}",rep,con,,,start,front_delts;side_delts,triceps;abs,ok,high
+band-external-rotation,Band External Rotation,external_rotation,"band_mid (elbow height, side anchor) ; standing ; neutral","{""freeze"": ""L"", ""grip"": ""neutral""}",rep,con,,,end,rear_delts,,ok,medium
+dumbbell-scaption,Dumbbell Scaption,front_raise,dumbbell pair ; standing ; neutral (thumbs up),"{""grip"": ""neutral""}",rep,con,"15,8",,end,side_delts;rear_delts,upper_back,ok,high
+overhead-cable-curl,Overhead Cable Curl,overhead_cable_curl,cable high pulley x2 + d-handle ; standing ; supinated,"{""attach"": ""d"", ""grip"": ""sup"", ""pulley"": ""high""}",rep,con,,,end,biceps,forearms,ok,high
+incline-hammer-curl,Incline Hammer Curl,db_curl,dumbbell pair ; incline bench 45 ; seated ; neutral ; hammer grip,"{""bench"": ""incline"", ""bench_angle"": 45, ""grip"": ""neutral""}",rep,con,,,end,biceps,forearms,ok,high
+close-grip-dumbbell-press,Close-Grip Dumbbell Press,db_bench_press,"dumbbell pair ; flat bench ; supine ; neutral, dumbbells touching","{""bench"": ""flat"", ""grip"": ""neutral""}",rep,con,,,start,triceps,mid_chest;front_delts,ok,high
+dumbbell-sumo-squat,Dumbbell Sumo Squat,sumo_squat,"dumbbell single (hanging, both hands) ; standing ; both hands on one dumbbell",{},rep,ecc,,,end,quads,glutes,ok,high
+band-squat,Band Squat,squat,band under feet ; standing ; hands at shoulders holding band,{},rep,ecc,,,end,quads,glutes;hamstrings,ok,high
+double-kettlebell-front-squat,Double Kettlebell Front Squat,front_squat,"kettlebell pair ; standing ; neutral, rack","{""grip"": ""neutral""}",rep,ecc,,,end,quads,glutes;abs,ok,high
+stability-ball-leg-curl,Stability Ball Leg Curl,glute_bridge,stability ball ; supine ; arms on floor,{},rep,con,,,end,hamstrings,glutes;abs,ok,high
+band-good-morning,Band Good Morning,good_morning,band under feet (over upper back) ; standing ; hands hold band at shoulders,{},rep,ecc,,,end,hamstrings,glutes,ok,high
+stability-ball-crunch,Stability Ball Crunch,crunch,stability ball ; ball ; supine ; arms crossed on chest,{},rep,con,,,end,abs,,ok,high
+jackknife-sit-up,Jackknife Sit-up,v_up,mat ; supine,{},rep,con,,,end,abs,quads,ok,high
+battle-ropes,Battle Ropes,battle_ropes,battle_rope ; standing ; neutral,"{""attach"": ""rope"", ""grip"": ""neutral""}",rep,even,,,end,front_delts;side_delts;abs,upper_back;forearms,ok,high
+butt-kicks,Butt Kicks,high_knees,standing,{},rep,even,,,end,quads;glutes;calves,hamstrings,ok,medium
+one-arm-kettlebell-swing,One-Arm Kettlebell Swing,kb_swing,"kettlebell single ; standing ; pronated, one hand","{""freeze"": ""L"", ""grip"": ""pro""}",rep,con,,,end,quads;glutes;upper_back,hamstrings;abs;front_delts;lower_back,ok,high
+triceps-stretch,Triceps Stretch,arm_stretch,standing ; other hand on elbow,{},hold,even,,,end,triceps,front_delts,ok,medium
+wall-calf-stretch,Wall Calf Stretch,calf_stretch,wall ; wall ; split_stance ; palms on wall,{},hold,even,,,end,calves,,ok,high
+bird-dog,Bird Dog,bird_dog,mat ; quadruped,{},rep,even,,,end,abs,upper_back;glutes,ok,high
+wall-sit,Wall Sit,wall_sit,wall ; wall ; seated,{},hold,even,,,end,quads,glutes,ok,high
+lateral-lunge,Lateral Lunge,lateral_lunge,standing ; hands clasped at chest,{},rep,ecc,,,end,quads,glutes;hamstrings,ok,high
+curtsy-lunge,Curtsy Lunge,curtsy_lunge,lunge ; hands on hips,{},rep,ecc,,,end,glutes,quads,ok,medium
+knee-push-up,Knee Push-up,push_up,"mat ; kneeling ; pronated, slightly wider than shoulder","{""grip"": ""pro""}",rep,ecc,,,end,mid_chest;upper_chest;lower_chest,triceps;front_delts,ok,high
+pike-push-up,Pike Push-up,push_up,"plank_hands ; pronated, slightly wider than shoulder","{""grip"": ""pro""}",rep,ecc,,,end,front_delts;side_delts,triceps;mid_chest,ok,high
+dead-hang,Dead Hang,pull_up,"pull-up bar ; hanging ; hanging ; pronated, slightly wider than shoulder","{""grip"": ""pro""}",hold,even,"15,8",,end,forearms,upper_back;front_delts,ok,high
+shadow-boxing,Shadow Boxing,chest_press_standing,split_stance ; fists,"{""freeze"": ""L""}",alt,con,,,start,front_delts;abs;obliques,,ok,high
+leg-swings,Leg Swings,leg_swing,none (wall for support) ; standing ; hand on wall,{},rep,even,,,end,hamstrings,glutes,ok,high
+cobra-stretch,Cobra Stretch,cobra,mat ; prone ; hands under shoulders,{},hold,even,,,end,upper_back;lower_back,abs,ok,high
+pigeon-stretch,Pigeon Stretch,pigeon_pose,mat ; prone ; hands or forearms on floor,{},hold,even,,,end,glutes,,ok,high
+butterfly-stretch,Butterfly Stretch,butterfly_stretch,mat ; seated ; hands on ankles,{},hold,even,,,end,adductors,,ok,high
+incline-barbell-bench-press,Incline Barbell Bench Press,bench_press,"barbell ; incline bench 30 ; supine ; pronated, slightly wider than shoulder","{""bench"": ""incline"", ""bench_angle"": 30, ""grip"": ""pro""}",rep,con,,,start,upper_chest;upper_chest,front_delts;triceps,ok,high
+decline-barbell-bench-press,Decline Barbell Bench Press,bench_press,"barbell ; decline bench ; supine ; pronated, slightly wider than shoulder","{""bench"": ""decline"", ""bench_angle"": 18, ""grip"": ""pro""}",rep,con,,,start,lower_chest;mid_chest,front_delts;triceps,ok,high
+chest-dip,Chest Dip,dip,dip bars ; hanging (on bars) ; hanging ; neutral,"{""grip"": ""neutral""}",rep,con,,,end,lower_chest;mid_chest,front_delts,ok,high
+close-grip-bench-press,Close-Grip Bench Press,bench_press,"barbell ; flat bench ; supine ; pronated, shoulder-width","{""bench"": ""flat"", ""grip"": ""pro""}",rep,con,,,start,triceps,front_delts,ok,medium
+overhead-cable-rope-extension,Overhead Cable Rope Extension,overhead_triceps_extension,cable low pulley + rope ; split_stance ; neutral on rope,"{""attach"": ""rope"", ""grip"": ""neutral"", ""pulley"": ""low""}",rep,con,,,end,triceps,,ok,high
+preacher-curl,Preacher Curl,preacher_curl,"barbell (or ez bar) + preacher bench ; preacher bench ; seated ; supinated, shoulder-width","{""grip"": ""sup""}",rep,con,,,end,biceps,,ok,high
+ez-bar-curl,EZ-Bar Curl,barbell_curl,ez bar ; standing ; supinated (angled),"{""grip"": ""sup""}",rep,con,,,end,biceps,,ok,high
+concentration-curl,Concentration Curl,concentration_curl,dumbbell single ; flat bench ; seated ; supinated,"{""grip"": ""sup""}",rep,con,,,end,biceps,,ok,high
+incline-dumbbell-curl,Incline Dumbbell Curl,db_curl,dumbbell pair ; incline bench 45 ; seated ; supinated,"{""bench"": ""incline"", ""bench_angle"": 45, ""grip"": ""sup""}",rep,con,,,end,biceps,,ok,high
+cable-rope-hammer-curl,Cable Rope Hammer Curl,barbell_curl,cable low pulley + rope ; standing ; neutral,"{""attach"": ""rope"", ""grip"": ""neutral"", ""pulley"": ""low""}",rep,con,,,end,biceps,,ok,medium
+reverse-barbell-curl,Reverse Barbell Curl,barbell_curl,"barbell ; standing ; pronated, shoulder-width ; reverse grip","{""grip"": ""pro""}",rep,con,,,end,biceps,,ok,medium
+seated-barbell-press,Seated Barbell Press,overhead_press,"barbell ; upright bench seated ; seated ; pronated, slightly wider than shoulder","{""bench"": ""upright"", ""bench_angle"": 82, ""grip"": ""pro""}",rep,con,,,start,front_delts;side_delts,triceps;traps,ok,high
+arnold-press,Arnold Press,arnold_press,dumbbell pair ; upright bench seated ; seated ; supinated rotating to pronated,"{""bench"": ""upright"", ""bench_angle"": 82, ""grip"": ""sup""}",rep,con,,,start,front_delts;side_delts,,ok,medium
+front-raise,Front Raise,front_raise,dumbbell pair ; standing ; pronated (palms toward thighs),"{""grip"": ""pro""}",rep,con,,,end,front_delts,,ok,high
+upright-row,Upright Row,upright_row,"barbell ; standing ; pronated, slightly wider than shoulder","{""grip"": ""pro""}",rep,con,,,end,side_delts,,ok,high
+barbell-shrug,Barbell Shrug,shrug,"barbell ; standing ; pronated, shoulder-width","{""grip"": ""pro""}",rep,con,,,end,traps,,ok,high
+dumbbell-shrug,Dumbbell Shrug,shrug,dumbbell pair ; standing ; neutral,"{""grip"": ""neutral""}",rep,con,,,end,traps,,ok,high
+reverse-fly,Reverse Fly,rear_delt_raise,dumbbell pair ; bent_over_hinge ; neutral,"{""grip"": ""neutral""}",rep,con,"15,8",,end,rear_delts,,ok,high
+chin-up,Chin-up,pull_up,"pull-up bar ; hanging ; hanging ; supinated, shoulder-width","{""grip"": ""sup""}",rep,con,"15,8",,end,lats,biceps;forearms,ok,medium
+t-bar-row,T-Bar Row,tbar_row,landmine (t-bar) + v-bar handle ; bent_over_hinge ; neutral,"{""attach"": ""v"", ""grip"": ""neutral""}",rep,con,,,end,upper_back;lats,,ok,high
+close-grip-lat-pulldown,Close-Grip Lat Pulldown,lat_pulldown,"lat_pulldown + v-bar handle ; machine seat ; seated ; neutral, close","{""attach"": ""v"", ""grip"": ""neutral"", ""width"": ""close""}",rep,con,,,end,lats,biceps,ok,high
+straight-arm-pulldown,Straight-Arm Pulldown,straight_arm_pulldown,"cable high pulley + straight bar ; standing ; pronated, shoulder-width","{""attach"": ""bar"", ""grip"": ""pro"", ""pulley"": ""high""}",rep,con,,,end,lats,,ok,high
+back-extension,Back Extension,back_extension,hyperextension_bench (45 deg) ; hyperextension_bench ; prone ; arms crossed or hands by temples,{},rep,con,,,end,lower_back;upper_back,,ok,high
+inverted-row,Inverted Row,inverted_row,"barbell in rack (or smith) ; floor (heels) ; supine ; pronated, slightly wider than shoulder","{""grip"": ""pro""}",rep,con,,,end,upper_back;lats,,ok,high
+good-morning,Good Morning,good_morning,barbell (back rack) ; standing ; pronated on bar,"{""grip"": ""pro""}",rep,ecc,,,end,hamstrings,,ok,high
+front-squat,Front Squat,front_squat,barbell (front rack) ; standing ; clean grip or crossed arms,{},rep,ecc,,,end,quads,glutes;abs,ok,high
+smith-machine-squat,Smith Machine Squat,squat,smith ; standing ; pronated on bar,"{""grip"": ""pro""}",rep,ecc,,,end,quads,glutes;hamstrings,ok,high
+walking-lunge,Walking Lunge,forward_lunge,barbell (back rack) ; lunge ; pronated on bar,"{""grip"": ""pro""}",rep,ecc,,,end,quads,glutes;hamstrings,ok,medium
+hip-adduction-machine,Hip Adduction Machine,hip_abductor_machine,hip_adduction_machine ; machine seat ; seated ; hands on handles,{},rep,con,,,end,adductors,,ok,medium
+hip-abduction-machine,Hip Abduction Machine,hip_abductor_machine,hip_abduction_machine ; machine seat ; seated ; hands on handles,{},rep,con,,,end,abductors;glutes,,ok,medium
+single-leg-glute-bridge,Single-Leg Glute Bridge,glute_bridge,mat ; supine ; arms on floor,{},rep,con,,,end,glutes,hamstrings,ok,high
+hanging-leg-raise,Hanging Leg Raise,hanging_leg_raise,"pull-up bar ; hanging ; hanging ; pronated, shoulder-width","{""grip"": ""pro""}",rep,con,,,end,abs,,ok,high
+russian-twist,Russian Twist,russian_twist,mat ; seated ; hands clasped,{},rep,even,,,end,obliques;abs,,ok,high
+bicycle-crunch,Bicycle Crunch,bicycle_crunch,mat ; supine ; hands by head,{},rep,even,,,end,obliques;abs,,ok,high
+flutter-kicks,Flutter Kicks,flutter_kick,mat ; supine ; hands by sides or under hips,{},rep,even,,,end,abs,,ok,high
+dead-bug,Dead Bug,dead_bug,mat ; supine,{},rep,even,,,end,abs,,ok,high
+rowing-machine,Rowing Machine,rower,rower ; machine seat (sliding) ; seated ; pronated on handle,"{""grip"": ""pro""}",rep,even,,,end,lats;upper_back;quads,,ok,high
+elliptical-trainer,Elliptical Trainer,elliptical,elliptical ; elliptical pedals ; standing ; hands on moving handles,{},rep,even,,,end,quads;glutes;calves,,ok,medium
+box-jump,Box Jump,box_jump,box ; standing,{},cycle,even,,,0.38,quads,,ok,high
+farmers-walk,Farmer's Walk,farmer_walk,dumbbell pair ; standing ; neutral at sides,"{""grip"": ""neutral""}",rep,even,,,end,quads;glutes;upper_back,,ok,high
+dumbbell-preacher-curl,Dumbbell Preacher Curl,preacher_curl,dumbbell single + preacher bench ; preacher bench ; seated ; supinated,"{""freeze"": ""L"", ""grip"": ""sup""}",rep,con,,,end,biceps,forearms,ok,high
+kettlebell-curl,Kettlebell Curl,db_curl,kettlebell single (or x2) ; standing ; supinated,"{""grip"": ""sup""}",rep,con,,,end,biceps,forearms,ok,high
+suspension-biceps-curl,Suspension Biceps Curl,inverted_row,suspension straps trx ; floor (heels) ; standing ; supinated,"{""grip"": ""sup""}",rep,con,,,end,biceps,forearms;rear_delts;abs,ok,high
+jm-press,JM Press,bench_press,"barbell ; flat bench ; supine ; pronated, slightly narrower than shoulder","{""bench"": ""flat"", ""grip"": ""pro"", ""width"": ""close""}",rep,con,,,start,triceps,mid_chest;front_delts,ok,medium
+rope-triceps-pushdown,Rope Triceps Pushdown,triceps_pushdown,cable high pulley + rope ; standing ; neutral on rope,"{""attach"": ""rope"", ""grip"": ""neutral"", ""pulley"": ""high""}",rep,con,,,end,triceps,forearms,ok,medium
+single-arm-overhead-dumbbell-extension,Single-Arm Overhead Dumbbell Extension,overhead_triceps_extension,dumbbell single ; floor (or upright bench seated) ; standing ; neutral,"{""bench"": ""upright"", ""bench_angle"": 82, ""freeze"": ""L"", ""grip"": ""neutral""}",rep,con,,,end,triceps,abs,ok,high
+band-triceps-pushdown,Band Triceps Pushdown,triceps_pushdown,band_high ; standing ; pronated,"{""grip"": ""pro""}",rep,con,,,end,triceps,forearms,ok,high
+pendlay-row,Pendlay Row,barbell_row,"barbell ; bent_over_hinge ; pronated, a bit wider than shoulder","{""grip"": ""pro""}",rep,con,,,end,upper_back;lats,rear_delts;biceps;lower_back,ok,high
+renegade-row,Renegade Row,plank,dumbbell pair (hex) ; floor (on dumbbells) ; plank_hands ; neutral on dumbbells,"{""grip"": ""neutral""}",rep,even,,,end,upper_back;lats,abs;obliques;triceps;front_delts,ok,high
+deficit-deadlift,Deficit Deadlift,deadlift,barbell + platform ; platform/plate ; bent_over_hinge ; pronated or mixed,"{""grip"": ""pro""}",rep,con,,,start,lower_back;glutes,hamstrings;quads;upper_back;forearms,ok,high
+dumbbell-deadlift,Dumbbell Deadlift,deadlift,dumbbell pair ; standing ; neutral at sides,"{""grip"": ""neutral""}",rep,con,,,start,lower_back;glutes,hamstrings;quads;upper_back;forearms,ok,high
+suspension-row,Suspension Row,inverted_row,suspension straps trx ; floor (heels) ; supine ; neutral,"{""grip"": ""neutral""}",rep,con,,,end,upper_back;lats,biceps;rear_delts;abs,ok,high
+cable-pull-over,Cable Pull-over,straight_arm_pulldown,cable high pulley + rope ; standing ; neutral on rope,"{""attach"": ""rope"", ""grip"": ""neutral"", ""pulley"": ""high""}",rep,con,,,end,lats,triceps;abs;mid_chest,ok,high
+svend-press,Svend Press,chest_press_standing,weight plate x2 (squeezed together) ; standing ; palms pressing plates together,{},rep,con,,,start,mid_chest;upper_chest;lower_chest,front_delts;triceps,ok,medium
+dumbbell-squeeze-press,Dumbbell Squeeze Press,db_bench_press,"dumbbell pair ; flat bench ; supine ; neutral, dumbbells pressed together","{""bench"": ""flat"", ""grip"": ""neutral""}",rep,con,,,start,mid_chest;upper_chest;lower_chest,triceps;front_delts,ok,high
+barbell-floor-press,Barbell Floor Press,bench_press,"barbell ; supine ; pronated, a bit wider than shoulder","{""bench"": ""floor"", ""grip"": ""pro""}",rep,con,,,start,mid_chest;upper_chest;lower_chest,triceps;front_delts,ok,high
+running,Running,treadmill_run,none (treadmill shown) ; standing,{},cycle,even,,,0.25,quads;glutes;calves,hamstrings,ok,high
+sprint-intervals,Sprint Intervals,treadmill_run,none (treadmill shown) ; standing,{},cycle,even,,,0.25,quads;glutes;calves,hamstrings,ok,medium
+dumbbell-thruster,Dumbbell Thruster,thruster,dumbbell pair ; standing ; neutral at shoulders,"{""grip"": ""neutral""}",rep,con,,,end,quads;front_delts,glutes;triceps;abs;side_delts,ok,high
+barbell-thruster,Barbell Thruster,thruster,barbell (front rack) ; standing ; pronated,"{""grip"": ""pro""}",rep,con,,,end,quads;front_delts,glutes;triceps;abs;upper_back,ok,high
+kettlebell-clean,Kettlebell Clean,kb_clean,"kettlebell single ; standing ; neutral, one hand","{""grip"": ""neutral""}",rep,con,,,end,glutes;hamstrings,upper_back;biceps;forearms;abs,ok,high
+kettlebell-snatch,Kettlebell Snatch,kb_clean,kettlebell single ; standing ; one hand,{},rep,con,,,end,glutes;hamstrings;front_delts,upper_back;traps;forearms;abs,ok,high
+hang-power-clean,Hang Power Clean,power_clean,"barbell ; standing ; pronated, slightly wider than shoulder","{""grip"": ""pro""}",rep,con,,,end,glutes;hamstrings;traps,quads;upper_back;front_delts;forearms,ok,high
+barbell-snatch,Barbell Snatch,power_clean,barbell ; standing ; pronated wide (snatch),"{""grip"": ""pro"", ""width"": ""wide""}",rep,con,,,end,glutes;hamstrings;traps,quads;front_delts;upper_back;abs,ok,high
+sled-drag,Sled Drag,sled_push,sled ; rope ; standing (leaning back) ; neutral,"{""attach"": ""rope"", ""grip"": ""neutral""}",rep,even,,,end,quads;glutes,calves;hamstrings;upper_back;forearms,ok,high
+hanging-knee-raise,Hanging Knee Raise,hanging_leg_raise,pull-up bar ; hanging ; hanging ; pronated shoulder,"{""grip"": ""pro""}",rep,con,,,end,abs,obliques;forearms;lats,ok,high
+toes-to-bar,Toes-to-Bar,hanging_leg_raise,pull-up bar ; hanging ; hanging ; pronated slightly wide,"{""grip"": ""pro"", ""width"": ""wide""}",rep,con,,,end,abs,obliques;lats;forearms,ok,high
+windshield-wipers,Windshield Wipers,windshield_wiper,mat ; supine,{},rep,even,"60,35",,end,obliques;abs,adductors,ok,high
+decline-sit-up,Decline Sit-up,sit_up,decline bench ; supine ; none (arms crossed on chest),"{""bench"": ""decline"", ""bench_angle"": 18}",rep,con,,,end,abs,obliques,ok,high
+dumbbell-wrist-rotation,Dumbbell Wrist Rotation,wrist_curl,dumbbell single ; flat bench or thigh ; seated ; neutral to supinated/pronated,"{""freeze"": ""L"", ""grip"": ""sup""}",rep,con,"15,8",,end,forearms,biceps,ok,medium
+zercher-squat,Zercher Squat,squat,barbell ; standing ; none (bar in elbow crook),{},rep,ecc,,,end,quads;glutes,abs;upper_back;biceps;adductors,ok,high
+overhead-squat,Overhead Squat,overhead_squat,barbell ; standing ; pronated wide (snatch),"{""grip"": ""pro"", ""width"": ""wide""}",rep,ecc,,,end,quads;glutes,front_delts;traps;abs;upper_back,ok,high
+pause-squat,Pause Squat,back_squat,barbell ; standing ; pronated,"{""grip"": ""pro""}",rep,ecc,,,end,quads;glutes,hamstrings;lower_back;abs,ok,high
+smith-machine-split-squat,Smith Machine Split Squat,split_squat,smith ; split_stance ; pronated,"{""grip"": ""pro""}",rep,ecc,,,end,quads;glutes,hamstrings;adductors,ok,high
+bodyweight-lunge,Bodyweight Lunge,forward_lunge,standing,{},rep,ecc,,,end,quads;glutes,hamstrings;calves;adductors,ok,high
+suspension-pistol-squat,Suspension Pistol Squat,pistol_squat,suspension straps trx ; standing (single leg) ; neutral,"{""grip"": ""neutral""}",rep,ecc,,,end,quads;glutes,hamstrings;abs;calves,ok,high
+single-leg-romanian-deadlift,Single-Leg Romanian Deadlift,single_leg_rdl,standing (single leg),{},rep,ecc,,,end,hamstrings;glutes,lower_back;abductors;abs,ok,high
+dumbbell-hip-thrust,Dumbbell Hip Thrust,hip_thrust,dumbbell single ; flat bench (upper back) ; supine (bridge) ; neutral,"{""grip"": ""neutral""}",rep,con,,,end,glutes,hamstrings;quads;abs,ok,high
+45-degree-glute-hyperextension,45-Degree Glute Hyperextension,back_extension,hyperextension_45 ; hyperextension pad ; prone (45° bench) ; none (arms crossed),{},rep,con,,,end,glutes,hamstrings;lower_back,ok,high
+seated-dumbbell-calf-raise,Seated Dumbbell Calf Raise,seated_calf_raise,dumbbell pair ; step ; flat bench ; seated ; neutral (dumbbells upright on knees),"{""grip"": ""neutral""}",rep,con,,,end,calves,,ok,high
+pogo-hops,Pogo Hops,lateral_hop,standing,{},rep,even,"90,8",,end,calves,quads,ok,high
+deep-squat-hold,Deep Squat Hold,bodyweight_squat,squat,{},rep,ecc,,,end,adductors;glutes,calves;lower_back,ok,high
+foam-roll-quads,Foam Roll Quads,foam_roll,foam roller ; plank_elbows,{},rep,even,,,end,quads,,ok,high
+foam-roll-calves,Foam Roll Calves,foam_roll,foam roller ; seated,{},rep,even,,,end,calves,,ok,high
+plate-front-raise,Plate Front Raise,front_raise,plate ; standing ; neutral (3 and 9 o'clock),"{""grip"": ""neutral""}",rep,con,,,end,front_delts,upper_chest;side_delts;traps,ok,high
+cable-front-raise,Cable Front Raise,front_raise,cable low pulley ; d-handle or straight bar ; standing ; pronated,"{""attach"": ""bar"", ""grip"": ""pro"", ""pulley"": ""low""}",rep,con,,,end,front_delts,upper_chest;side_delts,ok,medium
+dumbbell-upright-row,Dumbbell Upright Row,upright_row,dumbbell pair ; standing ; pronated,"{""grip"": ""pro""}",rep,con,,,end,side_delts;traps,biceps;front_delts;forearms,ok,high
+kettlebell-halo,Kettlebell Halo,kb_halo,"kettlebell single ; standing ; neutral (horns, bell upside down)","{""grip"": ""neutral""}",rep,even,,,end,front_delts;side_delts,triceps;upper_back;abs,ok,high
+band-face-pull,Band Face Pull,face_pull,band_high (face height) ; standing ; pronated,"{""grip"": ""pro""}",rep,con,,,end,rear_delts,upper_back;traps,ok,medium
+windmill,Windmill,kb_windmill,standing,{},rep,even,,,end,obliques,glutes;hamstrings;side_delts,ok,high
+kettlebell-windmill,Kettlebell Windmill,kb_windmill,kettlebell single ; standing ; neutral,"{""grip"": ""neutral""}",rep,even,,,end,obliques,glutes;hamstrings;side_delts;front_delts,ok,high
+hip-lift-march,Hip Lift March,glute_bridge,mat ; supine (bridge),{},rep,con,,,end,glutes,abs;hamstrings,ok,high
+stability-ball-pike,Stability Ball Pike,pike,stability ball ; floor (hands) + ball (shins) ; plank_hands,{},rep,even,,,end,abs,front_delts;quads,ok,high
+reverse-plank,Reverse Plank,reverse_plank,mat ; reverse plank,{},hold,even,,,end,glutes;hamstrings,lower_back;triceps;rear_delts,ok,high
+reverse-plank-on-elbows,Reverse Plank on Elbows,reverse_plank,mat ; reverse plank (elbows),{},hold,even,,,end,glutes;hamstrings,lower_back;rear_delts,ok,medium
+forward-stability-ball-plank,Forward Stability Ball Plank,plank,stability ball ; ball (forearms) + floor (toes) ; plank_elbows,{},hold,even,,,end,abs,front_delts,ok,high
+balance-trainer-plank,Balance Trainer Plank,plank,bosu ; bosu ; plank_elbows,{},hold,even,,,end,abs,front_delts,ok,high
+medicine-ball-russian-twist,Medicine Ball Russian Twist,russian_twist,medicine ball ; seated (lean back),{},rep,even,,,end,obliques;abs,front_delts,ok,high
+cable-russian-twist,Cable Russian Twist,russian_twist,cable low pulley ; d-handle ; seated (lean back) ; neutral,"{""attach"": ""d"", ""grip"": ""neutral"", ""pulley"": ""low""}",rep,even,,,end,obliques,abs,ok,medium
+balance-trainer-russian-twist,Balance Trainer Russian Twist,russian_twist,bosu ; bosu ; seated (lean back),{},rep,even,,,end,obliques;abs,front_delts,ok,high
+band-standing-ab-twist,Band Standing Ab Twist,standing_twist,band_mid (chest height) ; standing,{},rep,even,,,end,obliques,abs,ok,medium
+standing-cable-core-twist,Standing Cable Core Twist,standing_twist,cable mid pulley ; d-handle ; standing,"{""attach"": ""d"", ""pulley"": ""mid""}",rep,even,,,end,obliques,abs;front_delts,ok,high
+stability-ball-seated-twist,Stability Ball Seated Twist,russian_twist,stability ball ; ball ; seated ; none (hands joined at chest),{},rep,even,,,end,obliques,abs;front_delts,ok,high
+full-kneeling-pallof-press,Full Kneeling Pallof Press,pallof_press,cable mid pulley ; d-handle ; kneeling (tall) ; neutral,"{""attach"": ""d"", ""grip"": ""neutral"", ""pulley"": ""mid""}",rep,even,,,end,obliques;abs,glutes;front_delts,ok,high
+cable-wood-chop-low-to-high,Cable Wood Chop (Low to High),woodchop,cable low pulley ; d-handle ; standing ; neutral,"{""attach"": ""d"", ""grip"": ""neutral"", ""pulley"": ""low""}",rep,even,,,end,obliques,front_delts;glutes;abs,ok,high
+balance-trainer-wood-chopper,Balance Trainer Wood Chopper,woodchop,bosu ; medicine ball ; bosu ; standing ; neutral,"{""grip"": ""neutral""}",rep,even,,,end,obliques,quads;glutes;front_delts,ok,high
+high-butt-bear-crawl,High Butt Bear Crawl,bear_crawl,quadruped (hips high),{},rep,even,,,end,front_delts,hamstrings;abs;calves,ok,medium
+partner-sit-up-hi-five,Partner Sit-up Hi-Five,sit_up,supine to seated,{},rep,con,,,end,abs,obliques,ok,medium
+medicine-ball-overhead-sit-up,Medicine Ball Overhead Sit-up,sit_up,medicine ball ; supine to seated,{},rep,con,,,end,abs,front_delts,ok,high
+decline-sit-up-with-medicine-ball-toss,Decline Sit-up with Medicine Ball Toss,sit_up,medicine ball ; decline bench ; supine to seated,"{""bench"": ""decline"", ""bench_angle"": 18}",rep,con,,,end,abs,mid_chest;triceps;front_delts,ok,medium
+suspension-fallout,Suspension Fallout,ab_rollout,"suspension straps trx ; standing (leaning forward, on toes) ; pronated","{""grip"": ""pro""}",rep,ecc,,,end,abs,lats;front_delts,ok,medium
+up-dog,Up Dog,cobra,mat ; prone,{},hold,even,,,end,abs,mid_chest;quads;front_delts,ok,medium
+cross-body-mountain-climber,Cross Body Mountain Climber,mountain_climber,mat ; plank_hands,{},rep,even,,,end,obliques;abs,front_delts;quads,ok,medium
+stomach-vacuum,Stomach Vacuum,standing_still,standing (or quadruped/supine),{},rep,even,"90,8",,end,abs,,ok,medium
+smith-machine-close-grip-bench-press,Smith Machine Close-Grip Bench Press,bench_press,smith ; flat bench ; flat bench ; supine ; pronated shoulder (close),"{""bench"": ""flat"", ""grip"": ""pro"", ""width"": ""close""}",rep,con,,,start,triceps;mid_chest,front_delts,ok,high
+incline-barbell-skull-crusher,Incline Barbell Skull Crusher,skull_crusher,ez bar ; incline bench 30 ; supine (incline) ; pronated close,"{""bench"": ""incline"", ""bench_angle"": 30, ""grip"": ""pro"", ""width"": ""close""}",rep,con,,,end,triceps,forearms,ok,medium
+cobra-triceps-extension,Cobra Triceps Extension,cobra,mat ; prone,{},rep,even,,,end,triceps,mid_chest;front_delts;lower_back,ok,high
+ring-dip,Ring Dip,dip,gymnastic_rings ; hanging (support) ; support on rings ; neutral turning forward,"{""grip"": ""neutral""}",rep,con,,,end,triceps;lower_chest,front_delts;abs,ok,medium
+palms-down-barbell-wrist-curl,Palms-Down Barbell Wrist Curl,wrist_curl,barbell ; flat bench ; seated ; pronated,"{""grip"": ""pro""}",rep,con,,,end,forearms,,ok,medium
+wide-grip-barbell-curl,Wide Grip Barbell Curl,barbell_curl,barbell ; standing ; supinated wide,"{""grip"": ""sup"", ""width"": ""wide""}",rep,con,"15,8",,end,biceps,forearms,ok,medium
+barbell-pause-curl,Barbell Pause Curl,barbell_curl,barbell ; standing ; supinated shoulder,"{""grip"": ""sup""}",rep,con,,,end,biceps,forearms,ok,high
+ez-bar-pause-curl,EZ-Bar Pause Curl,barbell_curl,ez bar ; standing ; supinated (angled),"{""grip"": ""sup""}",rep,con,,,end,biceps,forearms,ok,high
+dumbbell-pause-curl,Dumbbell Pause Curl,db_curl,dumbbell pair ; standing ; neutral to supinated,"{""grip"": ""sup""}",rep,con,,,end,biceps,forearms,ok,high
+dumbbell-hammer-pause-curl,Dumbbell Hammer Pause Curl,db_curl,dumbbell pair ; standing ; neutral ; hammer grip,"{""grip"": ""neutral""}",rep,con,,,end,biceps;forearms,,ok,high
+dumbbell-wide-curl,Dumbbell Wide Curl,db_curl,dumbbell pair ; standing ; supinated,"{""grip"": ""sup""}",rep,con,"15,8",,end,biceps,forearms,ok,medium
+close-grip-ez-bar-curl,Close-Grip EZ-Bar Curl,barbell_curl,ez bar ; standing ; supinated close,"{""grip"": ""sup"", ""width"": ""close""}",rep,con,,,end,biceps,forearms,ok,high
+band-hammer-curl,Band Hammer Curl,db_curl,band under feet ; standing ; neutral ; hammer grip,"{""grip"": ""neutral""}",rep,con,,,end,biceps;forearms,,ok,high
+biceps-curl-to-shoulder-press,Biceps Curl To Shoulder Press,db_curl,dumbbell pair ; standing ; supinated then neutral/pronated,"{""grip"": ""sup""}",rep,con,"15,8",,end,biceps;front_delts,triceps;side_delts,ok,high
+dumbbell-hammer-curl-to-front-press,Dumbbell Hammer Curl To Front Press,db_curl,dumbbell pair ; standing or seated ; neutral ; hammer grip,"{""grip"": ""neutral""}",rep,con,"15,8",,end,biceps;front_delts,forearms;triceps,ok,high
+isometric-biceps-hold,Isometric Biceps Hold,db_curl,dumbbell pair ; standing ; supinated,"{""grip"": ""sup""}",hold,even,,,end,biceps,forearms,ok,high
+wide-grip-pull-up,Wide Grip Pull-up,pull_up,pull-up bar ; hanging ; hanging ; pronated wide (1.5x),"{""grip"": ""pro"", ""width"": ""wide""}",rep,con,,,end,lats,upper_back;biceps;rear_delts,ok,high
+australian-chin-up,Australian Chin-up,pull_up,barbell (in rack or smith) ; floor (heels) ; supine (inverted) ; supinated shoulder,"{""grip"": ""sup""}",rep,con,"90,8",,end,upper_back;lats;biceps,rear_delts,ok,medium
+ez-bar-pull-over,EZ-Bar Pull Over,pullover,ez bar ; flat bench ; supine ; pronated shoulder,"{""grip"": ""pro""}",rep,con,,,end,lats,mid_chest;triceps,ok,high
+band-straight-arm-pulldown,Band Straight-Arm Pulldown,straight_arm_pulldown,band_high ; standing (slight hinge) ; pronated,"{""grip"": ""pro""}",rep,con,,,end,lats,triceps;abs,ok,high
+band-bent-over-row,Band Bent Over Row,barbell_row,band under feet ; bent_over_hinge ; neutral,"{""grip"": ""neutral""}",rep,con,,,end,lats;upper_back,biceps;rear_delts,ok,high
+balance-trainer-squat,Balance Trainer Squat,squat,bosu ; bosu (dome up) ; standing,{},rep,ecc,"15,8",,end,quads;glutes,hamstrings;calves;abs,ok,high
+balance-trainer-goblet-squat,Balance Trainer Goblet Squat,goblet_squat,bosu ; dumbbell single ; bosu ; standing ; neutral (goblet),"{""grip"": ""neutral""}",rep,ecc,,,end,quads;glutes,abs;upper_back,ok,high
+balance-trainer-curtsy-lunge,Balance Trainer Curtsy Lunge,curtsy_lunge,bosu ; bosu (one foot) + floor ; curtsy lunge,{},rep,ecc,,,end,glutes;quads,adductors;abductors,ok,medium
+partner-hook-squat,Partner Hook Squat,squat,standing ; neutral (wrists linked),"{""grip"": ""neutral""}",rep,ecc,,,end,quads;glutes,upper_back;forearms,ok,medium
+partner-back-to-back-wall-sit,Partner Back To Back Wall Sit,wall_sit,none (partner back) ; partner back or wall ; squat (wall sit),{},hold,even,,,end,quads,glutes,ok,medium
+pause-bench-press,Pause Bench Press,bench_press,barbell ; flat bench ; supine ; pronated slightly wide,"{""bench"": ""flat"", ""grip"": ""pro"", ""width"": ""wide""}",rep,con,,,start,mid_chest;upper_chest;lower_chest,triceps;front_delts,ok,high
+pause-barbell-incline-bench-press,Pause Barbell Incline Bench Press,bench_press,barbell ; incline bench 30 ; supine (incline) ; pronated slightly wide,"{""bench"": ""incline"", ""bench_angle"": 30, ""grip"": ""pro"", ""width"": ""wide""}",rep,con,,,start,upper_chest,front_delts;triceps,ok,high
+pause-barbell-decline-bench-press,Pause Barbell Decline Bench Press,bench_press,barbell ; decline bench ; supine (decline) ; pronated slightly wide,"{""bench"": ""decline"", ""bench_angle"": 18, ""grip"": ""pro"", ""width"": ""wide""}",rep,con,,,start,lower_chest;mid_chest,triceps;front_delts,ok,high
+alternating-dumbbell-bench-press,Alternating Dumbbell Bench Press,db_bench_press,dumbbell pair ; flat bench ; supine ; pronated,"{""bench"": ""flat"", ""freeze"": ""L"", ""grip"": ""pro""}",alt,con,,,start,mid_chest;upper_chest;lower_chest,triceps;front_delts;abs,ok,high
+incline-dumbbell-squeeze-press,Incline Dumbbell Squeeze Press,db_bench_press,dumbbell pair ; incline bench 30 ; supine (incline) ; neutral (squeezed together),"{""bench"": ""incline"", ""bench_angle"": 30, ""grip"": ""neutral""}",rep,con,,,start,upper_chest;triceps,front_delts,ok,high
+smith-machine-decline-press,Smith Machine Decline Press,bench_press,smith ; decline bench ; decline bench ; supine (decline) ; pronated slightly wide,"{""bench"": ""decline"", ""bench_angle"": 18, ""grip"": ""pro"", ""width"": ""wide""}",rep,con,,,start,lower_chest;mid_chest,triceps;front_delts,ok,high
+single-arm-cable-press,Single-Arm Cable Press,chest_press_standing,cable mid pulley ; d-handle ; split_stance ; neutral or pronated,"{""attach"": ""d"", ""freeze"": ""L"", ""grip"": ""neutral"", ""pulley"": ""mid""}",rep,con,,,start,mid_chest;upper_chest;lower_chest,triceps;front_delts;obliques,ok,high
+mid-cable-crossover-fly,Mid Cable Crossover Fly,cable_crossover,cable mid pulley x2 ; d-handle ; split_stance ; neutral,"{""attach"": ""d"", ""grip"": ""neutral"", ""pulley"": ""mid""}",rep,con,,,end,mid_chest;upper_chest;lower_chest,front_delts,ok,high
+single-arm-low-cable-crossover-fly,Single-Arm Low Cable Crossover Fly,cable_crossover,cable low pulley ; d-handle ; standing ; neutral,"{""attach"": ""d"", ""freeze"": ""L"", ""grip"": ""neutral"", ""pulley"": ""low""}",rep,con,,,end,upper_chest,front_delts,ok,high
+band-standing-decline-chest-press,Band Standing Decline Chest Press,chest_press_standing,band_high (behind) ; split_stance ; pronated,"{""grip"": ""pro""}",rep,con,,,start,lower_chest;mid_chest,triceps;front_delts,ok,medium
+band-standing-incline-chest-press,Band Standing Incline Chest Press,chest_press_standing,band_low (behind) ; split_stance ; pronated,"{""grip"": ""pro""}",rep,con,,,start,upper_chest,front_delts;triceps,ok,high
+band-single-arm-incline-chest-press,Band Single-Arm Incline Chest Press,chest_press_standing,band_low (behind) ; split_stance ; pronated,"{""freeze"": ""L"", ""grip"": ""pro""}",rep,con,,,start,upper_chest,triceps;obliques,ok,high
+triceps-push-up,Triceps Push-up,push_up,plank_hands ; pronated narrow (under shoulders),"{""grip"": ""pro"", ""width"": ""close""}",rep,ecc,,,end,triceps;mid_chest,front_delts,ok,high
+balance-trainer-narrow-push-up,Balance Trainer Narrow Push-up,push_up,bosu (dome up) ; bosu ; plank_hands ; pronated narrow,"{""grip"": ""pro"", ""width"": ""close""}",rep,ecc,,,end,triceps;mid_chest,front_delts;abs,ok,high
+crab-pose,Crab Pose,reverse_plank,"seated ; none, hands behind hips, fingers toward the feet",{},rep,even,,,end,glutes;triceps,hamstrings;front_delts;mid_chest,ok,high
+partner-medicine-ball-chest-pass,Partner Medicine Ball Chest Pass,medball_slam,medicine ball ; split_stance ; both hands on the sides of the ball,{},rep,even,,,end,mid_chest;triceps,front_delts;abs,ok,high
+step-up,Step-up,step_up,box ; standing,{},rep,con,,,end,quads;glutes,hamstrings;calves,ok,high
+box-drop,Box Drop,box_jump,box ; box ; standing,{},cycle,even,,,0.38,quads;glutes,calves;hamstrings,ok,high
+straight-leg-kickback,Straight Leg Kickback,donkey_kick,mat ; quadruped,{},rep,con,,,end,glutes,hamstrings,ok,high
+smith-machine-glute-bridge,Smith Machine Glute Bridge,glute_bridge,smith;mat ; supine ; pronated on the bar,"{""grip"": ""pro""}",rep,con,,,end,glutes,hamstrings;abs,ok,high
+barbell-glute-bridge,Barbell Glute Bridge,glute_bridge,barbell;mat ; supine ; pronated on the bar,"{""grip"": ""pro""}",rep,con,,,end,glutes,hamstrings;abs,ok,high
+dumbbell-glute-bridge,Dumbbell Glute Bridge,glute_bridge,dumbbell single;mat ; supine ; both hands holding the dumbbell on the hips,{},rep,con,,,end,glutes,hamstrings;abs,ok,high
+elevated-hip-bridge,Elevated Hip Bridge,glute_bridge,bench ; supine,{},rep,con,,,end,glutes;hamstrings,abs,ok,high
+standing-leg-side-hold,Standing Leg Side Hold,hip_abduction_standing,standing,{},hold,even,,,end,abductors,glutes;abs,ok,high
+kettlebell-swing-american,Kettlebell Swing American,kb_swing,"kettlebell single ; standing ; pronated, both hands on the handle","{""grip"": ""pro""}",rep,con,,,end,glutes;hamstrings,front_delts;lower_back;upper_back;abs,ok,high
+knee-to-chest-stretch,Knee to Chest Stretch,knee_to_chest,mat ; supine ; hands behind thigh or on shin,{},hold,even,,,end,glutes;lower_back,hamstrings,ok,high
+medicine-ball-curtsy-lunge,Medicine Ball Curtsy Lunge,curtsy_lunge,medicine ball ; lunge ; both hands on ball at chest,{},rep,ecc,,,end,glutes;quads,adductors;abductors,ok,high
+medicine-ball-reverse-lunge,Medicine Ball Reverse Lunge,reverse_lunge,medicine ball ; lunge ; both hands on ball at chest,{},rep,ecc,,,end,quads;glutes,hamstrings,ok,high
+medicine-ball-hip-thrust,Medicine Ball Hip Thrust,hip_thrust,medicine ball;bench ; flat bench ; supine ; both hands holding ball on hips,{},rep,con,,,end,glutes,hamstrings;abs,ok,high
+stability-ball-hip-thrust,Stability Ball Hip Thrust,hip_thrust,stability ball ; ball ; supine,{},rep,con,,,end,glutes,hamstrings;abs,ok,high
+single-leg-stability-ball-hip-thrust,Single-Leg Stability Ball Hip Thrust,hip_thrust,stability ball ; ball ; supine,{},rep,con,,,end,glutes,hamstrings;abs,ok,high
+single-leg-hip-thrust,Single-Leg Hip Thrust,hip_thrust,bench ; flat bench ; supine,{},rep,con,,,end,glutes,hamstrings;abs,ok,high
+dowel-good-morning,Dowel Good Morning,good_morning,"pvc dowel ; standing ; pronated, wide on the dowel across upper back","{""grip"": ""pro"", ""width"": ""wide""}",rep,ecc,,,end,hamstrings,lower_back;glutes,ok,high
+dumbbell-good-morning,Dumbbell Good Morning,good_morning,dumbbell single ; standing ; both hands on one dumbbell at the chest (or across the upper back),{},rep,ecc,,,end,hamstrings,glutes;lower_back,ok,high
+kettlebell-good-morning,Kettlebell Good Morning,good_morning,kettlebell single ; standing ; both hands on the bell at the chest (or upside down behind the neck),{},rep,ecc,,,end,hamstrings,glutes;lower_back;abs,ok,high
+band-romanian-deadlift,Band Romanian Deadlift,romanian_deadlift,band under feet ; standing ; pronated on band ends,"{""grip"": ""pro""}",rep,ecc,,,end,hamstrings;glutes,lower_back,ok,high
+medicine-ball-single-leg-romanian-deadlift,Medicine Ball Single-Leg Romanian Deadlift,single_leg_rdl,medicine ball ; standing ; both hands on the ball,{},rep,ecc,,,end,hamstrings;glutes,lower_back;abs,ok,high
+smith-machine-stiff-leg-deadlift,Smith Machine Stiff-Leg Deadlift,romanian_deadlift,"smith ; standing ; pronated, shoulder-width","{""grip"": ""pro""}",rep,ecc,,,end,hamstrings;glutes,lower_back,ok,high
+single-arm-kettlebell-deadlift,Single-Arm Kettlebell Deadlift,deadlift,"kettlebell single ; standing ; one hand on the handle, other free",{},rep,con,"15,8",,start,glutes;hamstrings,obliques;forearms;quads,ok,high
+alternating-single-arm-kettlebell-swing,Alternating Single-Arm Kettlebell Swing,kb_swing,kettlebell single ; standing ; one hand on the handle; hand switch at the top,"{""freeze"": ""L""}",alt,con,,,end,glutes;hamstrings,forearms;obliques;lower_back,ok,high
+suspension-bridge,Suspension Bridge,glute_bridge,suspension straps trx;mat ; supine,{},rep,con,,,end,hamstrings;glutes,lower_back,ok,high
+seated-forward-bend,Seated Forward Bend,seated_forward_bend,mat ; seated,{},hold,even,,,end,hamstrings,calves;lower_back,ok,high
+lateral-lunge-stretch,Lateral Lunge Stretch,lateral_lunge,standing,{},hold,even,,,end,adductors,hamstrings,ok,high
+side-leg-raise,Side Leg Raise,side_leg_raise,mat ; side_lying,{},rep,con,,,end,abductors,glutes,ok,high
+standing-hip-flexor-stretch,Standing Hip Flexor Stretch,hip_flexor_stretch,"split_stance ; none, hands on hips",{},hold,even,,,end,quads,abs,ok,high
+single-leg-standing-calf-raise,Single-Leg Standing Calf Raise,calf_raise,step ; step ; standing ; one hand on wall/rail,{},rep,con,,,end,calves,,ok,high
+barbell-seated-calf-raise,Barbell Seated Calf Raise,seated_calf_raise,barbell;bench;step ; flat bench ; seated ; hands on the padded bar,{},rep,con,,,end,calves,,ok,high
+stability-ball-back-extension,Stability Ball Back Extension,back_extension,stability ball ; ball ; prone ; hands on chest or temples,{},rep,con,,,end,lower_back,glutes;hamstrings,ok,high
+seated-back-extension,Seated Back Extension,back_extension,back_extension_machine ; machine seat ; seated ; hands on handles or crossed,{},rep,con,,,end,lower_back,glutes,ok,high
+superman-with-scaption,Superman with Scaption,superman,"mat ; prone ; thumbs up, arms in a y",{},hold,even,,,end,lower_back;upper_back,rear_delts;glutes,ok,high
+medicine-ball-superman,Medicine Ball Superman,superman,medicine ball;mat ; prone ; both hands on the ball,{},rep,con,,,end,lower_back;upper_back,glutes;hamstrings;rear_delts,ok,high
+dumbbell-superman,Dumbbell Superman,superman,"dumbbell pair;mat ; prone ; neutral, very light dumbbells","{""grip"": ""neutral""}",rep,con,,,end,lower_back;upper_back,glutes;rear_delts,ok,high
+reverse-lunge,Reverse Lunge,reverse_lunge,"lunge ; none, hands on hips",{},rep,ecc,,,end,quads;glutes,hamstrings;adductors,ok,high
+dumbbell-walking-lunge,Dumbbell Walking Lunge,forward_lunge,dumbbell pair ; lunge ; neutral at sides,"{""grip"": ""neutral""}",rep,ecc,,,end,quads;glutes,hamstrings;adductors;forearms,ok,high
+pause-barbell-lunge,Pause Barbell Lunge,forward_lunge,"barbell ; lunge ; pronated, bar on upper back","{""grip"": ""pro""}",rep,ecc,,,end,quads;glutes,hamstrings;adductors,ok,high
+medicine-ball-lunge,Medicine Ball Lunge,forward_lunge,medicine ball ; lunge ; both hands at chest,{},rep,ecc,,,end,quads;glutes,hamstrings;abs,ok,high
+medicine-ball-side-lunge,Medicine Ball Side Lunge,lateral_lunge,medicine ball ; lunge ; both hands at chest,{},rep,ecc,,,end,quads;adductors;glutes,hamstrings,ok,high
+overhead-dumbbell-lunge,Overhead Dumbbell Lunge,forward_lunge,dumbbell pair ; lunge ; neutral or pronated overhead,"{""grip"": ""neutral""}",rep,ecc,"45,12",,end,quads;glutes,front_delts;side_delts;abs,ok,high
+single-arm-overhead-dumbbell-lunge,Single-Arm Overhead Dumbbell Lunge,forward_lunge,dumbbell single ; lunge ; one hand overhead,{},rep,ecc,"15,8",,end,quads;glutes,obliques;side_delts;abs,ok,high
+kettlebell-single-arm-overhead-lunge,Kettlebell Single-Arm Overhead Lunge,forward_lunge,"kettlebell single ; lunge ; one hand overhead, wrist straight",{},rep,ecc,"15,8",,end,quads;glutes,obliques;side_delts;abs,ok,high
+overhead-barbell-lunge,Overhead Barbell Lunge,forward_lunge,"barbell ; lunge ; pronated, wide snatch grip overhead","{""grip"": ""pro"", ""width"": ""wide""}",rep,ecc,,,end,quads;glutes,front_delts;upper_back;abs,ok,high
+kettlebell-racked-reverse-lunge,Kettlebell Racked Reverse Lunge,reverse_lunge,"kettlebell pair ; lunge ; neutral, bells in front rack","{""grip"": ""neutral""}",rep,ecc,,,end,quads;glutes,abs;upper_back,ok,high
+lunge-twist,Lunge Twist,forward_lunge,lunge ; hands at chest or arms straight forward,{},rep,ecc,"15,8",,end,quads;glutes,obliques,ok,high
+dumbbell-curtsy-lunge,Dumbbell Curtsy Lunge,curtsy_lunge,dumbbell pair ; lunge ; neutral at sides,"{""grip"": ""neutral""}",rep,ecc,,,end,glutes;quads,adductors;abductors,ok,high
+barbell-curtsy-lunge,Barbell Curtsy Lunge,curtsy_lunge,"barbell ; lunge ; pronated, bar on upper back","{""grip"": ""pro""}",rep,ecc,,,end,glutes;quads,adductors;abductors,ok,high
+pulse-lunge,Pulse Lunge,split_squat,split_stance,{},rep,ecc,,,end,quads;glutes,hamstrings,ok,high
+band-pulse-lunge,Band Pulse Lunge,split_squat,band under feet ; split_stance ; band ends at shoulders or in hands,{},rep,ecc,,,end,quads;glutes,hamstrings,ok,high
+suspension-lateral-lunge,Suspension Lateral Lunge,lateral_lunge,suspension straps trx ; lunge ; neutral on handles,"{""grip"": ""neutral""}",rep,ecc,,,end,quads;adductors;glutes,hamstrings,ok,high
+clean-high-pull,Clean High Pull,power_clean,"barbell ; standing ; pronated, clean grip","{""grip"": ""pro""}",rep,con,,,end,glutes;traps;hamstrings,quads;side_delts;upper_back,ok,high
+clean-deadlift,Clean Deadlift,deadlift,"barbell ; standing ; pronated, clean grip","{""grip"": ""pro""}",rep,con,,,start,hamstrings;glutes;quads,lower_back;traps;forearms,ok,high
+push-jerk,Push Jerk,power_clean,"barbell ; standing ; pronated, front rack","{""grip"": ""pro""}",rep,con,,,end,front_delts;triceps,quads;glutes;abs,ok,high
+split-jerk,Split Jerk,power_clean,"barbell ; standing ; pronated, front rack","{""grip"": ""pro""}",rep,con,,,end,front_delts;triceps,quads;glutes;abs,ok,high
+dowel-jerk-press,Dowel Jerk Press,power_clean,"pvc dowel ; standing ; pronated, front rack on the dowel","{""grip"": ""pro""}",rep,con,,,end,front_delts,triceps;quads,ok,high
+dowel-hang-clean,Dowel Hang Clean,power_clean,"pvc dowel ; standing ; pronated, slightly wider than shoulders","{""grip"": ""pro""}",rep,con,,,end,glutes;hamstrings,traps;front_delts,ok,high
+power-snatch,Power Snatch,power_clean,"barbell ; standing ; pronated, wide snatch grip","{""grip"": ""pro"", ""width"": ""wide""}",rep,con,,,end,glutes;hamstrings;traps,quads;front_delts;upper_back,ok,high
+dumbbell-hang-power-clean,Dumbbell Hang Power Clean,kb_clean,dumbbell pair ; standing ; neutral,"{""grip"": ""neutral""}",rep,con,"15,8",,end,glutes;traps,hamstrings;front_delts;quads,ok,high
+double-dumbbell-power-snatch,Double Dumbbell Power Snatch,kb_clean,dumbbell pair ; standing ; pronated,"{""grip"": ""pro""}",rep,con,"15,8",,end,glutes;hamstrings;traps,front_delts;quads;triceps,ok,high
+double-dumbbell-hang-snatch,Double Dumbbell Hang Snatch,kb_clean,dumbbell pair ; standing ; pronated,"{""grip"": ""pro""}",rep,con,"15,8",,end,glutes;hamstrings;traps,front_delts;quads;triceps,ok,high
+behind-the-neck-push-press,Behind the Neck Push Press,power_clean,"barbell ; standing ; pronated, slightly wider than shoulders, bar on the upper back","{""grip"": ""pro""}",rep,con,,,end,front_delts;side_delts;triceps,traps;quads,ok,high
+tire-flip,Tire Flip,tire_flip,tire ; standing ; supinated under the tyre edge,"{""grip"": ""sup""}",rep,even,,,end,glutes;quads;hamstrings,upper_back;mid_chest;triceps;forearms,ok,high
+a-skip,A-Skip,high_knees,"standing ; none, running arms",{},rep,even,,,end,quads;glutes;calves,abs,ok,high
+runners-butt-kick,Runners Butt Kick,high_knees,"standing ; none, running arms",{},rep,even,,,end,quads;glutes;calves,hamstrings;abs,ok,high
+1-step-box-jump,1-Step Box Jump,box_jump,box ; standing,{},cycle,even,,,0.38,quads;glutes,calves;hamstrings;abs,ok,high
+butt-scoot,Butt Scoot,butt_scoot,mat ; seated,{},rep,even,,,end,glutes;hamstrings,obliques;quads,ok,high
+single-arm-dumbbell-shoulder-press,Single-Arm Dumbbell Shoulder Press,db_shoulder_press,dumbbell single ; upright bench seated (or standing) ; standing ; pronated or semi-neutral,"{""bench"": ""upright"", ""bench_angle"": 82, ""freeze"": ""L"", ""grip"": ""neutral""}",rep,con,,,start,front_delts;side_delts,triceps;obliques;abs,ok,high
+landmine-press-and-catch,Landmine Press and Catch,landmine_press,"landmine ; standing ; one hand on bar end, passes to the other","{""freeze"": ""L""}",alt,con,,,start,front_delts;mid_chest,triceps;obliques;quads,ok,medium
+band-upright-row,Band Upright Row,upright_row,"band under feet ; standing ; pronated, handles in front of thighs","{""grip"": ""pro""}",rep,con,,,end,side_delts;traps,biceps,ok,high
+barbell-front-raise,Barbell Front Raise,front_raise,"barbell ; standing ; pronated, shoulder-width","{""grip"": ""pro""}",rep,con,,,end,front_delts,upper_chest,ok,high
+dumbbell-underhand-front-raise,Dumbbell Underhand Front Raise,front_raise,dumbbell pair ; standing ; supinated,"{""grip"": ""sup""}",rep,con,,,end,front_delts,biceps;upper_chest,ok,high
+band-front-raise,Band Front Raise,front_raise,band under feet ; standing ; pronated,"{""grip"": ""pro""}",rep,con,,,end,front_delts,upper_chest,ok,high
+band-underhand-front-raise,Band Underhand Front Raise,front_raise,band under feet ; standing ; supinated,"{""grip"": ""sup""}",rep,con,,,end,front_delts,biceps,ok,high
+underhand-rear-delt-raise,Underhand Rear Delt Raise,rear_delt_raise,dumbbell pair ; bent_over_hinge ; supinated (palms forward),"{""grip"": ""sup""}",rep,con,"15,8",,end,rear_delts,upper_back;lower_back,ok,high
+cable-shoulder-external-rotation,Cable Shoulder External Rotation,external_rotation,"cable mid pulley;d-handle ; standing ; neutral, far hand","{""attach"": ""d"", ""freeze"": ""L"", ""grip"": ""neutral"", ""pulley"": ""mid""}",rep,con,,,end,rear_delts,upper_back,ok,high
+smith-machine-shrug,Smith Machine Shrug,shrug,"smith ; standing ; pronated, shoulder-width","{""grip"": ""pro""}",rep,con,"90,8",,end,traps,upper_back;forearms,ok,high
+split-squat,Split Squat,split_squat,split_stance,{},rep,ecc,,,end,quads;glutes,adductors;hamstrings,ok,high
+bodyweight-bulgarian-split-squat,Bodyweight Bulgarian Split Squat,bulgarian_split_squat,bench ; split_stance,{},rep,ecc,,,end,quads;glutes,adductors;hamstrings,ok,high
+band-bulgarian-split-squat,Band Bulgarian Split Squat,bulgarian_split_squat,band under feet;bench ; split_stance ; band ends at shoulders/sides,{},rep,ecc,,,end,quads;glutes,adductors;hamstrings,ok,high
+suspension-cossack-squat,Suspension Cossack Squat,cossack_squat,suspension straps trx ; standing ; neutral,"{""grip"": ""neutral""}",rep,ecc,,,end,quads;adductors,glutes;hamstrings,ok,high
+medicine-ball-squat,Medicine Ball Squat,squat,medicine ball ; standing ; both hands at chest,{},rep,ecc,,,end,quads;glutes,abs;upper_back,ok,high
+dumbbell-squat,Dumbbell Squat,squat,dumbbell pair ; standing ; neutral at sides,"{""grip"": ""neutral""}",rep,ecc,,,end,quads;glutes,hamstrings;forearms,ok,high
+landmine-squat,Landmine Squat,back_squat,landmine ; standing ; both hands on bar end at chest,{},rep,ecc,,,end,quads;glutes,abs;upper_back,ok,high
+landmine-squat-to-press,Landmine Squat to Press,thruster,landmine ; standing ; both hands on bar end,{},rep,con,,,end,quads;front_delts,glutes;triceps;abs,ok,high
+sumo-squat,Sumo Squat,sumo_squat,standing ; hands at chest,{},rep,ecc,,,end,quads;adductors;glutes,hamstrings,ok,high
+dowel-overhead-squat,Dowel Overhead Squat,overhead_squat,"pvc dowel ; standing ; very wide pronated, overhead","{""grip"": ""pro"", ""width"": ""wide""}",rep,ecc,,,end,quads;upper_back,glutes;front_delts;abs,ok,high
+single-arm-overhead-kettlebell-squat,Single-Arm Overhead Kettlebell Squat,overhead_squat,kettlebell single ; standing ; one hand overhead,{},rep,ecc,"15,8",,end,quads;glutes,side_delts;obliques;upper_back,ok,high
+band-squat-to-press,Band Squat to Press,thruster,band under feet ; standing ; hands at shoulders,{},rep,con,"15,8",,end,quads;front_delts,glutes;triceps,ok,high
+pause-front-squat,Pause Front Squat,front_squat,"barbell ; standing ; clean grip, front rack",{},rep,ecc,,,end,quads,glutes;abs;upper_back,ok,high
+band-deadlift,Band Deadlift,deadlift,band under feet ; standing ; pronated on band ends,"{""grip"": ""pro""}",rep,con,,,start,glutes;hamstrings,quads;lower_back,ok,high
+kettlebell-suitcase-deadlift,Kettlebell Suitcase Deadlift,deadlift,"kettlebell pair ; standing ; neutral, bells beside the feet","{""grip"": ""neutral""}",rep,con,"15,8",,start,glutes;quads,hamstrings;forearms;upper_back,ok,high
+single-kettlebell-suitcase-deadlift,Single Kettlebell Suitcase Deadlift,deadlift,"kettlebell single ; standing ; neutral, same-side hand","{""grip"": ""neutral""}",rep,con,"15,8",,start,glutes;quads,obliques;forearms;hamstrings,ok,high
+dowel-romanian-deadlift,Dowel Romanian Deadlift,romanian_deadlift,"pvc dowel ; standing ; pronated, shoulder-width","{""grip"": ""pro""}",rep,ecc,,,end,hamstrings;glutes,lower_back,ok,high

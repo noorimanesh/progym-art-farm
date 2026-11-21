@@ -1,0 +1,1014 @@
+id,key,name_en,template,match,flags
+1,decline-dumbbell-bench-press,Decline Dumbbell Bench Press,db_bench_press,rule,
+2,dumbbell-floor-press,Dumbbell Floor Press,db_bench_press,rule,
+3,dumbbell-pullover,Dumbbell Pullover,pullover,rule,
+4,low-cable-crossover,Low Cable Crossover,cable_crossover,rule,
+5,incline-push-up,Incline Push-up,push_up,rule,
+6,band-assisted-pull-up,Band-Assisted Pull-up,pull_up,rule,
+7,machine-high-row,Machine High Row,machine_row,rule,
+8,one-arm-kettlebell-row,One-Arm Kettlebell Row,db_row,rule,m:reach | f:reach
+9,rack-pull,Rack Pull,deadlift,rule,
+10,stiff-leg-barbell-deadlift,Stiff-Leg Barbell Deadlift,romanian_deadlift,rule,
+11,stiff-leg-dumbbell-deadlift,Stiff-Leg Dumbbell Deadlift,romanian_deadlift,rule,
+12,glute-ham-raise,Glute-Ham Raise,glute_ham_raise,rule,
+13,nordic-hamstring-curl,Nordic Hamstring Curl,glute_ham_raise,rule,
+14,cable-lateral-raise,Cable Lateral Raise,lateral_raise,rule,
+15,machine-shoulder-press,Machine Shoulder Press,machine_chest_press,rule,
+16,push-press,Push Press,power_clean,rule,m:reach | m:grip_off | f:reach | f:grip_off
+17,band-lateral-raise,Band Lateral Raise,lateral_raise,rule,
+18,standing-cable-curl,Standing Cable Curl,barbell_curl,rule,
+19,spider-curl,Spider Curl,preacher_curl,rule,f:reach
+20,zottman-curl,Zottman Curl,db_curl,rule,
+21,drag-curl,Drag Curl,barbell_curl,rule,
+22,high-cable-curl,High Cable Curl,barbell_curl,rule,
+23,reverse-grip-triceps-pushdown,Reverse-Grip Triceps Pushdown,triceps_pushdown,rule,
+24,tate-press,Tate Press,skull_crusher,rule,
+25,close-grip-incline-push-up,Close-Grip Incline Push-up,push_up,rule,
+26,dumbbell-split-squat,Dumbbell Split Squat,split_squat,rule,
+27,dumbbell-reverse-lunge,Dumbbell Reverse Lunge,reverse_lunge,rule,
+28,jump-squat,Jump Squat,jump_squat,rule,m:foot_slide_L | m:foot_slide_R | f:foot_slide_L | f:foot_slide_R
+29,pistol-squat,Pistol Squat,pistol_squat,approx,
+30,sissy-squat,Sissy Squat,squat,rule,
+31,sled-push,Sled Push,sled_push,rule,
+32,leg-press-calf-raise,Leg Press Calf Raise,leg_press,rule,
+33,donkey-calf-raise,Donkey Calf Raise,calf_raise,rule,
+34,step-up-with-knee-raise,Step-up with Knee Raise,step_up,rule,
+35,cable-pull-through,Cable Pull-through,cable_pull_through,rule,
+36,cable-glute-kickback,Cable Glute Kickback,glute_kickback_machine,approx,
+37,donkey-kick,Donkey Kick,donkey_kick,rule,
+38,reverse-crunch,Reverse Crunch,reverse_crunch,rule,
+39,sit-up,Sit-up,sit_up,rule,
+40,decline-crunch,Decline Crunch,crunch,rule,
+41,pallof-press,Pallof Press,pallof_press,rule,
+42,v-up,V-up,v_up,rule,
+43,hanging-pike,Hanging Pike,hanging_leg_raise,rule,m:reach
+44,landmine-rotation,Landmine Rotation,standing_twist,rule,m:reach | m:grip_off | m:equip_floor | f:reach | f:grip_off | f:equip_floor
+45,medicine-ball-slam,Medicine Ball Slam,medball_slam,rule,m:reach | f:reach
+46,kettlebell-thruster,Kettlebell Thruster,thruster,rule,
+47,turkish-get-up,Turkish Get-up,turkish_get_up,rule,
+48,power-clean,Power Clean,power_clean,rule,
+49,cat-cow-stretch,Cat-Cow Stretch,cat_cow,rule,m:reach | f:reach
+50,childs-pose,Child's Pose,child_pose,rule,f:reach | m:reach
+51,kneeling-hip-flexor-stretch,Kneeling Hip Flexor Stretch,hip_flexor_stretch,rule,
+52,lying-hamstring-stretch,Lying Hamstring Stretch,seated_forward_bend,rule,
+53,worlds-greatest-stretch,World's Greatest Stretch,forward_lunge,approx,
+54,standing-quad-stretch,Standing Quad Stretch,quad_stretch_standing,rule,m:reach | m:grip_off | f:reach | f:grip_off
+55,chest-and-shoulder-stretch,Chest and Shoulder Stretch,arm_stretch,rule,
+56,cross-body-shoulder-stretch,Cross-Body Shoulder Stretch,arm_stretch,rule,m:reach
+57,standing-toe-touch,Standing Toe Touch,standing_forward_bend,rule,
+58,dynamic-chest-stretch,Dynamic Chest Stretch,arm_stretch,rule,
+59,shoulder-dislocates,Shoulder Dislocates,arm_circles,approx,
+60,neck-stretch,Neck Stretch,standing_still,approx,
+61,smith-machine-bench-press,Smith Machine Bench Press,bench_press,rule,
+62,smith-machine-incline-press,Smith Machine Incline Press,bench_press,rule,
+63,incline-cable-fly,Incline Cable Fly,db_fly,rule,
+64,standing-cable-chest-press,Standing Cable Chest Press,chest_press_standing,rule,
+65,dumbbell-side-bend,Dumbbell Side Bend,arm_stretch,rule,
+66,cable-wood-chop,Cable Wood Chop,woodchop,rule,
+67,cable-reverse-crunch,Cable Reverse Crunch,reverse_crunch,rule,
+68,seated-knee-tuck,Seated Knee Tuck,v_up,approx,
+69,standing-side-leg-raise,Standing Side Leg Raise,hip_abduction_standing,rule,
+70,machine-preacher-curl,Machine Preacher Curl,preacher_curl,rule,f:reach
+71,cable-preacher-curl,Cable Preacher Curl,preacher_curl,rule,f:reach
+72,machine-biceps-curl,Machine Biceps Curl,preacher_curl,rule,f:reach
+73,standing-barbell-calf-raise,Standing Barbell Calf Raise,calf_raise,rule,
+74,smith-machine-calf-raise,Smith Machine Calf Raise,calf_raise,rule,
+75,standing-dumbbell-calf-raise,Standing Dumbbell Calf Raise,calf_raise,rule,
+76,dumbbell-wrist-curl,Dumbbell Wrist Curl,wrist_curl,rule,
+77,dumbbell-reverse-wrist-curl,Dumbbell Reverse Wrist Curl,wrist_curl,rule,
+78,standing-leg-curl,Standing Leg Curl,standing_leg_curl,rule,
+79,reverse-hyperextension,Reverse Hyperextension,back_extension,rule,f:reach | f:grip_off
+80,kettlebell-single-leg-deadlift,Kettlebell Single-Leg Deadlift,single_leg_rdl,rule,
+81,wide-grip-lat-pulldown,Wide-Grip Lat Pulldown,lat_pulldown,rule,
+82,one-arm-lat-pulldown,One-Arm Lat Pulldown,lat_pulldown,rule,
+83,one-arm-seated-cable-row,One-Arm Seated Cable Row,cable_row,rule,
+84,smith-machine-bent-over-row,Smith Machine Bent-Over Row,barbell_row,rule,
+85,chest-supported-dumbbell-row,Chest-Supported Dumbbell Row,db_row,rule,m:reach | f:reach
+86,barbell-lunge,Barbell Lunge,forward_lunge,rule,
+87,wide-stance-barbell-squat,Wide-Stance Barbell Squat,back_squat,rule,
+88,single-leg-leg-extension,Single-Leg Leg Extension,leg_extension,rule,
+89,barbell-hack-squat,Barbell Hack Squat,deadlift,approx,
+90,smith-machine-shoulder-press,Smith Machine Shoulder Press,overhead_press,rule,
+91,cable-rear-delt-fly,Cable Rear Delt Fly,rear_delt_raise,rule,
+92,reverse-machine-fly,Reverse Machine Fly,reverse_fly_machine,rule,
+93,cable-shrug,Cable Shrug,shrug,rule,
+94,smith-machine-upright-row,Smith Machine Upright Row,upright_row,rule,
+95,machine-triceps-extension,Machine Triceps Extension,triceps_pushdown,rule,
+96,one-arm-cable-triceps-extension,One-Arm Cable Triceps Extension,triceps_pushdown,rule,
+97,lying-dumbbell-triceps-extension,Lying Dumbbell Triceps Extension,skull_crusher,rule,
+98,kettlebell-sumo-high-pull,Kettlebell Sumo High Pull,power_clean,rule,
+99,side-lying-groin-stretch,Side-Lying Groin Stretch,butterfly_stretch,approx,
+100,standing-calf-stretch,Standing Calf Stretch,calf_stretch,rule,m:reach | f:reach
+101,seated-hamstring-stretch,Seated Hamstring Stretch,seated_forward_bend,rule,
+102,standing-biceps-stretch,Standing Biceps Stretch,arm_stretch,rule,m:reach
+103,decline-dumbbell-fly,Decline Dumbbell Fly,db_fly,rule,
+104,wide-push-up,Wide Push-up,push_up,rule,
+105,incline-machine-chest-press,Incline Machine Chest Press,machine_chest_press,rule,
+106,plyo-push-up,Plyo Push-up,push_up,rule,
+107,reverse-grip-lat-pulldown,Reverse-Grip Lat Pulldown,lat_pulldown,rule,
+108,machine-row,Machine Row,machine_row,rule,
+109,neutral-grip-pull-up,Neutral-Grip Pull-up,pull_up,rule,
+110,scapular-pull-up,Scapular Pull-up,pull_up,rule,
+111,trap-bar-deadlift,Trap Bar Deadlift,deadlift,rule,
+112,band-shoulder-press,Band Shoulder Press,db_shoulder_press,rule,
+113,band-external-rotation,Band External Rotation,external_rotation,rule,
+114,dumbbell-scaption,Dumbbell Scaption,front_raise,approx,stand-in pose for a complex or travelling drill
+115,cuban-press,Cuban Press,external_rotation,approx,stand-in pose for a complex or travelling drill
+116,cross-body-hammer-curl,Cross-Body Hammer Curl,db_curl,rule,
+117,overhead-cable-curl,Overhead Cable Curl,overhead_cable_curl,rule,
+118,reverse-cable-curl,Reverse Cable Curl,barbell_curl,rule,
+119,incline-hammer-curl,Incline Hammer Curl,db_curl,rule,
+120,machine-dip,Machine Dip,dip,rule,
+121,band-overhead-triceps-extension,Band Overhead Triceps Extension,overhead_triceps_extension,rule,
+122,close-grip-dumbbell-press,Close-Grip Dumbbell Press,db_bench_press,rule,
+123,standing-overhead-barbell-triceps-extension,Standing Overhead Barbell Triceps Extension,overhead_triceps_extension,rule,
+124,dumbbell-sumo-squat,Dumbbell Sumo Squat,sumo_squat,rule,
+125,box-squat,Box Squat,box_squat,rule,
+126,barbell-step-up,Barbell Step-up,step_up,rule,
+127,band-squat,Band Squat,squat,rule,
+128,double-kettlebell-front-squat,Double Kettlebell Front Squat,front_squat,rule,
+129,jumping-lunge,Jumping Lunge,split_jump,rule,
+130,stability-ball-leg-curl,Stability Ball Leg Curl,glute_bridge,rule,
+131,band-good-morning,Band Good Morning,good_morning,rule,
+132,hamstring-slide,Hamstring Slide,glute_bridge,approx,
+133,stability-ball-hip-bridge,Stability Ball Hip Bridge,glute_bridge,rule,
+134,band-monster-walk,Band Monster Walk,hip_abduction_standing,approx,
+135,banded-glute-bridge,Banded Glute Bridge,glute_bridge,rule,
+136,band-calf-raise,Band Calf Raise,calf_raise,rule,
+137,single-leg-dumbbell-calf-raise,Single-Leg Dumbbell Calf Raise,calf_raise,rule,
+138,ab-crunch-machine,Ab Crunch Machine,crunch,rule,
+139,stability-ball-crunch,Stability Ball Crunch,crunch,rule,
+140,oblique-crunch,Oblique Crunch,crunch,rule,
+141,heel-touch,Heel Touch,crunch,rule,
+142,jackknife-sit-up,Jackknife Sit-up,v_up,rule,
+143,spider-crawl,Spider Crawl,bear_crawl,approx,stand-in pose for a complex or travelling drill
+144,barbell-wrist-curl,Barbell Wrist Curl,wrist_curl,rule,
+145,wrist-roller,Wrist Roller,front_raise,approx,
+146,finger-curl,Finger Curl,wrist_curl,approx,
+147,recumbent-bike,Recumbent Bike,bike,approx,f:reach | f:grip_off | m:reach | m:grip_off
+148,battle-ropes,Battle Ropes,battle_ropes,rule,f:reach
+149,butt-kicks,Butt Kicks,high_knees,approx,stand-in pose for a complex or travelling drill
+150,star-jump,Star Jump,jumping_jack,rule,
+151,one-arm-kettlebell-swing,One-Arm Kettlebell Swing,kb_swing,rule,
+152,kettlebell-figure-8,Kettlebell Figure 8,kb_swing,approx,
+153,barbell-clean-and-press,Barbell Clean and Press,power_clean,rule,f:reach | f:grip_off | m:reach | m:grip_off
+154,arm-circles,Arm Circles,arm_circles,rule,
+155,ankle-circles,Ankle Circles,standing_still,approx,stand-in pose for a complex or travelling drill
+156,hug-knees-to-chest,Hug Knees to Chest,knee_to_chest,rule,
+157,triceps-stretch,Triceps Stretch,arm_stretch,rule,
+158,knee-across-the-body-stretch,Knee Across the Body Stretch,knee_to_chest,approx,
+159,standing-hip-circles,Standing Hip Circles,fire_hydrant,rule,
+160,wall-calf-stretch,Wall Calf Stretch,calf_stretch,rule,f:reach | m:reach
+161,inchworm,Inchworm,walkout,rule,m:reach | f:reach
+162,bird-dog,Bird Dog,bird_dog,rule,m:reach | f:reach
+163,hollow-body-hold,Hollow Body Hold,leg_raise,approx,
+164,plank-shoulder-tap,Plank Shoulder Tap,plank,rule,m:floor_pen
+165,bear-crawl,Bear Crawl,bear_crawl,approx,stand-in pose for a complex or travelling drill
+166,wall-sit,Wall Sit,wall_sit,rule,
+167,lateral-lunge,Lateral Lunge,lateral_lunge,rule,
+168,curtsy-lunge,Curtsy Lunge,curtsy_lunge,rule,
+169,fire-hydrant,Fire Hydrant,fire_hydrant,rule,
+170,clamshell,Clamshell,clam,rule,
+171,glute-kickback-machine,Glute Kickback Machine,glute_kickback_machine,approx,
+172,cable-hip-abduction,Cable Hip Abduction,hip_abduction_standing,rule,
+173,frog-pump,Frog Pump,glute_bridge,rule,
+174,knee-push-up,Knee Push-up,push_up,rule,
+175,pike-push-up,Pike Push-up,push_up,approx,
+176,assisted-pull-up-machine,Assisted Pull-up Machine,pull_up,rule,
+177,machine-lateral-raise,Machine Lateral Raise,lateral_raise,rule,
+178,dumbbell-bent-over-row,Dumbbell Bent-Over Row,barbell_row,rule,
+179,dead-hang,Dead Hang,pull_up,rule,
+180,tibialis-raise,Tibialis Raise,calf_raise,approx,
+181,skater-jump,Skater Jump,skater_jump,rule,
+182,shadow-boxing,Shadow Boxing,chest_press_standing,approx,
+183,leg-swings,Leg Swings,leg_swing,rule,
+184,cobra-stretch,Cobra Stretch,cobra,rule,
+185,downward-dog,Downward Dog,downward_dog,rule,
+186,pigeon-stretch,Pigeon Stretch,pigeon_pose,rule,f:reach | m:reach
+187,9090-hip-stretch,90/90 Hip Stretch,pigeon_pose,rule,f:reach | m:reach
+188,thoracic-open-book,Thoracic Open Book,arm_stretch,approx,m:reach | stand-in pose for a complex or travelling drill
+189,butterfly-stretch,Butterfly Stretch,butterfly_stretch,rule,
+190,figure-4-glute-stretch,Figure-4 Glute Stretch,pigeon_pose,rule,f:reach | m:reach
+191,chin-tuck,Chin Tuck,standing_still,approx,
+192,wall-angel,Wall Angel,arm_stretch,approx,
+193,wrist-flexor-stretch,Wrist Flexor Stretch,arm_stretch,rule,f:reach | m:reach
+194,incline-barbell-bench-press,Incline Barbell Bench Press,bench_press,rule,
+195,decline-barbell-bench-press,Decline Barbell Bench Press,bench_press,rule,
+196,incline-dumbbell-fly,Incline Dumbbell Fly,db_fly,rule,
+197,chest-dip,Chest Dip,dip,rule,
+198,machine-fly,Machine Fly,pec_deck,rule,
+199,close-grip-bench-press,Close-Grip Bench Press,bench_press,rule,
+200,triceps-dip,Triceps Dip,dip,rule,
+201,overhead-cable-rope-extension,Overhead Cable Rope Extension,overhead_triceps_extension,rule,
+202,dumbbell-triceps-kickback,Dumbbell Triceps Kickback,triceps_kickback,rule,
+203,preacher-curl,Preacher Curl,preacher_curl,rule,f:reach
+204,ez-bar-curl,EZ-Bar Curl,barbell_curl,rule,
+205,concentration-curl,Concentration Curl,concentration_curl,rule,
+206,incline-dumbbell-curl,Incline Dumbbell Curl,db_curl,rule,
+207,cable-rope-hammer-curl,Cable Rope Hammer Curl,barbell_curl,rule,
+208,reverse-barbell-curl,Reverse Barbell Curl,barbell_curl,rule,
+209,seated-barbell-press,Seated Barbell Press,overhead_press,approx,
+210,arnold-press,Arnold Press,arnold_press,rule,
+211,front-raise,Front Raise,front_raise,rule,
+212,upright-row,Upright Row,upright_row,rule,
+213,barbell-shrug,Barbell Shrug,shrug,rule,
+214,dumbbell-shrug,Dumbbell Shrug,shrug,rule,
+215,reverse-fly,Reverse Fly,rear_delt_raise,rule,
+216,chin-up,Chin-up,pull_up,rule,
+217,t-bar-row,T-Bar Row,tbar_row,rule,m:equip_floor | f:equip_floor
+218,close-grip-lat-pulldown,Close-Grip Lat Pulldown,lat_pulldown,rule,
+219,straight-arm-pulldown,Straight-Arm Pulldown,straight_arm_pulldown,rule,
+220,back-extension,Back Extension,back_extension,rule,
+221,inverted-row,Inverted Row,inverted_row,rule,
+222,good-morning,Good Morning,good_morning,rule,
+223,sumo-deadlift,Sumo Deadlift,deadlift,rule,
+224,front-squat,Front Squat,front_squat,rule,
+225,hack-squat,Hack Squat,squat,rule,
+226,smith-machine-squat,Smith Machine Squat,squat,rule,
+227,walking-lunge,Walking Lunge,forward_lunge,rule,
+228,dumbbell-step-up,Dumbbell Step-up,step_up,rule,
+229,seated-leg-curl,Seated Leg Curl,seated_leg_curl,rule,
+230,hip-adduction-machine,Hip Adduction Machine,hip_abductor_machine,rule,
+231,hip-abduction-machine,Hip Abduction Machine,hip_abductor_machine,rule,
+232,seated-calf-raise,Seated Calf Raise,seated_calf_raise,rule,
+233,single-leg-glute-bridge,Single-Leg Glute Bridge,glute_bridge,rule,
+234,hanging-leg-raise,Hanging Leg Raise,hanging_leg_raise,rule,m:reach
+235,russian-twist,Russian Twist,russian_twist,rule,
+236,bicycle-crunch,Bicycle Crunch,bicycle_crunch,rule,
+237,side-plank,Side Plank,side_plank,rule,
+238,ab-wheel-rollout,Ab Wheel Rollout,ab_rollout,rule,
+239,flutter-kicks,Flutter Kicks,flutter_kick,rule,
+240,dead-bug,Dead Bug,dead_bug,rule,
+241,rowing-machine,Rowing Machine,rower,rule,m:reach | f:reach
+242,elliptical-trainer,Elliptical Trainer,elliptical,rule,m:reach | m:grip_off | f:reach | f:grip_off
+243,stair-climber,Stair Climber,step_up,approx,
+244,box-jump,Box Jump,box_jump,rule,
+245,farmers-walk,Farmer's Walk,farmer_walk,rule,
+246,bayesian-cable-curl,Bayesian Cable Curl,barbell_curl,rule,
+247,dumbbell-preacher-curl,Dumbbell Preacher Curl,preacher_curl,rule,f:reach
+248,barbell-21s,Barbell 21s,barbell_curl,approx,stand-in pose for a complex or travelling drill
+249,kettlebell-curl,Kettlebell Curl,db_curl,rule,
+250,waiter-curl,Waiter Curl,db_curl,approx,stand-in pose for a complex or travelling drill
+251,suspension-biceps-curl,Suspension Biceps Curl,inverted_row,approx,
+252,jm-press,JM Press,bench_press,approx,
+253,rope-triceps-pushdown,Rope Triceps Pushdown,triceps_pushdown,rule,
+254,cable-triceps-kickback,Cable Triceps Kickback,triceps_kickback,rule,
+255,single-arm-overhead-dumbbell-extension,Single-Arm Overhead Dumbbell Extension,overhead_triceps_extension,rule,
+256,band-triceps-pushdown,Band Triceps Pushdown,triceps_pushdown,rule,
+257,suspension-triceps-extension,Suspension Triceps Extension,overhead_triceps_extension,rule,
+258,pendlay-row,Pendlay Row,barbell_row,rule,m:equip_floor
+259,seal-row,Seal Row,barbell_row,rule,
+260,meadows-row,Meadows Row,tbar_row,rule,m:equip_floor | f:equip_floor
+261,chest-supported-t-bar-row,Chest-Supported T-Bar Row,tbar_row,rule,m:equip_floor | f:equip_floor
+262,plate-loaded-lat-pulldown,Plate-Loaded Lat Pulldown,lat_pulldown,rule,
+263,wide-grip-seated-cable-row,Wide-Grip Seated Cable Row,cable_row,rule,
+264,renegade-row,Renegade Row,plank,approx,m:floor_pen | m:equip_floor | f:equip_floor | template plank vs table pattern horizontal_pull
+265,weighted-pull-up,Weighted Pull-up,pull_up,rule,
+266,muscle-up,Muscle-up,pull_up,rule,
+267,snatch-grip-deadlift,Snatch-Grip Deadlift,deadlift,rule,
+268,deficit-deadlift,Deficit Deadlift,deadlift,rule,
+269,kettlebell-gorilla-row,Kettlebell Gorilla Row,db_row,approx,m:reach | f:reach | stand-in pose for a complex or travelling drill
+270,dumbbell-deadlift,Dumbbell Deadlift,deadlift,rule,
+271,suspension-row,Suspension Row,inverted_row,rule,
+272,cable-pull-over,Cable Pull-over,straight_arm_pulldown,rule,
+273,svend-press,Svend Press,chest_press_standing,approx,stand-in pose for a complex or travelling drill
+274,dumbbell-squeeze-press,Dumbbell Squeeze Press,db_bench_press,rule,
+275,archer-push-up,Archer Push-up,push_up,approx,stand-in pose for a complex or travelling drill
+276,deficit-push-up,Deficit Push-up,push_up,rule,
+277,single-arm-cable-fly,Single-Arm Cable Fly,cable_crossover,rule,
+278,decline-machine-chest-press,Decline Machine Chest Press,machine_chest_press,rule,
+279,barbell-floor-press,Barbell Floor Press,bench_press,rule,
+280,kettlebell-floor-press,Kettlebell Floor Press,db_bench_press,rule,
+281,suspension-chest-press,Suspension Chest Press,chest_press_standing,rule,
+282,air-bike,Air Bike,bike,approx,m:reach | m:grip_off | f:reach | f:grip_off
+283,ski-ergometer,Ski Ergometer,straight_arm_pulldown,approx,
+284,running,Running,treadmill_run,approx,
+285,brisk-walking,Brisk Walking,treadmill_run,approx,
+286,swimming,Swimming,superman,approx,
+287,sprint-intervals,Sprint Intervals,treadmill_run,approx,stand-in pose for a complex or travelling drill
+288,lateral-shuffle,Lateral Shuffle,lateral_hop,rule,
+289,plank-jack,Plank Jack,plank,approx,m:foot_slide_L | m:foot_slide_R | f:foot_slide_L | f:foot_slide_R | template plank vs table pattern cardio; stand-in pose for a complex or travelling drill
+290,dumbbell-thruster,Dumbbell Thruster,thruster,rule,
+291,barbell-thruster,Barbell Thruster,thruster,rule,m:reach | m:grip_off | f:reach | f:grip_off
+292,wall-ball,Wall Ball,thruster,rule,
+293,man-maker,Man Maker,burpee,approx,m:floor_pen | f:floor_pen
+294,devil-press,Devil Press,burpee,approx,m:floor_pen | f:floor_pen
+295,dumbbell-snatch,Dumbbell Snatch,kb_clean,rule,f:reach | f:grip_off
+296,kettlebell-clean,Kettlebell Clean,kb_clean,rule,f:reach | f:grip_off
+297,kettlebell-snatch,Kettlebell Snatch,kb_clean,rule,f:reach | f:grip_off
+298,hang-power-clean,Hang Power Clean,power_clean,rule,
+299,clean-and-jerk,Clean and Jerk,power_clean,rule,m:reach | m:grip_off | f:reach | f:grip_off
+300,barbell-snatch,Barbell Snatch,power_clean,rule,
+301,sled-drag,Sled Drag,sled_push,rule,
+302,hanging-knee-raise,Hanging Knee Raise,hanging_leg_raise,rule,m:reach
+303,captains-chair-knee-raise,Captain's Chair Knee Raise,hanging_leg_raise,rule,
+304,toes-to-bar,Toes-to-Bar,hanging_leg_raise,rule,
+305,dragon-flag,Dragon Flag,leg_raise,approx,
+306,l-sit,L-Sit,l_sit,rule,
+307,windshield-wipers,Windshield Wipers,windshield_wiper,rule,
+308,plank-up-down,Plank Up-Down,plank,rule,
+309,side-plank-hip-dip,Side Plank Hip Dip,plank,rule,
+310,stir-the-pot,Stir the Pot,plank,approx,stand-in pose for a complex or travelling drill
+311,suitcase-carry,Suitcase Carry,farmer_walk,rule,
+312,decline-sit-up,Decline Sit-up,sit_up,rule,
+313,toe-touch-crunch,Toe Touch Crunch,crunch,rule,
+314,bear-plank-hold,Bear Plank Hold,plank,rule,
+315,suspension-atomic-push-up,Suspension Atomic Push-up,push_up,approx,template push_up vs table pattern anti_rotation
+316,cable-oblique-crunch,Cable Oblique Crunch,crunch,rule,
+317,plate-pinch-hold,Plate Pinch Hold,farmer_walk,approx,stand-in pose for a complex or travelling drill
+318,hand-gripper,Hand Gripper,wrist_curl,approx,
+319,dumbbell-wrist-rotation,Dumbbell Wrist Rotation,wrist_curl,approx,
+320,neck-isometric-hold,Neck Isometric Hold,standing_still,approx,
+321,lying-neck-flexion,Lying Neck Flexion,crunch,approx,
+322,lying-neck-extension,Lying Neck Extension,superman,approx,
+323,pendulum-squat,Pendulum Squat,squat,rule,
+324,belt-squat,Belt Squat,squat,rule,
+325,safety-bar-squat,Safety Bar Squat,back_squat,rule,
+326,heel-elevated-goblet-squat,Heel-Elevated Goblet Squat,goblet_squat,rule,
+327,zercher-squat,Zercher Squat,squat,rule,
+328,overhead-squat,Overhead Squat,overhead_squat,rule,
+329,pause-squat,Pause Squat,back_squat,rule,
+330,reverse-nordic,Reverse Nordic,glute_ham_raise,rule,
+331,spanish-squat,Spanish Squat,squat,rule,
+332,single-leg-leg-press,Single-Leg Leg Press,leg_press,rule,
+333,smith-machine-split-squat,Smith Machine Split Squat,split_squat,rule,
+334,cossack-squat,Cossack Squat,cossack_squat,rule,
+335,bodyweight-lunge,Bodyweight Lunge,forward_lunge,rule,
+336,broad-jump,Broad Jump,broad_jump,rule,
+337,tuck-jump,Tuck Jump,tuck_jump,rule,
+338,copenhagen-plank,Copenhagen Plank,plank,rule,
+339,suspension-pistol-squat,Suspension Pistol Squat,pistol_squat,approx,
+340,smith-machine-reverse-lunge,Smith Machine Reverse Lunge,reverse_lunge,rule,
+341,band-leg-curl,Band Leg Curl,lying_leg_curl,rule,
+342,single-leg-romanian-deadlift,Single-Leg Romanian Deadlift,single_leg_rdl,rule,
+343,kettlebell-deadlift,Kettlebell Deadlift,deadlift,rule,
+344,suspension-hamstring-curl,Suspension Hamstring Curl,glute_bridge,rule,
+345,dumbbell-hip-thrust,Dumbbell Hip Thrust,hip_thrust,rule,
+346,machine-hip-thrust,Machine Hip Thrust,hip_thrust,rule,
+347,b-stance-hip-thrust,B-Stance Hip Thrust,hip_thrust,rule,
+348,smith-machine-hip-thrust,Smith Machine Hip Thrust,hip_thrust,rule,
+349,kettlebell-sumo-deadlift,Kettlebell Sumo Deadlift,deadlift,rule,
+350,45-degree-glute-hyperextension,45-Degree Glute Hyperextension,back_extension,rule,
+351,deficit-reverse-lunge,Deficit Reverse Lunge,reverse_lunge,rule,
+352,seated-dumbbell-calf-raise,Seated Dumbbell Calf Raise,seated_calf_raise,rule,
+353,pogo-hops,Pogo Hops,lateral_hop,approx,
+354,thread-the-needle,Thread the Needle,cat_cow,approx,m:reach | f:reach
+355,couch-stretch,Couch Stretch,hip_flexor_stretch,rule,
+356,frog-stretch,Frog Stretch,butterfly_stretch,rule,
+357,deep-squat-hold,Deep Squat Hold,bodyweight_squat,rule,
+358,knee-to-wall-ankle-mobilization,Knee-to-Wall Ankle Mobilization,calf_stretch,approx,m:reach | f:reach
+359,sleeper-stretch,Sleeper Stretch,arm_stretch,rule,m:reach
+360,kneeling-lat-stretch,Kneeling Lat Stretch,arm_stretch,rule,m:reach
+361,foam-roll-thoracic-spine,Foam Roll Thoracic Spine,foam_roll,rule,m:reach | f:reach
+362,foam-roll-quads,Foam Roll Quads,foam_roll,rule,
+363,foam-roll-glutes,Foam Roll Glutes,foam_roll,rule,m:reach | f:reach
+364,foam-roll-calves,Foam Roll Calves,foam_roll,rule,m:reach | f:reach
+365,seated-spinal-twist,Seated Spinal Twist,russian_twist,approx,
+366,supine-spinal-twist,Supine Spinal Twist,knee_to_chest,approx,
+367,shoulder-cars,Shoulder CARs,arm_circles,approx,
+368,hip-cars,Hip CARs,hip_circle_standing,rule,
+369,adductor-rockback,Adductor Rockback,child_pose,approx,m:reach | f:reach
+370,jefferson-curl,Jefferson Curl,standing_forward_bend,approx,
+371,reverse-snow-angel,Reverse Snow Angel,superman,approx,
+372,landmine-press,Landmine Press,landmine_press,rule,m:equip_floor | f:equip_floor
+373,z-press,Z Press,overhead_press,approx,
+374,plate-front-raise,Plate Front Raise,front_raise,rule,m:reach | f:reach
+375,cable-front-raise,Cable Front Raise,front_raise,rule,
+376,incline-y-raise,Incline Y-Raise,rear_delt_raise,approx,
+377,prone-y-t-w-raise,Prone Y-T-W Raise,superman,approx,
+378,dumbbell-upright-row,Dumbbell Upright Row,upright_row,rule,
+379,kettlebell-halo,Kettlebell Halo,kb_halo,rule,
+380,kettlebell-overhead-press,Kettlebell Overhead Press,db_shoulder_press,rule,
+381,handstand-push-up,Handstand Push-up,push_up,approx,stand-in pose for a complex or travelling drill
+382,lean-away-lateral-raise,Lean-Away Lateral Raise,lateral_raise,rule,
+383,band-face-pull,Band Face Pull,face_pull,rule,
+384,cable-y-raise,Cable Y-Raise,front_raise,approx,
+385,trap-bar-shrug,Trap Bar Shrug,shrug,rule,
+386,overhead-carry,Overhead Carry,farmer_walk,rule,
+387,windmill,Windmill,kb_windmill,rule,
+388,kettlebell-windmill,Kettlebell Windmill,kb_windmill,rule,
+389,dowel-windmill,Dowel Windmill,kb_windmill,rule,
+390,suspension-hip-drop,Suspension Hip Drop,side_plank,approx,stand-in pose for a complex or travelling drill
+391,suspension-leg-raise,Suspension Leg Raise,leg_raise,rule,
+392,leg-raises-with-stability-ball,Leg Raises with Stability Ball,leg_raise,rule,
+393,mini-band-leg-raise,Mini Band Leg Raise,leg_raise,rule,
+394,vertical-leg-raise,Vertical Leg Raise,hanging_leg_raise,rule,
+395,hanging-oblique-knee-raise,Hanging Oblique Knee Raise,hanging_leg_raise,rule,
+396,hip-lift-march,Hip Lift March,glute_bridge,approx,stand-in pose for a complex or travelling drill
+397,hanging-windshield-wiper,Hanging Windshield Wiper,hanging_leg_raise,rule,
+398,suspension-pike,Suspension Pike,pike,rule,m:reach | m:foot_slide_L | m:foot_slide_R | f:reach | f:foot_slide_L | f:foot_slide_R
+399,stability-ball-pike,Stability Ball Pike,pike,rule,f:reach | m:reach
+400,balance-trainer-bird-dog,Balance Trainer Bird Dog,bird_dog,rule,m:reach | f:reach
+401,high-plank-arm-reach,High Plank Arm Reach,plank,rule,m:floor_pen | f:floor_pen
+402,balance-trainer-up-and-down-plank,Balance Trainer Up and Down Plank,plank,approx,m:foot_slide_L | m:foot_slide_R | f:foot_slide_L | f:foot_slide_R | stand-in pose for a complex or travelling drill
+403,balance-trainer-walk-out-plank,Balance Trainer Walk Out Plank,walkout,approx,m:reach | f:reach | stand-in pose for a complex or travelling drill
+404,balance-trainer-star-plank-knee-to-elbow,Balance Trainer Star Plank Knee to Elbow,plank,approx,stand-in pose for a complex or travelling drill
+405,balance-trainer-traveling-dome-plank,Balance Trainer Traveling Dome Plank,plank,approx,stand-in pose for a complex or travelling drill
+406,reverse-plank,Reverse Plank,reverse_plank,rule,
+407,reverse-plank-on-elbows,Reverse Plank on Elbows,reverse_plank,rule,
+408,suspension-reverse-plank,Suspension Reverse Plank,reverse_plank,rule,
+409,plank-body-saw,Plank Body Saw,plank,rule,m:foot_slide_L | m:foot_slide_R | f:foot_slide_L | f:foot_slide_R
+410,suspension-bodysaw,Suspension Bodysaw,plank,rule,
+411,plank-hip-dip,Plank Hip Dip,plank,approx,template plank vs table pattern rotation
+412,stability-ball-plank,Stability Ball Plank,plank,rule,
+413,forward-stability-ball-plank,Forward Stability Ball Plank,plank,rule,
+414,stability-ball-plank-on-balance-trainer,Stability Ball Plank on Balance Trainer,plank,rule,
+415,balance-trainer-leg-crossover-plank,Balance Trainer Leg Crossover Plank,plank,approx,template plank vs table pattern rotation; stand-in pose for a complex or travelling drill
+416,plank-with-dumbbell-pull-through,Plank With Dumbbell Pull Through,plank,rule,
+417,mini-band-plank-with-straight-leg-kickback,Mini Band Plank with Straight Leg Kickback,donkey_kick,rule,
+418,balance-trainer-shoulder-tap-plank,Balance Trainer Shoulder Tap Plank,plank,rule,
+419,balance-trainer-plank,Balance Trainer Plank,plank,rule,
+420,elevated-plank,Elevated Plank,plank,rule,
+421,elevated-plank-with-slow-mountain-climber,Elevated Plank With Slow Mountain Climber,mountain_climber,rule,
+422,suspension-side-plank,Suspension Side Plank,side_plank,rule,
+423,side-plank-with-knees-bent,Side Plank With Knees Bent,side_plank,rule,
+424,band-side-plank-row,Band Side Plank Row,side_plank,approx,
+425,band-plank-row,Band Plank Row,plank,approx,m:floor_pen | m:equip_floor | f:floor_pen | f:equip_floor
+426,plank-surrender,Plank Surrender,plank,approx,stand-in pose for a complex or travelling drill
+427,plank-jack-on-elbows,Plank Jack on Elbows,plank,approx,m:foot_slide_L | m:foot_slide_R | f:foot_slide_L | f:foot_slide_R | stand-in pose for a complex or travelling drill
+428,quadruped-plank-with-leg-extensions,Quadruped Plank With Leg Extensions,bird_dog,approx,m:reach | f:reach
+429,mini-band-around-the-world-plank,Mini Band Around the World Plank,plank,approx,stand-in pose for a complex or travelling drill
+430,balance-trainer-side-star-plank,Balance Trainer Side Star Plank,side_plank,approx,stand-in pose for a complex or travelling drill
+431,extended-plank,Extended Plank,plank,rule,
+432,suspension-plank,Suspension Plank,plank,rule,
+433,partner-plank-and-reach,Partner Plank and Reach,plank,approx,m:floor_pen | f:floor_pen | partner drill shown solo
+434,medicine-ball-russian-twist,Medicine Ball Russian Twist,russian_twist,rule,
+435,stability-ball-russian-twist,Stability Ball Russian Twist,russian_twist,rule,
+436,cable-russian-twist,Cable Russian Twist,russian_twist,rule,
+437,partner-russian-twist,Partner Russian Twist,russian_twist,approx,partner drill shown solo
+438,partner-medicine-ball-full-twist,Partner Medicine Ball Full Twist,russian_twist,approx,partner drill shown solo
+439,balance-trainer-russian-twist,Balance Trainer Russian Twist,russian_twist,rule,
+440,decline-russian-twist,Decline Russian Twist,russian_twist,rule,
+441,band-standing-ab-twist,Band Standing Ab Twist,standing_twist,rule,
+442,standing-cable-core-twist,Standing Cable Core Twist,standing_twist,rule,
+443,stability-ball-abdominal-twist,Stability Ball Abdominal Twist,russian_twist,approx,
+444,stability-ball-seated-twist,Stability Ball Seated Twist,russian_twist,approx,
+445,torture-twist,Torture Twist,russian_twist,rule,
+446,weighted-torture-twist,Weighted Torture Twist,russian_twist,rule,
+447,pallof-press-walk-out,Pallof Press Walk Out,pallof_press,rule,
+448,supine-pallof-press,Supine Pallof Press,pallof_press,rule,
+449,full-kneeling-pallof-press,Full Kneeling Pallof Press,pallof_press,rule,
+450,pallof-press-and-twist,Pallof Press and Twist,pallof_press,rule,
+451,partner-pallof-twist,Partner Pallof Twist,pallof_press,approx,partner drill shown solo
+452,suspension-resisted-rotation,Suspension Resisted Rotation,standing_twist,rule,
+453,partner-lying-leg-throw-down,Partner Lying Leg Throw Down,leg_raise,approx,stand-in pose for a complex or travelling drill; partner drill shown solo
+454,partner-leg-toss-windshields,Partner Leg Toss Windshields,windshield_wiper,approx,stand-in pose for a complex or travelling drill; partner drill shown solo
+455,stance-jack,Stance Jack,jumping_jack,approx,stand-in pose for a complex or travelling drill
+456,exercise-ball-pull-in,Exercise Ball Pull In,pike,rule,
+457,balance-trainer-stability-ball-knee-tuck,Balance Trainer Stability Ball Knee Tuck,pike,rule,
+458,cable-wood-chop-low-to-high,Cable Wood Chop (Low to High),woodchop,rule,
+459,balance-trainer-wood-chopper,Balance Trainer Wood Chopper,woodchop,rule,
+460,high-butt-bear-crawl,High Butt Bear Crawl,bear_crawl,approx,stand-in pose for a complex or travelling drill
+461,dowel-lateral-bend,Dowel Lateral Bend,arm_stretch,rule,
+462,partner-sit-up-toss,Partner Sit-up Toss,sit_up,approx,stand-in pose for a complex or travelling drill; partner drill shown solo
+463,partner-sit-up-hi-five,Partner Sit-up Hi-Five,sit_up,approx,stand-in pose for a complex or travelling drill; partner drill shown solo
+464,medicine-ball-overhead-sit-up,Medicine Ball Overhead Sit-up,sit_up,rule,
+465,overhead-weighted-sit-up,Overhead Weighted Sit-up,sit_up,rule,
+466,decline-overhead-weighted-sit-up,Decline Overhead Weighted Sit-up,sit_up,rule,
+467,glute-ham-raise-sit-up,Glute Ham Raise Sit-up,sit_up,approx,
+468,decline-sit-up-with-medicine-ball-toss,Decline Sit-up with Medicine Ball Toss,sit_up,approx,stand-in pose for a complex or travelling drill
+469,kettlebell-sit-up-and-press,Kettlebell Sit-up and Press,sit_up,rule,
+470,crab-reach,Crab Reach,reverse_plank,rule,m:reach | f:reach
+471,stability-ball-roll-out,Stability Ball Roll Out,ab_rollout,rule,
+472,barbell-ab-rollout,Barbell Ab Rollout,ab_rollout,rule,
+473,suspension-fallout,Suspension Fallout,ab_rollout,rule,
+474,suspension-ab-rollout,Suspension Ab Rollout,ab_rollout,rule,
+475,suspension-kneeling-oblique-rollout,Suspension Kneeling Oblique Rollout,ab_rollout,rule,
+476,up-dog,Up Dog,cobra,rule,
+477,suspension-scapular-push-up,Suspension Scapular Push-up,push_up,rule,
+478,balance-trainer-braced-bicycle-kick,Balance Trainer Braced Bicycle Kick,bicycle_crunch,approx,
+479,balance-trainer-braced-frog-kick,Balance Trainer Braced Frog Kick,reverse_crunch,approx,
+480,dumbbell-v-sit-cross-jab,Dumbbell V-Sit Cross Jab,russian_twist,approx,stand-in pose for a complex or travelling drill
+481,mini-band-scissor-kick,Mini Band Scissor Kick,flutter_kick,rule,
+482,scissor-crossover-kick,Scissor Crossover Kick,flutter_kick,rule,
+483,elbow-to-knee-crunch,Elbow to Knee Crunch,crunch,rule,
+484,standing-elbow-to-knee-crunch,Standing Elbow to Knee Crunch,standing_knee_raise,rule,
+485,standing-oblique-crunch,Standing Oblique Crunch,standing_knee_raise,rule,
+486,balance-trainer-cable-crunch-with-side-bends,Balance Trainer Cable Crunch With Side Bends,crunch,rule,
+487,band-crunch,Band Crunch,crunch,rule,
+488,balance-trainer-crunch,Balance Trainer Crunch,crunch,rule,
+489,balance-trainer-single-leg-crunch,Balance Trainer Single-Leg Crunch,v_up,rule,
+490,balance-trainer-overhead-weighted-crunch,Balance Trainer Overhead Weighted Crunch,crunch,approx,stand-in pose for a complex or travelling drill
+491,medicine-ball-leg-crunch,Medicine Ball Leg Crunch,v_up,rule,
+492,tuck-crunch,Tuck Crunch,v_up,rule,
+493,cocoon-crunch,Cocoon Crunch,v_up,rule,
+494,stability-ball-bicycle-crunch,Stability Ball Bicycle Crunch,bicycle_crunch,rule,
+495,stability-ball-oblique-crunch,Stability Ball Oblique Crunch,crunch,rule,
+496,decline-oblique-crunch,Decline Oblique Crunch,crunch,rule,
+497,decline-reverse-crunch,Decline Reverse Crunch,reverse_crunch,rule,
+498,spiderman-plank-crunch,Spiderman Plank Crunch,plank,approx,template plank vs table pattern rotation
+499,balance-trainer-slow-climber,Balance Trainer Slow Climber,mountain_climber,rule,
+500,balance-trainer-speed-climber,Balance Trainer Speed Climber,mountain_climber,rule,
+501,mini-band-mountain-climber,Mini Band Mountain Climber,mountain_climber,rule,
+502,cross-body-mountain-climber,Cross Body Mountain Climber,mountain_climber,rule,
+503,reverse-lunge-with-half-kneeling-pallof-press,Reverse Lunge With Half-Kneeling Pallof Press,reverse_lunge,approx,template reverse_lunge vs table pattern anti_rotation
+504,opposite-leg-toe-touch,Opposite Leg Toe Touch,crunch,rule,
+505,mini-band-toe-touch,Mini Band Toe Touch,v_up,approx,
+506,kipping-toes-to-bar,Kipping Toes-to-Bar,hanging_leg_raise,approx,m:reach | stand-in pose for a complex or travelling drill
+507,seated-toe-tap,Seated Toe Tap,v_up,rule,
+508,side-plank-leg-lift,Side Plank Leg Lift,side_plank,rule,
+509,side-plank-lift,Side Plank Lift,side_plank,rule,
+510,side-plank-clam-lift,Side Plank Clam Lift,clam,rule,
+511,balance-trainer-single-leg-lift,Balance Trainer Single-Leg Lift,leg_raise,rule,
+512,stomach-vacuum,Stomach Vacuum,standing_still,approx,stand-in pose for a complex or travelling drill
+513,v-sit,V-Sit,v_up,rule,
+514,dumbbell-halo-to-oblique-crunch,Dumbbell Halo To Oblique Crunch,kb_halo,approx,stand-in pose for a complex or travelling drill
+515,dowel-helicopter,Dowel Helicopter,standing_twist,approx,stand-in pose for a complex or travelling drill
+516,stability-ball-v-pass,Stability Ball V-pass,v_up,rule,
+517,side-bend-stretch,Side Bend Stretch,arm_stretch,rule,
+518,smith-machine-close-grip-bench-press,Smith Machine Close-Grip Bench Press,bench_press,rule,
+519,incline-barbell-skull-crusher,Incline Barbell Skull Crusher,skull_crusher,rule,
+520,cable-one-arm-triceps-side-extension,Cable One-Arm Triceps Side Extension,triceps_pushdown,rule,
+521,cable-one-arm-underhand-triceps-extension,Cable One-Arm Underhand Triceps Extension,triceps_pushdown,rule,
+522,band-single-arm-triceps-extension,Band Single-Arm Triceps Extension,overhead_triceps_extension,rule,
+523,mini-band-triceps-press,Mini Band Triceps Press,triceps_pushdown,approx,
+524,cobra-triceps-extension,Cobra Triceps Extension,cobra,approx,stand-in pose for a complex or travelling drill
+525,ring-dip,Ring Dip,dip,rule,
+526,assisted-dip,Assisted Dip,dip,rule,m:equip_floor | f:equip_floor
+527,dowel-triceps-stretch,Dowel Triceps Stretch,arm_stretch,rule,
+528,cable-wrist-curl,Cable Wrist Curl,wrist_curl,rule,
+529,palms-down-barbell-wrist-curl,Palms-Down Barbell Wrist Curl,wrist_curl,rule,
+530,band-reverse-curl,Band Reverse Curl,db_curl,rule,
+531,plate-flips,Plate Flips,farmer_walk,approx,stand-in pose for a complex or travelling drill
+532,wrist-extension-stretch,Wrist Extension Stretch,arm_stretch,rule,m:reach | f:reach
+533,dowel-forearm-stretch,Dowel Forearm Stretch,arm_stretch,rule,m:reach | f:reach
+534,wide-grip-barbell-curl,Wide Grip Barbell Curl,barbell_curl,rule,
+535,barbell-pause-curl,Barbell Pause Curl,barbell_curl,rule,
+536,ez-bar-pause-curl,EZ-Bar Pause Curl,barbell_curl,rule,
+537,dumbbell-pause-curl,Dumbbell Pause Curl,db_curl,rule,
+538,dumbbell-hammer-pause-curl,Dumbbell Hammer Pause Curl,db_curl,rule,
+539,dumbbell-drag-curl,Dumbbell Drag Curl,barbell_curl,rule,
+540,dumbbell-drag-pause-curl,Dumbbell Drag Pause Curl,db_curl,rule,
+541,dumbbell-wide-curl,Dumbbell Wide Curl,db_curl,rule,
+542,close-grip-ez-bar-curl,Close-Grip EZ-Bar Curl,barbell_curl,rule,
+543,ez-bar-reverse-grip-curl,EZ-Bar Reverse Grip Curl,barbell_curl,rule,
+544,ez-bar-reverse-close-grip-curl,EZ-Bar Reverse Close Grip Curl,barbell_curl,rule,
+545,reverse-dumbbell-curl,Reverse Dumbbell Curl,db_curl,rule,
+546,band-hammer-curl,Band Hammer Curl,db_curl,rule,
+547,mini-band-kneeling-biceps-curl,Mini Band Kneeling Biceps Curl,db_curl,rule,
+548,single-arm-cable-biceps-curl,Single-Arm Cable Biceps Curl,barbell_curl,rule,
+549,zottman-preacher-curl,Zottman Preacher Curl,preacher_curl,rule,f:reach
+550,biceps-curl-to-shoulder-press,Biceps Curl To Shoulder Press,db_curl,rule,
+551,dumbbell-hammer-curl-to-front-press,Dumbbell Hammer Curl To Front Press,db_curl,rule,
+552,dumbbell-no-money-curl,Dumbbell No Money Curl,db_curl,approx,stand-in pose for a complex or travelling drill
+553,isometric-biceps-hold,Isometric Biceps Hold,db_curl,approx,
+554,wide-grip-pull-up,Wide Grip Pull-up,pull_up,rule,
+555,v-bar-pull-up,V-Bar Pull-up,pull_up,rule,
+556,mixed-grip-pull-up,Mixed Grip Pull-up,pull_up,rule,
+557,archer-pull-up,Archer Pull-up,pull_up,approx,stand-in pose for a complex or travelling drill
+558,butterfly-pull-up,Butterfly Pull-up,pull_up,approx,stand-in pose for a complex or travelling drill
+559,band-wide-grip-pull-up,Band Wide Grip Pull-up,pull_up,rule,
+560,band-negative-pull-up,Band Negative Pull-up,pull_up,rule,
+561,assisted-wide-grip-pull-up,Assisted Wide Grip Pull-up,pull_up,rule,
+562,assisted-neutral-grip-pull-up,Assisted Neutral Grip Pull-up,pull_up,rule,
+563,assisted-chin-up,Assisted Chin-up,pull_up,rule,
+564,band-chin-up,Band Chin-up,pull_up,rule,
+565,band-negative-chin-up,Band Negative Chin-up,pull_up,rule,
+566,australian-chin-up,Australian Chin-up,pull_up,approx,f:reach | f:grip_off | m:reach | m:grip_off | template pull_up vs table pattern horizontal_pull
+567,rope-climb,Rope Climb,pull_up,rule,m:reach
+568,ez-bar-pjr-pull-over,EZ Bar PJR Pull Over,pullover,approx,stand-in pose for a complex or travelling drill
+569,ez-bar-pull-over,EZ-Bar Pull Over,pullover,rule,
+570,band-straight-arm-pulldown,Band Straight-Arm Pulldown,straight_arm_pulldown,rule,
+571,cable-crossover-lat-pulldown,Cable Crossover Lat Pulldown,lat_pulldown,rule,
+572,reverse-grip-barbell-bent-over-row,Reverse Grip Barbell Bent Over Row,barbell_row,rule,
+573,trap-bar-bent-over-row,Trap Bar Bent Over Row,barbell_row,rule,
+574,kettlebell-alternating-row,Kettlebell Alternating Row,db_row,rule,
+575,bird-dog-row,Bird Dog Row,db_row,approx,m:reach | f:reach | stand-in pose for a complex or travelling drill
+576,single-arm-landmine-row,Single-Arm Landmine Row,tbar_row,rule,m:equip_floor | f:equip_floor
+577,shotgun-row,Shotgun Row,db_row,approx,m:reach | f:reach | stand-in pose for a complex or travelling drill
+578,half-kneeling-shotgun-row,Half Kneeling Shotgun Row,db_row,approx,m:reach | f:reach | stand-in pose for a complex or travelling drill
+579,band-bent-over-row,Band Bent Over Row,barbell_row,rule,
+580,single-arm-band-row,Single-Arm Band Row,db_row,rule,m:reach | f:reach
+581,mini-band-kneeling-row,Mini Band Kneeling Row,barbell_row,rule,
+582,band-rear-delt-fly,Band Rear Delt Fly,rear_delt_raise,rule,
+583,band-y-raise,Band Y Raise,rear_delt_raise,approx,
+584,band-overhead-pull-apart,Band Overhead Pull Apart,rear_delt_raise,approx,
+585,prone-is,Prone I's,superman,rule,
+586,foam-roll-lats,Foam Roll Lats,foam_roll,rule,
+587,suspension-clock-pull,Suspension Clock Pull,inverted_row,approx,stand-in pose for a complex or travelling drill
+588,suspension-swimmer-pull,Suspension Swimmer Pull,superman,approx,template superman vs table pattern vertical_pull; stand-in pose for a complex or travelling drill
+589,suspension-power-pull,Suspension Power Pull,inverted_row,approx,stand-in pose for a complex or travelling drill
+590,balance-trainer-squat,Balance Trainer Squat,squat,rule,
+591,balance-trainer-knee-up-squat,Balance Trainer Knee Up Squat,bodyweight_squat,approx,stand-in pose for a complex or travelling drill
+592,balance-trainer-bar-assisted-dome-squat,Balance Trainer Bar Assisted Dome Squat,squat,approx,stand-in pose for a complex or travelling drill
+593,balance-trainer-goblet-squat,Balance Trainer Goblet Squat,goblet_squat,rule,
+594,balance-trainer-stability-ball-overhead-squat,Balance Trainer Stability Ball Overhead Squat,overhead_squat,rule,
+595,balance-trainer-lateral-dome-squat,Balance Trainer Lateral Dome Squat,squat,approx,stand-in pose for a complex or travelling drill
+596,balance-trainer-single-leg-glute-drop,Balance Trainer Single-Leg Glute Drop,pistol_squat,approx,
+597,balance-trainer-suspension-pistol-squat,Balance Trainer Suspension Pistol Squat,pistol_squat,approx,
+598,balance-trainer-suspension-squat-jump,Balance Trainer Suspension Squat Jump,jump_squat,rule,m:foot_slide_L | m:foot_slide_R | f:foot_slide_L | f:foot_slide_R
+599,balance-trainer-sumo-squat-jump,Balance Trainer Sumo Squat Jump,jump_squat,rule,m:foot_slide_L | m:foot_slide_R | f:foot_slide_L | f:foot_slide_R
+600,balance-trainer-lateral-jump,Balance Trainer Lateral Jump,lateral_hop,rule,
+601,balance-trainer-lateral-cross-over-jump,Balance Trainer Lateral Cross Over Jump,lateral_hop,approx,
+602,balance-trainer-front-back-cross-jump,Balance Trainer Front-Back Cross Jump,lateral_hop,approx,stand-in pose for a complex or travelling drill
+603,balance-trainer-toe-tap,Balance Trainer Toe Tap,high_knees,approx,
+604,balance-trainer-lateral-floor-toe-tap,Balance Trainer Lateral Floor Toe Tap,lateral_hop,approx,
+605,balance-trainer-alternating-lunge,Balance Trainer Alternating Lunge,forward_lunge,rule,
+606,balance-trainer-alternating-lunge-jump,Balance Trainer Alternating Lunge Jump,split_jump,rule,
+607,balance-trainer-curtsy-lunge,Balance Trainer Curtsy Lunge,curtsy_lunge,rule,
+608,balance-trainer-hesitation-lunge,Balance Trainer Hesitation Lunge,forward_lunge,approx,stand-in pose for a complex or travelling drill
+609,balance-trainer-rear-lunge-kick,Balance Trainer Rear Lunge Kick,reverse_lunge,rule,
+610,balance-trainer-single-leg-suspension-lunge,Balance Trainer Single-Leg Suspension Lunge,forward_lunge,rule,
+611,balance-trainer-suspension-front-to-back-lunge,Balance Trainer Suspension Front to Back Lunge,forward_lunge,rule,
+612,balance-trainer-burpee,Balance Trainer Burpee,burpee,rule,f:floor_pen | m:floor_pen
+613,balance-trainer-burpee-with-push-up,Balance Trainer Burpee with Push-up,burpee,rule,m:floor_pen | f:floor_pen
+614,balance-trainer-single-leg-kneeling-good-morning,Balance Trainer Single-Leg Kneeling Good Morning,good_morning,rule,
+615,partner-hook-squat,Partner Hook Squat,squat,approx,partner drill shown solo
+616,partner-squat-and-throw,Partner Squat And Throw,medball_slam,approx,stand-in pose for a complex or travelling drill; partner drill shown solo
+617,partner-band-jump,Partner Band Jump,jump_squat,approx,m:foot_slide_L | m:foot_slide_R | f:foot_slide_L | f:foot_slide_R | partner drill shown solo
+618,partner-band-sprint,Partner Band Sprint,treadmill_run,approx,stand-in pose for a complex or travelling drill; partner drill shown solo
+619,partner-back-to-back-wall-sit,Partner Back To Back Wall Sit,wall_sit,approx,partner drill shown solo
+620,partner-wall-sit-and-triceps-dip,Partner Wall Sit And Triceps Dip,wall_sit,approx,partner drill shown solo
+621,partner-plank-hold-and-jump,Partner Plank Hold And Jump,plank,approx,partner drill shown solo
+622,pause-bench-press,Pause Bench Press,bench_press,rule,
+623,pause-barbell-incline-bench-press,Pause Barbell Incline Bench Press,bench_press,rule,
+624,pause-barbell-decline-bench-press,Pause Barbell Decline Bench Press,bench_press,rule,
+625,reverse-grip-bench-press,Reverse Grip Bench Press,bench_press,rule,
+626,alternating-dumbbell-bench-press,Alternating Dumbbell Bench Press,db_bench_press,rule,
+627,single-arm-floor-press,Single-Arm Floor Press,db_bench_press,rule,bench_press -> db_bench_press by equipment
+628,dumbbell-larson-press,Dumbbell Larson Press,db_bench_press,approx,stand-in pose for a complex or travelling drill
+629,incline-dumbbell-squeeze-press,Incline Dumbbell Squeeze Press,db_bench_press,rule,
+630,incline-svend-press,Incline Svend Press,chest_press_standing,approx,stand-in pose for a complex or travelling drill
+631,smith-machine-decline-press,Smith Machine Decline Press,bench_press,rule,
+632,single-arm-cable-press,Single-Arm Cable Press,chest_press_standing,rule,
+633,incline-cable-chest-press,Incline Cable Chest Press,chest_press_standing,rule,
+634,cable-crossover-flat-bench-fly,Cable Crossover Flat Bench Fly,db_fly,rule,
+635,mid-cable-crossover-fly,Mid Cable Crossover Fly,cable_crossover,rule,
+636,single-arm-low-cable-crossover-fly,Single-Arm Low Cable Crossover Fly,cable_crossover,rule,
+637,band-pec-fly,Band Pec Fly,cable_crossover,rule,
+638,band-single-arm-fly,Band Single-Arm Fly,cable_crossover,rule,
+639,suspension-chest-fly,Suspension Chest Fly,chest_press_standing,rule,
+640,band-standing-decline-chest-press,Band Standing Decline Chest Press,chest_press_standing,rule,
+641,band-standing-incline-chest-press,Band Standing Incline Chest Press,chest_press_standing,rule,
+642,band-single-arm-incline-chest-press,Band Single-Arm Incline Chest Press,chest_press_standing,rule,
+643,band-push-up,Band Push-up,push_up,rule,
+644,medicine-ball-push-up,Medicine Ball Push-up,push_up,rule,
+645,alternating-medicine-ball-push-up,Alternating Medicine Ball Push-up,push_up,rule,
+646,exercise-ball-push-up,Exercise Ball Push-up,push_up,rule,
+647,hand-release-push-up,Hand Release Push-up,push_up,rule,
+648,triceps-push-up,Triceps Push-up,push_up,rule,
+649,single-arm-push-up,Single-Arm Push-up,push_up,rule,
+650,rotation-push-up,Rotation Push-up,push_up,rule,
+651,walkout-to-push-up,Walkout to Push-up,push_up,rule,
+652,suspension-push-up,Suspension Push-up,push_up,rule,
+653,suspension-push-up-plus,Suspension Push-up Plus,push_up,rule,
+654,balance-trainer-push-up,Balance Trainer Push-up,push_up,rule,
+655,balance-trainer-wide-push-up,Balance Trainer Wide Push-up,push_up,rule,
+656,balance-trainer-narrow-push-up,Balance Trainer Narrow Push-up,push_up,rule,
+657,balance-trainer-dome-push-up,Balance Trainer Dome Push-up,push_up,rule,
+658,balance-trainer-incline-push-up,Balance Trainer Incline Push-up,push_up,rule,
+659,balance-trainer-spiderman-push-up,Balance Trainer Spiderman Push-up,push_up,rule,
+660,balance-trainer-stability-ball-push-up,Balance Trainer Stability Ball Push-up,push_up,rule,
+661,around-the-worlds,Around the Worlds,db_fly,approx,stand-in pose for a complex or travelling drill
+662,leg-raise-with-dumbbell-pull-over,Leg Raise With Dumbbell Pull Over,pullover,rule,
+663,hug-a-ball,Hug A Ball,db_fly,rule,
+664,crab-pose,Crab Pose,reverse_plank,rule,f:reach | m:reach
+665,foam-roll-chest,Foam Roll Chest,foam_roll,rule,
+666,partner-medicine-ball-chest-pass,Partner Medicine Ball Chest Pass,medball_slam,approx,partner drill shown solo
+667,partner-standing-chest-press,Partner Standing Chest Press,chest_press_standing,approx,partner drill shown solo
+668,partner-rolling-ball-push-up,Partner Rolling Ball Push-up,push_up,approx,stand-in pose for a complex or travelling drill; partner drill shown solo
+669,partner-push-up-reach,Partner Push-up Reach,push_up,approx,partner drill shown solo
+670,partner-wheelbarrow-push-up,Partner Wheelbarrow Push-up,push_up,approx,partner drill shown solo
+671,step-up,Step-up,step_up,rule,
+672,kneeling-squat,Kneeling Squat,squat,approx,template squat vs table pattern hinge; stand-in pose for a complex or travelling drill
+673,balance-trainer-rear-glute-raise,Balance Trainer Rear Glute Raise,donkey_kick,rule,
+674,partner-banded-reverse-leg-raise,Partner Banded Reverse Leg Raise,superman,approx,partner drill shown solo
+675,box-drop,Box Drop,box_jump,rule,
+676,mini-band-standing-hip-extension,Mini Band Standing Hip Extension,standing_kickback,rule,
+677,straight-leg-kickback,Straight Leg Kickback,donkey_kick,rule,
+678,suspension-glute-bridge,Suspension Glute Bridge,glute_bridge,rule,
+679,smith-machine-glute-bridge,Smith Machine Glute Bridge,glute_bridge,rule,
+680,barbell-glute-bridge,Barbell Glute Bridge,glute_bridge,rule,
+681,dumbbell-glute-bridge,Dumbbell Glute Bridge,glute_bridge,rule,
+682,medicine-ball-glute-bridge,Medicine Ball Glute Bridge,glute_bridge,rule,
+683,foam-roll-glute-bridge,Foam Roll Glute Bridge,foam_roll,rule,m:reach | f:reach
+684,banded-glute-bridge-with-alternating-leg-raise,Banded Glute Bridge with Alternating Leg Raise,glute_bridge,rule,
+685,single-leg-glute-bridge-with-external-rotation,Single-Leg Glute Bridge with External Rotation,glute_bridge,rule,
+686,elevated-hip-bridge,Elevated Hip Bridge,glute_bridge,rule,
+687,seated-figure-four,Seated Figure Four,pigeon_pose,approx,stand-in pose for a complex or travelling drill
+688,standing-leg-side-circle,Standing Leg Side Circle,hip_abduction_standing,rule,
+689,standing-leg-side-hold,Standing Leg Side Hold,hip_abduction_standing,rule,
+690,side-leg-hip-circle,Side Leg Hip Circle,fire_hydrant,rule,
+691,side-leg-kick,Side Leg Kick,side_leg_raise,rule,
+692,kettlebell-swing-american,Kettlebell Swing American,kb_swing,rule,
+693,prone-flutter-kick,Prone Flutter Kick,flutter_kick,rule,
+694,mini-band-fire-hydrant,Mini Band Fire Hydrant,fire_hydrant,rule,
+695,knee-to-chest-stretch,Knee to Chest Stretch,knee_to_chest,rule,
+696,medicine-ball-curtsy-lunge,Medicine Ball Curtsy Lunge,curtsy_lunge,rule,
+697,medicine-ball-reverse-lunge,Medicine Ball Reverse Lunge,reverse_lunge,rule,
+698,balance-trainer-lying-toe-tap,Balance Trainer Lying Toe Tap,dead_bug,approx,
+699,balance-trainer-reverse-hyperextension,Balance Trainer Reverse Hyperextension,back_extension,rule,f:reach | f:grip_off
+700,medicine-ball-hip-thrust,Medicine Ball Hip Thrust,hip_thrust,rule,
+701,stability-ball-hip-thrust,Stability Ball Hip Thrust,hip_thrust,rule,
+702,single-leg-stability-ball-hip-thrust,Single-Leg Stability Ball Hip Thrust,hip_thrust,rule,
+703,foam-roll-hip-thrust,Foam Roll Hip Thrust,foam_roll,rule,m:reach | f:reach
+704,single-leg-foam-roll-hip-thrust,Single-Leg Foam Roll Hip Thrust,foam_roll,rule,m:reach | f:reach
+705,single-leg-hip-thrust,Single-Leg Hip Thrust,hip_thrust,rule,
+706,band-hip-thrust,Band Hip Thrust,hip_thrust,rule,
+707,mini-band-hip-thrust,Mini Band Hip Thrust,hip_thrust,rule,
+708,mini-band-glute-bridge,Mini Band Glute Bridge,glute_bridge,rule,
+709,balance-trainer-balance-bar-hip-thruster,Balance Trainer Balance Bar Hip Thruster,hip_thrust,rule,
+710,balance-trainer-single-leg-hip-thruster,Balance Trainer Single-Leg Hip Thruster,hip_thrust,rule,
+711,hip-hinge,Hip Hinge,good_morning,rule,
+712,dowel-good-morning,Dowel Good Morning,good_morning,rule,
+713,dumbbell-good-morning,Dumbbell Good Morning,good_morning,rule,
+714,kettlebell-good-morning,Kettlebell Good Morning,good_morning,rule,
+715,band-romanian-deadlift,Band Romanian Deadlift,romanian_deadlift,rule,
+716,medicine-ball-romanian-deadlift,Medicine Ball Romanian Deadlift,romanian_deadlift,rule,
+717,medicine-ball-single-leg-romanian-deadlift,Medicine Ball Single-Leg Romanian Deadlift,single_leg_rdl,rule,
+718,landmine-romanian-deadlift,Landmine Romanian Deadlift,romanian_deadlift,rule,f:equip_floor | m:equip_floor
+719,landmine-single-leg-romanian-deadlift,Landmine Single-Leg Romanian Deadlift,single_leg_rdl,rule,m:equip_floor | f:equip_floor
+720,elevated-platform-barbell-romanian-deadlift,Elevated Platform Barbell Romanian Deadlift,romanian_deadlift,rule,
+721,smith-machine-stiff-leg-deadlift,Smith Machine Stiff-Leg Deadlift,romanian_deadlift,rule,
+722,single-arm-kettlebell-deadlift,Single-Arm Kettlebell Deadlift,deadlift,rule,
+723,deadlift-to-calf-raise,Deadlift to Calf Raise,calf_raise,rule,
+724,dumbbell-romanian-deadlift-to-calf-raise,Dumbbell Romanian Deadlift to Calf Raise,calf_raise,rule,
+725,dumbbell-romanian-deadlift-to-shrug,Dumbbell Romanian Deadlift to Shrug,romanian_deadlift,rule,
+726,dumbbell-romanian-deadlift-to-high-pull,Dumbbell Romanian Deadlift to High Pull,romanian_deadlift,approx,
+727,dumbbell-romanian-deadlift-to-bent-over-row,Dumbbell Romanian Deadlift to Bent Over Row,romanian_deadlift,rule,
+728,romanian-deadlift-to-bent-over-row,Romanian Deadlift to Bent-Over Row,romanian_deadlift,rule,
+729,romanian-deadlift-to-shrug,Romanian Deadlift to Shrug,romanian_deadlift,rule,
+730,romanian-deadlift-to-high-pull,Romanian Deadlift to High Pull,romanian_deadlift,approx,
+731,bodyweight-kneeling-banded-deadlift,Bodyweight Kneeling Banded Deadlift,deadlift,rule,
+732,alternating-single-arm-kettlebell-swing,Alternating Single-Arm Kettlebell Swing,kb_swing,rule,
+733,cable-row-with-squat,Cable Row with Squat,squat,rule,
+734,standing-band-hamstring-curl,Standing Band Hamstring Curl,standing_leg_curl,rule,
+735,suspension-bridge,Suspension Bridge,glute_bridge,rule,
+736,suspension-hamstring-runner,Suspension Hamstring Runner,glute_bridge,rule,
+737,airplane,Airplane,single_leg_rdl,approx,stand-in pose for a complex or travelling drill
+738,reverse-bear-crawl,Reverse Bear Crawl,bear_crawl,approx,stand-in pose for a complex or travelling drill
+739,single-leg-cycles,Single-Leg Cycles,flutter_kick,approx,stand-in pose for a complex or travelling drill
+740,walking-front-kick,Walking Front Kick,leg_swing,rule,
+741,foam-roll-hamstrings,Foam Roll Hamstrings,foam_roll,rule,m:reach | f:reach
+742,partner-hamstring-stretch,Partner Hamstring Stretch,seated_forward_bend,approx,partner drill shown solo
+743,kneeling-hamstring-stretch,Kneeling Hamstring Stretch,seated_forward_bend,rule,
+744,seated-forward-bend,Seated Forward Bend,seated_forward_bend,rule,
+745,crossover-standing-forward-bend,Crossover Standing Forward Bend,standing_forward_bend,rule,
+746,single-leg-straight-forward-bend,Single-Leg Straight Forward Bend,standing_forward_bend,rule,f:floor_pen | m:floor_pen
+747,standing-splits,Standing Splits,standing_forward_bend,rule,
+748,pancake,Pancake,seated_forward_bend,rule,
+749,lunge-to-hamstring-stretch,Lunge to Hamstring Stretch,forward_lunge,rule,
+750,lunge-to-lateral-reach,Lunge to Lateral Reach,forward_lunge,approx,stand-in pose for a complex or travelling drill
+751,mini-band-single-leg-romanian-deadlift-with-row,Mini Band Single-Leg Romanian Deadlift with Row,single_leg_rdl,rule,
+752,standing-hip-adduction,Standing Hip Adduction,hip_adduction_standing,rule,
+753,band-standing-hip-adduction,Band Standing Hip Adduction,hip_adduction_standing,rule,
+754,cable-hip-adduction,Cable Hip Adduction,hip_adduction_standing,rule,
+755,lateral-lunge-stretch,Lateral Lunge Stretch,lateral_lunge,rule,
+756,fan-stretch,Fan Stretch,seated_forward_bend,rule,
+757,foam-roll-hip-flexors,Foam Roll Hip Flexors,foam_roll,rule,
+758,foam-roll-hip-adductors,Foam Roll Hip Adductors,foam_roll,rule,
+759,foam-roll-hip-abductors,Foam Roll Hip Abductors,foam_roll,rule,m:reach | f:reach
+760,side-leg-raise,Side Leg Raise,side_leg_raise,rule,
+761,mini-band-side-lying-hip-abduction,Mini Band Side-Lying Hip Abduction,side_leg_raise,rule,
+762,mini-band-side-lying-clam,Mini Band Side-Lying Clam,clam,rule,
+763,band-standing-hip-abduction,Band Standing Hip Abduction,hip_abduction_standing,rule,
+764,mini-band-lateral-walk,Mini Band Lateral Walk,hip_abduction_standing,approx,stand-in pose for a complex or travelling drill
+765,fire-hydrant-circle,Fire Hydrant Circle,fire_hydrant,rule,
+766,dumbbell-fire-hydrant-circle,Dumbbell Fire Hydrant Circle,fire_hydrant,rule,
+767,mini-band-fire-hydrant-circle,Mini Band Fire Hydrant Circle,fire_hydrant,rule,
+768,prone-hip-circle,Prone Hip Circle,fire_hydrant,rule,
+769,hurdle-step-over,Hurdle Step Over,leg_swing,approx,stand-in pose for a complex or travelling drill
+770,standing-hip-flexor-stretch,Standing Hip Flexor Stretch,hip_flexor_stretch,rule,
+771,shin-box-hip-flexor,Shin Box Hip Flexor,hip_flexor_stretch,rule,
+772,seated-point-and-flex,Seated Point And Flex,standing_still,approx,stand-in pose for a complex or travelling drill
+773,single-leg-standing-calf-raise,Single-Leg Standing Calf Raise,calf_raise,rule,
+774,suspension-calf-raise,Suspension Calf Raise,calf_raise,rule,
+775,barbell-seated-calf-raise,Barbell Seated Calf Raise,seated_calf_raise,rule,
+776,smith-machine-reverse-calf-raise,Smith Machine Reverse Calf Raise,calf_raise,rule,
+777,dumbbell-calf-raise-to-shrug,Dumbbell Calf Raise to Shrug,calf_raise,rule,
+778,calf-raise-to-shrug,Calf Raise to Shrug,calf_raise,rule,
+779,dumbbell-calf-raise-to-high-pull,Dumbbell Calf Raise to High Pull,calf_raise,rule,
+780,dumbbell-toe-walk,Dumbbell Toe Walk,calf_raise,rule,
+781,deficit-calf-stretch,Deficit Calf Stretch,calf_stretch,rule,m:reach | f:reach
+782,prone-calf-stretch,Prone Calf Stretch,calf_stretch,rule,m:reach | f:reach
+783,stability-ball-back-extension,Stability Ball Back Extension,back_extension,rule,f:reach | m:reach
+784,weighted-ball-hyperextension,Weighted Ball Hyperextension,back_extension,rule,m:reach | f:reach | f:foot_slide_L | f:foot_slide_R
+785,seated-back-extension,Seated Back Extension,back_extension,rule,
+786,band-superman-press,Band Superman Press,superman,rule,
+787,superman-with-scaption,Superman with Scaption,superman,approx,stand-in pose for a complex or travelling drill
+788,medicine-ball-superman,Medicine Ball Superman,superman,rule,
+789,dumbbell-superman,Dumbbell Superman,superman,rule,
+790,alternating-superman,Alternating Superman,superman,rule,
+791,australian-crawl,Australian Crawl,superman,approx,stand-in pose for a complex or travelling drill
+792,reverse-leg-crossover,Reverse Leg Crossover,superman,approx,stand-in pose for a complex or travelling drill
+793,foam-roll-lower-back,Foam Roll Lower Back,foam_roll,rule,
+794,stiff-leg-barbell-good-morning,Stiff-Leg Barbell Good Morning,romanian_deadlift,rule,
+795,bridge-side-to-side,Bridge Side to Side,glute_bridge,approx,stand-in pose for a complex or travelling drill
+796,bridge-walk,Bridge Walk,glute_bridge,approx,stand-in pose for a complex or travelling drill
+797,reverse-lunge,Reverse Lunge,reverse_lunge,rule,
+798,dumbbell-walking-lunge,Dumbbell Walking Lunge,forward_lunge,rule,
+799,pause-barbell-lunge,Pause Barbell Lunge,forward_lunge,rule,
+800,medicine-ball-lunge,Medicine Ball Lunge,forward_lunge,rule,
+801,medicine-ball-overhead-lunge,Medicine Ball Overhead Lunge,forward_lunge,rule,
+802,medicine-ball-side-lunge,Medicine Ball Side Lunge,lateral_lunge,rule,
+803,overhead-dumbbell-lunge,Overhead Dumbbell Lunge,forward_lunge,rule,
+804,single-arm-overhead-dumbbell-lunge,Single-Arm Overhead Dumbbell Lunge,forward_lunge,rule,
+805,kettlebell-single-arm-overhead-lunge,Kettlebell Single-Arm Overhead Lunge,forward_lunge,rule,
+806,overhead-barbell-lunge,Overhead Barbell Lunge,forward_lunge,rule,
+807,kettlebell-racked-reverse-lunge,Kettlebell Racked Reverse Lunge,reverse_lunge,rule,
+808,kettlebell-lunge-with-rotation,Kettlebell Lunge with Rotation,forward_lunge,approx,stand-in pose for a complex or travelling drill
+809,lunge-twist,Lunge Twist,forward_lunge,rule,
+810,lunge-with-ankle-grab,Lunge with Ankle Grab,forward_lunge,approx,stand-in pose for a complex or travelling drill
+811,mini-band-lunge,Mini Band Lunge,forward_lunge,rule,
+812,mini-band-lunge-kickback,Mini Band Lunge Kickback,forward_lunge,rule,
+813,banded-curtsy-lunge,Banded Curtsy Lunge,curtsy_lunge,rule,
+814,dumbbell-curtsy-lunge,Dumbbell Curtsy Lunge,curtsy_lunge,rule,
+815,barbell-curtsy-lunge,Barbell Curtsy Lunge,curtsy_lunge,rule,
+816,pulse-lunge,Pulse Lunge,split_squat,rule,
+817,band-pulse-lunge,Band Pulse Lunge,split_squat,rule,
+818,suspension-lunge,Suspension Lunge,forward_lunge,rule,
+819,suspension-pulse-lunge,Suspension Pulse Lunge,split_squat,rule,
+820,suspension-balance-lunge,Suspension Balance Lunge,forward_lunge,rule,
+821,suspension-crossing-balance-lunge,Suspension Crossing Balance Lunge,forward_lunge,approx,stand-in pose for a complex or travelling drill
+822,suspension-curtsy-lunge,Suspension Curtsy Lunge,curtsy_lunge,rule,
+823,suspension-lateral-lunge,Suspension Lateral Lunge,lateral_lunge,rule,
+824,suspension-forward-lunge-with-chest-stretch,Suspension Forward Lunge with Chest Stretch,forward_lunge,rule,
+825,suspension-reverse-lunge-to-knee-drive,Suspension Reverse Lunge to Knee Drive,reverse_lunge,rule,
+826,suspension-reverse-lunge-to-jump,Suspension Reverse Lunge to Jump,reverse_lunge,rule,
+827,kneel-to-stand,Kneel to Stand,split_squat,rule,
+828,dumbbell-kneel-to-stand,Dumbbell Kneel to Stand,split_squat,rule,
+829,dumbbell-overhead-kneel-to-stand,Dumbbell Overhead Kneel to Stand,split_squat,rule,
+830,lateral-step-up,Lateral Step Up,step_up,rule,
+831,lateral-step-up-with-knee-drive,Lateral Step Up with Knee Drive,step_up,rule,
+832,box-step-down,Box Step Down,step_up,approx,stand-in pose for a complex or travelling drill
+833,step-up-to-deficit-reverse-lunge,Step Up to Deficit Reverse Lunge,reverse_lunge,rule,
+834,bodyweight-step-up-to-deficit-reverse-lunge,Bodyweight Step Up to Deficit Reverse Lunge,reverse_lunge,rule,
+835,clean,Clean,power_clean,rule,
+836,hang-clean,Hang Clean,power_clean,rule,
+837,clean-from-blocks,Clean from Blocks,power_clean,rule,
+838,power-clean-from-blocks,Power Clean from Blocks,power_clean,rule,
+839,power-clean-to-front-squat,Power Clean to Front Squat,power_clean,rule,
+840,clean-pull,Clean Pull,power_clean,rule,
+841,clean-high-pull,Clean High Pull,power_clean,rule,
+842,clean-pull-to-hang-clean,Clean Pull to Hang Clean,power_clean,rule,
+843,clean-deadlift,Clean Deadlift,deadlift,rule,
+844,split-clean,Split Clean,power_clean,rule,
+845,cluster,Cluster,thruster,approx,m:reach | m:grip_off | f:reach | f:grip_off
+846,front-squat-to-jerk,Front Squat to Jerk,power_clean,rule,m:reach | m:grip_off | f:reach | f:grip_off
+847,push-jerk,Push Jerk,power_clean,rule,m:reach | m:grip_off | f:reach | f:grip_off
+848,split-jerk,Split Jerk,power_clean,rule,m:reach | m:grip_off | f:reach | f:grip_off
+849,dowel-jerk-press,Dowel Jerk Press,power_clean,rule,m:reach | m:grip_off | f:reach | f:grip_off
+850,dowel-clean-and-jerk,Dowel Clean and Jerk,power_clean,rule,m:reach | m:grip_off | f:reach | f:grip_off
+851,dowel-hang-clean,Dowel Hang Clean,power_clean,rule,
+852,dowel-snatch,Dowel Snatch,power_clean,rule,
+853,power-snatch,Power Snatch,power_clean,rule,
+854,hang-power-snatch,Hang Power Snatch,power_clean,rule,
+855,hang-snatch,Hang Snatch,power_clean,rule,
+856,snatch-from-blocks,Snatch from Blocks,power_clean,rule,
+857,power-snatch-from-blocks,Power Snatch from Blocks,power_clean,rule,
+858,power-snatch-to-overhead-squat,Power Snatch to Overhead Squat,power_clean,rule,
+859,snatch-balance,Snatch Balance,power_clean,rule,
+860,snatch-pull,Snatch Pull,power_clean,rule,
+861,snatch-high-pull,Snatch High Pull,power_clean,rule,
+862,snatch-pull-to-low-hang-snatch,Snatch Pull to Low Hang Snatch,power_clean,rule,
+863,split-snatch,Split Snatch,power_clean,rule,
+864,muscle-snatch,Muscle Snatch,power_clean,rule,
+865,muscle-clean,Muscle Clean,power_clean,rule,
+866,smith-machine-hang-power-clean,Smith Machine Hang Power Clean,power_clean,rule,
+867,dumbbell-clean,Dumbbell Clean,kb_clean,rule,f:reach | f:grip_off
+868,dumbbell-hang-power-clean,Dumbbell Hang Power Clean,kb_clean,rule,f:reach | f:grip_off
+869,single-dumbbell-power-clean,Single Dumbbell Power Clean,kb_clean,rule,f:reach | f:grip_off
+870,single-dumbbell-power-clean-and-jerk,Single Dumbbell Power Clean and Jerk,kb_clean,rule,f:reach | f:grip_off
+871,double-dumbbell-power-snatch,Double Dumbbell Power Snatch,kb_clean,rule,f:reach | f:grip_off
+872,double-dumbbell-hang-snatch,Double Dumbbell Hang Snatch,kb_clean,rule,f:reach | f:grip_off
+873,dumbbell-hang-snatch,Dumbbell Hang Snatch,kb_clean,rule,f:reach | f:grip_off
+874,kettlebell-clean-and-jerk,Kettlebell Clean and Jerk,kb_clean,rule,f:reach | f:grip_off
+875,kettlebell-jerk,Kettlebell Jerk,kb_clean,rule,f:reach | f:grip_off
+876,behind-the-neck-push-press,Behind the Neck Push Press,power_clean,rule,m:reach | m:grip_off | f:reach | f:grip_off
+877,single-arm-bottoms-up-kettlebell-clean,Single-Arm Bottoms-up Kettlebell Clean,kb_clean,rule,f:reach | f:grip_off
+878,sumo-deadlift-high-pull,Sumo Deadlift High Pull,power_clean,rule,
+879,tire-flip,Tire Flip,tire_flip,rule,m:reach | m:grip_off | m:equip_floor | f:reach | f:grip_off | f:equip_floor
+880,power-skip,Power Skip,broad_jump,approx,stand-in pose for a complex or travelling drill
+881,a-skip,A-Skip,high_knees,approx,stand-in pose for a complex or travelling drill
+882,b-skip,B-Skip,high_knees,approx,stand-in pose for a complex or travelling drill
+883,carioca,Carioca,high_knees,approx,stand-in pose for a complex or travelling drill
+884,high-knee-carioca,High Knee Carioca,high_knees,approx,stand-in pose for a complex or travelling drill
+885,single-leg-butt-kick,Single-Leg Butt Kick,high_knees,approx,stand-in pose for a complex or travelling drill
+886,runners-butt-kick,Runners Butt Kick,high_knees,approx,stand-in pose for a complex or travelling drill
+887,bounds,Bounds,broad_jump,approx,stand-in pose for a complex or travelling drill
+888,forward-line-hop,Forward Line Hop,lateral_hop,rule,
+889,forward-1-foot-line-hop,Forward 1-Foot Line Hop,lateral_hop,rule,
+890,lateral-line-hop,Lateral Line Hop,lateral_hop,rule,
+891,lateral-1-foot-line-hop,Lateral 1-Foot Line Hop,lateral_hop,rule,
+892,lateral-cone-hop,Lateral Cone Hop,lateral_hop,approx,stand-in pose for a complex or travelling drill
+893,lateral-box-jump,Lateral Box Jump,box_jump,rule,
+894,1-step-box-jump,1-Step Box Jump,box_jump,rule,
+895,reverse-box-jump,Reverse Box Jump,box_jump,rule,
+896,high-depth-jump,High Depth Jump,box_jump,rule,
+897,2-box-depth-jump,2-Box Depth Jump,box_jump,rule,
+898,broad-depth-jump,Broad Depth Jump,box_jump,rule,
+899,lateral-box-shuffle,Lateral Box Shuffle,lateral_hop,approx,stand-in pose for a complex or travelling drill
+900,box-shuffle,Box Shuffle,lateral_hop,approx,stand-in pose for a complex or travelling drill
+901,bulgarian-split-jump,Bulgarian Split Jump,bulgarian_split_squat,rule,
+902,dumbbell-bulgarian-split-jump,Dumbbell Bulgarian Split Jump,bulgarian_split_squat,rule,
+903,barbell-bulgarian-split-jump,Barbell Bulgarian Split Jump,bulgarian_split_squat,rule,
+904,burpee-high-jump,Burpee High Jump,burpee,rule,f:floor_pen | m:floor_pen
+905,burpee-broad-jump,Burpee Broad Jump,burpee,rule,f:floor_pen | m:floor_pen
+906,suspension-jump-squat,Suspension Jump Squat,jump_squat,rule,m:foot_slide_L | m:foot_slide_R | f:foot_slide_L | f:foot_slide_R
+907,mini-band-jump-squat,Mini Band Jump Squat,jump_squat,rule,m:foot_slide_L | m:foot_slide_R | f:foot_slide_L | f:foot_slide_R
+908,suspension-ice-skater,Suspension Ice Skater,skater_jump,rule,
+909,suspension-sprinter-start,Suspension Sprinter Start,treadmill_run,approx,stand-in pose for a complex or travelling drill
+910,cable-knee-drive,Cable Knee Drive,standing_knee_raise,rule,
+911,banded-leg-drive,Banded Leg Drive,standing_knee_raise,approx,stand-in pose for a complex or travelling drill
+912,wall-knee-drive,Wall Knee Drive,standing_knee_raise,approx,stand-in pose for a complex or travelling drill
+913,wall-triple-knee-drive,Wall Triple Knee Drive,standing_knee_raise,approx,stand-in pose for a complex or travelling drill
+914,duck-walk,Duck Walk,bodyweight_squat,approx,stand-in pose for a complex or travelling drill
+915,sled-pull,Sled Pull,sled_push,rule,
+916,mini-band-alternating-leg-raise,Mini Band Alternating Leg Raise,leg_raise,rule,
+917,mini-band-standing-hip-flexion,Mini Band Standing Hip Flexion,standing_knee_raise,rule,
+918,mini-band-hip-flexor,Mini Band Hip Flexor,standing_knee_raise,approx,
+919,suspension-mountain-climber,Suspension Mountain Climber,mountain_climber,rule,
+920,balance-trainer-mountain-climber,Balance Trainer Mountain Climber,mountain_climber,rule,
+921,hip-flow,Hip Flow,standing_still,approx,stand-in pose for a complex or travelling drill
+922,butt-scoot,Butt Scoot,butt_scoot,approx,stand-in pose for a complex or travelling drill
+923,shin-box-quad-stretch,Shin Box Quad Stretch,hip_flexor_stretch,rule,
+924,dumbbell-front-press,Dumbbell Front Press,db_shoulder_press,rule,
+925,single-arm-dumbbell-front-press,Single-Arm Dumbbell Front Press,db_shoulder_press,rule,
+926,single-arm-dumbbell-shoulder-press,Single-Arm Dumbbell Shoulder Press,db_shoulder_press,rule,
+927,cable-shoulder-press,Cable Shoulder Press,db_shoulder_press,rule,
+928,single-arm-bottoms-up-kettlebell-press,Single-Arm Bottoms-up Kettlebell Press,db_shoulder_press,rule,
+929,landmine-press-and-catch,Landmine Press and Catch,landmine_press,rule,m:equip_floor | f:equip_floor
+930,band-upright-row,Band Upright Row,upright_row,rule,
+931,smith-machine-one-arm-upright-row,Smith Machine One-Arm Upright Row,upright_row,rule,
+932,cable-upright-row,Cable Upright Row,upright_row,rule,
+933,barbell-front-raise,Barbell Front Raise,front_raise,rule,
+934,dumbbell-underhand-front-raise,Dumbbell Underhand Front Raise,front_raise,rule,
+935,band-front-raise,Band Front Raise,front_raise,rule,
+936,band-underhand-front-raise,Band Underhand Front Raise,front_raise,rule,
+937,mini-band-lateral-raise,Mini Band Lateral Raise,lateral_raise,rule,
+938,dumbbell-lateral-raise-to-front-raise,Dumbbell Lateral Raise To Front Raise,lateral_raise,rule,
+939,behind-the-back-cable-lateral-raise,Behind the Back Cable Lateral Raise,lateral_raise,rule,
+940,underhand-rear-delt-raise,Underhand Rear Delt Raise,rear_delt_raise,rule,
+941,elbows-out-bent-over-dumbbell-row,Elbows Out Bent Over Dumbbell Row,db_row,rule,
+942,cable-shoulder-external-rotation,Cable Shoulder External Rotation,external_rotation,rule,
+943,cable-shoulder-external-rotation-at-90,Cable Shoulder External Rotation at 90°,external_rotation,rule,
+944,cable-shoulder-internal-rotation,Cable Shoulder Internal Rotation,external_rotation,rule,
+945,cable-shoulder-internal-rotation-at-90,Cable Shoulder Internal Rotation at 90°,external_rotation,rule,
+946,band-shoulder-external-rotation-at-90,Band Shoulder External Rotation at 90°,external_rotation,rule,
+947,band-shoulder-internal-rotation,Band Shoulder Internal Rotation,external_rotation,rule,
+948,band-shoulder-internal-rotation-at-90,Band Shoulder Internal Rotation at 90°,external_rotation,rule,
+949,dowel-shoulder-external-rotation,Dowel Shoulder External Rotation,external_rotation,rule,
+950,dumbbell-cuban-shoulder-rotation,Dumbbell Cuban Shoulder Rotation,external_rotation,approx,stand-in pose for a complex or travelling drill
+951,mini-band-scapular-retraction,Mini Band Scapular Retraction,rear_delt_raise,approx,stand-in pose for a complex or travelling drill
+952,shoulder-squeeze,Shoulder Squeeze,rear_delt_raise,approx,stand-in pose for a complex or travelling drill
+953,mini-band-overhead-fly,Mini Band Overhead Fly,lateral_raise,approx,
+954,band-single-arm-archer-pull,Band Single-Arm Archer Pull,face_pull,approx,stand-in pose for a complex or travelling drill
+955,dumbbell-punches,Dumbbell Punches,chest_press_standing,rule,
+956,battle-ropes-lateral-whip,Battle Ropes Lateral Whip,battle_ropes,rule,f:reach
+957,battle-ropes-outside-slam,Battle Ropes Outside Slam,battle_ropes,rule,f:reach
+958,battle-ropes-outside-spiral,Battle Ropes Outside Spiral,battle_ropes,rule,f:reach
+959,suspension-t-deltoid-fly,Suspension T Deltoid Fly,rear_delt_raise,rule,
+960,suspension-w-deltoid-fly,Suspension W Deltoid Fly,rear_delt_raise,rule,
+961,suspension-y-deltoid-fly,Suspension Y Deltoid Fly,rear_delt_raise,rule,
+962,handstand-hold,Handstand Hold,push_up,approx,stand-in pose for a complex or travelling drill
+963,handstand-walk,Handstand Walk,push_up,approx,stand-in pose for a complex or travelling drill
+964,kipping-handstand-push-up,Kipping Handstand Push-up,push_up,approx,stand-in pose for a complex or travelling drill
+965,partner-handstand,Partner Handstand,push_up,approx,stand-in pose for a complex or travelling drill; partner drill shown solo
+966,partner-wheelbarrow-walk,Partner Wheelbarrow Walk,push_up,approx,partner drill shown solo
+967,reach-behind-and-open,Reach Behind and Open,arm_stretch,approx,m:reach | stand-in pose for a complex or travelling drill
+968,dowel-shoulder-flexion,Dowel Shoulder Flexion,arm_stretch,rule,m:reach
+969,front-rack-stretch,Front Rack Stretch,arm_stretch,rule,m:reach
+970,overhead-dowel-shoulder-stretch,Overhead Dowel Shoulder Stretch,arm_stretch,rule,
+971,band-overhead-shoulder-stretch,Band Overhead Shoulder Stretch,arm_stretch,rule,
+972,wall-shoulder-stretch,Wall Shoulder Stretch,arm_stretch,rule,
+973,bent-over-shoulder-stretch,Bent Over Shoulder Stretch,arm_stretch,rule,m:reach
+974,barbell-behind-the-back-shrug,Barbell Behind The Back Shrug,shrug,rule,
+975,smith-machine-behind-the-back-shrug,Smith Machine Behind the Back Shrug,shrug,rule,
+976,smith-machine-shrug,Smith Machine Shrug,shrug,rule,
+977,machine-shrug,Machine Shrug,shrug,rule,
+978,split-squat,Split Squat,split_squat,rule,
+979,bodyweight-bulgarian-split-squat,Bodyweight Bulgarian Split Squat,bulgarian_split_squat,rule,
+980,band-bulgarian-split-squat,Band Bulgarian Split Squat,bulgarian_split_squat,rule,
+981,suspension-split-squat,Suspension Split Squat,split_squat,rule,
+982,suspension-squat,Suspension Squat,squat,rule,
+983,suspension-squat-and-row,Suspension Squat and Row,squat,rule,
+984,suspension-figure-four-squat,Suspension Figure Four Squat,squat,approx,stand-in pose for a complex or travelling drill
+985,suspension-cossack-squat,Suspension Cossack Squat,cossack_squat,rule,
+986,medicine-ball-squat,Medicine Ball Squat,squat,rule,
+987,squat-with-rotation,Squat with Rotation,bodyweight_squat,approx,stand-in pose for a complex or travelling drill
+988,squat-side-kick,Squat Side Kick,bodyweight_squat,approx,stand-in pose for a complex or travelling drill
+989,machine-squat,Machine Squat,squat,rule,
+990,dumbbell-squat,Dumbbell Squat,squat,rule,
+991,landmine-squat,Landmine Squat,back_squat,rule,m:equip_floor | f:equip_floor
+992,landmine-squat-to-press,Landmine Squat to Press,thruster,rule,m:equip_floor | f:equip_floor
+993,landmine-sumo-squat,Landmine Sumo Squat,sumo_squat,rule,m:equip_floor | f:equip_floor
+994,sumo-squat,Sumo Squat,sumo_squat,rule,
+995,mini-band-squat,Mini Band Squat,squat,rule,
+996,dowel-overhead-squat,Dowel Overhead Squat,overhead_squat,rule,
+997,single-arm-overhead-kettlebell-squat,Single-Arm Overhead Kettlebell Squat,overhead_squat,approx,
+998,band-squat-to-press,Band Squat to Press,thruster,rule,
+999,barbell-back-squat-with-deep-partial-squat,Barbell Back Squat with Deep Partial Squat,back_squat,rule,
+1000,pulse-back-squat,Pulse Back Squat,back_squat,rule,
+1001,kettlebell-front-squat,Kettlebell Front Squat,front_squat,rule,
+1002,pause-front-squat,Pause Front Squat,front_squat,rule,
+1003,box-front-squat,Box Front Squat,front_squat,rule,
+1004,smith-machine-pistol-squat,Smith Machine Pistol Squat,pistol_squat,approx,
+1005,kettlebell-pistol-squat,Kettlebell Pistol Squat,pistol_squat,approx,
+1006,weighted-wall-sit,Weighted Wall Sit,wall_sit,rule,
+1007,band-leg-press,Band Leg Press,leg_press,rule,
+1008,band-leg-extension,Band Leg Extension,leg_extension,rule,
+1009,band-deadlift,Band Deadlift,deadlift,rule,
+1010,band-sumo-deadlift,Band Sumo Deadlift,deadlift,rule,
+1011,kettlebell-suitcase-deadlift,Kettlebell Suitcase Deadlift,deadlift,rule,
+1012,single-kettlebell-suitcase-deadlift,Single Kettlebell Suitcase Deadlift,deadlift,rule,
+1013,dowel-romanian-deadlift,Dowel Romanian Deadlift,romanian_deadlift,rule,
