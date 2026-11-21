@@ -1,0 +1,38 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 1.8619006149354548e-13,
+   "gap_min": -0.020913906717018316,
+   "gap_max": 1.7830437861991506
+  },
+  "R": {
+   "slide": 1.8619006149354548e-13,
+   "gap_min": -0.020913906717018316,
+   "gap_max": 1.7830437861991506
+  }
+ },
+ "support_mm": 0.0,
+ "floor_mm": 8.0,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.95,
+ "thumb": "end@1.00",
+ "pose_hash": "8712cb072d774d20",
+ "view": [
+  15.0,
+  8.0
+ ],
+ "key": "mini-band-jump-squat",
+ "name_en": "Mini Band Jump Squat",
+ "template": "jump_squat",
+ "gender": "m",
+ "seconds": 103.3,
+ "pose_seconds": 2.8,
+ "quality": 72,
+ "bytes": 250349,
+ "frames": 48,
+ "unique": 25
+}

@@ -1,0 +1,38 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 0.0,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  },
+  "R": {
+   "slide": 0.0,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  }
+ },
+ "support_mm": 0.3,
+ "floor_mm": 8.0,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.89,
+ "thumb": "start@0.00",
+ "pose_hash": "aaceaffbcc2319a0",
+ "view": [
+  90.0,
+  8.0
+ ],
+ "key": "dumbbell-front-press",
+ "name_en": "Dumbbell Front Press",
+ "template": "db_shoulder_press",
+ "gender": "f",
+ "seconds": 130.9,
+ "pose_seconds": 1.7,
+ "quality": 72,
+ "bytes": 203099,
+ "frames": 48,
+ "unique": 25
+}

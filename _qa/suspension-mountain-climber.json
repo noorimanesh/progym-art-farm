@@ -1,0 +1,30 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": 0.0,
+ "floor_mm": -2.5,
+ "pops": [],
+ "twists": [
+  "foot.L@0.57:88deg",
+  "foot.R@0.57:79deg"
+ ],
+ "ranges": [],
+ "athlete_frac": 0.92,
+ "thumb": "end@1.00",
+ "pose_hash": "95f6bb52f3725890",
+ "view": [
+  70,
+  12
+ ],
+ "key": "suspension-mountain-climber",
+ "name_en": "Suspension Mountain Climber",
+ "template": "mountain_climber",
+ "gender": "m",
+ "seconds": 232.2,
+ "pose_seconds": 2.2,
+ "quality": 63,
+ "bytes": 411752,
+ "frames": 48,
+ "unique": 25
+}

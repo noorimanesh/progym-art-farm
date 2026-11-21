@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": -0.5,
+ "floor_mm": -2.5,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.92,
+ "thumb": "end@1.00",
+ "pose_hash": "3e48cd72a6db0ebd",
+ "view": [
+  80.0,
+  14.0
+ ],
+ "key": "mini-band-hip-flexor",
+ "name_en": "Mini Band Hip Flexor",
+ "template": "x54",
+ "gender": "m",
+ "seconds": 220.8,
+ "pose_seconds": 0.9,
+ "quality": 72,
+ "bytes": 368726,
+ "frames": 48,
+ "unique": 25
+}

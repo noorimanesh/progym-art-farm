@@ -1,0 +1,38 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 7.850462293418876e-14,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  },
+  "R": {
+   "slide": 7.850462293418876e-14,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  }
+ },
+ "support_mm": 0.0,
+ "floor_mm": 8.0,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.92,
+ "thumb": "start@0.00",
+ "pose_hash": "1ca83bb2a81cc7b3",
+ "view": [
+  20,
+  8
+ ],
+ "key": "single-arm-bottoms-up-kettlebell-press",
+ "name_en": "Single-Arm Bottoms-up Kettlebell Press",
+ "template": "db_shoulder_press",
+ "gender": "m",
+ "seconds": 101.1,
+ "pose_seconds": 2.4,
+ "quality": 72,
+ "bytes": 179412,
+ "frames": 48,
+ "unique": 25
+}

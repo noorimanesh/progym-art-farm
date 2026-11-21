@@ -1,0 +1,33 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "R": {
+   "slide": 6.397344083151129e-14,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  }
+ },
+ "support_mm": 0.0,
+ "floor_mm": 4.0,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.94,
+ "thumb": "end@1.00",
+ "pose_hash": "dff16b7b310c37fb",
+ "view": [
+  60,
+  8
+ ],
+ "key": "mini-band-standing-hip-flexion",
+ "name_en": "Mini Band Standing Hip Flexion",
+ "template": "standing_knee_raise",
+ "gender": "f",
+ "seconds": 109.5,
+ "pose_seconds": 6.1,
+ "quality": 72,
+ "bytes": 268517,
+ "frames": 48,
+ "unique": 25
+}

@@ -1,0 +1,32 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": 0.0,
+ "floor_mm": 4.0,
+ "pops": [
+  "lowerleg01.L@0.50:461mm",
+  "lowerleg01.R@0.50:453mm",
+  "foot.L@0.50:704mm",
+  "foot.R@0.50:660mm"
+ ],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.93,
+ "thumb": "end@1.00",
+ "pose_hash": "fd07225b7507d0ca",
+ "view": [
+  6,
+  6
+ ],
+ "key": "suspension-ice-skater",
+ "name_en": "Suspension Ice Skater",
+ "template": "skater_jump",
+ "gender": "f",
+ "seconds": 180.1,
+ "pose_seconds": 5.4,
+ "quality": 72,
+ "bytes": 395434,
+ "frames": 48,
+ "unique": 25
+}

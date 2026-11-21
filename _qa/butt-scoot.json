@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": -0.0,
+ "floor_mm": -2.0,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.95,
+ "thumb": "end@1.00",
+ "pose_hash": "82f8075d9846f14c",
+ "view": [
+  60,
+  10
+ ],
+ "key": "butt-scoot",
+ "name_en": "Butt Scoot",
+ "template": "butt_scoot",
+ "gender": "m",
+ "seconds": 219.0,
+ "pose_seconds": 2.4,
+ "quality": 66,
+ "bytes": 379394,
+ "frames": 48,
+ "unique": 25
+}

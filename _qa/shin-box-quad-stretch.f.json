@@ -1,0 +1,29 @@
+{
+ "issues": [
+  "grip:palmL:143mm"
+ ],
+ "grip_mm": 142.8,
+ "feet": {},
+ "support_mm": 0.3,
+ "floor_mm": -2.0,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.95,
+ "thumb": "end@1.00",
+ "pose_hash": "dac63a5d84ebcdeb",
+ "view": [
+  20.0,
+  18.0
+ ],
+ "key": "shin-box-quad-stretch",
+ "name_en": "Shin Box Quad Stretch",
+ "template": "x54",
+ "gender": "f",
+ "seconds": 208.5,
+ "pose_seconds": 2.3,
+ "quality": 72,
+ "bytes": 317114,
+ "frames": 48,
+ "unique": 25
+}

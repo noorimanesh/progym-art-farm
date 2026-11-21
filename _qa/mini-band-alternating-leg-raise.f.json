@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": 0.5,
+ "floor_mm": -1.8,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.92,
+ "thumb": "end@1.00",
+ "pose_hash": "7b1777a815578657",
+ "view": [
+  90,
+  16
+ ],
+ "key": "mini-band-alternating-leg-raise",
+ "name_en": "Mini Band Alternating Leg Raise",
+ "template": "leg_raise",
+ "gender": "f",
+ "seconds": 233.8,
+ "pose_seconds": 1.0,
+ "quality": 63,
+ "bytes": 381933,
+ "frames": 48,
+ "unique": 25
+}
