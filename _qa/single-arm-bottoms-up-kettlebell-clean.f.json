@@ -1,0 +1,43 @@
+{
+ "issues": [
+  "grip:gripR:9mm"
+ ],
+ "grip_mm": 8.9,
+ "feet": {
+  "L": {
+   "slide": 9.71445146547012e-14,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  },
+  "R": {
+   "slide": 9.71445146547012e-14,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  }
+ },
+ "support_mm": 0.0,
+ "floor_mm": 8.0,
+ "pops": [],
+ "twists": [
+  "wrist.R@0.50:92deg",
+  "wrist.R@0.57:138deg"
+ ],
+ "ranges": [],
+ "athlete_frac": 0.94,
+ "thumb": "end@1.00",
+ "pose_hash": "9951a520519fa642",
+ "view": [
+  15.0,
+  8.0
+ ],
+ "key": "single-arm-bottoms-up-kettlebell-clean",
+ "name_en": "Single-Arm Bottoms-up Kettlebell Clean",
+ "template": "kb_clean",
+ "gender": "f",
+ "seconds": 81.7,
+ "pose_seconds": 1.8,
+ "quality": 72,
+ "bytes": 265283,
+ "frames": 48,
+ "unique": 25
+}

@@ -1,0 +1,45 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 1.0103182026100663e-13,
+   "gap_min": -0.44102898612618463,
+   "gap_max": 1.0000003799796102
+  },
+  "R": {
+   "slide": 1.0103182026100663e-13,
+   "gap_min": -0.44102898612618463,
+   "gap_max": 1.0000003799796102
+  }
+ },
+ "support_mm": 0.0,
+ "floor_mm": 6.6,
+ "pops": [
+  "upperarm01.L@0.63:80mm",
+  "upperarm01.R@0.63:80mm",
+  "head@0.75:108mm",
+  "upperarm01.L@0.75:109mm",
+  "upperarm01.R@0.75:109mm",
+  "root@0.75:101mm"
+ ],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.71,
+ "thumb": "0.74@0.75",
+ "pose_hash": "d099117485edd8cd",
+ "view": [
+  62,
+  8
+ ],
+ "key": "power-snatch-to-overhead-squat",
+ "name_en": "Power Snatch to Overhead Squat",
+ "template": "olympic",
+ "gender": "f",
+ "seconds": 101.8,
+ "pose_seconds": 2.0,
+ "quality": 72,
+ "bytes": 292964,
+ "frames": 48,
+ "unique": 25
+}

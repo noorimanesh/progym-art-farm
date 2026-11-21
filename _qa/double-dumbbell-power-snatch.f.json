@@ -1,0 +1,38 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 1.5515838457795457e-13,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  },
+  "R": {
+   "slide": 1.5515838457795457e-13,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  }
+ },
+ "support_mm": 0.0,
+ "floor_mm": 8.0,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.92,
+ "thumb": "end@1.00",
+ "pose_hash": "e10f7c59f15aaa51",
+ "view": [
+  15.0,
+  8.0
+ ],
+ "key": "double-dumbbell-power-snatch",
+ "name_en": "Double Dumbbell Power Snatch",
+ "template": "kb_clean",
+ "gender": "f",
+ "seconds": 84.6,
+ "pose_seconds": 1.8,
+ "quality": 72,
+ "bytes": 275290,
+ "frames": 48,
+ "unique": 25
+}

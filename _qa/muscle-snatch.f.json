@@ -1,0 +1,38 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 1.0007415106216802e-13,
+   "gap_min": -0.44102898612618463,
+   "gap_max": 1.0000003799796102
+  },
+  "R": {
+   "slide": 1.0007415106216802e-13,
+   "gap_min": -0.44102898612618463,
+   "gap_max": 1.0000003799796102
+  }
+ },
+ "support_mm": 0.0,
+ "floor_mm": 6.6,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.71,
+ "thumb": "0.74@0.75",
+ "pose_hash": "98b2fc67ac7923c3",
+ "view": [
+  62,
+  8
+ ],
+ "key": "muscle-snatch",
+ "name_en": "Muscle Snatch",
+ "template": "olympic",
+ "gender": "f",
+ "seconds": 102.4,
+ "pose_seconds": 1.9,
+ "quality": 72,
+ "bytes": 265546,
+ "frames": 48,
+ "unique": 25
+}

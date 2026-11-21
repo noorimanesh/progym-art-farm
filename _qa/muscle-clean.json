@@ -1,0 +1,51 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 1.0838898772828418e-13,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.6537124589085577
+  },
+  "R": {
+   "slide": 1.0838898772828418e-13,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.6537124589085577
+  }
+ },
+ "support_mm": 0.0,
+ "floor_mm": 8.0,
+ "pops": [
+  "upperarm01.R@0.50:58mm",
+  "lowerleg01.L@0.63:27mm",
+  "lowerleg01.R@0.63:27mm",
+  "upperarm01.L@0.63:48mm",
+  "upperarm01.R@0.63:48mm"
+ ],
+ "twists": [
+  "wrist.L@0.63:93deg",
+  "wrist.L@0.69:151deg",
+  "wrist.R@0.63:93deg",
+  "wrist.R@0.69:151deg",
+  "lowerarm01.L@0.50:76deg",
+  "lowerarm01.R@0.50:77deg"
+ ],
+ "ranges": [],
+ "athlete_frac": 0.81,
+ "thumb": "0.74@0.75",
+ "pose_hash": "790b54db009b66ce",
+ "view": [
+  62,
+  8
+ ],
+ "key": "muscle-clean",
+ "name_en": "Muscle Clean",
+ "template": "olympic",
+ "gender": "m",
+ "seconds": 112.2,
+ "pose_seconds": 1.9,
+ "quality": 72,
+ "bytes": 303959,
+ "frames": 48,
+ "unique": 25
+}

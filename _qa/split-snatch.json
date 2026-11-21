@@ -1,0 +1,36 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": 0.0,
+ "floor_mm": 6.6,
+ "pops": [
+  "lowerleg01.L@0.63:127mm",
+  "lowerleg01.R@0.63:99mm",
+  "foot.L@0.63:174mm",
+  "foot.R@0.63:214mm",
+  "head@0.63:100mm",
+  "upperarm01.L@0.63:108mm",
+  "upperarm01.R@0.63:109mm",
+  "root@0.63:67mm"
+ ],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.75,
+ "thumb": "0.74@0.75",
+ "pose_hash": "298804d2c962caa9",
+ "view": [
+  62,
+  8
+ ],
+ "key": "split-snatch",
+ "name_en": "Split Snatch",
+ "template": "olympic",
+ "gender": "m",
+ "seconds": 97.4,
+ "pose_seconds": 1.9,
+ "quality": 72,
+ "bytes": 271894,
+ "frames": 48,
+ "unique": 25
+}

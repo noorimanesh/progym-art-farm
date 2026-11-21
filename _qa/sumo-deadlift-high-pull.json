@@ -1,0 +1,38 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 1.3877787807814457e-13,
+   "gap_min": 0.9722879454493522,
+   "gap_max": 1.76923743635416
+  },
+  "R": {
+   "slide": 1.3877787807814457e-13,
+   "gap_min": 0.9722879454493522,
+   "gap_max": 1.76923743635416
+  }
+ },
+ "support_mm": 0.0,
+ "floor_mm": 8.0,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.9,
+ "thumb": "0.74@0.75",
+ "pose_hash": "4e13c88fb681607e",
+ "view": [
+  15.0,
+  8.0
+ ],
+ "key": "sumo-deadlift-high-pull",
+ "name_en": "Sumo Deadlift High Pull",
+ "template": "olympic",
+ "gender": "m",
+ "seconds": 154.6,
+ "pose_seconds": 1.9,
+ "quality": 72,
+ "bytes": 385249,
+ "frames": 48,
+ "unique": 25
+}
