@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": 0.0,
+ "floor_mm": -2.8,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.92,
+ "thumb": "end@1.00",
+ "pose_hash": "221c11d7464a6be3",
+ "view": [
+  70,
+  10
+ ],
+ "key": "knee-push-up",
+ "name_en": "Knee Push-up",
+ "template": "push_up",
+ "gender": "f",
+ "seconds": 108.4,
+ "pose_seconds": 0.8,
+ "quality": 63,
+ "bytes": 378868,
+ "frames": 48,
+ "unique": 25
+}

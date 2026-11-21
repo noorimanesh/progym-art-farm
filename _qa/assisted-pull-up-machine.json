@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": 0.0,
+ "floor_mm": 697.3,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.64,
+ "thumb": "end@1.00",
+ "pose_hash": "ec59314fb2a88f6f",
+ "view": [
+  36,
+  10
+ ],
+ "key": "assisted-pull-up-machine",
+ "name_en": "Assisted Pull-up Machine",
+ "template": "assisted_pull_up",
+ "gender": "m",
+ "seconds": 54.8,
+ "pose_seconds": 1.1,
+ "quality": 72,
+ "bytes": 233296,
+ "frames": 48,
+ "unique": 25
+}

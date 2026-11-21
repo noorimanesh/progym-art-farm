@@ -1,0 +1,38 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 0.18862655800974468,
+   "gap_min": -0.20313194766640677,
+   "gap_max": 0.4816970154643057
+  },
+  "R": {
+   "slide": 0.18862655800974468,
+   "gap_min": -0.20313194766640677,
+   "gap_max": 0.4816970154643057
+  }
+ },
+ "support_mm": 0.0,
+ "floor_mm": 4.8,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.92,
+ "thumb": "end@1.00",
+ "pose_hash": "5891e0da62e5affe",
+ "view": [
+  70,
+  10
+ ],
+ "key": "pike-push-up",
+ "name_en": "Pike Push-up",
+ "template": "push_up",
+ "gender": "f",
+ "seconds": 112.1,
+ "pose_seconds": 1.2,
+ "quality": 66,
+ "bytes": 319723,
+ "frames": 48,
+ "unique": 25
+}

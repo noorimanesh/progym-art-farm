@@ -1,0 +1,38 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "R": {
+   "slide": 1.716587549445839e-13,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  },
+  "L": {
+   "slide": 2.0014830212433604e-13,
+   "gap_min": -2.1568464748561382,
+   "gap_max": -2.1568464748561382
+  }
+ },
+ "support_mm": 0.0,
+ "floor_mm": 4.8,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.94,
+ "thumb": "end@1.00",
+ "pose_hash": "438899f934ee3710",
+ "view": [
+  40,
+  8
+ ],
+ "key": "curtsy-lunge",
+ "name_en": "Curtsy Lunge",
+ "template": "curtsy_lunge",
+ "gender": "f",
+ "seconds": 49.0,
+ "pose_seconds": 1.2,
+ "quality": 72,
+ "bytes": 250587,
+ "frames": 48,
+ "unique": 25
+}

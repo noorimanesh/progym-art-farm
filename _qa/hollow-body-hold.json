@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": -0.2,
+ "floor_mm": -2.2,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.92,
+ "thumb": "end@1.00",
+ "pose_hash": "c48418d59e3b7ae9",
+ "view": [
+  90,
+  16
+ ],
+ "key": "hollow-body-hold",
+ "name_en": "Hollow Body Hold",
+ "template": "leg_raise",
+ "gender": "m",
+ "seconds": 69.1,
+ "pose_seconds": 0.8,
+ "quality": 72,
+ "bytes": 261880,
+ "frames": 48,
+ "unique": 25
+}

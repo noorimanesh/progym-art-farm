@@ -1,0 +1,38 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 2.0014830212433604e-13,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  },
+  "R": {
+   "slide": 2.0014830212433604e-13,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  }
+ },
+ "support_mm": -0.5,
+ "floor_mm": -2.5,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.92,
+ "thumb": "end@1.00",
+ "pose_hash": "c2720d4030c55db7",
+ "view": [
+  18.0,
+  30.0
+ ],
+ "key": "frog-pump",
+ "name_en": "Frog Pump",
+ "template": "glute_bridge",
+ "gender": "m",
+ "seconds": 129.9,
+ "pose_seconds": 1.4,
+ "quality": 48,
+ "bytes": 383126,
+ "frames": 48,
+ "unique": 25
+}

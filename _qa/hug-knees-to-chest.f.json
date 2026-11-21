@@ -1,0 +1,29 @@
+{
+ "issues": [
+  "grip:gripL:10mm"
+ ],
+ "grip_mm": 10.4,
+ "feet": {},
+ "support_mm": 0.6,
+ "floor_mm": -2.0,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.91,
+ "thumb": "end@1.00",
+ "pose_hash": "3ba527842b3eff62",
+ "view": [
+  85.0,
+  14.0
+ ],
+ "key": "hug-knees-to-chest",
+ "name_en": "Hug Knees to Chest",
+ "template": "x54",
+ "gender": "f",
+ "seconds": 109.5,
+ "pose_seconds": 1.0,
+ "quality": 51,
+ "bytes": 383641,
+ "frames": 48,
+ "unique": 25
+}

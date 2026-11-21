@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": -0.5,
+ "floor_mm": -2.5,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.92,
+ "thumb": "end@1.00",
+ "pose_hash": "70994eda43347536",
+ "view": [
+  15.0,
+  8.0
+ ],
+ "key": "fire-hydrant",
+ "name_en": "Fire Hydrant",
+ "template": "fire_hydrant",
+ "gender": "m",
+ "seconds": 119.2,
+ "pose_seconds": 0.8,
+ "quality": 66,
+ "bytes": 347096,
+ "frames": 48,
+ "unique": 25
+}

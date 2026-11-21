@@ -1,0 +1,33 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "R": {
+   "slide": 0.0,
+   "gap_min": -2.8282248117029667,
+   "gap_max": -2.8282248117029667
+  }
+ },
+ "support_mm": 0.0,
+ "floor_mm": -2.5,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.92,
+ "thumb": "end@1.00",
+ "pose_hash": "8c376d33e3291b2c",
+ "view": [
+  60,
+  10
+ ],
+ "key": "bear-crawl",
+ "name_en": "Bear Crawl",
+ "template": "bear_crawl",
+ "gender": "m",
+ "seconds": 128.0,
+ "pose_seconds": 0.7,
+ "quality": 45,
+ "bytes": 372986,
+ "frames": 48,
+ "unique": 25
+}

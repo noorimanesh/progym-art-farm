@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": 0.0,
+ "floor_mm": -2.0,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.92,
+ "thumb": "end@1.00",
+ "pose_hash": "3617b26881c8a0ac",
+ "view": [
+  90,
+  16
+ ],
+ "key": "knee-across-the-body-stretch",
+ "name_en": "Knee Across the Body Stretch",
+ "template": "knee_to_chest",
+ "gender": "f",
+ "seconds": 83.5,
+ "pose_seconds": 0.8,
+ "quality": 72,
+ "bytes": 312997,
+ "frames": 48,
+ "unique": 25
+}

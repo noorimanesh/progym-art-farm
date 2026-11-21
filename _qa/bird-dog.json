@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": -0.5,
+ "floor_mm": -2.5,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.92,
+ "thumb": "end@1.00",
+ "pose_hash": "e2ab5881ef719c07",
+ "view": [
+  70,
+  14
+ ],
+ "key": "bird-dog",
+ "name_en": "Bird Dog",
+ "template": "bird_dog",
+ "gender": "m",
+ "seconds": 100.5,
+ "pose_seconds": 2.5,
+ "quality": 72,
+ "bytes": 338468,
+ "frames": 48,
+ "unique": 25
+}

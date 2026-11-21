@@ -1,0 +1,38 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 0.051949063053584925,
+   "gap_min": 0.34684430062770827,
+   "gap_max": 1.7764421477913854
+  },
+  "R": {
+   "slide": 0.051949063053584925,
+   "gap_min": 0.34684430062770827,
+   "gap_max": 1.7764421477913854
+  }
+ },
+ "support_mm": 0.0,
+ "floor_mm": -2.5,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.92,
+ "thumb": "end@1.00",
+ "pose_hash": "6110dc421cea8d90",
+ "view": [
+  75,
+  10
+ ],
+ "key": "inchworm",
+ "name_en": "Inchworm",
+ "template": "walkout",
+ "gender": "m",
+ "seconds": 107.2,
+ "pose_seconds": 1.1,
+ "quality": 66,
+ "bytes": 380520,
+ "frames": 48,
+ "unique": 25
+}

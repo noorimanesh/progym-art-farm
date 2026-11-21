@@ -1,0 +1,38 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 0.1181309642488337,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.1664025783538816
+  },
+  "R": {
+   "slide": 2.288783399261119e-13,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  }
+ },
+ "support_mm": 0.0,
+ "floor_mm": 8.0,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.93,
+ "thumb": "end@1.00",
+ "pose_hash": "7760348e58ac8ebc",
+ "view": [
+  75,
+  8
+ ],
+ "key": "wall-calf-stretch",
+ "name_en": "Wall Calf Stretch",
+ "template": "calf_stretch",
+ "gender": "f",
+ "seconds": 72.6,
+ "pose_seconds": 0.8,
+ "quality": 72,
+ "bytes": 272046,
+ "frames": 48,
+ "unique": 25
+}
