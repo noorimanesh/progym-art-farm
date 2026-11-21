@@ -1,0 +1,38 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 1.1102230246251565e-13,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  },
+  "R": {
+   "slide": 1.1102230246251565e-13,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  }
+ },
+ "support_mm": -0.5,
+ "floor_mm": 8.0,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.86,
+ "thumb": "end@1.00",
+ "pose_hash": "4b42c53931ca708a",
+ "view": [
+  78,
+  8
+ ],
+ "key": "plate-loaded-lat-pulldown",
+ "name_en": "Plate-Loaded Lat Pulldown",
+ "template": "lat_pulldown",
+ "gender": "f",
+ "seconds": 73.9,
+ "pose_seconds": 1.0,
+ "quality": 72,
+ "bytes": 195552,
+ "frames": 48,
+ "unique": 25
+}

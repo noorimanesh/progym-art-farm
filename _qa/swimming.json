@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": -0.1,
+ "floor_mm": -2.1,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.92,
+ "thumb": "end@1.00",
+ "pose_hash": "135d7d71d9f6129e",
+ "view": [
+  80,
+  10
+ ],
+ "key": "swimming",
+ "name_en": "Swimming",
+ "template": "superman",
+ "gender": "m",
+ "seconds": 84.9,
+ "pose_seconds": 0.8,
+ "quality": 72,
+ "bytes": 280360,
+ "frames": 48,
+ "unique": 25
+}

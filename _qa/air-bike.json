@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": -0.6,
+ "floor_mm": 212.6,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.95,
+ "thumb": "0.0@0.00",
+ "pose_hash": "e9a357d11f47cc89",
+ "view": [
+  80.0,
+  8.0
+ ],
+ "key": "air-bike",
+ "name_en": "Air Bike",
+ "template": "x54",
+ "gender": "m",
+ "seconds": 146.8,
+ "pose_seconds": 2.0,
+ "quality": 72,
+ "bytes": 351748,
+ "frames": 48,
+ "unique": 48
+}

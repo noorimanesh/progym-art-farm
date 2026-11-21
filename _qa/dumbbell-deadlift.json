@@ -1,0 +1,38 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 1.8041124150158794e-13,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  },
+  "R": {
+   "slide": 1.8041124150158794e-13,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  }
+ },
+ "support_mm": 0.0,
+ "floor_mm": 8.0,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.95,
+ "thumb": "start@0.00",
+ "pose_hash": "c95e0a598df27f62",
+ "view": [
+  62,
+  8
+ ],
+ "key": "dumbbell-deadlift",
+ "name_en": "Dumbbell Deadlift",
+ "template": "deadlift",
+ "gender": "m",
+ "seconds": 57.4,
+ "pose_seconds": 1.4,
+ "quality": 72,
+ "bytes": 251130,
+ "frames": 48,
+ "unique": 25
+}

@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": -0.3,
+ "floor_mm": 168.9,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.95,
+ "thumb": "end@1.00",
+ "pose_hash": "45566e25dfdb79ea",
+ "view": [
+  82,
+  10
+ ],
+ "key": "wide-grip-seated-cable-row",
+ "name_en": "Wide-Grip Seated Cable Row",
+ "template": "cable_row",
+ "gender": "m",
+ "seconds": 121.4,
+ "pose_seconds": 0.9,
+ "quality": 72,
+ "bytes": 348384,
+ "frames": 48,
+ "unique": 25
+}

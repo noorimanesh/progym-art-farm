@@ -1,0 +1,30 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": 0.0,
+ "floor_mm": 7.9,
+ "pops": [
+  "foot.L@0.08:36mm",
+  "foot.R@0.58:36mm"
+ ],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.95,
+ "thumb": "0.25@0.25",
+ "pose_hash": "70fc5fd8b683b038",
+ "view": [
+  80,
+  8
+ ],
+ "key": "brisk-walking",
+ "name_en": "Brisk Walking",
+ "template": "treadmill_run",
+ "gender": "m",
+ "seconds": 125.0,
+ "pose_seconds": 2.9,
+ "quality": 72,
+ "bytes": 277152,
+ "frames": 48,
+ "unique": 48
+}

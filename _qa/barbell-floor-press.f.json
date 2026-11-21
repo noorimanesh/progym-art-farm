@@ -1,0 +1,38 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 2.288783399261119e-13,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  },
+  "R": {
+   "slide": 2.288783399261119e-13,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  }
+ },
+ "support_mm": 0.1,
+ "floor_mm": -2.0,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.61,
+ "thumb": "start@0.00",
+ "pose_hash": "b91fbc8a1ff67a99",
+ "view": [
+  58,
+  26
+ ],
+ "key": "barbell-floor-press",
+ "name_en": "Barbell Floor Press",
+ "template": "bench_press",
+ "gender": "f",
+ "seconds": 134.7,
+ "pose_seconds": 1.0,
+ "quality": 72,
+ "bytes": 369229,
+ "frames": 48,
+ "unique": 25
+}

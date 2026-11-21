@@ -1,0 +1,38 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 1.1188630228279524e-13,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  },
+  "R": {
+   "slide": 1.1188630228279524e-13,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  }
+ },
+ "support_mm": 0.0,
+ "floor_mm": 8.0,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.9,
+ "thumb": "end@1.00",
+ "pose_hash": "c9a7f17c1a799920",
+ "view": [
+  15.0,
+  8.0
+ ],
+ "key": "kettlebell-gorilla-row",
+ "name_en": "Kettlebell Gorilla Row",
+ "template": "db_row",
+ "gender": "f",
+ "seconds": 67.7,
+ "pose_seconds": 0.7,
+ "quality": 72,
+ "bytes": 315823,
+ "frames": 48,
+ "unique": 25
+}

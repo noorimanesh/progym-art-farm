@@ -1,0 +1,36 @@
+{
+ "issues": [
+  "pop:lowerarm01.L@0.63:359mm,lowerarm01.R@0.63:359mm",
+  "twist:wrist.L@0.69:92deg,wrist.R@0.69:92deg"
+ ],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": 0.0,
+ "floor_mm": 436.3,
+ "pops": [
+  "lowerarm01.L@0.63:359mm",
+  "lowerarm01.R@0.63:359mm"
+ ],
+ "twists": [
+  "wrist.L@0.69:92deg",
+  "wrist.R@0.69:92deg"
+ ],
+ "ranges": [],
+ "athlete_frac": 0.79,
+ "thumb": "end@1.00",
+ "pose_hash": "bd439af6c5b11feb",
+ "view": [
+  15.0,
+  8.0
+ ],
+ "key": "muscle-up",
+ "name_en": "Muscle-up",
+ "template": "pull_up",
+ "gender": "m",
+ "seconds": 54.5,
+ "pose_seconds": 0.8,
+ "quality": 75,
+ "bytes": 183209,
+ "frames": 48,
+ "unique": 25
+}

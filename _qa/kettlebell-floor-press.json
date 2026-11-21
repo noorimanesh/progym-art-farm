@@ -1,0 +1,38 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 3.3306690738754696e-13,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  },
+  "R": {
+   "slide": 3.3306690738754696e-13,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  }
+ },
+ "support_mm": 0.5,
+ "floor_mm": -2.5,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.93,
+ "thumb": "start@0.00",
+ "pose_hash": "ffdee3d263ae5b6d",
+ "view": [
+  -72.0,
+  18.0
+ ],
+ "key": "kettlebell-floor-press",
+ "name_en": "Kettlebell Floor Press",
+ "template": "db_bench_press",
+ "gender": "m",
+ "seconds": 135.0,
+ "pose_seconds": 1.3,
+ "quality": 72,
+ "bytes": 316614,
+ "frames": 48,
+ "unique": 25
+}
