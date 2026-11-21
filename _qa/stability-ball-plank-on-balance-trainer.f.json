@@ -1,0 +1,38 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 0.0,
+   "gap_min": -2.785284042358449,
+   "gap_max": -2.785284042358449
+  },
+  "R": {
+   "slide": 0.0,
+   "gap_min": -2.785284042358449,
+   "gap_max": -2.785284042358449
+  }
+ },
+ "support_mm": 0.0,
+ "floor_mm": 254.8,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.91,
+ "thumb": "end@1.00",
+ "pose_hash": "951dd9e8cd4d36e8",
+ "view": [
+  65,
+  12
+ ],
+ "key": "stability-ball-plank-on-balance-trainer",
+ "name_en": "Stability Ball Plank on Balance Trainer",
+ "template": "plank",
+ "gender": "f",
+ "seconds": 223.4,
+ "pose_seconds": 1.4,
+ "quality": 72,
+ "bytes": 244242,
+ "frames": 48,
+ "unique": 25
+}

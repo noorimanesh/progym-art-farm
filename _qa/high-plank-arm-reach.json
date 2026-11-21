@@ -1,0 +1,38 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 0.0,
+   "gap_min": -2.5132491886615753,
+   "gap_max": -2.5132491886615753
+  },
+  "R": {
+   "slide": 0.0,
+   "gap_min": -2.5132491886615753,
+   "gap_max": -2.5132491886615753
+  }
+ },
+ "support_mm": 0.0,
+ "floor_mm": -2.5,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.92,
+ "thumb": "end@1.00",
+ "pose_hash": "9bdfab11b65f1012",
+ "view": [
+  65,
+  12
+ ],
+ "key": "high-plank-arm-reach",
+ "name_en": "High Plank Arm Reach",
+ "template": "plank",
+ "gender": "m",
+ "seconds": 179.8,
+ "pose_seconds": 1.4,
+ "quality": 72,
+ "bytes": 251978,
+ "frames": 48,
+ "unique": 25
+}

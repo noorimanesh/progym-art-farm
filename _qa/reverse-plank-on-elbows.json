@@ -1,0 +1,29 @@
+{
+ "issues": [
+  "floor:-14mm"
+ ],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": 0.0,
+ "floor_mm": -14.3,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.92,
+ "thumb": "end@1.00",
+ "pose_hash": "2f0be8d551209649",
+ "view": [
+  80,
+  8
+ ],
+ "key": "reverse-plank-on-elbows",
+ "name_en": "Reverse Plank on Elbows",
+ "template": "reverse_plank",
+ "gender": "m",
+ "seconds": 146.3,
+ "pose_seconds": 1.2,
+ "quality": 72,
+ "bytes": 319959,
+ "frames": 48,
+ "unique": 25
+}

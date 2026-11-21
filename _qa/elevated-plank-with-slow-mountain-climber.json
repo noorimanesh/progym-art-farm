@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": 0.0,
+ "floor_mm": 4.5,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.95,
+ "thumb": "end@1.00",
+ "pose_hash": "08675d1c7717aede",
+ "view": [
+  70,
+  12
+ ],
+ "key": "elevated-plank-with-slow-mountain-climber",
+ "name_en": "Elevated Plank With Slow Mountain Climber",
+ "template": "mountain_climber",
+ "gender": "m",
+ "seconds": 232.3,
+ "pose_seconds": 1.7,
+ "quality": 54,
+ "bytes": 391089,
+ "frames": 48,
+ "unique": 25
+}

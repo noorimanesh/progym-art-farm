@@ -1,0 +1,43 @@
+{
+ "issues": [
+  "foot_slideL:202mm",
+  "foot_sinkL:-19mm",
+  "foot_slideR:202mm",
+  "foot_sinkR:-19mm"
+ ],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 201.7021585146441,
+   "gap_min": -19.328523397445675,
+   "gap_max": -2.5149173736572217
+  },
+  "R": {
+   "slide": 201.7021585146441,
+   "gap_min": -19.328523397445675,
+   "gap_max": -2.5149173736572217
+  }
+ },
+ "support_mm": 0.0,
+ "floor_mm": -0.1,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.92,
+ "thumb": "end@1.00",
+ "pose_hash": "7a7c39fb6a95ed86",
+ "view": [
+  80.0,
+  10.0
+ ],
+ "key": "suspension-bodysaw",
+ "name_en": "Suspension Bodysaw",
+ "template": "x54",
+ "gender": "m",
+ "seconds": 182.9,
+ "pose_seconds": 1.4,
+ "quality": 72,
+ "bytes": 347179,
+ "frames": 48,
+ "unique": 25
+}

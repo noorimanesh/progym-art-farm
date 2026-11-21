@@ -1,0 +1,50 @@
+{
+ "issues": [
+  "foot_slideL:426mm",
+  "foot_floatL:25mm",
+  "foot_slideR:421mm",
+  "foot_floatR:55mm",
+  "pop:lowerleg01.L@0.25:82mm,foot.R@0.37:83mm,lowerleg01.L@0.57:101mm"
+ ],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 425.6227873216828,
+   "gap_min": -0.4753407724201681,
+   "gap_max": 25.276924699544907
+  },
+  "R": {
+   "slide": 421.17655638904944,
+   "gap_min": -0.4753407724201681,
+   "gap_max": 54.93447485566139
+  }
+ },
+ "support_mm": 0.0,
+ "floor_mm": 6.5,
+ "pops": [
+  "lowerleg01.L@0.25:82mm",
+  "foot.R@0.37:83mm",
+  "lowerleg01.L@0.57:101mm",
+  "foot.R@0.69:65mm",
+  "lowerleg01.L@0.75:84mm"
+ ],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.87,
+ "thumb": "end@1.00",
+ "pose_hash": "5db52627984e5670",
+ "view": [
+  75,
+  10
+ ],
+ "key": "balance-trainer-walk-out-plank",
+ "name_en": "Balance Trainer Walk Out Plank",
+ "template": "walkout",
+ "gender": "f",
+ "seconds": 224.4,
+ "pose_seconds": 1.7,
+ "quality": 57,
+ "bytes": 402954,
+ "frames": 48,
+ "unique": 25
+}

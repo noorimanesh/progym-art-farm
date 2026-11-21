@@ -1,0 +1,29 @@
+{
+ "issues": [
+  "floor:-11mm"
+ ],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": 0.0,
+ "floor_mm": -10.7,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.92,
+ "thumb": "end@1.00",
+ "pose_hash": "215c70d304a4b241",
+ "view": [
+  65,
+  12
+ ],
+ "key": "plank-body-saw",
+ "name_en": "Plank Body Saw",
+ "template": "plank",
+ "gender": "m",
+ "seconds": 164.1,
+ "pose_seconds": 1.4,
+ "quality": 69,
+ "bytes": 346504,
+ "frames": 48,
+ "unique": 25
+}
