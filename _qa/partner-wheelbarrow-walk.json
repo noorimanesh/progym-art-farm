@@ -1,0 +1,38 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 0.0,
+   "gap_min": -2.6566977500915856,
+   "gap_max": -2.6566977500915856
+  },
+  "R": {
+   "slide": 0.0,
+   "gap_min": -2.6566977500915856,
+   "gap_max": -2.6566977500915856
+  }
+ },
+ "support_mm": 0.0,
+ "floor_mm": -2.5,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.6,
+ "thumb": "end@0.25",
+ "pose_hash": "5a78848704317307",
+ "view": [
+  75.0,
+  10.0
+ ],
+ "key": "partner-wheelbarrow-walk",
+ "name_en": "Partner Wheelbarrow Walk",
+ "template": "x54",
+ "gender": "m",
+ "seconds": 132.0,
+ "pose_seconds": 4.6,
+ "quality": 72,
+ "bytes": 174392,
+ "frames": 36,
+ "unique": 36
+}
