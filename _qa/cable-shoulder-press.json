@@ -1,0 +1,38 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 0.0,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  },
+  "R": {
+   "slide": 0.0,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  }
+ },
+ "support_mm": 0.1,
+ "floor_mm": 8.0,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.88,
+ "thumb": "start@0.00",
+ "pose_hash": "190d63ba6b95e236",
+ "view": [
+  25.0,
+  8.0
+ ],
+ "key": "cable-shoulder-press",
+ "name_en": "Cable Shoulder Press",
+ "template": "x54",
+ "gender": "m",
+ "seconds": 57.0,
+ "pose_seconds": 0.8,
+ "quality": 72,
+ "bytes": 216520,
+ "frames": 36,
+ "unique": 19
+}
