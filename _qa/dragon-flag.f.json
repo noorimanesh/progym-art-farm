@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": 0.5,
+ "floor_mm": 389.2,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.95,
+ "thumb": "end@1.00",
+ "pose_hash": "dc999c862bd44c8d",
+ "view": [
+  80,
+  8
+ ],
+ "key": "dragon-flag",
+ "name_en": "Dragon Flag",
+ "template": "x54",
+ "gender": "f",
+ "seconds": 40.7,
+ "pose_seconds": 1.4,
+ "quality": 75,
+ "bytes": 121598,
+ "frames": 36,
+ "unique": 19
+}
