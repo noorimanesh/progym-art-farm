@@ -1,0 +1,38 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 3.736708725176135e-14,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  },
+  "R": {
+   "slide": 3.736708725176135e-14,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  }
+ },
+ "support_mm": 0.0,
+ "floor_mm": 8.0,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.94,
+ "thumb": "end@1.00",
+ "pose_hash": "edf834c7baa531c5",
+ "view": [
+  40,
+  8
+ ],
+ "key": "dumbbell-upright-row",
+ "name_en": "Dumbbell Upright Row",
+ "template": "upright_row",
+ "gender": "f",
+ "seconds": 97.4,
+ "pose_seconds": 2.1,
+ "quality": 72,
+ "bytes": 239664,
+ "frames": 48,
+ "unique": 25
+}

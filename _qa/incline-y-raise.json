@@ -1,0 +1,38 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 3.37661150723213e-13,
+   "gap_min": -0.8555811531841756,
+   "gap_max": -0.8555811531841756
+  },
+  "R": {
+   "slide": 3.37661150723213e-13,
+   "gap_min": -0.8555811531841756,
+   "gap_max": -0.8555811531841756
+  }
+ },
+ "support_mm": 0.5,
+ "floor_mm": 6.1,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.84,
+ "thumb": "end@1.00",
+ "pose_hash": "02d0a3fdd3fa6889",
+ "view": [
+  70,
+  12
+ ],
+ "key": "incline-y-raise",
+ "name_en": "Incline Y-Raise",
+ "template": "chest_supported",
+ "gender": "m",
+ "seconds": 229.7,
+ "pose_seconds": 2.3,
+ "quality": 72,
+ "bytes": 352236,
+ "frames": 48,
+ "unique": 25
+}

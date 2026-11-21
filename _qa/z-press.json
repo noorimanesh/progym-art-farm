@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": 0.0,
+ "floor_mm": -2.0,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.79,
+ "thumb": "start@0.00",
+ "pose_hash": "5665cd64fc1f7ec9",
+ "view": [
+  60,
+  8
+ ],
+ "key": "z-press",
+ "name_en": "Z Press",
+ "template": "overhead_press",
+ "gender": "m",
+ "seconds": 201.6,
+ "pose_seconds": 1.7,
+ "quality": 72,
+ "bytes": 347062,
+ "frames": 48,
+ "unique": 25
+}

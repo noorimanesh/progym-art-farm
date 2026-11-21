@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": 0.6,
+ "floor_mm": 426.4,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.73,
+ "thumb": "end@1.00",
+ "pose_hash": "df511efa9b94336e",
+ "view": [
+  60,
+  8
+ ],
+ "key": "vertical-leg-raise",
+ "name_en": "Vertical Leg Raise",
+ "template": "hanging_leg_raise",
+ "gender": "f",
+ "seconds": 129.1,
+ "pose_seconds": 2.0,
+ "quality": 72,
+ "bytes": 233638,
+ "frames": 48,
+ "unique": 25
+}

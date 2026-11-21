@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": 0.0,
+ "floor_mm": 7.7,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.93,
+ "thumb": "end@1.00",
+ "pose_hash": "b0328cb0cc56fdbc",
+ "view": [
+  15.0,
+  8.0
+ ],
+ "key": "overhead-carry",
+ "name_en": "Overhead Carry",
+ "template": "farmer_walk",
+ "gender": "m",
+ "seconds": 123.7,
+ "pose_seconds": 2.1,
+ "quality": 72,
+ "bytes": 204259,
+ "frames": 48,
+ "unique": 25
+}

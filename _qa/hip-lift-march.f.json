@@ -1,0 +1,33 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "R": {
+   "slide": 1.1188630228279524e-13,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  }
+ },
+ "support_mm": -0.5,
+ "floor_mm": -2.5,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.92,
+ "thumb": "end@1.00",
+ "pose_hash": "c1d3f4f7c1af77c0",
+ "view": [
+  90,
+  7
+ ],
+ "key": "hip-lift-march",
+ "name_en": "Hip Lift March",
+ "template": "glute_bridge",
+ "gender": "f",
+ "seconds": 217.1,
+ "pose_seconds": 3.2,
+ "quality": 51,
+ "bytes": 378151,
+ "frames": 48,
+ "unique": 25
+}

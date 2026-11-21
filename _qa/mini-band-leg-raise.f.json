@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": 0.6,
+ "floor_mm": -2.0,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.92,
+ "thumb": "end@1.00",
+ "pose_hash": "39f9a833fbe3b32d",
+ "view": [
+  90,
+  16
+ ],
+ "key": "mini-band-leg-raise",
+ "name_en": "Mini Band Leg Raise",
+ "template": "leg_raise",
+ "gender": "f",
+ "seconds": 228.0,
+ "pose_seconds": 2.2,
+ "quality": 72,
+ "bytes": 356609,
+ "frames": 48,
+ "unique": 25
+}

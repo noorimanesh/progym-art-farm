@@ -1,0 +1,38 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 8.777083671441753e-14,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  },
+  "R": {
+   "slide": 8.777083671441753e-14,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  }
+ },
+ "support_mm": 0.0,
+ "floor_mm": 8.0,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.95,
+ "thumb": "end@1.00",
+ "pose_hash": "51a33a6ba8257a52",
+ "view": [
+  90,
+  7
+ ],
+ "key": "jefferson-curl",
+ "name_en": "Jefferson Curl",
+ "template": "standing_forward_bend",
+ "gender": "m",
+ "seconds": 108.0,
+ "pose_seconds": 2.5,
+ "quality": 72,
+ "bytes": 213333,
+ "frames": 48,
+ "unique": 25
+}

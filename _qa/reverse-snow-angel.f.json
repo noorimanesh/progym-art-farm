@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": 0.2,
+ "floor_mm": -2.0,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.92,
+ "thumb": "end@1.00",
+ "pose_hash": "1924aded4d64908c",
+ "view": [
+  80,
+  10
+ ],
+ "key": "reverse-snow-angel",
+ "name_en": "Reverse Snow Angel",
+ "template": "superman",
+ "gender": "f",
+ "seconds": 139.4,
+ "pose_seconds": 2.1,
+ "quality": 72,
+ "bytes": 319829,
+ "frames": 48,
+ "unique": 25
+}

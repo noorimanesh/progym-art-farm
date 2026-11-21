@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": -0.5,
+ "floor_mm": -2.5,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.75,
+ "thumb": "end@1.00",
+ "pose_hash": "9dee469126f051c9",
+ "view": [
+  85.0,
+  12.0
+ ],
+ "key": "leg-raises-with-stability-ball",
+ "name_en": "Leg Raises with Stability Ball",
+ "template": "x54",
+ "gender": "m",
+ "seconds": 209.9,
+ "pose_seconds": 2.0,
+ "quality": 72,
+ "bytes": 274086,
+ "frames": 48,
+ "unique": 25
+}

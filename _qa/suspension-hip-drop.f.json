@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": -0.2,
+ "floor_mm": -2.2,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.91,
+ "thumb": "end@1.00",
+ "pose_hash": "709e70fe2a88d9f6",
+ "view": [
+  20.0,
+  10.0
+ ],
+ "key": "suspension-hip-drop",
+ "name_en": "Suspension Hip Drop",
+ "template": "x54",
+ "gender": "f",
+ "seconds": 227.0,
+ "pose_seconds": 2.4,
+ "quality": 51,
+ "bytes": 397630,
+ "frames": 48,
+ "unique": 25
+}
