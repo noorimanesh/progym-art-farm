@@ -1,0 +1,51 @@
+{
+ "issues": [
+  "equip_floor:-37mm",
+  "pop:wrist.L@0.36:238mm,lowerarm01.L@0.36:239mm,lowerleg01.L@0.42:289mm"
+ ],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": 0.0,
+ "floor_mm": 4.3,
+ "pops": [
+  "wrist.L@0.36:238mm",
+  "lowerarm01.L@0.36:239mm",
+  "lowerleg01.L@0.42:289mm",
+  "lowerleg01.R@0.42:289mm",
+  "foot.L@0.42:297mm",
+  "foot.R@0.42:297mm",
+  "root@0.42:80mm",
+  "lowerleg01.L@0.47:266mm",
+  "lowerleg01.R@0.47:266mm",
+  "foot.L@0.47:292mm",
+  "foot.R@0.47:292mm",
+  "upperarm01.L@0.47:93mm",
+  "upperarm01.R@0.47:93mm",
+  "root@0.47:173mm",
+  "wrist.L@0.56:683mm",
+  "wrist.R@0.56:684mm",
+  "lowerleg01.L@0.56:155mm",
+  "lowerleg01.R@0.56:155mm",
+  "lowerleg01.L@0.86:173mm",
+  "lowerleg01.R@0.86:173mm"
+ ],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.85,
+ "thumb": "0.32@0.33",
+ "pose_hash": "dc5f2c2fb498134c",
+ "view": [
+  75.0,
+  12.0
+ ],
+ "key": "man-maker",
+ "name_en": "Man Maker",
+ "template": "x54",
+ "gender": "f",
+ "seconds": 49.8,
+ "pose_seconds": 1.0,
+ "quality": 72,
+ "bytes": 133566,
+ "frames": 36,
+ "unique": 36
+}
