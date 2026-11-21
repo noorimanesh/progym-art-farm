@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": -0.5,
+ "floor_mm": -2.5,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.92,
+ "thumb": "end@1.00",
+ "pose_hash": "c6799554151a6d01",
+ "view": [
+  90,
+  16
+ ],
+ "key": "scissor-crossover-kick",
+ "name_en": "Scissor Crossover Kick",
+ "template": "flutter_kick",
+ "gender": "m",
+ "seconds": 133.9,
+ "pose_seconds": 1.0,
+ "quality": 72,
+ "bytes": 301127,
+ "frames": 48,
+ "unique": 25
+}

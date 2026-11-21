@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": 0.6,
+ "floor_mm": 346.9,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.92,
+ "thumb": "end@1.00",
+ "pose_hash": "ca20206f36707443",
+ "view": [
+  90,
+  16
+ ],
+ "key": "decline-reverse-crunch",
+ "name_en": "Decline Reverse Crunch",
+ "template": "reverse_crunch",
+ "gender": "m",
+ "seconds": 163.7,
+ "pose_seconds": 1.1,
+ "quality": 72,
+ "bytes": 332503,
+ "frames": 48,
+ "unique": 25
+}

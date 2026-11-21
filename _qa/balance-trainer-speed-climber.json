@@ -1,0 +1,29 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": 0.0,
+ "floor_mm": 4.0,
+ "pops": [],
+ "twists": [
+  "foot.L@0.57:64deg"
+ ],
+ "ranges": [],
+ "athlete_frac": 0.92,
+ "thumb": "end@1.00",
+ "pose_hash": "5d41c08e289ba921",
+ "view": [
+  70,
+  12
+ ],
+ "key": "balance-trainer-speed-climber",
+ "name_en": "Balance Trainer Speed Climber",
+ "template": "mountain_climber",
+ "gender": "m",
+ "seconds": 191.4,
+ "pose_seconds": 3.1,
+ "quality": 51,
+ "bytes": 400493,
+ "frames": 48,
+ "unique": 25
+}

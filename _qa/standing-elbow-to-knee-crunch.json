@@ -1,0 +1,33 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "R": {
+   "slide": 9.813077866773595e-14,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  }
+ },
+ "support_mm": 0.0,
+ "floor_mm": 4.0,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.95,
+ "thumb": "end@1.00",
+ "pose_hash": "1c8d2feae4f3dfb5",
+ "view": [
+  15.0,
+  8.0
+ ],
+ "key": "standing-elbow-to-knee-crunch",
+ "name_en": "Standing Elbow to Knee Crunch",
+ "template": "standing_knee_raise",
+ "gender": "m",
+ "seconds": 95.8,
+ "pose_seconds": 4.2,
+ "quality": 72,
+ "bytes": 255304,
+ "frames": 48,
+ "unique": 25
+}

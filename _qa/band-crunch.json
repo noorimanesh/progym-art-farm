@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": -0.3,
+ "floor_mm": -2.3,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.95,
+ "thumb": "end@1.00",
+ "pose_hash": "80d94865df12179e",
+ "view": [
+  80.0,
+  8.0
+ ],
+ "key": "band-crunch",
+ "name_en": "Band Crunch",
+ "template": "x54",
+ "gender": "m",
+ "seconds": 165.3,
+ "pose_seconds": 1.5,
+ "quality": 72,
+ "bytes": 346312,
+ "frames": 48,
+ "unique": 25
+}

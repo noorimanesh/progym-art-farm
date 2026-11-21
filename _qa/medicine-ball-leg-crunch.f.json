@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": 0.5,
+ "floor_mm": -2.0,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.9,
+ "thumb": "end@1.00",
+ "pose_hash": "013f70e486176853",
+ "view": [
+  90,
+  16
+ ],
+ "key": "medicine-ball-leg-crunch",
+ "name_en": "Medicine Ball Leg Crunch",
+ "template": "v_up",
+ "gender": "f",
+ "seconds": 171.5,
+ "pose_seconds": 1.4,
+ "quality": 72,
+ "bytes": 386254,
+ "frames": 48,
+ "unique": 25
+}

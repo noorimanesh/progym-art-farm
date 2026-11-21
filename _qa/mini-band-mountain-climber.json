@@ -1,0 +1,32 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": 0.0,
+ "floor_mm": -2.5,
+ "pops": [
+  "lowerleg01.L@0.50:79mm"
+ ],
+ "twists": [
+  "foot.L@0.57:78deg",
+  "foot.R@0.57:70deg"
+ ],
+ "ranges": [],
+ "athlete_frac": 0.92,
+ "thumb": "end@1.00",
+ "pose_hash": "e1a209ea6e1f602e",
+ "view": [
+  70,
+  12
+ ],
+ "key": "mini-band-mountain-climber",
+ "name_en": "Mini Band Mountain Climber",
+ "template": "mountain_climber",
+ "gender": "m",
+ "seconds": 159.5,
+ "pose_seconds": 3.1,
+ "quality": 63,
+ "bytes": 407298,
+ "frames": 48,
+ "unique": 25
+}

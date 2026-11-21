@@ -1,0 +1,38 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 1.2412670766236365e-13,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  },
+  "R": {
+   "slide": 1.2412670766236365e-13,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  }
+ },
+ "support_mm": 0.6,
+ "floor_mm": 8.0,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.84,
+ "thumb": "end@1.00",
+ "pose_hash": "5e9fea146ca95e17",
+ "view": [
+  90,
+  16
+ ],
+ "key": "balance-trainer-crunch",
+ "name_en": "Balance Trainer Crunch",
+ "template": "crunch",
+ "gender": "m",
+ "seconds": 183.1,
+ "pose_seconds": 1.1,
+ "quality": 72,
+ "bytes": 288116,
+ "frames": 48,
+ "unique": 25
+}

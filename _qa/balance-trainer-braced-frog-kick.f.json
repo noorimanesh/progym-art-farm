@@ -1,0 +1,29 @@
+{
+ "issues": [
+  "grip:palmL:192mm"
+ ],
+ "grip_mm": 192.3,
+ "feet": {},
+ "support_mm": -0.6,
+ "floor_mm": 175.4,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.76,
+ "thumb": "end@1.00",
+ "pose_hash": "b174b4cb3fef5e5d",
+ "view": [
+  70.0,
+  10.0
+ ],
+ "key": "balance-trainer-braced-frog-kick",
+ "name_en": "Balance Trainer Braced Frog Kick",
+ "template": "x54",
+ "gender": "f",
+ "seconds": 176.3,
+ "pose_seconds": 1.5,
+ "quality": 72,
+ "bytes": 349398,
+ "frames": 48,
+ "unique": 25
+}

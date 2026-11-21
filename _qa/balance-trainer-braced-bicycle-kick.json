@@ -1,0 +1,29 @@
+{
+ "issues": [
+  "grip:palmL:141mm"
+ ],
+ "grip_mm": 140.5,
+ "feet": {},
+ "support_mm": -0.5,
+ "floor_mm": 128.7,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.83,
+ "thumb": "0.0@0.00",
+ "pose_hash": "1ad1ce2eb804f4b7",
+ "view": [
+  70.0,
+  10.0
+ ],
+ "key": "balance-trainer-braced-bicycle-kick",
+ "name_en": "Balance Trainer Braced Bicycle Kick",
+ "template": "x54",
+ "gender": "m",
+ "seconds": 333.0,
+ "pose_seconds": 2.7,
+ "quality": 66,
+ "bytes": 357065,
+ "frames": 48,
+ "unique": 48
+}

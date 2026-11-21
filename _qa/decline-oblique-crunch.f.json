@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": 0.6,
+ "floor_mm": 366.8,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.91,
+ "thumb": "end@1.00",
+ "pose_hash": "a9a55be99cf71bd8",
+ "view": [
+  90,
+  16
+ ],
+ "key": "decline-oblique-crunch",
+ "name_en": "Decline Oblique Crunch",
+ "template": "crunch",
+ "gender": "f",
+ "seconds": 166.2,
+ "pose_seconds": 1.2,
+ "quality": 72,
+ "bytes": 335584,
+ "frames": 48,
+ "unique": 25
+}

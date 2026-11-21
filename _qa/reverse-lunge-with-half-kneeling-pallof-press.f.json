@@ -1,0 +1,57 @@
+{
+ "issues": [
+  "grip:gripL:116mm",
+  "foot_slideR:672mm",
+  "pop:wrist.L@0.37:179mm,wrist.R@0.37:179mm,lowerarm01.L@0.37:219mm",
+  "twist:lowerarm01.L@0.43:91deg,lowerarm01.L@0.63:91deg,lowerarm01.R@0.43:91deg"
+ ],
+ "grip_mm": 115.8,
+ "feet": {
+  "L": {
+   "slide": 1.5515838457795457e-13,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  },
+  "R": {
+   "slide": 671.731826313381,
+   "gap_min": -2.684531517326832,
+   "gap_max": 1.0000003799796102
+  }
+ },
+ "support_mm": 0.0,
+ "floor_mm": 4.3,
+ "pops": [
+  "wrist.L@0.37:179mm",
+  "wrist.R@0.37:179mm",
+  "lowerarm01.L@0.37:219mm",
+  "lowerarm01.R@0.37:219mm",
+  "wrist.L@0.57:179mm",
+  "wrist.R@0.57:179mm",
+  "lowerarm01.L@0.57:219mm",
+  "lowerarm01.R@0.57:219mm"
+ ],
+ "twists": [
+  "lowerarm01.L@0.43:91deg",
+  "lowerarm01.L@0.63:91deg",
+  "lowerarm01.R@0.43:91deg",
+  "lowerarm01.R@0.63:91deg"
+ ],
+ "ranges": [],
+ "athlete_frac": 0.94,
+ "thumb": "end@1.00",
+ "pose_hash": "fc7605d97016f777",
+ "view": [
+  20.0,
+  8.0
+ ],
+ "key": "reverse-lunge-with-half-kneeling-pallof-press",
+ "name_en": "Reverse Lunge With Half-Kneeling Pallof Press",
+ "template": "x54",
+ "gender": "f",
+ "seconds": 127.6,
+ "pose_seconds": 1.0,
+ "quality": 72,
+ "bytes": 328233,
+ "frames": 48,
+ "unique": 25
+}
