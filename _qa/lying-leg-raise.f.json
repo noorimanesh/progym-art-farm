@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": 0.6,
+ "floor_mm": -2.0,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.92,
+ "thumb": "end@1.00",
+ "pose_hash": "1393d659df673c10",
+ "view": [
+  90,
+  16
+ ],
+ "key": "lying-leg-raise",
+ "name_en": "Lying Leg Raise",
+ "template": "leg_raise",
+ "gender": "f",
+ "seconds": 173.9,
+ "pose_seconds": 1.9,
+ "quality": 72,
+ "bytes": 338709,
+ "frames": 48,
+ "unique": 25
+}

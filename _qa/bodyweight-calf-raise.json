@@ -1,0 +1,38 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 8.441528768080325e-14,
+   "gap_min": -9.652052938938144,
+   "gap_max": 1.7841561436653108
+  },
+  "R": {
+   "slide": 8.441528768080325e-14,
+   "gap_min": -9.652052938938144,
+   "gap_max": 1.7841561436653108
+  }
+ },
+ "support_mm": 0.0,
+ "floor_mm": 62.6,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.95,
+ "thumb": "end@1.00",
+ "pose_hash": "3d199e4eab926193",
+ "view": [
+  70,
+  6
+ ],
+ "key": "bodyweight-calf-raise",
+ "name_en": "Bodyweight Calf Raise",
+ "template": "calf_raise",
+ "gender": "m",
+ "seconds": 58.3,
+ "pose_seconds": 1.9,
+ "quality": 72,
+ "bytes": 196612,
+ "frames": 48,
+ "unique": 25
+}

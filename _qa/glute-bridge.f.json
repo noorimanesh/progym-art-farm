@@ -1,0 +1,38 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 1.2412670766236365e-13,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  },
+  "R": {
+   "slide": 1.2412670766236365e-13,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  }
+ },
+ "support_mm": -0.5,
+ "floor_mm": -2.5,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.92,
+ "thumb": "end@1.00",
+ "pose_hash": "022a7925ca0c39fc",
+ "view": [
+  90,
+  7
+ ],
+ "key": "glute-bridge",
+ "name_en": "Glute Bridge",
+ "template": "glute_bridge",
+ "gender": "f",
+ "seconds": 153.5,
+ "pose_seconds": 2.8,
+ "quality": 54,
+ "bytes": 368682,
+ "frames": 48,
+ "unique": 25
+}

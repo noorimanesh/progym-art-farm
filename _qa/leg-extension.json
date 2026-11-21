@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": 0.0,
+ "floor_mm": 36.5,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.95,
+ "thumb": "end@1.00",
+ "pose_hash": "67cf9062a8df226e",
+ "view": [
+  72,
+  8
+ ],
+ "key": "leg-extension",
+ "name_en": "Leg Extension",
+ "template": "leg_extension",
+ "gender": "m",
+ "seconds": 127.5,
+ "pose_seconds": 1.4,
+ "quality": 72,
+ "bytes": 318612,
+ "frames": 48,
+ "unique": 25
+}

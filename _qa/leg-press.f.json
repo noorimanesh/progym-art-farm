@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": 0.6,
+ "floor_mm": 455.6,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.69,
+ "thumb": "end@1.00",
+ "pose_hash": "9c3ec046f6ba9a86",
+ "view": [
+  96.0,
+  12.0
+ ],
+ "key": "leg-press",
+ "name_en": "Leg Press",
+ "template": "leg_press",
+ "gender": "f",
+ "seconds": 175.6,
+ "pose_seconds": 1.8,
+ "quality": 42,
+ "bytes": 382215,
+ "frames": 48,
+ "unique": 25
+}

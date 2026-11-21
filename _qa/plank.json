@@ -1,0 +1,38 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 0.48151939802094273,
+   "gap_min": -2.5132491886615753,
+   "gap_max": -2.4445152543485165
+  },
+  "R": {
+   "slide": 0.48151939802094273,
+   "gap_min": -2.5132491886615753,
+   "gap_max": -2.4445152543485165
+  }
+ },
+ "support_mm": 0.0,
+ "floor_mm": -4.6,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.92,
+ "thumb": "end@1.00",
+ "pose_hash": "32e899fbe36b2f4d",
+ "view": [
+  65,
+  12
+ ],
+ "key": "plank",
+ "name_en": "Plank",
+ "template": "plank",
+ "gender": "m",
+ "seconds": 128.1,
+ "pose_seconds": 1.4,
+ "quality": 72,
+ "bytes": 320494,
+ "frames": 48,
+ "unique": 25
+}

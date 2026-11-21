@@ -1,0 +1,33 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": 0.0,
+ "floor_mm": 4.1,
+ "pops": [
+  "lowerleg01.L@0.50:71mm",
+  "lowerleg01.R@0.50:66mm"
+ ],
+ "twists": [
+  "foot.L@0.57:79deg",
+  "foot.R@0.57:71deg"
+ ],
+ "ranges": [],
+ "athlete_frac": 0.91,
+ "thumb": "end@1.00",
+ "pose_hash": "a4d6d21cfac86305",
+ "view": [
+  70,
+  12
+ ],
+ "key": "mountain-climber",
+ "name_en": "Mountain Climber",
+ "template": "mountain_climber",
+ "gender": "f",
+ "seconds": 159.7,
+ "pose_seconds": 4.3,
+ "quality": 63,
+ "bytes": 401854,
+ "frames": 48,
+ "unique": 25
+}

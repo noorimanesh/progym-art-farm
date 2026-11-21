@@ -1,0 +1,33 @@
+{
+ "issues": [],
+ "grip_mm": 4.4,
+ "feet": {
+  "R": {
+   "slide": 1.2412670766236365e-13,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  }
+ },
+ "support_mm": 0.0,
+ "floor_mm": 8.0,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.94,
+ "thumb": "end@1.00",
+ "pose_hash": "8bfd2f0e4344d7d5",
+ "view": [
+  88,
+  6
+ ],
+ "key": "bulgarian-split-squat",
+ "name_en": "Bulgarian Split Squat",
+ "template": "bulgarian_split_squat",
+ "gender": "f",
+ "seconds": 118.3,
+ "pose_seconds": 2.1,
+ "quality": 72,
+ "bytes": 288640,
+ "frames": 48,
+ "unique": 25
+}

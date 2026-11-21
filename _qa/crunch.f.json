@@ -1,0 +1,38 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 1.1102230246251565e-13,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  },
+  "R": {
+   "slide": 1.1102230246251565e-13,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  }
+ },
+ "support_mm": -0.6,
+ "floor_mm": -2.6,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.91,
+ "thumb": "end@1.00",
+ "pose_hash": "a73a53fe33814a1d",
+ "view": [
+  90,
+  16
+ ],
+ "key": "crunch",
+ "name_en": "Crunch",
+ "template": "crunch",
+ "gender": "f",
+ "seconds": 152.4,
+ "pose_seconds": 1.5,
+ "quality": 72,
+ "bytes": 304499,
+ "frames": 48,
+ "unique": 25
+}

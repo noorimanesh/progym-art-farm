@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": -0.1,
+ "floor_mm": 602.2,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.92,
+ "thumb": "end@1.00",
+ "pose_hash": "c3a0936b50049cf8",
+ "view": [
+  78,
+  12
+ ],
+ "key": "lying-leg-curl",
+ "name_en": "Lying Leg Curl",
+ "template": "lying_leg_curl",
+ "gender": "m",
+ "seconds": 135.5,
+ "pose_seconds": 1.4,
+ "quality": 72,
+ "bytes": 286971,
+ "frames": 48,
+ "unique": 25
+}

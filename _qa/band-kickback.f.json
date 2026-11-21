@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": -0.0,
+ "floor_mm": -2.0,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.95,
+ "thumb": "end@1.00",
+ "pose_hash": "088f1f8ecd04be6d",
+ "view": [
+  90,
+  7
+ ],
+ "key": "band-kickback",
+ "name_en": "Band Kickback",
+ "template": "donkey_kick",
+ "gender": "f",
+ "seconds": 151.6,
+ "pose_seconds": 1.5,
+ "quality": 72,
+ "bytes": 323869,
+ "frames": 48,
+ "unique": 25
+}
