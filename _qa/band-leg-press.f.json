@@ -1,0 +1,32 @@
+{
+ "issues": [
+  "pop:foot.L@0.50:69mm,foot.R@0.50:69mm"
+ ],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": -0.5,
+ "floor_mm": -2.5,
+ "pops": [
+  "foot.L@0.50:69mm",
+  "foot.R@0.50:69mm"
+ ],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.92,
+ "thumb": "end@1.00",
+ "pose_hash": "52dad4ad93e62424",
+ "view": [
+  85.0,
+  12.0
+ ],
+ "key": "band-leg-press",
+ "name_en": "Band Leg Press",
+ "template": "x54",
+ "gender": "f",
+ "seconds": 212.5,
+ "pose_seconds": 2.2,
+ "quality": 54,
+ "bytes": 379262,
+ "frames": 48,
+ "unique": 25
+}

@@ -1,0 +1,38 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 2.288783399261119e-13,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  },
+  "R": {
+   "slide": 2.288783399261119e-13,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  }
+ },
+ "support_mm": -0.5,
+ "floor_mm": 8.0,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.95,
+ "thumb": "end@1.00",
+ "pose_hash": "a9bce9b458d08723",
+ "view": [
+  75,
+  8
+ ],
+ "key": "weighted-wall-sit",
+ "name_en": "Weighted Wall Sit",
+ "template": "wall_sit",
+ "gender": "m",
+ "seconds": 162.0,
+ "pose_seconds": 2.2,
+ "quality": 72,
+ "bytes": 258881,
+ "frames": 48,
+ "unique": 25
+}
