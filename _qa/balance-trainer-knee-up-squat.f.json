@@ -1,0 +1,38 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 1.2412670766236365e-13,
+   "gap_min": 0.9999947547912613,
+   "gap_max": 0.9999947547912613
+  },
+  "R": {
+   "slide": 1.2412670766236365e-13,
+   "gap_min": 0.9999947547912613,
+   "gap_max": 0.9999947547912613
+  }
+ },
+ "support_mm": 0.0,
+ "floor_mm": 218.0,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.8,
+ "thumb": "end@1.00",
+ "pose_hash": "49d7c9489d81b820",
+ "view": [
+  50,
+  8
+ ],
+ "key": "balance-trainer-knee-up-squat",
+ "name_en": "Balance Trainer Knee Up Squat",
+ "template": "bodyweight_squat",
+ "gender": "f",
+ "seconds": 62.3,
+ "pose_seconds": 1.4,
+ "quality": 72,
+ "bytes": 236925,
+ "frames": 48,
+ "unique": 25
+}

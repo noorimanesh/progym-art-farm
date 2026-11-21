@@ -1,0 +1,33 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "R": {
+   "slide": 1.5328517645723045e-13,
+   "gap_min": 1.0000096559524552,
+   "gap_max": 1.0000096559524552
+  }
+ },
+ "support_mm": 0.0,
+ "floor_mm": 218.0,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.64,
+ "thumb": "end@1.00",
+ "pose_hash": "ad0bd14c9402585e",
+ "view": [
+  70,
+  8
+ ],
+ "key": "balance-trainer-suspension-pistol-squat",
+ "name_en": "Balance Trainer Suspension Pistol Squat",
+ "template": "pistol_squat",
+ "gender": "m",
+ "seconds": 63.9,
+ "pose_seconds": 0.7,
+ "quality": 72,
+ "bytes": 234844,
+ "frames": 48,
+ "unique": 25
+}

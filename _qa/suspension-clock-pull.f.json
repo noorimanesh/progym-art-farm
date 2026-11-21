@@ -1,0 +1,45 @@
+{
+ "issues": [
+  "grip:gripL:44mm",
+  "pop:wrist.L@0.77:79mm,wrist.R@0.77:79mm,wrist.L@0.88:80mm",
+  "twist:wrist.L@0.77:67deg,wrist.L@0.92:67deg,wrist.R@0.77:67deg"
+ ],
+ "grip_mm": 44.1,
+ "feet": {},
+ "support_mm": 0.0,
+ "floor_mm": -0.0,
+ "pops": [
+  "wrist.L@0.77:79mm",
+  "wrist.R@0.77:79mm",
+  "wrist.L@0.88:80mm",
+  "wrist.R@0.88:80mm"
+ ],
+ "twists": [
+  "wrist.L@0.77:67deg",
+  "wrist.L@0.92:67deg",
+  "wrist.R@0.77:67deg",
+  "wrist.R@0.92:67deg",
+  "lowerarm01.L@0.77:98deg",
+  "lowerarm01.L@0.92:99deg",
+  "lowerarm01.R@0.77:98deg",
+  "lowerarm01.R@0.92:99deg"
+ ],
+ "ranges": [],
+ "athlete_frac": 0.7,
+ "thumb": "end@0.25",
+ "pose_hash": "fb71a77998c38dc9",
+ "view": [
+  35.0,
+  18.0
+ ],
+ "key": "suspension-clock-pull",
+ "name_en": "Suspension Clock Pull",
+ "template": "inverted_row",
+ "gender": "f",
+ "seconds": 124.6,
+ "pose_seconds": 1.4,
+ "quality": 72,
+ "bytes": 247038,
+ "frames": 48,
+ "unique": 48
+}

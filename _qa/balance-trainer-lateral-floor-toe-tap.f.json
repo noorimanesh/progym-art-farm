@@ -1,0 +1,33 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "R": {
+   "slide": 1.4152622167509189e-13,
+   "gap_min": 0.9999947547912613,
+   "gap_max": 0.9999947547912613
+  }
+ },
+ "support_mm": 0.0,
+ "floor_mm": 92.4,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.87,
+ "thumb": "end@1.00",
+ "pose_hash": "49a53a0716cb394f",
+ "view": [
+  6,
+  6
+ ],
+ "key": "balance-trainer-lateral-floor-toe-tap",
+ "name_en": "Balance Trainer Lateral Floor Toe Tap",
+ "template": "lateral_hop",
+ "gender": "f",
+ "seconds": 55.0,
+ "pose_seconds": 1.2,
+ "quality": 72,
+ "bytes": 246913,
+ "frames": 48,
+ "unique": 25
+}

@@ -1,0 +1,32 @@
+{
+ "issues": [
+  "twist:wrist.L@0.63:66deg,lowerarm01.L@0.63:100deg"
+ ],
+ "grip_mm": 3.3,
+ "feet": {},
+ "support_mm": 0.0,
+ "floor_mm": -0.0,
+ "pops": [],
+ "twists": [
+  "wrist.L@0.63:66deg",
+  "lowerarm01.L@0.63:100deg"
+ ],
+ "ranges": [],
+ "athlete_frac": 0.77,
+ "thumb": "end@1.00",
+ "pose_hash": "c085c2dbfe0be121",
+ "view": [
+  35.0,
+  18.0
+ ],
+ "key": "suspension-power-pull",
+ "name_en": "Suspension Power Pull",
+ "template": "inverted_row",
+ "gender": "m",
+ "seconds": 61.6,
+ "pose_seconds": 0.7,
+ "quality": 72,
+ "bytes": 201070,
+ "frames": 48,
+ "unique": 25
+}

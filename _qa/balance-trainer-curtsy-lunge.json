@@ -1,0 +1,38 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "R": {
+   "slide": 0.06898838236960984,
+   "gap_min": 1.0000096559524552,
+   "gap_max": 1.2231843471527115
+  },
+  "L": {
+   "slide": 1.942890293094024e-13,
+   "gap_min": -1.3161374330520614,
+   "gap_max": -1.3161374330520614
+  }
+ },
+ "support_mm": 0.0,
+ "floor_mm": 215.7,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.81,
+ "thumb": "end@1.00",
+ "pose_hash": "5e497fe4771780ed",
+ "view": [
+  40,
+  8
+ ],
+ "key": "balance-trainer-curtsy-lunge",
+ "name_en": "Balance Trainer Curtsy Lunge",
+ "template": "curtsy_lunge",
+ "gender": "m",
+ "seconds": 58.4,
+ "pose_seconds": 1.2,
+ "quality": 72,
+ "bytes": 201854,
+ "frames": 48,
+ "unique": 25
+}

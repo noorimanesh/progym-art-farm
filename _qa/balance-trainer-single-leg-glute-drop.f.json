@@ -1,0 +1,33 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "R": {
+   "slide": 1.8875832159447663e-13,
+   "gap_min": 0.9999947547912613,
+   "gap_max": 0.9999947547912613
+  }
+ },
+ "support_mm": 0.0,
+ "floor_mm": 173.6,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.79,
+ "thumb": "end@1.00",
+ "pose_hash": "fff569b02480aad1",
+ "view": [
+  70,
+  8
+ ],
+ "key": "balance-trainer-single-leg-glute-drop",
+ "name_en": "Balance Trainer Single-Leg Glute Drop",
+ "template": "pistol_squat",
+ "gender": "f",
+ "seconds": 60.0,
+ "pose_seconds": 1.2,
+ "quality": 72,
+ "bytes": 231658,
+ "frames": 48,
+ "unique": 25
+}

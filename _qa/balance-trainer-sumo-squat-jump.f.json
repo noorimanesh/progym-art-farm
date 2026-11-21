@@ -1,0 +1,38 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 1.821377042022605e-13,
+   "gap_min": -1.3186212902162042,
+   "gap_max": 0.9999947547912613
+  },
+  "R": {
+   "slide": 1.821377042022605e-13,
+   "gap_min": -1.3186212902162042,
+   "gap_max": 0.9999947547912613
+  }
+ },
+ "support_mm": 0.0,
+ "floor_mm": 218.0,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.81,
+ "thumb": "end@1.00",
+ "pose_hash": "64f4fd76ed43ce2c",
+ "view": [
+  15.0,
+  8.0
+ ],
+ "key": "balance-trainer-sumo-squat-jump",
+ "name_en": "Balance Trainer Sumo Squat Jump",
+ "template": "jump_squat",
+ "gender": "f",
+ "seconds": 53.9,
+ "pose_seconds": 1.3,
+ "quality": 72,
+ "bytes": 223532,
+ "frames": 48,
+ "unique": 25
+}

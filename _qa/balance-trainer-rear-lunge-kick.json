@@ -1,0 +1,33 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "R": {
+   "slide": 1.688305753616065e-13,
+   "gap_min": 1.0000096559524552,
+   "gap_max": 1.0000096559524552
+  }
+ },
+ "support_mm": 0.0,
+ "floor_mm": 6.1,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.89,
+ "thumb": "end@1.00",
+ "pose_hash": "8e0680da1df84ce4",
+ "view": [
+  88,
+  6
+ ],
+ "key": "balance-trainer-rear-lunge-kick",
+ "name_en": "Balance Trainer Rear Lunge Kick",
+ "template": "reverse_lunge",
+ "gender": "m",
+ "seconds": 69.4,
+ "pose_seconds": 1.6,
+ "quality": 72,
+ "bytes": 211504,
+ "frames": 48,
+ "unique": 25
+}
