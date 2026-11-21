@@ -1,0 +1,77 @@
+{
+ "issues": [
+  "twist:wrist.L@0.01:90deg,wrist.L@0.03:90deg,wrist.L@0.07:90deg"
+ ],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 7.47341745035227e-14,
+   "gap_min": 0.9999947547912613,
+   "gap_max": 0.9999947547912613
+  },
+  "R": {
+   "slide": 7.47341745035227e-14,
+   "gap_min": 0.9999947547912613,
+   "gap_max": 0.9999947547912613
+  }
+ },
+ "support_mm": 0.0,
+ "floor_mm": 218.0,
+ "pops": [],
+ "twists": [
+  "wrist.L@0.01:90deg",
+  "wrist.L@0.03:90deg",
+  "wrist.L@0.07:90deg",
+  "wrist.L@0.12:90deg",
+  "wrist.L@0.18:90deg",
+  "wrist.L@0.25:90deg",
+  "wrist.L@0.33:90deg",
+  "wrist.L@0.41:90deg",
+  "wrist.L@0.50:90deg",
+  "wrist.L@0.59:90deg",
+  "wrist.L@0.67:90deg",
+  "wrist.L@0.75:90deg",
+  "wrist.L@0.82:90deg",
+  "wrist.L@0.88:90deg",
+  "wrist.L@0.93:90deg",
+  "wrist.L@0.97:90deg",
+  "wrist.L@0.99:90deg",
+  "wrist.L@1.00:90deg",
+  "wrist.R@0.01:90deg",
+  "wrist.R@0.03:90deg",
+  "wrist.R@0.07:90deg",
+  "wrist.R@0.12:90deg",
+  "wrist.R@0.18:90deg",
+  "wrist.R@0.25:90deg",
+  "wrist.R@0.33:90deg",
+  "wrist.R@0.41:90deg",
+  "wrist.R@0.50:90deg",
+  "wrist.R@0.59:90deg",
+  "wrist.R@0.67:90deg",
+  "wrist.R@0.75:90deg",
+  "wrist.R@0.82:90deg",
+  "wrist.R@0.88:90deg",
+  "wrist.R@0.93:90deg",
+  "wrist.R@0.97:90deg",
+  "wrist.R@0.99:90deg",
+  "wrist.R@1.00:90deg"
+ ],
+ "ranges": [],
+ "athlete_frac": 0.67,
+ "thumb": "end@1.00",
+ "pose_hash": "db9b0454ac86bcc5",
+ "view": [
+  60.0,
+  8.0
+ ],
+ "key": "balance-trainer-stability-ball-overhead-squat",
+ "name_en": "Balance Trainer Stability Ball Overhead Squat",
+ "template": "x54",
+ "gender": "f",
+ "seconds": 31.5,
+ "pose_seconds": 2.1,
+ "quality": 84,
+ "bytes": 122092,
+ "frames": 36,
+ "unique": 19
+}
