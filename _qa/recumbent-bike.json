@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": 0.6,
+ "floor_mm": 254.7,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.95,
+ "thumb": "0.0@0.00",
+ "pose_hash": "d2632f780d60440e",
+ "view": [
+  80.0,
+  8.0
+ ],
+ "key": "recumbent-bike",
+ "name_en": "Recumbent Bike",
+ "template": "x54",
+ "gender": "m",
+ "seconds": 315.8,
+ "pose_seconds": 2.1,
+ "quality": 66,
+ "bytes": 360299,
+ "frames": 48,
+ "unique": 48
+}

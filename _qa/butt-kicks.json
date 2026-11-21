@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": -0.4,
+ "floor_mm": -0.4,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.95,
+ "thumb": "end@1.00",
+ "pose_hash": "1273b3b5edc92823",
+ "view": [
+  70,
+  8
+ ],
+ "key": "butt-kicks",
+ "name_en": "Butt Kicks",
+ "template": "high_knees",
+ "gender": "m",
+ "seconds": 105.1,
+ "pose_seconds": 1.5,
+ "quality": 72,
+ "bytes": 267068,
+ "frames": 48,
+ "unique": 25
+}

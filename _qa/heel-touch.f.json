@@ -1,0 +1,38 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 0.0,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  },
+  "R": {
+   "slide": 0.0,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  }
+ },
+ "support_mm": 0.2,
+ "floor_mm": -1.9,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.95,
+ "thumb": "end@1.00",
+ "pose_hash": "b17b9a7cad0b52bc",
+ "view": [
+  20.0,
+  34.0
+ ],
+ "key": "heel-touch",
+ "name_en": "Heel Touch",
+ "template": "crunch",
+ "gender": "f",
+ "seconds": 157.0,
+ "pose_seconds": 0.6,
+ "quality": 72,
+ "bytes": 317218,
+ "frames": 48,
+ "unique": 25
+}

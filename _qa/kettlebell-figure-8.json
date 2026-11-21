@@ -1,0 +1,50 @@
+{
+ "issues": [
+  "grip:gripR:102mm",
+  "pop:wrist.R@0.25:147mm,lowerarm01.R@0.25:234mm,wrist.R@0.75:598mm",
+  "twist:wrist.R@0.27:69deg"
+ ],
+ "grip_mm": 102.1,
+ "feet": {
+  "L": {
+   "slide": 1.1102230246251565e-13,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  },
+  "R": {
+   "slide": 1.1102230246251565e-13,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  }
+ },
+ "support_mm": 0.0,
+ "floor_mm": 8.0,
+ "pops": [
+  "wrist.R@0.25:147mm",
+  "lowerarm01.R@0.25:234mm",
+  "wrist.R@0.75:598mm",
+  "lowerarm01.R@0.75:320mm",
+  "upperarm01.R@0.75:15mm"
+ ],
+ "twists": [
+  "wrist.R@0.27:69deg"
+ ],
+ "ranges": [],
+ "athlete_frac": 0.95,
+ "thumb": "end@0.25",
+ "pose_hash": "62b52e209957833e",
+ "view": [
+  70.0,
+  10.0
+ ],
+ "key": "kettlebell-figure-8",
+ "name_en": "Kettlebell Figure 8",
+ "template": "x54",
+ "gender": "m",
+ "seconds": 188.6,
+ "pose_seconds": 2.6,
+ "quality": 72,
+ "bytes": 223795,
+ "frames": 48,
+ "unique": 48
+}

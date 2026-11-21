@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": -0.5,
+ "floor_mm": -2.5,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.74,
+ "thumb": "end@1.00",
+ "pose_hash": "8eb5fae62d755937",
+ "view": [
+  90,
+  7
+ ],
+ "key": "stability-ball-hip-bridge",
+ "name_en": "Stability Ball Hip Bridge",
+ "template": "glute_bridge",
+ "gender": "m",
+ "seconds": 127.0,
+ "pose_seconds": 1.9,
+ "quality": 72,
+ "bytes": 278452,
+ "frames": 48,
+ "unique": 25
+}

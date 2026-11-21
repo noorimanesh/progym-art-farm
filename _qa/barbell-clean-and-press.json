@@ -1,0 +1,61 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 1.0838898772828418e-13,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.6537124589085577
+  },
+  "R": {
+   "slide": 1.0838898772828418e-13,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.6537124589085577
+  }
+ },
+ "support_mm": 0.0,
+ "floor_mm": 8.0,
+ "pops": [
+  "head@0.63:64mm",
+  "upperarm01.L@0.63:93mm",
+  "upperarm01.R@0.63:93mm",
+  "wrist.L@0.75:174mm",
+  "wrist.R@0.75:175mm",
+  "lowerarm01.L@0.75:184mm",
+  "lowerarm01.R@0.75:185mm",
+  "lowerleg01.L@0.75:93mm",
+  "lowerleg01.R@0.75:93mm",
+  "head@0.75:155mm",
+  "upperarm01.L@0.75:156mm",
+  "upperarm01.R@0.75:156mm",
+  "root@0.75:147mm"
+ ],
+ "twists": [
+  "wrist.L@0.63:93deg",
+  "wrist.L@0.69:151deg",
+  "wrist.L@0.93:171deg",
+  "wrist.R@0.63:93deg",
+  "wrist.R@0.69:151deg",
+  "wrist.R@0.93:171deg",
+  "lowerarm01.L@0.50:76deg",
+  "lowerarm01.R@0.50:77deg"
+ ],
+ "ranges": [],
+ "athlete_frac": 0.74,
+ "thumb": "0.74@0.75",
+ "pose_hash": "21ffff11f6c15656",
+ "view": [
+  62,
+  8
+ ],
+ "key": "barbell-clean-and-press",
+ "name_en": "Barbell Clean and Press",
+ "template": "olympic",
+ "gender": "m",
+ "seconds": 95.7,
+ "pose_seconds": 2.0,
+ "quality": 72,
+ "bytes": 254242,
+ "frames": 48,
+ "unique": 25
+}

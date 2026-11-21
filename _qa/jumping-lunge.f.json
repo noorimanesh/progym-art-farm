@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": 0.0,
+ "floor_mm": 5.1,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.94,
+ "thumb": "end@1.00",
+ "pose_hash": "f57e31ab94f47da3",
+ "view": [
+  85,
+  6
+ ],
+ "key": "jumping-lunge",
+ "name_en": "Jumping Lunge",
+ "template": "split_jump",
+ "gender": "f",
+ "seconds": 88.3,
+ "pose_seconds": 1.0,
+ "quality": 72,
+ "bytes": 285595,
+ "frames": 48,
+ "unique": 25
+}

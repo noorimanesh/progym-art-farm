@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": -0.6,
+ "floor_mm": -2.6,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.72,
+ "thumb": "end@1.00",
+ "pose_hash": "ce19b5b066dc9f18",
+ "view": [
+  90,
+  7
+ ],
+ "key": "stability-ball-leg-curl",
+ "name_en": "Stability Ball Leg Curl",
+ "template": "glute_bridge",
+ "gender": "f",
+ "seconds": 129.3,
+ "pose_seconds": 1.5,
+ "quality": 72,
+ "bytes": 310985,
+ "frames": 48,
+ "unique": 25
+}

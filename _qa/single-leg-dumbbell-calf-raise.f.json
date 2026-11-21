@@ -1,0 +1,38 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 1.1443916996305594e-13,
+   "gap_min": -6.094847738742831,
+   "gap_max": 1.118223249912259
+  },
+  "R": {
+   "slide": 1.1443916996305594e-13,
+   "gap_min": -6.094847738742831,
+   "gap_max": 1.118223249912259
+  }
+ },
+ "support_mm": 0.5,
+ "floor_mm": 74.5,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.93,
+ "thumb": "end@1.00",
+ "pose_hash": "13e5d780834ff247",
+ "view": [
+  90,
+  7
+ ],
+ "key": "single-leg-dumbbell-calf-raise",
+ "name_en": "Single-Leg Dumbbell Calf Raise",
+ "template": "seated_calf_raise",
+ "gender": "f",
+ "seconds": 118.0,
+ "pose_seconds": 1.3,
+ "quality": 72,
+ "bytes": 268122,
+ "frames": 48,
+ "unique": 25
+}

@@ -1,0 +1,38 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 0.0,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  },
+  "R": {
+   "slide": 0.0,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  }
+ },
+ "support_mm": 0.1,
+ "floor_mm": 8.0,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.9,
+ "thumb": "end@1.00",
+ "pose_hash": "3b917920cba343ae",
+ "view": [
+  118.0,
+  14.0
+ ],
+ "key": "barbell-wrist-curl",
+ "name_en": "Barbell Wrist Curl",
+ "template": "wrist_curl",
+ "gender": "f",
+ "seconds": 177.1,
+ "pose_seconds": 1.1,
+ "quality": 72,
+ "bytes": 299760,
+ "frames": 48,
+ "unique": 25
+}
