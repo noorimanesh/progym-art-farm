@@ -1,0 +1,29 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": 0.0,
+ "floor_mm": 8.0,
+ "pops": [
+  "lowerleg01.R@0.79:112mm"
+ ],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.95,
+ "thumb": "0.38@0.38",
+ "pose_hash": "c705a6546e08132b",
+ "view": [
+  82,
+  8
+ ],
+ "key": "reverse-box-jump",
+ "name_en": "Reverse Box Jump",
+ "template": "box_jump",
+ "gender": "m",
+ "seconds": 176.7,
+ "pose_seconds": 2.4,
+ "quality": 72,
+ "bytes": 207250,
+ "frames": 48,
+ "unique": 48
+}

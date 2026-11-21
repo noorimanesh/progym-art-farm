@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": 0.0,
+ "floor_mm": 50.4,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.95,
+ "thumb": "0.0@0.00",
+ "pose_hash": "290e225019392fcc",
+ "view": [
+  8.0,
+  6.0
+ ],
+ "key": "lateral-box-shuffle",
+ "name_en": "Lateral Box Shuffle",
+ "template": "x54f",
+ "gender": "m",
+ "seconds": 153.4,
+ "pose_seconds": 2.4,
+ "quality": 72,
+ "bytes": 263360,
+ "frames": 48,
+ "unique": 48
+}

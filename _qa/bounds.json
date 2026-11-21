@@ -1,0 +1,35 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": 0.0,
+ "floor_mm": 4.0,
+ "pops": [
+  "lowerleg01.R@0.23:269mm",
+  "foot.R@0.23:273mm",
+  "foot.L@0.40:302mm",
+  "foot.L@0.48:381mm",
+  "lowerleg01.L@0.73:269mm",
+  "foot.L@0.73:273mm",
+  "foot.R@0.90:302mm"
+ ],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.95,
+ "thumb": "end@0.25",
+ "pose_hash": "d2d02da32ab54da0",
+ "view": [
+  88,
+  8
+ ],
+ "key": "bounds",
+ "name_en": "Bounds",
+ "template": "broad_jump",
+ "gender": "m",
+ "seconds": 203.4,
+ "pose_seconds": 4.7,
+ "quality": 72,
+ "bytes": 291040,
+ "frames": 48,
+ "unique": 48
+}

@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": 0.0,
+ "floor_mm": 8.0,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.94,
+ "thumb": "end@1.00",
+ "pose_hash": "81f0ccd245c4e9ea",
+ "view": [
+  35.0,
+  10.0
+ ],
+ "key": "barbell-bulgarian-split-jump",
+ "name_en": "Barbell Bulgarian Split Jump",
+ "template": "bulgarian_split_squat",
+ "gender": "f",
+ "seconds": 149.6,
+ "pose_seconds": 1.2,
+ "quality": 72,
+ "bytes": 373246,
+ "frames": 48,
+ "unique": 25
+}

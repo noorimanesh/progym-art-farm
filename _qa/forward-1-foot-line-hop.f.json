@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": 0.0,
+ "floor_mm": 8.0,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.93,
+ "thumb": "end@1.00",
+ "pose_hash": "03b64623629906d4",
+ "view": [
+  38.0,
+  14.0
+ ],
+ "key": "forward-1-foot-line-hop",
+ "name_en": "Forward 1-Foot Line Hop",
+ "template": "lateral_hop",
+ "gender": "f",
+ "seconds": 99.5,
+ "pose_seconds": 1.8,
+ "quality": 72,
+ "bytes": 266334,
+ "frames": 48,
+ "unique": 25
+}

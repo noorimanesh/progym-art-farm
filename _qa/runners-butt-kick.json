@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": -0.4,
+ "floor_mm": -0.4,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.95,
+ "thumb": "end@1.00",
+ "pose_hash": "676907a372ee57d2",
+ "view": [
+  70,
+  8
+ ],
+ "key": "runners-butt-kick",
+ "name_en": "Runners Butt Kick",
+ "template": "high_knees",
+ "gender": "m",
+ "seconds": 98.0,
+ "pose_seconds": 2.0,
+ "quality": 72,
+ "bytes": 267495,
+ "frames": 48,
+ "unique": 25
+}

@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": -0.4,
+ "floor_mm": -0.4,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.95,
+ "thumb": "end@1.00",
+ "pose_hash": "2f30fa8bc7bb7e22",
+ "view": [
+  70,
+  8
+ ],
+ "key": "b-skip",
+ "name_en": "B-Skip",
+ "template": "high_knees",
+ "gender": "m",
+ "seconds": 85.2,
+ "pose_seconds": 2.0,
+ "quality": 72,
+ "bytes": 273031,
+ "frames": 48,
+ "unique": 25
+}

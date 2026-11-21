@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": 0.0,
+ "floor_mm": 8.8,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.95,
+ "thumb": "0.42@0.42",
+ "pose_hash": "f4347398cc185717",
+ "view": [
+  90.0,
+  8.0
+ ],
+ "key": "2-box-depth-jump",
+ "name_en": "2-Box Depth Jump",
+ "template": "x54f",
+ "gender": "m",
+ "seconds": 217.2,
+ "pose_seconds": 2.4,
+ "quality": 72,
+ "bytes": 217509,
+ "frames": 48,
+ "unique": 48
+}

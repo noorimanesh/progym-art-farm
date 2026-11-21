@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": 0.0,
+ "floor_mm": 4.0,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.94,
+ "thumb": "0.5@0.50",
+ "pose_hash": "61427f12f41fe6fb",
+ "view": [
+  80.0,
+  8.0
+ ],
+ "key": "power-skip",
+ "name_en": "Power Skip",
+ "template": "x54f",
+ "gender": "f",
+ "seconds": 142.3,
+ "pose_seconds": 4.1,
+ "quality": 72,
+ "bytes": 265586,
+ "frames": 48,
+ "unique": 48
+}

@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": -0.6,
+ "floor_mm": -0.6,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.94,
+ "thumb": "end@1.00",
+ "pose_hash": "dcb60167f6c96bfe",
+ "view": [
+  70,
+  8
+ ],
+ "key": "single-leg-butt-kick",
+ "name_en": "Single-Leg Butt Kick",
+ "template": "high_knees",
+ "gender": "f",
+ "seconds": 91.7,
+ "pose_seconds": 1.8,
+ "quality": 72,
+ "bytes": 281429,
+ "frames": 48,
+ "unique": 25
+}

@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": -0.4,
+ "floor_mm": -0.4,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.94,
+ "thumb": "end@1.00",
+ "pose_hash": "fcd227bd7d4a8d96",
+ "view": [
+  70,
+  8
+ ],
+ "key": "a-skip",
+ "name_en": "A-Skip",
+ "template": "high_knees",
+ "gender": "f",
+ "seconds": 78.9,
+ "pose_seconds": 1.8,
+ "quality": 72,
+ "bytes": 290538,
+ "frames": 48,
+ "unique": 25
+}
