@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": 0.0,
+ "floor_mm": 8.0,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.92,
+ "thumb": "end@1.00",
+ "pose_hash": "6c8881807f5c281e",
+ "view": [
+  88,
+  8
+ ],
+ "key": "broad-jump",
+ "name_en": "Broad Jump",
+ "template": "broad_jump",
+ "gender": "f",
+ "seconds": 189.5,
+ "pose_seconds": 2.4,
+ "quality": 72,
+ "bytes": 278783,
+ "frames": 48,
+ "unique": 25
+}

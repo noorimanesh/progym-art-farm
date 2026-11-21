@@ -1,0 +1,38 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "R": {
+   "slide": 0.21983695251260857,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.3597898483276365
+  },
+  "L": {
+   "slide": 1.688305753616065e-13,
+   "gap_min": -0.8555811531841756,
+   "gap_max": -0.8555811531841756
+  }
+ },
+ "support_mm": 0.0,
+ "floor_mm": 6.1,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.93,
+ "thumb": "end@1.00",
+ "pose_hash": "804aac9e2751c3f4",
+ "view": [
+  88,
+  6
+ ],
+ "key": "smith-machine-split-squat",
+ "name_en": "Smith Machine Split Squat",
+ "template": "split_squat",
+ "gender": "m",
+ "seconds": 130.2,
+ "pose_seconds": 2.2,
+ "quality": 72,
+ "bytes": 301880,
+ "frames": 48,
+ "unique": 25
+}

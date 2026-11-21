@@ -1,0 +1,29 @@
+{
+ "issues": [
+  "floor:-103mm"
+ ],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": -0.0,
+ "floor_mm": -102.9,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.92,
+ "thumb": "end@1.00",
+ "pose_hash": "42a115cad066b0fc",
+ "view": [
+  85.0,
+  8.0
+ ],
+ "key": "lying-neck-extension",
+ "name_en": "Lying Neck Extension",
+ "template": "x54",
+ "gender": "m",
+ "seconds": 188.2,
+ "pose_seconds": 1.7,
+ "quality": 72,
+ "bytes": 209565,
+ "frames": 48,
+ "unique": 25
+}

@@ -1,0 +1,33 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "R": {
+   "slide": 2.1228933251263786e-13,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  }
+ },
+ "support_mm": 0.0,
+ "floor_mm": 8.0,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.69,
+ "thumb": "end@1.00",
+ "pose_hash": "0931e53c62aba12f",
+ "view": [
+  70,
+  8
+ ],
+ "key": "suspension-pistol-squat",
+ "name_en": "Suspension Pistol Squat",
+ "template": "pistol_squat",
+ "gender": "m",
+ "seconds": 101.2,
+ "pose_seconds": 1.5,
+ "quality": 72,
+ "bytes": 250548,
+ "frames": 48,
+ "unique": 25
+}

@@ -1,0 +1,33 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "R": {
+   "slide": 1.1443916996305594e-13,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  }
+ },
+ "support_mm": 0.0,
+ "floor_mm": 6.1,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.93,
+ "thumb": "end@1.00",
+ "pose_hash": "1d3f2482308f8423",
+ "view": [
+  88,
+  6
+ ],
+ "key": "smith-machine-reverse-lunge",
+ "name_en": "Smith Machine Reverse Lunge",
+ "template": "reverse_lunge",
+ "gender": "m",
+ "seconds": 162.9,
+ "pose_seconds": 3.0,
+ "quality": 72,
+ "bytes": 430483,
+ "frames": 48,
+ "unique": 25
+}

@@ -1,0 +1,38 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 0.0,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  },
+  "R": {
+   "slide": 0.0,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  }
+ },
+ "support_mm": -0.5,
+ "floor_mm": -2.5,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.91,
+ "thumb": "end@1.00",
+ "pose_hash": "d37f46da10fd1a32",
+ "view": [
+  90,
+  16
+ ],
+ "key": "lying-neck-flexion",
+ "name_en": "Lying Neck Flexion",
+ "template": "crunch",
+ "gender": "f",
+ "seconds": 185.5,
+ "pose_seconds": 1.7,
+ "quality": 72,
+ "bytes": 265867,
+ "frames": 48,
+ "unique": 25
+}

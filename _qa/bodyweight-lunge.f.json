@@ -1,0 +1,33 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 1.6019680555167108e-13,
+   "gap_min": -1.881570339202881,
+   "gap_max": 1.0000003799796102
+  }
+ },
+ "support_mm": 0.0,
+ "floor_mm": 5.1,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.94,
+ "thumb": "end@1.00",
+ "pose_hash": "16089c71fb4bf11f",
+ "view": [
+  88,
+  6
+ ],
+ "key": "bodyweight-lunge",
+ "name_en": "Bodyweight Lunge",
+ "template": "forward_lunge",
+ "gender": "f",
+ "seconds": 126.8,
+ "pose_seconds": 2.9,
+ "quality": 72,
+ "bytes": 261709,
+ "frames": 48,
+ "unique": 25
+}

@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": 0.5,
+ "floor_mm": -2.0,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.92,
+ "thumb": "end@1.00",
+ "pose_hash": "f7b1a1f78a7301b9",
+ "view": [
+  20.0,
+  10.0
+ ],
+ "key": "copenhagen-plank",
+ "name_en": "Copenhagen Plank",
+ "template": "x54",
+ "gender": "m",
+ "seconds": 219.8,
+ "pose_seconds": 2.5,
+ "quality": 72,
+ "bytes": 275748,
+ "frames": 48,
+ "unique": 25
+}

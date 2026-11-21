@@ -1,0 +1,32 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": 0.0,
+ "floor_mm": 4.0,
+ "pops": [
+  "lowerleg01.L@0.15:114mm",
+  "lowerleg01.R@0.15:114mm",
+  "foot.L@0.15:171mm",
+  "foot.R@0.15:171mm"
+ ],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.95,
+ "thumb": "end@1.00",
+ "pose_hash": "7b06339b47aa3587",
+ "view": [
+  60,
+  8
+ ],
+ "key": "tuck-jump",
+ "name_en": "Tuck Jump",
+ "template": "tuck_jump",
+ "gender": "m",
+ "seconds": 107.4,
+ "pose_seconds": 2.7,
+ "quality": 72,
+ "bytes": 230168,
+ "frames": 48,
+ "unique": 25
+}

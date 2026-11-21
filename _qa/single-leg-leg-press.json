@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": 0.5,
+ "floor_mm": 12.5,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.63,
+ "thumb": "end@1.00",
+ "pose_hash": "d25f1f8379398132",
+ "view": [
+  118.0,
+  24.0
+ ],
+ "key": "single-leg-leg-press",
+ "name_en": "Single-Leg Leg Press",
+ "template": "x54",
+ "gender": "m",
+ "seconds": 244.1,
+ "pose_seconds": 2.6,
+ "quality": 48,
+ "bytes": 370854,
+ "frames": 48,
+ "unique": 25
+}
