@@ -1,0 +1,55 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 1.5515838457795457e-13,
+   "gap_min": -0.44102898612618463,
+   "gap_max": 1.0000003799796102
+  },
+  "R": {
+   "slide": 1.5515838457795457e-13,
+   "gap_min": -0.44102898612618463,
+   "gap_max": 1.0000003799796102
+  }
+ },
+ "support_mm": 0.0,
+ "floor_mm": 6.6,
+ "pops": [
+  "lowerleg01.L@0.43:98mm",
+  "lowerleg01.R@0.43:98mm",
+  "wrist.L@0.63:202mm",
+  "wrist.R@0.63:202mm",
+  "lowerarm01.L@0.63:207mm",
+  "lowerarm01.R@0.63:208mm",
+  "head@0.63:93mm",
+  "upperarm01.L@0.63:95mm",
+  "upperarm01.R@0.63:95mm"
+ ],
+ "twists": [
+  "wrist.L@0.63:92deg",
+  "wrist.L@0.69:159deg",
+  "wrist.R@0.63:92deg",
+  "wrist.R@0.69:159deg",
+  "lowerarm01.L@0.50:73deg",
+  "lowerarm01.R@0.50:73deg"
+ ],
+ "ranges": [],
+ "athlete_frac": 0.95,
+ "thumb": "0.74@0.75",
+ "pose_hash": "80b74ffb5ac7eeb9",
+ "view": [
+  62,
+  8
+ ],
+ "key": "clean-pull-to-hang-clean",
+ "name_en": "Clean Pull to Hang Clean",
+ "template": "olympic",
+ "gender": "f",
+ "seconds": 115.9,
+ "pose_seconds": 2.3,
+ "quality": 72,
+ "bytes": 376927,
+ "frames": 48,
+ "unique": 25
+}

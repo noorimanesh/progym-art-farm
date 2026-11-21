@@ -1,0 +1,53 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 1.4152622167509189e-13,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.6537124589085577
+  },
+  "R": {
+   "slide": 1.4152622167509189e-13,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.6537124589085577
+  }
+ },
+ "support_mm": 0.0,
+ "floor_mm": 8.0,
+ "pops": [
+  "wrist.L@0.63:243mm",
+  "wrist.R@0.63:243mm",
+  "lowerarm01.L@0.63:259mm",
+  "lowerarm01.R@0.63:260mm",
+  "head@0.63:100mm",
+  "upperarm01.L@0.63:120mm",
+  "upperarm01.R@0.63:121mm"
+ ],
+ "twists": [
+  "wrist.L@0.63:93deg",
+  "wrist.L@0.69:151deg",
+  "wrist.R@0.63:93deg",
+  "wrist.R@0.69:151deg",
+  "lowerarm01.L@0.50:76deg",
+  "lowerarm01.R@0.50:77deg"
+ ],
+ "ranges": [],
+ "athlete_frac": 0.95,
+ "thumb": "0.74@0.75",
+ "pose_hash": "73e56d8f7361232e",
+ "view": [
+  30.0,
+  10.0
+ ],
+ "key": "clean-from-blocks",
+ "name_en": "Clean from Blocks",
+ "template": "olympic",
+ "gender": "m",
+ "seconds": 157.3,
+ "pose_seconds": 2.6,
+ "quality": 66,
+ "bytes": 409564,
+ "frames": 48,
+ "unique": 25
+}

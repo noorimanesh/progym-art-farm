@@ -1,0 +1,38 @@
+{
+ "issues": [],
+ "grip_mm": 1.9,
+ "feet": {
+  "R": {
+   "slide": 0.1882555407120355,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.2735558971762655
+  },
+  "L": {
+   "slide": 1.1443916996305594e-13,
+   "gap_min": -0.8555811531841756,
+   "gap_max": -0.8555811531841756
+  }
+ },
+ "support_mm": 0.0,
+ "floor_mm": 6.1,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.95,
+ "thumb": "end@1.00",
+ "pose_hash": "10a34a531c1eddae",
+ "view": [
+  88,
+  6
+ ],
+ "key": "dumbbell-kneel-to-stand",
+ "name_en": "Dumbbell Kneel to Stand",
+ "template": "split_squat",
+ "gender": "m",
+ "seconds": 91.3,
+ "pose_seconds": 1.8,
+ "quality": 72,
+ "bytes": 249737,
+ "frames": 48,
+ "unique": 25
+}

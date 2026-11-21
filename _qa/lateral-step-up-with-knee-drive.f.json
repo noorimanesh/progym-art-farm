@@ -1,0 +1,33 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "R": {
+   "slide": 1.7554167342883506e-13,
+   "gap_min": 1.000003392469917,
+   "gap_max": 1.000003392469917
+  }
+ },
+ "support_mm": 0.0,
+ "floor_mm": 8.0,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.94,
+ "thumb": "end@1.00",
+ "pose_hash": "12f6c651e48b03a2",
+ "view": [
+  15.0,
+  8.0
+ ],
+ "key": "lateral-step-up-with-knee-drive",
+ "name_en": "Lateral Step Up with Knee Drive",
+ "template": "step_up",
+ "gender": "f",
+ "seconds": 79.3,
+ "pose_seconds": 2.1,
+ "quality": 72,
+ "bytes": 233799,
+ "frames": 48,
+ "unique": 25
+}

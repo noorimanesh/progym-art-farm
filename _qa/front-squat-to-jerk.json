@@ -1,0 +1,62 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 1.1443916996305594e-13,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.6537124589085577
+  },
+  "R": {
+   "slide": 1.1443916996305594e-13,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.6537124589085577
+  }
+ },
+ "support_mm": 0.0,
+ "floor_mm": 8.0,
+ "pops": [
+  "wrist.L@0.63:243mm",
+  "wrist.R@0.63:243mm",
+  "upperarm01.L@0.63:120mm",
+  "upperarm01.R@0.63:121mm",
+  "wrist.L@0.75:439mm",
+  "wrist.R@0.75:441mm",
+  "lowerarm01.L@0.75:470mm",
+  "lowerarm01.R@0.75:472mm",
+  "lowerleg01.L@0.75:123mm",
+  "lowerleg01.R@0.75:123mm",
+  "head@0.75:411mm",
+  "upperarm01.L@0.75:404mm",
+  "upperarm01.R@0.75:405mm",
+  "root@0.75:362mm"
+ ],
+ "twists": [
+  "wrist.L@0.63:93deg",
+  "wrist.L@0.69:151deg",
+  "wrist.L@0.93:171deg",
+  "wrist.R@0.63:93deg",
+  "wrist.R@0.69:151deg",
+  "wrist.R@0.93:171deg",
+  "lowerarm01.L@0.50:76deg",
+  "lowerarm01.R@0.50:77deg"
+ ],
+ "ranges": [],
+ "athlete_frac": 0.73,
+ "thumb": "0.74@0.75",
+ "pose_hash": "3fe0891b18b0927e",
+ "view": [
+  62,
+  8
+ ],
+ "key": "front-squat-to-jerk",
+ "name_en": "Front Squat to Jerk",
+ "template": "olympic",
+ "gender": "m",
+ "seconds": 90.3,
+ "pose_seconds": 2.6,
+ "quality": 72,
+ "bytes": 278663,
+ "frames": 48,
+ "unique": 25
+}

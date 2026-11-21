@@ -1,0 +1,44 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 9.71445146547012e-14,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  },
+  "R": {
+   "slide": 9.71445146547012e-14,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  }
+ },
+ "support_mm": 0.0,
+ "floor_mm": 8.0,
+ "pops": [
+  "lowerarm01.L@0.10:524mm",
+  "lowerarm01.R@0.10:524mm"
+ ],
+ "twists": [
+  "wrist.L@0.15:158deg",
+  "wrist.R@0.15:158deg"
+ ],
+ "ranges": [],
+ "athlete_frac": 0.95,
+ "thumb": "end@1.00",
+ "pose_hash": "0965033e1f22db93",
+ "view": [
+  55,
+  8
+ ],
+ "key": "dowel-jerk-press",
+ "name_en": "Dowel Jerk Press",
+ "template": "power_clean",
+ "gender": "m",
+ "seconds": 79.5,
+ "pose_seconds": 2.0,
+ "quality": 72,
+ "bytes": 218060,
+ "frames": 48,
+ "unique": 25
+}

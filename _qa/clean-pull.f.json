@@ -1,0 +1,38 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 1.6711069443220838e-13,
+   "gap_min": -0.4753407724201681,
+   "gap_max": 1.0000003799796102
+  },
+  "R": {
+   "slide": 1.6711069443220838e-13,
+   "gap_min": -0.4753407724201681,
+   "gap_max": 1.0000003799796102
+  }
+ },
+ "support_mm": 0.0,
+ "floor_mm": 6.5,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.8,
+ "thumb": "0.74@0.75",
+ "pose_hash": "31d8d99fff82bbc7",
+ "view": [
+  62,
+  8
+ ],
+ "key": "clean-pull",
+ "name_en": "Clean Pull",
+ "template": "olympic",
+ "gender": "f",
+ "seconds": 101.0,
+ "pose_seconds": 2.1,
+ "quality": 72,
+ "bytes": 308096,
+ "frames": 48,
+ "unique": 25
+}

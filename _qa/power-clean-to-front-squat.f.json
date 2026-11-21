@@ -1,0 +1,58 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 1.2794688166302257e-13,
+   "gap_min": -0.44102898612618463,
+   "gap_max": 1.0000003799796102
+  },
+  "R": {
+   "slide": 1.2794688166302257e-13,
+   "gap_min": -0.44102898612618463,
+   "gap_max": 1.0000003799796102
+  }
+ },
+ "support_mm": 0.0,
+ "floor_mm": 6.6,
+ "pops": [
+  "lowerarm01.L@0.63:166mm",
+  "lowerarm01.R@0.63:166mm",
+  "upperarm01.L@0.63:74mm",
+  "upperarm01.R@0.63:74mm",
+  "wrist.L@0.75:119mm",
+  "wrist.R@0.75:119mm",
+  "lowerarm01.L@0.75:125mm",
+  "lowerarm01.R@0.75:126mm",
+  "head@0.75:108mm",
+  "upperarm01.L@0.75:109mm",
+  "upperarm01.R@0.75:109mm",
+  "root@0.75:101mm"
+ ],
+ "twists": [
+  "wrist.L@0.63:92deg",
+  "wrist.L@0.69:159deg",
+  "wrist.R@0.63:92deg",
+  "wrist.R@0.69:159deg",
+  "lowerarm01.L@0.50:73deg",
+  "lowerarm01.R@0.50:73deg"
+ ],
+ "ranges": [],
+ "athlete_frac": 0.79,
+ "thumb": "0.74@0.75",
+ "pose_hash": "bb9890c6606143aa",
+ "view": [
+  62,
+  8
+ ],
+ "key": "power-clean-to-front-squat",
+ "name_en": "Power Clean to Front Squat",
+ "template": "olympic",
+ "gender": "f",
+ "seconds": 106.2,
+ "pose_seconds": 2.4,
+ "quality": 72,
+ "bytes": 346634,
+ "frames": 48,
+ "unique": 25
+}

@@ -1,0 +1,38 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "R": {
+   "slide": 0.1459112933381609,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.203810080885887
+  },
+  "L": {
+   "slide": 2.2247786310271854e-13,
+   "gap_min": -1.881570339202881,
+   "gap_max": -1.881570339202881
+  }
+ },
+ "support_mm": 0.0,
+ "floor_mm": 5.1,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.93,
+ "thumb": "end@1.00",
+ "pose_hash": "521d0bbe2d4cdb8d",
+ "view": [
+  15.0,
+  8.0
+ ],
+ "key": "dumbbell-overhead-kneel-to-stand",
+ "name_en": "Dumbbell Overhead Kneel to Stand",
+ "template": "split_squat",
+ "gender": "f",
+ "seconds": 87.7,
+ "pose_seconds": 1.7,
+ "quality": 72,
+ "bytes": 240243,
+ "frames": 48,
+ "unique": 25
+}

@@ -1,0 +1,54 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 1.5515838457795457e-13,
+   "gap_min": -0.44102898612618463,
+   "gap_max": 1.0000003799796102
+  },
+  "R": {
+   "slide": 1.5515838457795457e-13,
+   "gap_min": -0.44102898612618463,
+   "gap_max": 1.0000003799796102
+  }
+ },
+ "support_mm": 0.0,
+ "floor_mm": 6.6,
+ "pops": [
+  "lowerarm01.L@0.63:166mm",
+  "lowerarm01.R@0.63:166mm",
+  "lowerleg01.L@0.63:28mm",
+  "lowerleg01.R@0.63:28mm",
+  "head@0.63:58mm",
+  "upperarm01.L@0.63:74mm",
+  "upperarm01.R@0.63:74mm",
+  "root@0.63:47mm"
+ ],
+ "twists": [
+  "wrist.L@0.63:92deg",
+  "wrist.L@0.69:159deg",
+  "wrist.R@0.63:92deg",
+  "wrist.R@0.69:159deg",
+  "lowerarm01.L@0.50:73deg",
+  "lowerarm01.R@0.50:73deg"
+ ],
+ "ranges": [],
+ "athlete_frac": 0.9,
+ "thumb": "0.74@0.75",
+ "pose_hash": "a662565d31bf0773",
+ "view": [
+  62,
+  8
+ ],
+ "key": "power-clean-from-blocks",
+ "name_en": "Power Clean from Blocks",
+ "template": "olympic",
+ "gender": "f",
+ "seconds": 112.4,
+ "pose_seconds": 2.3,
+ "quality": 72,
+ "bytes": 363946,
+ "frames": 48,
+ "unique": 25
+}

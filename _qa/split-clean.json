@@ -1,0 +1,44 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": 0.0,
+ "floor_mm": 6.6,
+ "pops": [
+  "wrist.L@0.63:221mm",
+  "wrist.R@0.63:221mm",
+  "lowerarm01.L@0.63:223mm",
+  "lowerarm01.R@0.63:223mm",
+  "foot.L@0.63:174mm",
+  "foot.R@0.63:214mm",
+  "head@0.63:72mm",
+  "upperarm01.L@0.63:102mm",
+  "upperarm01.R@0.63:102mm"
+ ],
+ "twists": [
+  "wrist.L@0.63:93deg",
+  "wrist.L@0.69:151deg",
+  "wrist.R@0.63:93deg",
+  "wrist.R@0.69:151deg",
+  "lowerarm01.L@0.50:76deg",
+  "lowerarm01.R@0.50:77deg"
+ ],
+ "ranges": [],
+ "athlete_frac": 0.83,
+ "thumb": "0.74@0.75",
+ "pose_hash": "053bc06e968304ca",
+ "view": [
+  62,
+  8
+ ],
+ "key": "split-clean",
+ "name_en": "Split Clean",
+ "template": "olympic",
+ "gender": "m",
+ "seconds": 101.8,
+ "pose_seconds": 2.4,
+ "quality": 72,
+ "bytes": 329039,
+ "frames": 48,
+ "unique": 25
+}
