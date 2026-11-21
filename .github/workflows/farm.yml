@@ -77,7 +77,7 @@ jobs:
           git init -q
           git config user.name "progym-farm"
           git config user.email "build@progym.ir"
-          B="out/slice-${{ matrix.slice }}"
+          B="out/${{ github.run_id }}/slice-${{ matrix.slice }}"
           git checkout -q -b "$B"
           git add -A
           git commit -q -m "Slice ${{ matrix.slice }} of $GITHUB_SHA" || exit 0
