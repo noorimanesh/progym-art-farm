@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": 0.0,
+ "floor_mm": 4.8,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.92,
+ "thumb": "end@1.00",
+ "pose_hash": "9de313750fa5e808",
+ "view": [
+  80,
+  8
+ ],
+ "key": "crab-pose",
+ "name_en": "Crab Pose",
+ "template": "reverse_plank",
+ "gender": "f",
+ "seconds": 131.9,
+ "pose_seconds": 0.7,
+ "quality": 45,
+ "bytes": 403203,
+ "frames": 48,
+ "unique": 25
+}

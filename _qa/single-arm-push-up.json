@@ -1,0 +1,38 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 0.3574181690645125,
+   "gap_min": -2.512900408357382,
+   "gap_max": -2.4288434237241745
+  },
+  "R": {
+   "slide": 0.3574181690645125,
+   "gap_min": -2.512900408357382,
+   "gap_max": -2.4288434237241745
+  }
+ },
+ "support_mm": 0.0,
+ "floor_mm": -2.5,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.92,
+ "thumb": "end@1.00",
+ "pose_hash": "145b4daaccb38ead",
+ "view": [
+  15.0,
+  8.0
+ ],
+ "key": "single-arm-push-up",
+ "name_en": "Single-Arm Push-up",
+ "template": "push_up",
+ "gender": "m",
+ "seconds": 136.2,
+ "pose_seconds": 1.2,
+ "quality": 72,
+ "bytes": 352423,
+ "frames": 48,
+ "unique": 25
+}

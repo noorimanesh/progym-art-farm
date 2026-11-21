@@ -1,0 +1,38 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 0.34577488457017724,
+   "gap_min": -2.6697106361389666,
+   "gap_max": -2.5168247222900897
+  },
+  "R": {
+   "slide": 0.34577488457017724,
+   "gap_min": -2.6697106361389666,
+   "gap_max": -2.5168247222900897
+  }
+ },
+ "support_mm": 0.0,
+ "floor_mm": -2.5,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.92,
+ "thumb": "end@1.00",
+ "pose_hash": "1cc080d0255c0282",
+ "view": [
+  70,
+  10
+ ],
+ "key": "exercise-ball-push-up",
+ "name_en": "Exercise Ball Push-up",
+ "template": "push_up",
+ "gender": "m",
+ "seconds": 126.9,
+ "pose_seconds": 1.2,
+ "quality": 69,
+ "bytes": 371664,
+ "frames": 48,
+ "unique": 25
+}

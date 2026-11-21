@@ -1,0 +1,38 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 2.2377260456559047e-13,
+   "gap_min": -2.7853113301098347,
+   "gap_max": -2.7853113301098347
+  },
+  "R": {
+   "slide": 2.2377260456559047e-13,
+   "gap_min": -2.7853113301098347,
+   "gap_max": -2.7853113301098347
+  }
+ },
+ "support_mm": 0.0,
+ "floor_mm": 4.2,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.92,
+ "thumb": "end@1.00",
+ "pose_hash": "6ce0a24e07cc4752",
+ "view": [
+  70,
+  10
+ ],
+ "key": "triceps-push-up",
+ "name_en": "Triceps Push-up",
+ "template": "push_up",
+ "gender": "f",
+ "seconds": 119.7,
+ "pose_seconds": 0.8,
+ "quality": 72,
+ "bytes": 361098,
+ "frames": 48,
+ "unique": 25
+}

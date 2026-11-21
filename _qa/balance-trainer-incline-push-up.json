@@ -1,0 +1,38 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 0.12594245722509786,
+   "gap_min": -2.5132491886615753,
+   "gap_max": -2.4804200679063797
+  },
+  "R": {
+   "slide": 0.12594245722509786,
+   "gap_min": -2.5132491886615753,
+   "gap_max": -2.4804200679063797
+  }
+ },
+ "support_mm": 0.0,
+ "floor_mm": 4.5,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.92,
+ "thumb": "end@1.00",
+ "pose_hash": "efc55c4c5eb20d0a",
+ "view": [
+  70,
+  10
+ ],
+ "key": "balance-trainer-incline-push-up",
+ "name_en": "Balance Trainer Incline Push-up",
+ "template": "push_up",
+ "gender": "m",
+ "seconds": 128.4,
+ "pose_seconds": 0.9,
+ "quality": 72,
+ "bytes": 338232,
+ "frames": 48,
+ "unique": 25
+}

@@ -1,0 +1,38 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 2.2247786310271854e-13,
+   "gap_min": -2.7853113301098347,
+   "gap_max": -2.7853113301098347
+  },
+  "R": {
+   "slide": 2.2247786310271854e-13,
+   "gap_min": -2.7853113301098347,
+   "gap_max": -2.7853113301098347
+  }
+ },
+ "support_mm": 0.0,
+ "floor_mm": 4.2,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.88,
+ "thumb": "end@1.00",
+ "pose_hash": "1b9874267e0c88e3",
+ "view": [
+  35.0,
+  16.0
+ ],
+ "key": "band-push-up",
+ "name_en": "Band Push-up",
+ "template": "x54",
+ "gender": "f",
+ "seconds": 150.3,
+ "pose_seconds": 0.8,
+ "quality": 42,
+ "bytes": 403377,
+ "frames": 48,
+ "unique": 25
+}

@@ -1,0 +1,38 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 2.2377260456559047e-13,
+   "gap_min": -2.7853113301098347,
+   "gap_max": -2.7853113301098347
+  },
+  "R": {
+   "slide": 2.2377260456559047e-13,
+   "gap_min": -2.7853113301098347,
+   "gap_max": -2.7853113301098347
+  }
+ },
+ "support_mm": 0.0,
+ "floor_mm": 4.2,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.83,
+ "thumb": "end@1.00",
+ "pose_hash": "fb6cef3d4413ec13",
+ "view": [
+  70,
+  10
+ ],
+ "key": "balance-trainer-stability-ball-push-up",
+ "name_en": "Balance Trainer Stability Ball Push-up",
+ "template": "push_up",
+ "gender": "f",
+ "seconds": 123.3,
+ "pose_seconds": 0.8,
+ "quality": 72,
+ "bytes": 339553,
+ "frames": 48,
+ "unique": 25
+}

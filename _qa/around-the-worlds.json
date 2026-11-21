@@ -1,0 +1,38 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 2.288783399261119e-13,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  },
+  "R": {
+   "slide": 2.288783399261119e-13,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  }
+ },
+ "support_mm": -0.6,
+ "floor_mm": 8.0,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.89,
+ "thumb": "start@0.00",
+ "pose_hash": "d15ac83d40381715",
+ "view": [
+  90,
+  16
+ ],
+ "key": "around-the-worlds",
+ "name_en": "Around the Worlds",
+ "template": "db_fly",
+ "gender": "m",
+ "seconds": 109.5,
+ "pose_seconds": 0.9,
+ "quality": 72,
+ "bytes": 279507,
+ "frames": 48,
+ "unique": 25
+}

@@ -1,0 +1,38 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 0.2669423387380566,
+   "gap_min": -2.9355711936950857,
+   "gap_max": -2.787960290908831
+  },
+  "R": {
+   "slide": 0.2669423387380566,
+   "gap_min": -2.9355711936950857,
+   "gap_max": -2.787960290908831
+  }
+ },
+ "support_mm": 0.0,
+ "floor_mm": 4.8,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.92,
+ "thumb": "end@1.00",
+ "pose_hash": "f75de3b8b00859dd",
+ "view": [
+  70,
+  10
+ ],
+ "key": "suspension-push-up",
+ "name_en": "Suspension Push-up",
+ "template": "push_up",
+ "gender": "f",
+ "seconds": 124.5,
+ "pose_seconds": 1.0,
+ "quality": 66,
+ "bytes": 367553,
+ "frames": 48,
+ "unique": 25
+}

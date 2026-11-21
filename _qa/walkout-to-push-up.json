@@ -1,0 +1,46 @@
+{
+ "issues": [
+  "foot_slideL:25mm",
+  "foot_slideR:25mm",
+  "floor:-69mm",
+  "twist:wrist.L@0.19:80deg,wrist.R@0.19:82deg"
+ ],
+ "grip_mm": 0.2,
+ "feet": {
+  "L": {
+   "slide": 24.641095863769614,
+   "gap_min": -2.306235272437334,
+   "gap_max": 1.763429708778858
+  },
+  "R": {
+   "slide": 24.641095863769614,
+   "gap_min": -2.306235272437334,
+   "gap_max": 1.763429708778858
+  }
+ },
+ "support_mm": 0.0,
+ "floor_mm": -68.5,
+ "pops": [],
+ "twists": [
+  "wrist.L@0.19:80deg",
+  "wrist.R@0.19:82deg"
+ ],
+ "ranges": [],
+ "athlete_frac": 0.95,
+ "thumb": "end@0.25",
+ "pose_hash": "4d8065507ef88a3a",
+ "view": [
+  75.0,
+  10.0
+ ],
+ "key": "walkout-to-push-up",
+ "name_en": "Walkout to Push-up",
+ "template": "x54",
+ "gender": "m",
+ "seconds": 191.9,
+ "pose_seconds": 1.6,
+ "quality": 72,
+ "bytes": 300985,
+ "frames": 48,
+ "unique": 48
+}

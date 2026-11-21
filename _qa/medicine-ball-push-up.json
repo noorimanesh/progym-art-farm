@@ -1,0 +1,38 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 0.46686496739240396,
+   "gap_min": -2.5132491886615753,
+   "gap_max": -2.415510144084692
+  },
+  "R": {
+   "slide": 0.46686496739240396,
+   "gap_min": -2.5132491886615753,
+   "gap_max": -2.415510144084692
+  }
+ },
+ "support_mm": 0.0,
+ "floor_mm": 4.5,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.92,
+ "thumb": "end@1.00",
+ "pose_hash": "07ad381203474ded",
+ "view": [
+  70,
+  10
+ ],
+ "key": "medicine-ball-push-up",
+ "name_en": "Medicine Ball Push-up",
+ "template": "push_up",
+ "gender": "m",
+ "seconds": 123.1,
+ "pose_seconds": 1.0,
+ "quality": 72,
+ "bytes": 336448,
+ "frames": 48,
+ "unique": 25
+}
