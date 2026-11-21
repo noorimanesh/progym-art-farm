@@ -1,0 +1,38 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 1.1188630228279524e-13,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  },
+  "R": {
+   "slide": 1.1188630228279524e-13,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  }
+ },
+ "support_mm": -0.5,
+ "floor_mm": -2.5,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.92,
+ "thumb": "end@1.00",
+ "pose_hash": "c665ff54ba4df2da",
+ "view": [
+  90,
+  7
+ ],
+ "key": "mini-band-glute-bridge",
+ "name_en": "Mini Band Glute Bridge",
+ "template": "glute_bridge",
+ "gender": "f",
+ "seconds": 196.2,
+ "pose_seconds": 3.2,
+ "quality": 54,
+ "bytes": 375926,
+ "frames": 48,
+ "unique": 25
+}

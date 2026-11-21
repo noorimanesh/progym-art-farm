@@ -1,0 +1,38 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 4.4754520913118095e-13,
+   "gap_min": 1.0000096559524552,
+   "gap_max": 1.0000096559524552
+  },
+  "R": {
+   "slide": 4.4754520913118095e-13,
+   "gap_min": 1.0000096559524552,
+   "gap_max": 1.0000096559524552
+  }
+ },
+ "support_mm": 0.4,
+ "floor_mm": 218.0,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.74,
+ "thumb": "end@1.00",
+ "pose_hash": "aaf74499fd4d6c0c",
+ "view": [
+  90,
+  7
+ ],
+ "key": "balance-trainer-balance-bar-hip-thruster",
+ "name_en": "Balance Trainer Balance Bar Hip Thruster",
+ "template": "hip_thrust",
+ "gender": "m",
+ "seconds": 201.8,
+ "pose_seconds": 2.9,
+ "quality": 72,
+ "bytes": 347183,
+ "frames": 48,
+ "unique": 25
+}

@@ -1,0 +1,29 @@
+{
+ "issues": [
+  "floor:-288mm"
+ ],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": 0.6,
+ "floor_mm": -288.1,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.92,
+ "thumb": "end@1.00",
+ "pose_hash": "9e0d76d6059a61dd",
+ "view": [
+  80.0,
+  10.0
+ ],
+ "key": "balance-trainer-reverse-hyperextension",
+ "name_en": "Balance Trainer Reverse Hyperextension",
+ "template": "x54",
+ "gender": "m",
+ "seconds": 153.4,
+ "pose_seconds": 1.8,
+ "quality": 72,
+ "bytes": 291281,
+ "frames": 48,
+ "unique": 25
+}

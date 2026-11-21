@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": -0.5,
+ "floor_mm": -2.5,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.92,
+ "thumb": "end@1.00",
+ "pose_hash": "7729171ffcd12b81",
+ "view": [
+  15.0,
+  8.0
+ ],
+ "key": "mini-band-fire-hydrant",
+ "name_en": "Mini Band Fire Hydrant",
+ "template": "fire_hydrant",
+ "gender": "m",
+ "seconds": 251.8,
+ "pose_seconds": 1.7,
+ "quality": 51,
+ "bytes": 359775,
+ "frames": 48,
+ "unique": 25
+}

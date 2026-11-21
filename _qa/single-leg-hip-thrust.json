@@ -1,0 +1,37 @@
+{
+ "issues": [
+  "pop:head@0.20:17mm"
+ ],
+ "grip_mm": 0.0,
+ "feet": {
+  "R": {
+   "slide": 4.440892098500626e-13,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  }
+ },
+ "support_mm": 0.5,
+ "floor_mm": 8.0,
+ "pops": [
+  "head@0.20:17mm"
+ ],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.92,
+ "thumb": "end@1.00",
+ "pose_hash": "f862bea28cc148ac",
+ "view": [
+  90,
+  7
+ ],
+ "key": "single-leg-hip-thrust",
+ "name_en": "Single-Leg Hip Thrust",
+ "template": "hip_thrust",
+ "gender": "m",
+ "seconds": 227.2,
+ "pose_seconds": 2.8,
+ "quality": 66,
+ "bytes": 364381,
+ "frames": 48,
+ "unique": 25
+}

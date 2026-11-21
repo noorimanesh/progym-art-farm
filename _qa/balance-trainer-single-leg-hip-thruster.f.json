@@ -1,0 +1,33 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "R": {
+   "slide": 2.2377260456559047e-13,
+   "gap_min": 0.9999947547912613,
+   "gap_max": 0.9999947547912613
+  }
+ },
+ "support_mm": 0.6,
+ "floor_mm": 198.8,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.89,
+ "thumb": "end@1.00",
+ "pose_hash": "3111be5c88978db5",
+ "view": [
+  90,
+  7
+ ],
+ "key": "balance-trainer-single-leg-hip-thruster",
+ "name_en": "Balance Trainer Single-Leg Hip Thruster",
+ "template": "hip_thrust",
+ "gender": "f",
+ "seconds": 221.9,
+ "pose_seconds": 2.8,
+ "quality": 63,
+ "bytes": 382144,
+ "frames": 48,
+ "unique": 25
+}

@@ -1,0 +1,37 @@
+{
+ "issues": [
+  "pop:head@0.20:17mm"
+ ],
+ "grip_mm": 0.0,
+ "feet": {
+  "R": {
+   "slide": 4.449557262054371e-13,
+   "gap_min": -7.550934672355653,
+   "gap_max": -7.550934672355653
+  }
+ },
+ "support_mm": 0.5,
+ "floor_mm": 128.6,
+ "pops": [
+  "head@0.20:17mm"
+ ],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.92,
+ "thumb": "end@1.00",
+ "pose_hash": "d4b3eb0ca825ed52",
+ "view": [
+  80.0,
+  8.0
+ ],
+ "key": "single-leg-foam-roll-hip-thrust",
+ "name_en": "Single-Leg Foam Roll Hip Thrust",
+ "template": "x54",
+ "gender": "m",
+ "seconds": 225.0,
+ "pose_seconds": 2.8,
+ "quality": 63,
+ "bytes": 361319,
+ "frames": 48,
+ "unique": 25
+}

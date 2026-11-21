@@ -1,0 +1,33 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 3.3565890684838574e-13,
+   "gap_min": 1.0000048875808687,
+   "gap_max": 1.0000048875808687
+  }
+ },
+ "support_mm": -0.5,
+ "floor_mm": -2.5,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.82,
+ "thumb": "end@1.00",
+ "pose_hash": "786dc9b6f2e6fedd",
+ "view": [
+  90,
+  16
+ ],
+ "key": "balance-trainer-lying-toe-tap",
+ "name_en": "Balance Trainer Lying Toe Tap",
+ "template": "dead_bug",
+ "gender": "m",
+ "seconds": 226.4,
+ "pose_seconds": 1.8,
+ "quality": 69,
+ "bytes": 327415,
+ "frames": 48,
+ "unique": 25
+}

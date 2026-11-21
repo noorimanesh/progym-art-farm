@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": 0.2,
+ "floor_mm": -2.1,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.9,
+ "thumb": "end@1.00",
+ "pose_hash": "4560f0de81054730",
+ "view": [
+  90,
+  16
+ ],
+ "key": "prone-flutter-kick",
+ "name_en": "Prone Flutter Kick",
+ "template": "flutter_kick",
+ "gender": "f",
+ "seconds": 177.6,
+ "pose_seconds": 1.8,
+ "quality": 72,
+ "bytes": 317300,
+ "frames": 48,
+ "unique": 25
+}
