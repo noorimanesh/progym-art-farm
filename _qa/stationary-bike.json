@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": -0.6,
+ "floor_mm": 226.0,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.81,
+ "thumb": "0.25@0.25",
+ "pose_hash": "986a7d697de0009d",
+ "view": [
+  90,
+  7
+ ],
+ "key": "stationary-bike",
+ "name_en": "Stationary Bike",
+ "template": "bike",
+ "gender": "m",
+ "seconds": 272.5,
+ "pose_seconds": 3.2,
+ "quality": 72,
+ "bytes": 297256,
+ "frames": 48,
+ "unique": 48
+}

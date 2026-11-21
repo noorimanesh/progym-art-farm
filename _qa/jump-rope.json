@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": 0.0,
+ "floor_mm": 8.2,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.95,
+ "thumb": "0.25@0.25",
+ "pose_hash": "b54ed52b77f5055e",
+ "view": [
+  40,
+  8
+ ],
+ "key": "jump-rope",
+ "name_en": "Jump Rope",
+ "template": "jump_rope",
+ "gender": "m",
+ "seconds": 208.2,
+ "pose_seconds": 2.8,
+ "quality": 72,
+ "bytes": 283325,
+ "frames": 48,
+ "unique": 48
+}

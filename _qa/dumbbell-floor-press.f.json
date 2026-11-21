@@ -1,0 +1,38 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 0.0,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  },
+  "R": {
+   "slide": 0.0,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  }
+ },
+ "support_mm": 0.3,
+ "floor_mm": -2.0,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.89,
+ "thumb": "start@0.00",
+ "pose_hash": "b390d4a28234626b",
+ "view": [
+  70,
+  16
+ ],
+ "key": "dumbbell-floor-press",
+ "name_en": "Dumbbell Floor Press",
+ "template": "db_bench_press",
+ "gender": "f",
+ "seconds": 238.7,
+ "pose_seconds": 1.6,
+ "quality": 72,
+ "bytes": 345346,
+ "frames": 48,
+ "unique": 25
+}

@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": 0.6,
+ "floor_mm": 339.5,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.88,
+ "thumb": "start@0.00",
+ "pose_hash": "abfd43663d79c2ea",
+ "view": [
+  42.0,
+  30.0
+ ],
+ "key": "decline-dumbbell-bench-press",
+ "name_en": "Decline Dumbbell Bench Press",
+ "template": "db_bench_press",
+ "gender": "m",
+ "seconds": 204.9,
+ "pose_seconds": 1.8,
+ "quality": 72,
+ "bytes": 319700,
+ "frames": 48,
+ "unique": 25
+}

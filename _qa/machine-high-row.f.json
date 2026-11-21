@@ -1,0 +1,38 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 1.1102230246251565e-13,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  },
+  "R": {
+   "slide": 1.1102230246251565e-13,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  }
+ },
+ "support_mm": -0.4,
+ "floor_mm": 8.0,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.95,
+ "thumb": "end@1.00",
+ "pose_hash": "b1b0bc75119b9abf",
+ "view": [
+  90,
+  7
+ ],
+ "key": "machine-high-row",
+ "name_en": "Machine High Row",
+ "template": "machine_row",
+ "gender": "f",
+ "seconds": 192.5,
+ "pose_seconds": 1.7,
+ "quality": 72,
+ "bytes": 291884,
+ "frames": 48,
+ "unique": 25
+}

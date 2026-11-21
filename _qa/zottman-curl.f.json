@@ -1,0 +1,38 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 8.777083671441753e-14,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  },
+  "R": {
+   "slide": 8.777083671441753e-14,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  }
+ },
+ "support_mm": 0.0,
+ "floor_mm": 8.0,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.94,
+ "thumb": "end@1.00",
+ "pose_hash": "f2c35ea28531e09f",
+ "view": [
+  15.0,
+  8.0
+ ],
+ "key": "zottman-curl",
+ "name_en": "Zottman Curl",
+ "template": "db_curl",
+ "gender": "f",
+ "seconds": 108.4,
+ "pose_seconds": 2.0,
+ "quality": 72,
+ "bytes": 236558,
+ "frames": 48,
+ "unique": 25
+}

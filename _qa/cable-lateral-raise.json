@@ -1,0 +1,38 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 7.47341745035227e-14,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  },
+  "R": {
+   "slide": 7.47341745035227e-14,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  }
+ },
+ "support_mm": 0.0,
+ "floor_mm": 8.0,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.95,
+ "thumb": "end@1.00",
+ "pose_hash": "1bcff4e2a1961b44",
+ "view": [
+  20,
+  8
+ ],
+ "key": "cable-lateral-raise",
+ "name_en": "Cable Lateral Raise",
+ "template": "lateral_raise",
+ "gender": "m",
+ "seconds": 160.7,
+ "pose_seconds": 2.2,
+ "quality": 72,
+ "bytes": 268575,
+ "frames": 48,
+ "unique": 25
+}

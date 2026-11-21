@@ -1,0 +1,38 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 2.220446049250313e-13,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  },
+  "R": {
+   "slide": 2.220446049250313e-13,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  }
+ },
+ "support_mm": 0.5,
+ "floor_mm": 8.0,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.87,
+ "thumb": "end@1.00",
+ "pose_hash": "282f13d54004f2c1",
+ "view": [
+  90,
+  16
+ ],
+ "key": "dumbbell-pullover",
+ "name_en": "Dumbbell Pullover",
+ "template": "pullover",
+ "gender": "m",
+ "seconds": 225.8,
+ "pose_seconds": 1.7,
+ "quality": 72,
+ "bytes": 256129,
+ "frames": 48,
+ "unique": 25
+}

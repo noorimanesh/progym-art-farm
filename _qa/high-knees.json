@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": -0.4,
+ "floor_mm": -0.4,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.95,
+ "thumb": "end@1.00",
+ "pose_hash": "80d4fe3c7941a53c",
+ "view": [
+  70,
+  8
+ ],
+ "key": "high-knees",
+ "name_en": "High Knees",
+ "template": "high_knees",
+ "gender": "m",
+ "seconds": 114.1,
+ "pose_seconds": 2.3,
+ "quality": 72,
+ "bytes": 273431,
+ "frames": 48,
+ "unique": 25
+}

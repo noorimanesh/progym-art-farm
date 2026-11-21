@@ -1,0 +1,38 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 2.288783399261119e-13,
+   "gap_min": -1.881570339202881,
+   "gap_max": -1.881570339202881
+  },
+  "R": {
+   "slide": 2.288783399261119e-13,
+   "gap_min": -1.881570339202881,
+   "gap_max": -1.881570339202881
+  }
+ },
+ "support_mm": 0.5,
+ "floor_mm": 5.1,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.71,
+ "thumb": "end@1.00",
+ "pose_hash": "8bd15b811de6741c",
+ "view": [
+  70,
+  12
+ ],
+ "key": "spider-curl",
+ "name_en": "Spider Curl",
+ "template": "chest_supported",
+ "gender": "f",
+ "seconds": 224.8,
+ "pose_seconds": 2.0,
+ "quality": 69,
+ "bytes": 362170,
+ "frames": 48,
+ "unique": 25
+}

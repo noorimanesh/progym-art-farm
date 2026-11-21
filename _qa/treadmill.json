@@ -1,0 +1,36 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": 0.0,
+ "floor_mm": 105.0,
+ "pops": [],
+ "twists": [
+  "wrist.L@0.25:90deg",
+  "wrist.L@0.27:90deg",
+  "wrist.L@0.75:90deg",
+  "wrist.L@0.77:90deg",
+  "wrist.R@0.25:90deg",
+  "wrist.R@0.27:90deg",
+  "wrist.R@0.75:90deg",
+  "wrist.R@0.77:90deg"
+ ],
+ "ranges": [],
+ "athlete_frac": 0.95,
+ "thumb": "0.25@0.25",
+ "pose_hash": "3981eaa85d5bd671",
+ "view": [
+  80,
+  8
+ ],
+ "key": "treadmill",
+ "name_en": "Treadmill",
+ "template": "treadmill_run",
+ "gender": "m",
+ "seconds": 328.2,
+ "pose_seconds": 4.5,
+ "quality": 72,
+ "bytes": 332804,
+ "frames": 48,
+ "unique": 48
+}
