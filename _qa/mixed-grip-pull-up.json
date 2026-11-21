@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": 0.0,
+ "floor_mm": 359.6,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.76,
+ "thumb": "end@1.00",
+ "pose_hash": "b49d489830082229",
+ "view": [
+  140,
+  10
+ ],
+ "key": "mixed-grip-pull-up",
+ "name_en": "Mixed Grip Pull-up",
+ "template": "pull_up",
+ "gender": "m",
+ "seconds": 94.6,
+ "pose_seconds": 1.6,
+ "quality": 72,
+ "bytes": 208566,
+ "frames": 48,
+ "unique": 25
+}

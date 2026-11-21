@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": 0.0,
+ "floor_mm": 380.6,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.76,
+ "thumb": "end@1.00",
+ "pose_hash": "6145cb5b20137da0",
+ "view": [
+  140,
+  10
+ ],
+ "key": "wide-grip-pull-up",
+ "name_en": "Wide Grip Pull-up",
+ "template": "pull_up",
+ "gender": "m",
+ "seconds": 94.8,
+ "pose_seconds": 1.6,
+ "quality": 72,
+ "bytes": 204266,
+ "frames": 48,
+ "unique": 25
+}

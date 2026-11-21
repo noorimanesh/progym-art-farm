@@ -1,0 +1,38 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 5.551115123125783e-14,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  },
+  "R": {
+   "slide": 5.551115123125783e-14,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  }
+ },
+ "support_mm": 0.0,
+ "floor_mm": 8.0,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.95,
+ "thumb": "end@1.00",
+ "pose_hash": "b11e2d9c43b1a913",
+ "view": [
+  55,
+  8
+ ],
+ "key": "isometric-biceps-hold",
+ "name_en": "Isometric Biceps Hold",
+ "template": "db_curl",
+ "gender": "m",
+ "seconds": 85.9,
+ "pose_seconds": 1.2,
+ "quality": 72,
+ "bytes": 194114,
+ "frames": 48,
+ "unique": 25
+}

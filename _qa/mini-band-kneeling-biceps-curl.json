@@ -1,0 +1,33 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "R": {
+   "slide": 0.0,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  }
+ },
+ "support_mm": 6.0,
+ "floor_mm": 4.0,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.95,
+ "thumb": "end@1.00",
+ "pose_hash": "0475983148a504fb",
+ "view": [
+  55,
+  8
+ ],
+ "key": "mini-band-kneeling-biceps-curl",
+ "name_en": "Mini Band Kneeling Biceps Curl",
+ "template": "db_curl",
+ "gender": "m",
+ "seconds": 164.6,
+ "pose_seconds": 6.4,
+ "quality": 72,
+ "bytes": 240491,
+ "frames": 48,
+ "unique": 25
+}

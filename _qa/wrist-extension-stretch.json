@@ -1,0 +1,38 @@
+{
+ "issues": [],
+ "grip_mm": 3.9,
+ "feet": {
+  "L": {
+   "slide": 5.003707553108401e-14,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  },
+  "R": {
+   "slide": 5.003707553108401e-14,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  }
+ },
+ "support_mm": 0.0,
+ "floor_mm": 8.0,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.95,
+ "thumb": "end@1.00",
+ "pose_hash": "271b7ed01d021b2a",
+ "view": [
+  90.0,
+  8.0
+ ],
+ "key": "wrist-extension-stretch",
+ "name_en": "Wrist Extension Stretch",
+ "template": "arm_stretch",
+ "gender": "m",
+ "seconds": 83.2,
+ "pose_seconds": 1.3,
+ "quality": 75,
+ "bytes": 160613,
+ "frames": 48,
+ "unique": 25
+}

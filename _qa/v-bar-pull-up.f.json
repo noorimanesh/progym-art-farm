@@ -1,0 +1,29 @@
+{
+ "issues": [
+  "grip:gripL:9mm"
+ ],
+ "grip_mm": 8.7,
+ "feet": {},
+ "support_mm": 0.0,
+ "floor_mm": 374.6,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.73,
+ "thumb": "end@1.00",
+ "pose_hash": "0ff44d58eb7c8e35",
+ "view": [
+  90.0,
+  8.0
+ ],
+ "key": "v-bar-pull-up",
+ "name_en": "V-Bar Pull-up",
+ "template": "pull_up",
+ "gender": "f",
+ "seconds": 87.8,
+ "pose_seconds": 2.0,
+ "quality": 78,
+ "bytes": 177055,
+ "frames": 48,
+ "unique": 25
+}

@@ -1,0 +1,38 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 2.2377260456559047e-13,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  },
+  "R": {
+   "slide": 2.2377260456559047e-13,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  }
+ },
+ "support_mm": 0.5,
+ "floor_mm": 8.0,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.95,
+ "thumb": "end@1.00",
+ "pose_hash": "d3b3d73bd41063eb",
+ "view": [
+  15.0,
+  8.0
+ ],
+ "key": "dumbbell-hammer-curl-to-front-press",
+ "name_en": "Dumbbell Hammer Curl To Front Press",
+ "template": "db_curl",
+ "gender": "m",
+ "seconds": 93.7,
+ "pose_seconds": 1.4,
+ "quality": 72,
+ "bytes": 286385,
+ "frames": 48,
+ "unique": 25
+}

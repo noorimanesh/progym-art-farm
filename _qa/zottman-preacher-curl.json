@@ -1,0 +1,38 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 0.0,
+   "gap_min": 1.0000114440917862,
+   "gap_max": 1.0000114440917862
+  },
+  "R": {
+   "slide": 0.0,
+   "gap_min": 1.0000114440917862,
+   "gap_max": 1.0000114440917862
+  }
+ },
+ "support_mm": 0.4,
+ "floor_mm": 138.0,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.95,
+ "thumb": "end@1.00",
+ "pose_hash": "098e6ee954977c91",
+ "view": [
+  100,
+  6
+ ],
+ "key": "zottman-preacher-curl",
+ "name_en": "Zottman Preacher Curl",
+ "template": "preacher_curl",
+ "gender": "m",
+ "seconds": 114.6,
+ "pose_seconds": 1.7,
+ "quality": 72,
+ "bytes": 242294,
+ "frames": 48,
+ "unique": 25
+}
