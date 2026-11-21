@@ -1,0 +1,34 @@
+name: Muscle map
+
+# 5.5 realistic muscle map: clay figure front and back (male, female) and one mask per body-map muscle; published to
+# the branch out/musclemap.
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  map:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: pip
+          cache-dependency-path: farm/requirements.txt
+      - run: pip install -q -r farm/requirements.txt
+      - name: Render
+        run: THREADS=$(nproc) python tools/musclemap.py out/map m,f
+      - name: Publish to out/musclemap
+        run: |
+          cd out/map
+          git init -q
+          git config user.name "progym-farm"
+          git config user.email "build@progym.ir"
+          git checkout -q -b out/musclemap
+          git add -A
+          git commit -q -m "Muscle map of $GITHUB_SHA"
+          git push -q -f "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git" out/musclemap
