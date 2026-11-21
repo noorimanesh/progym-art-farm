@@ -1,0 +1,33 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 1.1443916996305594e-13,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  }
+ },
+ "support_mm": 0.6,
+ "floor_mm": 8.0,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.92,
+ "thumb": "end@1.00",
+ "pose_hash": "f9060320f1ac83f8",
+ "view": [
+  80.0,
+  12.0
+ ],
+ "key": "balance-trainer-single-leg-crunch",
+ "name_en": "Balance Trainer Single-Leg Crunch",
+ "template": "x54",
+ "gender": "f",
+ "seconds": 43.4,
+ "pose_seconds": 0.7,
+ "quality": 72,
+ "bytes": 156326,
+ "frames": 36,
+ "unique": 19
+}
