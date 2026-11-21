@@ -1,0 +1,33 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "R": {
+   "slide": 5.721958498152797e-14,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  }
+ },
+ "support_mm": 0.0,
+ "floor_mm": 4.0,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.94,
+ "thumb": "end@1.00",
+ "pose_hash": "1327c394c66ec4d8",
+ "view": [
+  15.0,
+  8.0
+ ],
+ "key": "airplane",
+ "name_en": "Airplane",
+ "template": "single_leg_rdl",
+ "gender": "f",
+ "seconds": 56.2,
+ "pose_seconds": 2.4,
+ "quality": 72,
+ "bytes": 231915,
+ "frames": 48,
+ "unique": 25
+}

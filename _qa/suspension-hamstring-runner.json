@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": -0.5,
+ "floor_mm": -2.5,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.92,
+ "thumb": "end@1.00",
+ "pose_hash": "97d0b4511c11b92d",
+ "view": [
+  80.0,
+  10.0
+ ],
+ "key": "suspension-hamstring-runner",
+ "name_en": "Suspension Hamstring Runner",
+ "template": "x54",
+ "gender": "m",
+ "seconds": 133.9,
+ "pose_seconds": 0.5,
+ "quality": 63,
+ "bytes": 371137,
+ "frames": 48,
+ "unique": 25
+}

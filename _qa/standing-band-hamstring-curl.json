@@ -1,0 +1,33 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "R": {
+   "slide": 4.3885418357208765e-14,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  }
+ },
+ "support_mm": 0.0,
+ "floor_mm": 4.0,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.95,
+ "thumb": "end@1.00",
+ "pose_hash": "b12d167c5afb7b48",
+ "view": [
+  90,
+  7
+ ],
+ "key": "standing-band-hamstring-curl",
+ "name_en": "Standing Band Hamstring Curl",
+ "template": "standing_leg_curl",
+ "gender": "m",
+ "seconds": 88.3,
+ "pose_seconds": 2.7,
+ "quality": 72,
+ "bytes": 277074,
+ "frames": 48,
+ "unique": 25
+}

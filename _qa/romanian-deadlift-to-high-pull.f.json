@@ -1,0 +1,38 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 1.0103182026100663e-13,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  },
+  "R": {
+   "slide": 1.0103182026100663e-13,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  }
+ },
+ "support_mm": 0.0,
+ "floor_mm": 8.0,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.85,
+ "thumb": "0.74@0.75",
+ "pose_hash": "e349cb028a564930",
+ "view": [
+  62,
+  8
+ ],
+ "key": "romanian-deadlift-to-high-pull",
+ "name_en": "Romanian Deadlift to High Pull",
+ "template": "romanian_deadlift",
+ "gender": "f",
+ "seconds": 159.5,
+ "pose_seconds": 2.4,
+ "quality": 72,
+ "bytes": 341472,
+ "frames": 48,
+ "unique": 48
+}

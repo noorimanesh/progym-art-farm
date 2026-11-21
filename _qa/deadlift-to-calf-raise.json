@@ -1,0 +1,38 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 1.249000902703301e-13,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.7792929261922834
+  },
+  "R": {
+   "slide": 1.249000902703301e-13,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.7792929261922834
+  }
+ },
+ "support_mm": 0.0,
+ "floor_mm": 8.0,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.87,
+ "thumb": "0.74@0.75",
+ "pose_hash": "bcec681d3383626a",
+ "view": [
+  70,
+  6
+ ],
+ "key": "deadlift-to-calf-raise",
+ "name_en": "Deadlift to Calf Raise",
+ "template": "calf_raise",
+ "gender": "m",
+ "seconds": 133.0,
+ "pose_seconds": 2.8,
+ "quality": 72,
+ "bytes": 279626,
+ "frames": 48,
+ "unique": 48
+}

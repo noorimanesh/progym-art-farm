@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": 0.0,
+ "floor_mm": -2.5,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.92,
+ "thumb": "end@1.00",
+ "pose_hash": "9dad7af72d29fb54",
+ "view": [
+  80,
+  10
+ ],
+ "key": "foam-roll-hamstrings",
+ "name_en": "Foam Roll Hamstrings",
+ "template": "foam_roll",
+ "gender": "m",
+ "seconds": 112.7,
+ "pose_seconds": 0.9,
+ "quality": 72,
+ "bytes": 357352,
+ "frames": 48,
+ "unique": 25
+}

@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": 0.3,
+ "floor_mm": -2.1,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.93,
+ "thumb": "end@1.00",
+ "pose_hash": "64d2ef48ea35a483",
+ "view": [
+  80.0,
+  8.0
+ ],
+ "key": "bodyweight-kneeling-banded-deadlift",
+ "name_en": "Bodyweight Kneeling Banded Deadlift",
+ "template": "x54",
+ "gender": "f",
+ "seconds": 118.5,
+ "pose_seconds": 1.1,
+ "quality": 72,
+ "bytes": 345155,
+ "frames": 48,
+ "unique": 25
+}

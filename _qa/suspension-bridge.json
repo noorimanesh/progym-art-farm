@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": -0.5,
+ "floor_mm": -2.5,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.92,
+ "thumb": "end@1.00",
+ "pose_hash": "a3aaa436d8265ac3",
+ "view": [
+  90,
+  7
+ ],
+ "key": "suspension-bridge",
+ "name_en": "Suspension Bridge",
+ "template": "glute_bridge",
+ "gender": "m",
+ "seconds": 109.9,
+ "pose_seconds": 1.5,
+ "quality": 72,
+ "bytes": 318000,
+ "frames": 48,
+ "unique": 25
+}

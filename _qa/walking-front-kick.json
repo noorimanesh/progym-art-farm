@@ -1,0 +1,36 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 7.850462293418876e-14,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  }
+ },
+ "support_mm": 0.0,
+ "floor_mm": 4.0,
+ "pops": [
+  "foot.R@0.04:225mm",
+  "foot.R@0.94:225mm"
+ ],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.95,
+ "thumb": "0.5@0.50",
+ "pose_hash": "cb87c05f8d4a0520",
+ "view": [
+  80.0,
+  8.0
+ ],
+ "key": "walking-front-kick",
+ "name_en": "Walking Front Kick",
+ "template": "x54f",
+ "gender": "m",
+ "seconds": 134.3,
+ "pose_seconds": 3.5,
+ "quality": 72,
+ "bytes": 258259,
+ "frames": 48,
+ "unique": 48
+}

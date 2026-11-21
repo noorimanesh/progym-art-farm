@@ -1,0 +1,37 @@
+{
+ "issues": [
+  "pop:foot.R@0.77:240mm"
+ ],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 5.551115123125783e-14,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  }
+ },
+ "support_mm": 0.0,
+ "floor_mm": 4.0,
+ "pops": [
+  "foot.R@0.77:240mm"
+ ],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.95,
+ "thumb": "0.25@0.25",
+ "pose_hash": "42ffd6b882cadd15",
+ "view": [
+  85.0,
+  8.0
+ ],
+ "key": "single-leg-cycles",
+ "name_en": "Single-Leg Cycles",
+ "template": "x54",
+ "gender": "m",
+ "seconds": 204.4,
+ "pose_seconds": 4.4,
+ "quality": 72,
+ "bytes": 235136,
+ "frames": 48,
+ "unique": 48
+}
