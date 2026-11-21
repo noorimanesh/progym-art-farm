@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": 0.0,
+ "floor_mm": 480.8,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.7,
+ "thumb": "end@1.00",
+ "pose_hash": "0ec00f101024e8fc",
+ "view": [
+  60,
+  8
+ ],
+ "key": "hanging-leg-raise",
+ "name_en": "Hanging Leg Raise",
+ "template": "hanging_leg_raise",
+ "gender": "m",
+ "seconds": 121.5,
+ "pose_seconds": 2.2,
+ "quality": 72,
+ "bytes": 178954,
+ "frames": 48,
+ "unique": 25
+}

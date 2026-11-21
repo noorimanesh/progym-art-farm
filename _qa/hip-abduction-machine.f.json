@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": 0.6,
+ "floor_mm": 106.4,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.95,
+ "thumb": "end@1.00",
+ "pose_hash": "a485afb6a88f990a",
+ "view": [
+  6,
+  6
+ ],
+ "key": "hip-abduction-machine",
+ "name_en": "Hip Abduction Machine",
+ "template": "hip_abductor_machine",
+ "gender": "f",
+ "seconds": 145.3,
+ "pose_seconds": 1.9,
+ "quality": 72,
+ "bytes": 275078,
+ "frames": 48,
+ "unique": 25
+}

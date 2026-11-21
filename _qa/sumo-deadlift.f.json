@@ -1,0 +1,38 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 1.3877787807814457e-13,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  },
+  "R": {
+   "slide": 1.3877787807814457e-13,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  }
+ },
+ "support_mm": 0.0,
+ "floor_mm": 8.0,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.87,
+ "thumb": "start@0.00",
+ "pose_hash": "b4348b34aa244597",
+ "view": [
+  15.0,
+  10.0
+ ],
+ "key": "sumo-deadlift",
+ "name_en": "Sumo Deadlift",
+ "template": "deadlift",
+ "gender": "f",
+ "seconds": 210.7,
+ "pose_seconds": 2.8,
+ "quality": 72,
+ "bytes": 365295,
+ "frames": 48,
+ "unique": 25
+}

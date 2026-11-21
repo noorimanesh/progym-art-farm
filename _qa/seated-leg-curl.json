@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": 0.0,
+ "floor_mm": 27.8,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.95,
+ "thumb": "end@1.00",
+ "pose_hash": "a43355a8760e09e8",
+ "view": [
+  72,
+  8
+ ],
+ "key": "seated-leg-curl",
+ "name_en": "Seated Leg Curl",
+ "template": "seated_leg_curl",
+ "gender": "m",
+ "seconds": 180.3,
+ "pose_seconds": 1.8,
+ "quality": 72,
+ "bytes": 328116,
+ "frames": 48,
+ "unique": 25
+}

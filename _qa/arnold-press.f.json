@@ -1,0 +1,45 @@
+{
+ "issues": [
+  "twist:wrist.L@0.57:64deg,wrist.R@0.57:64deg,lowerarm01.L@0.57:95deg"
+ ],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 0.0,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  },
+  "R": {
+   "slide": 0.0,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  }
+ },
+ "support_mm": 0.3,
+ "floor_mm": 8.0,
+ "pops": [],
+ "twists": [
+  "wrist.L@0.57:64deg",
+  "wrist.R@0.57:64deg",
+  "lowerarm01.L@0.57:95deg",
+  "lowerarm01.R@0.57:95deg"
+ ],
+ "ranges": [],
+ "athlete_frac": 0.89,
+ "thumb": "start@0.00",
+ "pose_hash": "2b5091bbf575edb4",
+ "view": [
+  20,
+  8
+ ],
+ "key": "arnold-press",
+ "name_en": "Arnold Press",
+ "template": "arnold_press",
+ "gender": "f",
+ "seconds": 103.6,
+ "pose_seconds": 1.7,
+ "quality": 72,
+ "bytes": 223266,
+ "frames": 48,
+ "unique": 25
+}

@@ -1,0 +1,38 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 7.632783294297951e-14,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  },
+  "R": {
+   "slide": 7.632783294297951e-14,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  }
+ },
+ "support_mm": 0.0,
+ "floor_mm": 8.0,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.94,
+ "thumb": "end@1.00",
+ "pose_hash": "18ae17f34104a549",
+ "view": [
+  62,
+  8
+ ],
+ "key": "smith-machine-squat",
+ "name_en": "Smith Machine Squat",
+ "template": "squat",
+ "gender": "f",
+ "seconds": 174.0,
+ "pose_seconds": 2.8,
+ "quality": 72,
+ "bytes": 347173,
+ "frames": 48,
+ "unique": 25
+}

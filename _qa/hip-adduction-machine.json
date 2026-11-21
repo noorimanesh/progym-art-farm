@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": -0.6,
+ "floor_mm": 45.5,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.95,
+ "thumb": "end@1.00",
+ "pose_hash": "e78b2e1283a015ae",
+ "view": [
+  6,
+  6
+ ],
+ "key": "hip-adduction-machine",
+ "name_en": "Hip Adduction Machine",
+ "template": "hip_abductor_machine",
+ "gender": "m",
+ "seconds": 141.3,
+ "pose_seconds": 2.0,
+ "quality": 72,
+ "bytes": 295843,
+ "frames": 48,
+ "unique": 25
+}

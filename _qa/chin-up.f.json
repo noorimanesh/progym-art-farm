@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": 0.0,
+ "floor_mm": 366.2,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.76,
+ "thumb": "end@1.00",
+ "pose_hash": "ce3d2fae550bae67",
+ "view": [
+  15.0,
+  8.0
+ ],
+ "key": "chin-up",
+ "name_en": "Chin-up",
+ "template": "pull_up",
+ "gender": "f",
+ "seconds": 119.1,
+ "pose_seconds": 2.1,
+ "quality": 72,
+ "bytes": 209373,
+ "frames": 48,
+ "unique": 25
+}

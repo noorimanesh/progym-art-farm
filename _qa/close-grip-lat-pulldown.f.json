@@ -1,0 +1,38 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 0.0,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  },
+  "R": {
+   "slide": 0.0,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  }
+ },
+ "support_mm": -0.5,
+ "floor_mm": 8.0,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.86,
+ "thumb": "end@1.00",
+ "pose_hash": "4b42c53931ca708a",
+ "view": [
+  78,
+  8
+ ],
+ "key": "close-grip-lat-pulldown",
+ "name_en": "Close-Grip Lat Pulldown",
+ "template": "lat_pulldown",
+ "gender": "f",
+ "seconds": 130.4,
+ "pose_seconds": 1.9,
+ "quality": 72,
+ "bytes": 194691,
+ "frames": 48,
+ "unique": 25
+}

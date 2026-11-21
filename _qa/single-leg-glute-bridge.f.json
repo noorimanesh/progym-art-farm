@@ -1,0 +1,33 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "R": {
+   "slide": 1.1443916996305594e-13,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  }
+ },
+ "support_mm": -0.4,
+ "floor_mm": -2.4,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.91,
+ "thumb": "end@1.00",
+ "pose_hash": "8daa7a32058f9681",
+ "view": [
+  90,
+  7
+ ],
+ "key": "single-leg-glute-bridge",
+ "name_en": "Single-Leg Glute Bridge",
+ "template": "glute_bridge",
+ "gender": "f",
+ "seconds": 199.9,
+ "pose_seconds": 3.2,
+ "quality": 63,
+ "bytes": 361837,
+ "frames": 48,
+ "unique": 25
+}

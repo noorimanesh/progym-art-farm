@@ -1,0 +1,38 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 2.2377260456559047e-13,
+   "gap_min": -7.550929605960849,
+   "gap_max": 1.781503736972806
+  },
+  "R": {
+   "slide": 2.2377260456559047e-13,
+   "gap_min": -7.550929605960849,
+   "gap_max": 1.781503736972806
+  }
+ },
+ "support_mm": 0.6,
+ "floor_mm": 68.6,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.95,
+ "thumb": "end@1.00",
+ "pose_hash": "f5a56606eb255572",
+ "view": [
+  90,
+  7
+ ],
+ "key": "seated-calf-raise",
+ "name_en": "Seated Calf Raise",
+ "template": "seated_calf_raise",
+ "gender": "m",
+ "seconds": 169.5,
+ "pose_seconds": 1.8,
+ "quality": 72,
+ "bytes": 275814,
+ "frames": 48,
+ "unique": 25
+}

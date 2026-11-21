@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": 0.0,
+ "floor_mm": 22.6,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.87,
+ "thumb": "end@1.00",
+ "pose_hash": "de86111b1c277db9",
+ "view": [
+  -75.0,
+  14.0
+ ],
+ "key": "inverted-row",
+ "name_en": "Inverted Row",
+ "template": "inverted_row",
+ "gender": "f",
+ "seconds": 243.2,
+ "pose_seconds": 1.6,
+ "quality": 54,
+ "bytes": 375698,
+ "frames": 48,
+ "unique": 25
+}
