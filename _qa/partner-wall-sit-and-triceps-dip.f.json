@@ -1,0 +1,38 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 1.1443916996305594e-13,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  },
+  "R": {
+   "slide": 1.1443916996305594e-13,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  }
+ },
+ "support_mm": -0.6,
+ "floor_mm": 8.0,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.79,
+ "thumb": "end@1.00",
+ "pose_hash": "fbf64f15dcd2c10d",
+ "view": [
+  60.0,
+  8.0
+ ],
+ "key": "partner-wall-sit-and-triceps-dip",
+ "name_en": "Partner Wall Sit And Triceps Dip",
+ "template": "x54",
+ "gender": "f",
+ "seconds": 66.1,
+ "pose_seconds": 1.9,
+ "quality": 72,
+ "bytes": 204314,
+ "frames": 36,
+ "unique": 19
+}
