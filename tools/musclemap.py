@@ -1,8 +1,8 @@
 """musclemap.py OUT [m,f]: 5.5 realistic muscle map from the same 3D body as the exercise art.
 
 For each gender and view (front, back) it renders
-  OUT/<g>-<view>.webp           the athlete in the same sportswear as the exercise art, 520x1040
-  OUT/<g>-<view>-<key>.webp     a grey mask (white = that muscle, soft edges) for each of the 22 body-map keys
+  OUT/<g>-<view>.webp           the body as a light clay figure (no clothes colours, no hair or shoes), 520x1040
+  OUT/<g>-<view>-<key>.webp     a white mask whose alpha is that muscle (soft edges) for each of the 22 body-map keys
 The site colours each muscle by drawing its mask over the figure (CSS mask), so heat, recovery and focus maps show on a
 real body. Keys follow the site's body map (assets/body/bodymap.json); "chest" joins the mid and lower chest, and
 "tibialis" has no area on this body (left out).
@@ -49,9 +49,15 @@ def main():
         p = c.run(fr)
         body = scene.BodyObjects(c.r, g)
         body.update(p.verts, p.D, p.Hp)
-        # the same athlete as the exercise art (sportswear, hair, shoes): a modest, real-looking figure
+        # clay figure: one light neutral colour everywhere, matte; hair and shoes hidden
+        n = len(c.r.verts)
+        body._set_attr(body.body, "paint", np.tile(np.array([0.62, 0.6, 0.58], np.float32), (n, 1)), color=True)
+        body._set_attr(body.body, "skinf", np.ones(n, np.float32) * 0.6)
+        for ob, _, _ in body.shells:
+            ob.hide_render = True
+        if body.bun is not None:
+            body.bun.hide_render = True
         clay = body.body.data.materials[0]
-        bpy.data.objects["cam"].data.sensor_fit = "HORIZONTAL"     # fit_camera's frame is the width
         # mask material: emission of the "hl" attribute, nothing else
         mm = bpy.data.materials.new("mask")
         mm.use_nodes = True
@@ -69,8 +75,6 @@ def main():
             cam, tgt = fit_camera(pts, az, 3.0, lens=85, aspect=W / H, margin=0.06, margin_v=0.04)
             scene.set_camera(cam, tgt, 85)
             # the figure
-            for ob in [o for o, _, _ in body.shells] + ([body.bun] if body.bun is not None else []):
-                ob.hide_render = False
             body.body.data.materials[0] = clay
             body.set_highlight([], None)
             sc.cycles.samples = 16
@@ -82,9 +86,7 @@ def main():
             scene.render_png(f)
             Image.open(f).save(os.path.join(out, f"{g}-{view}.webp"), "WEBP", quality=88, method=6)
             os.remove(f)
-            # the masks (flat emission, no light, no noise); hair and shoes out of the way
-            for ob in [o for o, _, _ in body.shells] + ([body.bun] if body.bun is not None else []):
-                ob.hide_render = True
+            # the masks (flat emission, no light, no noise)
             body.body.data.materials[0] = mm
             sc.cycles.samples = 2
             sc.cycles.use_denoising = False
@@ -97,13 +99,14 @@ def main():
                 scene.render_png(f)
                 im = Image.open(f).convert("RGBA")
                 a = np.asarray(im)
-                m = a[:, :, 0].astype(np.float32) / 255.0 * (a[:, :, 3] / 255.0)
-                m = np.clip((m - 0.18) / 0.5, 0, 1)
-                m = (m * m * (3 - 2 * m) * 255).astype(np.uint8)          # firmer edges than the painted weights
+                m = (a[:, :, 0].astype(np.float32) * (a[:, :, 3] / 255.0)).clip(0, 255).astype(np.uint8)
                 os.remove(f)
                 if m.max() < 40:
                     continue          # not seen from this side
-                Image.fromarray(m, "L").save(os.path.join(out, f"{g}-{view}-{key}.webp"), "WEBP", quality=80, method=6)
+                # white with the mask as alpha (CSS mask-image reads alpha in every browser)
+                mk = Image.new("RGBA", (W, H), (255, 255, 255, 0))
+                mk.putalpha(Image.fromarray(m, "L"))
+                mk.save(os.path.join(out, f"{g}-{view}-{key}.webp"), "WEBP", quality=80, method=6)
             print(g, view, "done", flush=True)
 
 
