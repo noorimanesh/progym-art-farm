@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": 0.6,
+ "floor_mm": -2.0,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.92,
+ "thumb": "end@1.00",
+ "pose_hash": "ef809fd38b300de8",
+ "view": [
+  90,
+  16
+ ],
+ "key": "v-sit",
+ "name_en": "V-Sit",
+ "template": "v_up",
+ "gender": "m",
+ "seconds": 166.5,
+ "pose_seconds": 1.4,
+ "quality": 72,
+ "bytes": 388853,
+ "frames": 48,
+ "unique": 25
+}

@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 7.5,
+ "feet": {},
+ "support_mm": 0.0,
+ "floor_mm": 390.9,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.69,
+ "thumb": "end@1.00",
+ "pose_hash": "f4ece7e85d3b63f3",
+ "view": [
+  60,
+  8
+ ],
+ "key": "kipping-toes-to-bar",
+ "name_en": "Kipping Toes-to-Bar",
+ "template": "hanging_leg_raise",
+ "gender": "f",
+ "seconds": 103.8,
+ "pose_seconds": 2.6,
+ "quality": 72,
+ "bytes": 212574,
+ "frames": 48,
+ "unique": 25
+}

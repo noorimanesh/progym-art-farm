@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": 0.0,
+ "floor_mm": 331.2,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.9,
+ "thumb": "end@1.00",
+ "pose_hash": "8cde7a383182b11d",
+ "view": [
+  75,
+  8
+ ],
+ "key": "assisted-dip",
+ "name_en": "Assisted Dip",
+ "template": "dip",
+ "gender": "m",
+ "seconds": 100.1,
+ "pose_seconds": 2.2,
+ "quality": 72,
+ "bytes": 319305,
+ "frames": 48,
+ "unique": 25
+}

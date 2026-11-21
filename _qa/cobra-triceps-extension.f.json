@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": 0.6,
+ "floor_mm": -2.0,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.91,
+ "thumb": "end@1.00",
+ "pose_hash": "1c201af6a902710b",
+ "view": [
+  75,
+  10
+ ],
+ "key": "cobra-triceps-extension",
+ "name_en": "Cobra Triceps Extension",
+ "template": "cobra",
+ "gender": "f",
+ "seconds": 164.9,
+ "pose_seconds": 1.4,
+ "quality": 72,
+ "bytes": 342264,
+ "frames": 48,
+ "unique": 25
+}

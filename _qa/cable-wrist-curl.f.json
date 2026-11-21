@@ -1,0 +1,38 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 0.0,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  },
+  "R": {
+   "slide": 0.0,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  }
+ },
+ "support_mm": 0.1,
+ "floor_mm": 8.0,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.91,
+ "thumb": "end@1.00",
+ "pose_hash": "0c03f8d39bf95b28",
+ "view": [
+  90,
+  7
+ ],
+ "key": "cable-wrist-curl",
+ "name_en": "Cable Wrist Curl",
+ "template": "wrist_curl",
+ "gender": "f",
+ "seconds": 163.3,
+ "pose_seconds": 1.1,
+ "quality": 72,
+ "bytes": 288224,
+ "frames": 48,
+ "unique": 25
+}

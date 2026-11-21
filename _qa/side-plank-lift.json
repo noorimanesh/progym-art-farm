@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": -0.6,
+ "floor_mm": -2.6,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.95,
+ "thumb": "end@1.00",
+ "pose_hash": "daee83e579882b23",
+ "view": [
+  20,
+  8
+ ],
+ "key": "side-plank-lift",
+ "name_en": "Side Plank Lift",
+ "template": "side_plank",
+ "gender": "m",
+ "seconds": 171.6,
+ "pose_seconds": 1.1,
+ "quality": 72,
+ "bytes": 361390,
+ "frames": 48,
+ "unique": 25
+}

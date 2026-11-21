@@ -1,0 +1,38 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 6.206335383118183e-14,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  },
+  "R": {
+   "slide": 6.834017936133214e-14,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  }
+ },
+ "support_mm": 0.0,
+ "floor_mm": 8.0,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.95,
+ "thumb": "end@1.00",
+ "pose_hash": "272c86b90545d619",
+ "view": [
+  12,
+  8
+ ],
+ "key": "side-bend-stretch",
+ "name_en": "Side Bend Stretch",
+ "template": "side_bend",
+ "gender": "f",
+ "seconds": 77.7,
+ "pose_seconds": 1.2,
+ "quality": 72,
+ "bytes": 214725,
+ "frames": 48,
+ "unique": 25
+}

@@ -1,0 +1,37 @@
+{
+ "issues": [
+  "pop:foot.R@0.58:236mm"
+ ],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 1.0103182026100663e-13,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  }
+ },
+ "support_mm": 0.0,
+ "floor_mm": 4.0,
+ "pops": [
+  "foot.R@0.58:236mm"
+ ],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.93,
+ "thumb": "end@0.25",
+ "pose_hash": "187f6727973863cd",
+ "view": [
+  20.0,
+  8.0
+ ],
+ "key": "dumbbell-halo-to-oblique-crunch",
+ "name_en": "Dumbbell Halo To Oblique Crunch",
+ "template": "x54",
+ "gender": "f",
+ "seconds": 186.5,
+ "pose_seconds": 3.9,
+ "quality": 72,
+ "bytes": 269107,
+ "frames": 48,
+ "unique": 48
+}

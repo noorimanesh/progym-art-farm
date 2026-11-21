@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": 0.5,
+ "floor_mm": -2.0,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.92,
+ "thumb": "end@1.00",
+ "pose_hash": "87fcfd8d9dd923bb",
+ "view": [
+  90,
+  16
+ ],
+ "key": "mini-band-toe-touch",
+ "name_en": "Mini Band Toe Touch",
+ "template": "v_up",
+ "gender": "f",
+ "seconds": 171.8,
+ "pose_seconds": 1.4,
+ "quality": 69,
+ "bytes": 400607,
+ "frames": 48,
+ "unique": 25
+}

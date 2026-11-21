@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": 0.0,
+ "floor_mm": -2.0,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.92,
+ "thumb": "end@1.00",
+ "pose_hash": "2979b1b2b11e34f9",
+ "view": [
+  10,
+  30
+ ],
+ "key": "side-plank-clam-lift",
+ "name_en": "Side Plank Clam Lift",
+ "template": "clam",
+ "gender": "m",
+ "seconds": 168.8,
+ "pose_seconds": 1.1,
+ "quality": 72,
+ "bytes": 305644,
+ "frames": 48,
+ "unique": 25
+}

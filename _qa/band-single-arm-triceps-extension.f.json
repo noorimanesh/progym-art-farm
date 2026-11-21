@@ -1,0 +1,38 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 8.12176708575559e-14,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  },
+  "R": {
+   "slide": 8.326672684688674e-14,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  }
+ },
+ "support_mm": 0.0,
+ "floor_mm": 8.0,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.95,
+ "thumb": "end@1.00",
+ "pose_hash": "b5b2d5ed76e463b0",
+ "view": [
+  150.0,
+  10.0
+ ],
+ "key": "band-single-arm-triceps-extension",
+ "name_en": "Band Single-Arm Triceps Extension",
+ "template": "x54",
+ "gender": "f",
+ "seconds": 66.9,
+ "pose_seconds": 1.3,
+ "quality": 72,
+ "bytes": 179922,
+ "frames": 48,
+ "unique": 25
+}

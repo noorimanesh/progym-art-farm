@@ -1,0 +1,30 @@
+{
+ "issues": [
+  "grip:palmL:195mm",
+  "floor:-327mm"
+ ],
+ "grip_mm": 195.0,
+ "feet": {},
+ "support_mm": 0.4,
+ "floor_mm": -327.3,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.95,
+ "thumb": "end@1.00",
+ "pose_hash": "eaa286a46c77364a",
+ "view": [
+  80,
+  8
+ ],
+ "key": "balance-trainer-single-leg-lift",
+ "name_en": "Balance Trainer Single-Leg Lift",
+ "template": "x54",
+ "gender": "f",
+ "seconds": 145.9,
+ "pose_seconds": 1.2,
+ "quality": 72,
+ "bytes": 293198,
+ "frames": 48,
+ "unique": 25
+}
