@@ -1,0 +1,59 @@
+{
+ "issues": [
+  "twist:wrist.L@0.03:90deg,wrist.L@0.12:90deg,wrist.L@0.25:90deg"
+ ],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 1.2412670766236365e-13,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  },
+  "R": {
+   "slide": 1.2412670766236365e-13,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  }
+ },
+ "support_mm": 0.6,
+ "floor_mm": 8.0,
+ "pops": [],
+ "twists": [
+  "wrist.L@0.03:90deg",
+  "wrist.L@0.12:90deg",
+  "wrist.L@0.25:90deg",
+  "wrist.L@0.41:90deg",
+  "wrist.L@0.59:90deg",
+  "wrist.L@0.75:90deg",
+  "wrist.L@0.88:90deg",
+  "wrist.L@0.97:90deg",
+  "wrist.L@1.00:90deg",
+  "wrist.R@0.03:90deg",
+  "wrist.R@0.12:90deg",
+  "wrist.R@0.25:90deg",
+  "wrist.R@0.41:90deg",
+  "wrist.R@0.59:90deg",
+  "wrist.R@0.75:90deg",
+  "wrist.R@0.88:90deg",
+  "wrist.R@0.97:90deg",
+  "wrist.R@1.00:90deg"
+ ],
+ "ranges": [],
+ "athlete_frac": 0.93,
+ "thumb": "end@1.00",
+ "pose_hash": "d82e7224bc5dfa0d",
+ "view": [
+  60.0,
+  14.0
+ ],
+ "key": "balance-trainer-cable-crunch-with-side-bends",
+ "name_en": "Balance Trainer Cable Crunch With Side Bends",
+ "template": "x54",
+ "gender": "f",
+ "seconds": 78.2,
+ "pose_seconds": 0.8,
+ "quality": 72,
+ "bytes": 219492,
+ "frames": 36,
+ "unique": 19
+}
