@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": -0.0,
+ "floor_mm": -2.5,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.92,
+ "thumb": "end@1.00",
+ "pose_hash": "3abef62ab3b0f831",
+ "view": [
+  80,
+  8
+ ],
+ "key": "cat-cow-stretch",
+ "name_en": "Cat-Cow Stretch",
+ "template": "cat_cow",
+ "gender": "m",
+ "seconds": 148.3,
+ "pose_seconds": 1.1,
+ "quality": 72,
+ "bytes": 298685,
+ "frames": 48,
+ "unique": 25
+}

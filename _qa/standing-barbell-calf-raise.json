@@ -1,0 +1,38 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 9.813077866773595e-14,
+   "gap_min": -9.652052938938144,
+   "gap_max": 1.7841561436653108
+  },
+  "R": {
+   "slide": 9.813077866773595e-14,
+   "gap_min": -9.652052938938144,
+   "gap_max": 1.7841561436653108
+  }
+ },
+ "support_mm": 0.0,
+ "floor_mm": 62.6,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.94,
+ "thumb": "end@1.00",
+ "pose_hash": "67523f111eb036be",
+ "view": [
+  70,
+  6
+ ],
+ "key": "standing-barbell-calf-raise",
+ "name_en": "Standing Barbell Calf Raise",
+ "template": "calf_raise",
+ "gender": "m",
+ "seconds": 101.6,
+ "pose_seconds": 1.5,
+ "quality": 72,
+ "bytes": 243643,
+ "frames": 48,
+ "unique": 25
+}

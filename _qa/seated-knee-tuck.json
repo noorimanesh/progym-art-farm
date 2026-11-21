@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": 0.5,
+ "floor_mm": -2.4,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.92,
+ "thumb": "end@1.00",
+ "pose_hash": "8c5fa18c82fc505d",
+ "view": [
+  90,
+  16
+ ],
+ "key": "seated-knee-tuck",
+ "name_en": "Seated Knee Tuck",
+ "template": "v_up",
+ "gender": "m",
+ "seconds": 165.0,
+ "pose_seconds": 1.4,
+ "quality": 72,
+ "bytes": 371494,
+ "frames": 48,
+ "unique": 25
+}

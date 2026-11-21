@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": -0.4,
+ "floor_mm": -2.4,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.56,
+ "thumb": "end@1.00",
+ "pose_hash": "8d96416779f7c281",
+ "view": [
+  90,
+  16
+ ],
+ "key": "cable-reverse-crunch",
+ "name_en": "Cable Reverse Crunch",
+ "template": "reverse_crunch",
+ "gender": "f",
+ "seconds": 149.6,
+ "pose_seconds": 1.6,
+ "quality": 72,
+ "bytes": 339541,
+ "frames": 48,
+ "unique": 25
+}

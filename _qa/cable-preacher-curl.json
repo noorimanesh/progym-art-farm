@@ -1,0 +1,38 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 0.0,
+   "gap_min": 1.0000114440917862,
+   "gap_max": 1.0000114440917862
+  },
+  "R": {
+   "slide": 0.0,
+   "gap_min": 1.0000114440917862,
+   "gap_max": 1.0000114440917862
+  }
+ },
+ "support_mm": 0.4,
+ "floor_mm": 138.0,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.95,
+ "thumb": "end@1.00",
+ "pose_hash": "e25d4e621eca8f40",
+ "view": [
+  100,
+  6
+ ],
+ "key": "cable-preacher-curl",
+ "name_en": "Cable Preacher Curl",
+ "template": "preacher_curl",
+ "gender": "m",
+ "seconds": 138.9,
+ "pose_seconds": 1.3,
+ "quality": 72,
+ "bytes": 304521,
+ "frames": 48,
+ "unique": 25
+}

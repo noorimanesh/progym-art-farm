@@ -1,0 +1,38 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 0.0,
+   "gap_min": 1.0000114440917862,
+   "gap_max": 1.0000114440917862
+  },
+  "R": {
+   "slide": 0.0,
+   "gap_min": 1.0000114440917862,
+   "gap_max": 1.0000114440917862
+  }
+ },
+ "support_mm": 0.4,
+ "floor_mm": 138.0,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.95,
+ "thumb": "end@1.00",
+ "pose_hash": "315247407b2b427d",
+ "view": [
+  100,
+  6
+ ],
+ "key": "machine-biceps-curl",
+ "name_en": "Machine Biceps Curl",
+ "template": "preacher_curl",
+ "gender": "m",
+ "seconds": 108.1,
+ "pose_seconds": 1.3,
+ "quality": 72,
+ "bytes": 252084,
+ "frames": 48,
+ "unique": 25
+}

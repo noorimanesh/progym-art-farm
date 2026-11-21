@@ -1,0 +1,38 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 6.206335383118183e-14,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  },
+  "R": {
+   "slide": 1.494683490070454e-13,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  }
+ },
+ "support_mm": 0.0,
+ "floor_mm": 8.0,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.95,
+ "thumb": "end@1.00",
+ "pose_hash": "5ef164a6e82cdb01",
+ "view": [
+  20,
+  8
+ ],
+ "key": "chest-and-shoulder-stretch",
+ "name_en": "Chest and Shoulder Stretch",
+ "template": "arm_stretch",
+ "gender": "m",
+ "seconds": 133.4,
+ "pose_seconds": 1.2,
+ "quality": 72,
+ "bytes": 248284,
+ "frames": 48,
+ "unique": 25
+}

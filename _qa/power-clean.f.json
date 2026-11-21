@@ -1,0 +1,52 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 1.1188630228279524e-13,
+   "gap_min": -0.44102898612618463,
+   "gap_max": 1.0000003799796102
+  },
+  "R": {
+   "slide": 1.1188630228279524e-13,
+   "gap_min": -0.44102898612618463,
+   "gap_max": 1.0000003799796102
+  }
+ },
+ "support_mm": 0.0,
+ "floor_mm": 6.6,
+ "pops": [
+  "lowerarm01.L@0.63:166mm",
+  "lowerarm01.R@0.63:166mm",
+  "lowerleg01.L@0.63:26mm",
+  "lowerleg01.R@0.63:26mm",
+  "upperarm01.L@0.63:74mm",
+  "upperarm01.R@0.63:74mm"
+ ],
+ "twists": [
+  "wrist.L@0.63:92deg",
+  "wrist.L@0.69:159deg",
+  "wrist.R@0.63:92deg",
+  "wrist.R@0.69:159deg",
+  "lowerarm01.L@0.50:73deg",
+  "lowerarm01.R@0.50:73deg"
+ ],
+ "ranges": [],
+ "athlete_frac": 0.79,
+ "thumb": "0.74@0.75",
+ "pose_hash": "ec6718240c053217",
+ "view": [
+  62,
+  8
+ ],
+ "key": "power-clean",
+ "name_en": "Power Clean",
+ "template": "olympic",
+ "gender": "f",
+ "seconds": 114.0,
+ "pose_seconds": 1.9,
+ "quality": 72,
+ "bytes": 332304,
+ "frames": 48,
+ "unique": 25
+}

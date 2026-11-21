@@ -1,0 +1,38 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 8.777083671441753e-14,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  },
+  "R": {
+   "slide": 8.777083671441753e-14,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  }
+ },
+ "support_mm": 0.0,
+ "floor_mm": 8.0,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.95,
+ "thumb": "end@1.00",
+ "pose_hash": "c561e19615cc09ce",
+ "view": [
+  20,
+  8
+ ],
+ "key": "cross-body-shoulder-stretch",
+ "name_en": "Cross-Body Shoulder Stretch",
+ "template": "arm_stretch",
+ "gender": "f",
+ "seconds": 75.3,
+ "pose_seconds": 1.2,
+ "quality": 78,
+ "bytes": 165474,
+ "frames": 48,
+ "unique": 25
+}

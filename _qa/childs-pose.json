@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": 0.3,
+ "floor_mm": -2.5,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.92,
+ "thumb": "end@1.00",
+ "pose_hash": "1aa5e80669433ba7",
+ "view": [
+  80,
+  8
+ ],
+ "key": "childs-pose",
+ "name_en": "Child's Pose",
+ "template": "child_pose",
+ "gender": "m",
+ "seconds": 151.0,
+ "pose_seconds": 1.5,
+ "quality": 72,
+ "bytes": 361734,
+ "frames": 48,
+ "unique": 25
+}

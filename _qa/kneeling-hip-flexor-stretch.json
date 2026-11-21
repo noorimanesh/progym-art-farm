@@ -1,0 +1,33 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "R": {
+   "slide": 1.1443916996305594e-13,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  }
+ },
+ "support_mm": 6.0,
+ "floor_mm": 4.0,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.95,
+ "thumb": "end@1.00",
+ "pose_hash": "73ce64ff02d02d15",
+ "view": [
+  85,
+  8
+ ],
+ "key": "kneeling-hip-flexor-stretch",
+ "name_en": "Kneeling Hip Flexor Stretch",
+ "template": "hip_flexor_stretch",
+ "gender": "m",
+ "seconds": 162.8,
+ "pose_seconds": 6.2,
+ "quality": 72,
+ "bytes": 184742,
+ "frames": 48,
+ "unique": 25
+}
