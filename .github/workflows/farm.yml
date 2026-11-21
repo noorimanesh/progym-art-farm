@@ -65,7 +65,7 @@ jobs:
           for G in $GS; do
             python -m artgen.render3 $ARGS --gender $G 2>&1 | grep --line-buffered -E '^\[|^done|Error|Traceback' || true
           done
-          ls out/*.mp4 | wc -l
+          ls out | wc -l || true
       - name: Publish to out/slice-N
         if: always()
         shell: bash
