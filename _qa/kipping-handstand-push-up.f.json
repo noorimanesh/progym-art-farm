@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": 0.0,
+ "floor_mm": 4.8,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.95,
+ "thumb": "end@1.00",
+ "pose_hash": "5df35e2f1a67d84f",
+ "view": [
+  85,
+  6
+ ],
+ "key": "kipping-handstand-push-up",
+ "name_en": "Kipping Handstand Push-up",
+ "template": "handstand",
+ "gender": "f",
+ "seconds": 127.7,
+ "pose_seconds": 1.0,
+ "quality": 75,
+ "bytes": 177807,
+ "frames": 48,
+ "unique": 25
+}

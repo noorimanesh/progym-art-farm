@@ -1,0 +1,31 @@
+{
+ "issues": [
+  "pop:wrist.L@0.15:38mm"
+ ],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": -0.0,
+ "floor_mm": -2.5,
+ "pops": [
+  "wrist.L@0.15:38mm"
+ ],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.92,
+ "thumb": "end@1.00",
+ "pose_hash": "ca9602c45dd658a4",
+ "view": [
+  40.0,
+  18.0
+ ],
+ "key": "reach-behind-and-open",
+ "name_en": "Reach Behind and Open",
+ "template": "x54",
+ "gender": "m",
+ "seconds": 193.2,
+ "pose_seconds": 1.1,
+ "quality": 69,
+ "bytes": 363464,
+ "frames": 48,
+ "unique": 25
+}

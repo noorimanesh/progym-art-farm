@@ -1,0 +1,38 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 5.721958498152797e-14,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  },
+  "R": {
+   "slide": 5.721958498152797e-14,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  }
+ },
+ "support_mm": 0.0,
+ "floor_mm": 8.0,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.94,
+ "thumb": "end@1.00",
+ "pose_hash": "4c5a7f54cd3e53e5",
+ "view": [
+  130.0,
+  10.0
+ ],
+ "key": "front-rack-stretch",
+ "name_en": "Front Rack Stretch",
+ "template": "x54",
+ "gender": "f",
+ "seconds": 123.7,
+ "pose_seconds": 1.7,
+ "quality": 72,
+ "bytes": 210095,
+ "frames": 48,
+ "unique": 25
+}

@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": 0.0,
+ "floor_mm": -2.5,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.95,
+ "thumb": "end@1.00",
+ "pose_hash": "13790a119f52e5f0",
+ "view": [
+  85,
+  6
+ ],
+ "key": "handstand-hold",
+ "name_en": "Handstand Hold",
+ "template": "handstand",
+ "gender": "m",
+ "seconds": 116.8,
+ "pose_seconds": 1.0,
+ "quality": 78,
+ "bytes": 143720,
+ "frames": 48,
+ "unique": 25
+}

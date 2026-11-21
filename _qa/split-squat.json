@@ -1,0 +1,38 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "R": {
+   "slide": 0.11946437589844236,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.175317198038101
+  },
+  "L": {
+   "slide": 3.3306690738754696e-13,
+   "gap_min": -0.8555811531841756,
+   "gap_max": -0.8555811531841756
+  }
+ },
+ "support_mm": 0.0,
+ "floor_mm": 6.1,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.95,
+ "thumb": "end@1.00",
+ "pose_hash": "aba90bcc7bf9728e",
+ "view": [
+  88,
+  6
+ ],
+ "key": "split-squat",
+ "name_en": "Split Squat",
+ "template": "split_squat",
+ "gender": "m",
+ "seconds": 100.5,
+ "pose_seconds": 1.5,
+ "quality": 72,
+ "bytes": 232136,
+ "frames": 48,
+ "unique": 25
+}
