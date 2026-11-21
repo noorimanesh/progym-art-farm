@@ -1,0 +1,38 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 0.0,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  },
+  "R": {
+   "slide": 0.0,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  }
+ },
+ "support_mm": -0.4,
+ "floor_mm": 8.0,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.78,
+ "thumb": "end@1.00",
+ "pose_hash": "6a4ff5346d35a88b",
+ "view": [
+  90,
+  7
+ ],
+ "key": "machine-row",
+ "name_en": "Machine Row",
+ "template": "machine_row",
+ "gender": "f",
+ "seconds": 167.7,
+ "pose_seconds": 1.7,
+ "quality": 72,
+ "bytes": 264030,
+ "frames": 48,
+ "unique": 25
+}

@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 2.9,
+ "feet": {},
+ "support_mm": 0.0,
+ "floor_mm": 369.5,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.76,
+ "thumb": "end@1.00",
+ "pose_hash": "e99f770b56da19b8",
+ "view": [
+  15.0,
+  8.0
+ ],
+ "key": "neutral-grip-pull-up",
+ "name_en": "Neutral-Grip Pull-up",
+ "template": "pull_up",
+ "gender": "f",
+ "seconds": 118.8,
+ "pose_seconds": 2.8,
+ "quality": 72,
+ "bytes": 204765,
+ "frames": 48,
+ "unique": 25
+}

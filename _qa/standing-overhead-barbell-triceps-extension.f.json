@@ -1,0 +1,38 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 5.051591013050332e-14,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  },
+  "R": {
+   "slide": 5.051591013050332e-14,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  }
+ },
+ "support_mm": 0.0,
+ "floor_mm": 8.0,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.88,
+ "thumb": "end@1.00",
+ "pose_hash": "a1ebf02c7cd615b0",
+ "view": [
+  60,
+  8
+ ],
+ "key": "standing-overhead-barbell-triceps-extension",
+ "name_en": "Standing Overhead Barbell Triceps Extension",
+ "template": "overhead_triceps_extension",
+ "gender": "f",
+ "seconds": 111.1,
+ "pose_seconds": 1.8,
+ "quality": 75,
+ "bytes": 181521,
+ "frames": 48,
+ "unique": 25
+}

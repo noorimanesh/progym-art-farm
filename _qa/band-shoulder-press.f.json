@@ -1,0 +1,38 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 6.245004513516506e-14,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  },
+  "R": {
+   "slide": 6.245004513516506e-14,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  }
+ },
+ "support_mm": 0.0,
+ "floor_mm": 8.0,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.95,
+ "thumb": "start@0.00",
+ "pose_hash": "5e9435fde6f538fa",
+ "view": [
+  20,
+  8
+ ],
+ "key": "band-shoulder-press",
+ "name_en": "Band Shoulder Press",
+ "template": "db_shoulder_press",
+ "gender": "f",
+ "seconds": 102.5,
+ "pose_seconds": 2.2,
+ "quality": 72,
+ "bytes": 246752,
+ "frames": 48,
+ "unique": 25
+}

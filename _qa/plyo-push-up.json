@@ -1,0 +1,38 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 0.4815667282527287,
+   "gap_min": -2.5132491886615753,
+   "gap_max": -2.4928955994546413
+  },
+  "R": {
+   "slide": 0.4815667282527287,
+   "gap_min": -2.5132491886615753,
+   "gap_max": -2.4928955994546413
+  }
+ },
+ "support_mm": 0.0,
+ "floor_mm": -2.5,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.92,
+ "thumb": "end@1.00",
+ "pose_hash": "6b13e2beb56551a4",
+ "view": [
+  70,
+  10
+ ],
+ "key": "plyo-push-up",
+ "name_en": "Plyo Push-up",
+ "template": "push_up",
+ "gender": "m",
+ "seconds": 202.9,
+ "pose_seconds": 2.2,
+ "quality": 72,
+ "bytes": 361367,
+ "frames": 48,
+ "unique": 25
+}

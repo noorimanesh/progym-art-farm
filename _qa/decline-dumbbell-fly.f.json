@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": -0.0,
+ "floor_mm": 382.1,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.91,
+ "thumb": "start@0.00",
+ "pose_hash": "d0c990004c093699",
+ "view": [
+  42.0,
+  30.0
+ ],
+ "key": "decline-dumbbell-fly",
+ "name_en": "Decline Dumbbell Fly",
+ "template": "db_fly",
+ "gender": "f",
+ "seconds": 228.2,
+ "pose_seconds": 1.7,
+ "quality": 72,
+ "bytes": 311781,
+ "frames": 48,
+ "unique": 25
+}
