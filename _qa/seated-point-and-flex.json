@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": -0.5,
+ "floor_mm": -2.5,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.95,
+ "thumb": "end@1.00",
+ "pose_hash": "5206059e80381538",
+ "view": [
+  70.0,
+  12.0
+ ],
+ "key": "seated-point-and-flex",
+ "name_en": "Seated Point And Flex",
+ "template": "x54",
+ "gender": "m",
+ "seconds": 190.2,
+ "pose_seconds": 1.2,
+ "quality": 51,
+ "bytes": 347463,
+ "frames": 48,
+ "unique": 25
+}

@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": 0.2,
+ "floor_mm": -2.0,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.92,
+ "thumb": "end@1.00",
+ "pose_hash": "1bce0f0d6887bc67",
+ "view": [
+  80,
+  10
+ ],
+ "key": "dumbbell-superman",
+ "name_en": "Dumbbell Superman",
+ "template": "superman",
+ "gender": "f",
+ "seconds": 111.5,
+ "pose_seconds": 1.3,
+ "quality": 72,
+ "bytes": 345730,
+ "frames": 48,
+ "unique": 25
+}

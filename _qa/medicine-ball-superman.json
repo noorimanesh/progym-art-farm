@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": 0.5,
+ "floor_mm": -2.0,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.9,
+ "thumb": "end@1.00",
+ "pose_hash": "d201f096bab216fb",
+ "view": [
+  80,
+  10
+ ],
+ "key": "medicine-ball-superman",
+ "name_en": "Medicine Ball Superman",
+ "template": "superman",
+ "gender": "m",
+ "seconds": 116.4,
+ "pose_seconds": 1.3,
+ "quality": 72,
+ "bytes": 305054,
+ "frames": 48,
+ "unique": 25
+}

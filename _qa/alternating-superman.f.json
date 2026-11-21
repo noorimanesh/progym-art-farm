@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": 0.5,
+ "floor_mm": -2.0,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.92,
+ "thumb": "end@1.00",
+ "pose_hash": "d41e5bbfd55136eb",
+ "view": [
+  80,
+  10
+ ],
+ "key": "alternating-superman",
+ "name_en": "Alternating Superman",
+ "template": "superman",
+ "gender": "f",
+ "seconds": 112.3,
+ "pose_seconds": 0.8,
+ "quality": 72,
+ "bytes": 337786,
+ "frames": 48,
+ "unique": 25
+}

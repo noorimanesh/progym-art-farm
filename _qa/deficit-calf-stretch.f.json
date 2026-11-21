@@ -1,0 +1,40 @@
+{
+ "issues": [
+  "foot_sinkR:-44mm"
+ ],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 0.0,
+   "gap_min": 0.9999935626983647,
+   "gap_max": 0.9999935626983647
+  },
+  "R": {
+   "slide": 1.3877787807814457e-13,
+   "gap_min": -43.59351944923401,
+   "gap_max": 1.1317496299743657
+  }
+ },
+ "support_mm": 0.0,
+ "floor_mm": 113.9,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.94,
+ "thumb": "end@1.00",
+ "pose_hash": "687a92738e37c531",
+ "view": [
+  -50.0,
+  8.0
+ ],
+ "key": "deficit-calf-stretch",
+ "name_en": "Deficit Calf Stretch",
+ "template": "x54",
+ "gender": "f",
+ "seconds": 100.1,
+ "pose_seconds": 1.0,
+ "quality": 72,
+ "bytes": 213317,
+ "frames": 48,
+ "unique": 25
+}

@@ -1,0 +1,33 @@
+{
+ "issues": [],
+ "grip_mm": 1.9,
+ "feet": {
+  "L": {
+   "slide": 1.688305753616065e-13,
+   "gap_min": -0.8555811531841756,
+   "gap_max": 1.78364872187376
+  }
+ },
+ "support_mm": 0.0,
+ "floor_mm": 6.1,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.95,
+ "thumb": "end@1.00",
+ "pose_hash": "c0565b3cc23b078f",
+ "view": [
+  88,
+  6
+ ],
+ "key": "dumbbell-walking-lunge",
+ "name_en": "Dumbbell Walking Lunge",
+ "template": "forward_lunge",
+ "gender": "m",
+ "seconds": 107.7,
+ "pose_seconds": 2.0,
+ "quality": 72,
+ "bytes": 258756,
+ "frames": 48,
+ "unique": 25
+}

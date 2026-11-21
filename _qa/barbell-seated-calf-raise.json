@@ -1,0 +1,38 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 2.3714374201337735e-13,
+   "gap_min": -7.550929605960849,
+   "gap_max": 1.781503736972806
+  },
+  "R": {
+   "slide": 2.3714374201337735e-13,
+   "gap_min": -7.550929605960849,
+   "gap_max": 1.781503736972806
+  }
+ },
+ "support_mm": 0.6,
+ "floor_mm": 68.6,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.95,
+ "thumb": "end@1.00",
+ "pose_hash": "ae8d5a2c600420ad",
+ "view": [
+  90,
+  7
+ ],
+ "key": "barbell-seated-calf-raise",
+ "name_en": "Barbell Seated Calf Raise",
+ "template": "seated_calf_raise",
+ "gender": "m",
+ "seconds": 132.1,
+ "pose_seconds": 1.1,
+ "quality": 72,
+ "bytes": 304638,
+ "frames": 48,
+ "unique": 25
+}

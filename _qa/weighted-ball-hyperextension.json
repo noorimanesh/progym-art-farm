@@ -1,0 +1,38 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 1.1102230246251565e-13,
+   "gap_min": -0.02090983837842956,
+   "gap_max": -0.02090983837842956
+  },
+  "R": {
+   "slide": 1.1102230246251565e-13,
+   "gap_min": -0.02090983837842956,
+   "gap_max": -0.02090983837842956
+  }
+ },
+ "support_mm": 0.0,
+ "floor_mm": 7.0,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.95,
+ "thumb": "end@1.00",
+ "pose_hash": "1fb0dcd32f20144d",
+ "view": [
+  90,
+  7
+ ],
+ "key": "weighted-ball-hyperextension",
+ "name_en": "Weighted Ball Hyperextension",
+ "template": "back_extension",
+ "gender": "m",
+ "seconds": 162.6,
+ "pose_seconds": 1.0,
+ "quality": 72,
+ "bytes": 285907,
+ "frames": 48,
+ "unique": 25
+}

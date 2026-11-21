@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": 0.5,
+ "floor_mm": -2.4,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.92,
+ "thumb": "end@1.00",
+ "pose_hash": "8109cd51140426f7",
+ "view": [
+  80,
+  10
+ ],
+ "key": "australian-crawl",
+ "name_en": "Australian Crawl",
+ "template": "superman",
+ "gender": "f",
+ "seconds": 112.3,
+ "pose_seconds": 1.1,
+ "quality": 72,
+ "bytes": 299571,
+ "frames": 48,
+ "unique": 25
+}
