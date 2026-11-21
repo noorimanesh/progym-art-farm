@@ -1,0 +1,38 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 1.1102230246251565e-13,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  },
+  "R": {
+   "slide": 5.551115123125783e-14,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  }
+ },
+ "support_mm": 0.0,
+ "floor_mm": 8.0,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.93,
+ "thumb": "end@1.00",
+ "pose_hash": "a888537ee04a8990",
+ "view": [
+  24,
+  12
+ ],
+ "key": "mid-cable-crossover-fly",
+ "name_en": "Mid Cable Crossover Fly",
+ "template": "cable_crossover",
+ "gender": "f",
+ "seconds": 222.3,
+ "pose_seconds": 2.0,
+ "quality": 72,
+ "bytes": 321094,
+ "frames": 48,
+ "unique": 25
+}

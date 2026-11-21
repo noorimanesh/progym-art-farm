@@ -1,0 +1,38 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 2.288783399261119e-13,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  },
+  "R": {
+   "slide": 2.288783399261119e-13,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  }
+ },
+ "support_mm": 0.5,
+ "floor_mm": -2.5,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.91,
+ "thumb": "start@0.00",
+ "pose_hash": "1870dcd20006ad86",
+ "view": [
+  -72.0,
+  18.0
+ ],
+ "key": "single-arm-floor-press",
+ "name_en": "Single-Arm Floor Press",
+ "template": "db_bench_press",
+ "gender": "m",
+ "seconds": 247.1,
+ "pose_seconds": 2.5,
+ "quality": 72,
+ "bytes": 321328,
+ "frames": 48,
+ "unique": 25
+}

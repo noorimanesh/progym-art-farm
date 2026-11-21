@@ -1,0 +1,33 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 1.688305753616065e-13,
+   "gap_min": -0.8555723428726181,
+   "gap_max": 1.7836468219757096
+  }
+ },
+ "support_mm": 0.0,
+ "floor_mm": 8.0,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.92,
+ "thumb": "end@1.00",
+ "pose_hash": "55bb00f9ffb6e130",
+ "view": [
+  88,
+  6
+ ],
+ "key": "balance-trainer-suspension-front-to-back-lunge",
+ "name_en": "Balance Trainer Suspension Front to Back Lunge",
+ "template": "forward_lunge",
+ "gender": "m",
+ "seconds": 127.2,
+ "pose_seconds": 2.9,
+ "quality": 72,
+ "bytes": 234987,
+ "frames": 48,
+ "unique": 25
+}

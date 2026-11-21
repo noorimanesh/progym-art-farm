@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": -0.0,
+ "floor_mm": 305.7,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.75,
+ "thumb": "start@0.00",
+ "pose_hash": "d653688d4bacb5e8",
+ "view": [
+  42.0,
+  30.0
+ ],
+ "key": "pause-barbell-decline-bench-press",
+ "name_en": "Pause Barbell Decline Bench Press",
+ "template": "bench_press",
+ "gender": "m",
+ "seconds": 241.8,
+ "pose_seconds": 1.7,
+ "quality": 66,
+ "bytes": 386151,
+ "frames": 48,
+ "unique": 25
+}

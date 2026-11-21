@@ -1,0 +1,35 @@
+{
+ "issues": [
+  "foot_floatL:45mm"
+ ],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 2.220446049250313e-13,
+   "gap_min": 45.288416773080826,
+   "gap_max": 45.288416773080826
+  }
+ },
+ "support_mm": 0.0,
+ "floor_mm": 3.3,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.87,
+ "thumb": "end@1.00",
+ "pose_hash": "e35fbf9dc98bb734",
+ "view": [
+  62,
+  8
+ ],
+ "key": "balance-trainer-single-leg-kneeling-good-morning",
+ "name_en": "Balance Trainer Single-Leg Kneeling Good Morning",
+ "template": "good_morning",
+ "gender": "m",
+ "seconds": 171.6,
+ "pose_seconds": 1.6,
+ "quality": 72,
+ "bytes": 200208,
+ "frames": 48,
+ "unique": 25
+}

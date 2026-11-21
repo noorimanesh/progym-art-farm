@@ -1,0 +1,41 @@
+{
+ "issues": [
+  "floor:-11mm",
+  "frame:0.36"
+ ],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 0.0,
+   "gap_min": -2.5132491886615753,
+   "gap_max": -2.5132491886615753
+  },
+  "R": {
+   "slide": 0.0,
+   "gap_min": -2.5132491886615753,
+   "gap_max": -2.5132491886615753
+  }
+ },
+ "support_mm": 0.0,
+ "floor_mm": -11.1,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.36,
+ "thumb": "end@0.25",
+ "pose_hash": "f3e8dc2d17ac07b2",
+ "view": [
+  40.0,
+  14.0
+ ],
+ "key": "partner-plank-hold-and-jump",
+ "name_en": "Partner Plank Hold And Jump",
+ "template": "x54f",
+ "gender": "m",
+ "seconds": 321.5,
+ "pose_seconds": 5.9,
+ "quality": 72,
+ "bytes": 333203,
+ "frames": 48,
+ "unique": 48
+}

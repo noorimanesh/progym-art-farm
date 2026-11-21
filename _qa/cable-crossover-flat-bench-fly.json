@@ -1,0 +1,38 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 5.551115123125783e-14,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  },
+  "R": {
+   "slide": 5.551115123125783e-14,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  }
+ },
+ "support_mm": -0.6,
+ "floor_mm": 8.0,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.95,
+ "thumb": "start@0.00",
+ "pose_hash": "93b0337c79eb5fcc",
+ "view": [
+  38.0,
+  14.0
+ ],
+ "key": "cable-crossover-flat-bench-fly",
+ "name_en": "Cable Crossover Flat Bench Fly",
+ "template": "db_fly",
+ "gender": "m",
+ "seconds": 242.0,
+ "pose_seconds": 1.8,
+ "quality": 69,
+ "bytes": 333513,
+ "frames": 48,
+ "unique": 25
+}

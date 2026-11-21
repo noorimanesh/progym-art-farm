@@ -1,0 +1,49 @@
+{
+ "issues": [],
+ "grip_mm": 0.4,
+ "feet": {},
+ "support_mm": 0.0,
+ "floor_mm": 4.3,
+ "pops": [
+  "wrist.L@0.23:67mm",
+  "wrist.R@0.23:67mm",
+  "lowerleg01.L@0.29:211mm",
+  "lowerleg01.R@0.29:211mm",
+  "lowerleg01.L@0.67:248mm",
+  "lowerleg01.R@0.67:248mm",
+  "foot.L@0.67:278mm",
+  "foot.R@0.67:278mm",
+  "head@0.67:65mm",
+  "upperarm01.L@0.67:67mm",
+  "upperarm01.R@0.67:67mm",
+  "root@0.67:85mm",
+  "wrist.L@0.73:61mm",
+  "wrist.R@0.73:61mm",
+  "lowerarm01.L@0.73:41mm",
+  "lowerarm01.R@0.73:41mm"
+ ],
+ "twists": [
+  "wrist.L@0.25:71deg",
+  "wrist.L@0.75:61deg",
+  "wrist.R@0.25:72deg",
+  "wrist.R@0.75:61deg"
+ ],
+ "ranges": [],
+ "athlete_frac": 0.88,
+ "thumb": "0.32@0.31",
+ "pose_hash": "99fa509f7c745372",
+ "view": [
+  75.0,
+  12.0
+ ],
+ "key": "balance-trainer-burpee-with-push-up",
+ "name_en": "Balance Trainer Burpee with Push-up",
+ "template": "x54f",
+ "gender": "f",
+ "seconds": 353.4,
+ "pose_seconds": 3.0,
+ "quality": 72,
+ "bytes": 297457,
+ "frames": 48,
+ "unique": 48
+}

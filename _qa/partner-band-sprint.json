@@ -1,0 +1,31 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": 0.6,
+ "floor_mm": 4.4,
+ "pops": [],
+ "twists": [
+  "foot.L@0.02:120deg",
+  "foot.R@0.50:120deg",
+  "foot.R@0.52:120deg"
+ ],
+ "ranges": [],
+ "athlete_frac": 0.93,
+ "thumb": "0.25@0.25",
+ "pose_hash": "a8b22a8d68eb7eef",
+ "view": [
+  65.0,
+  8.0
+ ],
+ "key": "partner-band-sprint",
+ "name_en": "Partner Band Sprint",
+ "template": "x54f",
+ "gender": "m",
+ "seconds": 415.0,
+ "pose_seconds": 8.9,
+ "quality": 42,
+ "bytes": 462875,
+ "frames": 48,
+ "unique": 48
+}

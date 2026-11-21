@@ -1,0 +1,52 @@
+{
+ "issues": [],
+ "grip_mm": 0.4,
+ "feet": {},
+ "support_mm": 0.0,
+ "floor_mm": 6.5,
+ "pops": [
+  "wrist.L@0.23:67mm",
+  "wrist.R@0.23:67mm",
+  "lowerleg01.L@0.29:211mm",
+  "lowerleg01.R@0.29:211mm",
+  "lowerarm01.L@0.42:74mm",
+  "lowerarm01.R@0.42:73mm",
+  "foot.L@0.42:269mm",
+  "foot.R@0.42:269mm",
+  "head@0.42:78mm",
+  "upperarm01.L@0.42:64mm",
+  "upperarm01.R@0.42:63mm",
+  "root@0.42:50mm",
+  "lowerarm01.L@0.46:87mm",
+  "lowerarm01.R@0.46:85mm",
+  "wrist.L@0.52:62mm",
+  "wrist.R@0.52:62mm",
+  "lowerarm01.L@0.52:41mm",
+  "lowerarm01.R@0.52:41mm"
+ ],
+ "twists": [
+  "wrist.L@0.25:71deg",
+  "wrist.L@0.54:62deg",
+  "wrist.R@0.25:72deg",
+  "wrist.R@0.54:62deg",
+  "lowerarm01.R@0.83:62deg"
+ ],
+ "ranges": [],
+ "athlete_frac": 0.88,
+ "thumb": "0.32@0.31",
+ "pose_hash": "532429e4325f04c6",
+ "view": [
+  75.0,
+  12.0
+ ],
+ "key": "balance-trainer-burpee",
+ "name_en": "Balance Trainer Burpee",
+ "template": "x54f",
+ "gender": "f",
+ "seconds": 349.8,
+ "pose_seconds": 3.0,
+ "quality": 72,
+ "bytes": 296302,
+ "frames": 48,
+ "unique": 48
+}

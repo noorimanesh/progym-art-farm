@@ -1,0 +1,38 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 8.777083671441753e-14,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  },
+  "R": {
+   "slide": 5.721958498152797e-14,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  }
+ },
+ "support_mm": 0.0,
+ "floor_mm": 8.0,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.94,
+ "thumb": "start@0.00",
+ "pose_hash": "c02dfc199d44fa3c",
+ "view": [
+  60,
+  8
+ ],
+ "key": "incline-svend-press",
+ "name_en": "Incline Svend Press",
+ "template": "chest_press_standing",
+ "gender": "f",
+ "seconds": 104.4,
+ "pose_seconds": 2.1,
+ "quality": 72,
+ "bytes": 211867,
+ "frames": 48,
+ "unique": 25
+}
