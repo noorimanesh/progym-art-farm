@@ -1,0 +1,38 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 2.7755575615628914e-14,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  },
+  "R": {
+   "slide": 2.7755575615628914e-14,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  }
+ },
+ "support_mm": 0.0,
+ "floor_mm": 8.0,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.9,
+ "thumb": "end@1.00",
+ "pose_hash": "22531a38dd4f780f",
+ "view": [
+  15.0,
+  8.0
+ ],
+ "key": "rear-delt-fly",
+ "name_en": "Rear Delt Fly",
+ "template": "rear_delt_raise",
+ "gender": "f",
+ "seconds": 145.4,
+ "pose_seconds": 1.2,
+ "quality": 72,
+ "bytes": 299836,
+ "frames": 48,
+ "unique": 25
+}

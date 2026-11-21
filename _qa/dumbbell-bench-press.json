@@ -1,0 +1,38 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 2.7755575615628914e-13,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  },
+  "R": {
+   "slide": 2.7755575615628914e-13,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  }
+ },
+ "support_mm": 0.6,
+ "floor_mm": 8.0,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.89,
+ "thumb": "start@0.00",
+ "pose_hash": "ad03ec65fa5c43eb",
+ "view": [
+  70,
+  16
+ ],
+ "key": "dumbbell-bench-press",
+ "name_en": "Dumbbell Bench Press",
+ "template": "db_bench_press",
+ "gender": "m",
+ "seconds": 134.3,
+ "pose_seconds": 1.5,
+ "quality": 72,
+ "bytes": 266628,
+ "frames": 48,
+ "unique": 25
+}

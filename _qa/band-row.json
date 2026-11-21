@@ -1,0 +1,38 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 1.0103182026100663e-13,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  },
+  "R": {
+   "slide": 1.0103182026100663e-13,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  }
+ },
+ "support_mm": 0.0,
+ "floor_mm": 8.0,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.95,
+ "thumb": "end@1.00",
+ "pose_hash": "46c92f9ec0729f7e",
+ "view": [
+  70,
+  10
+ ],
+ "key": "band-row",
+ "name_en": "Band Row",
+ "template": "standing_band_row",
+ "gender": "m",
+ "seconds": 115.4,
+ "pose_seconds": 1.9,
+ "quality": 72,
+ "bytes": 274267,
+ "frames": 48,
+ "unique": 25
+}

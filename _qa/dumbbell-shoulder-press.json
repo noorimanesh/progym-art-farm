@@ -1,0 +1,38 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 0.0,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  },
+  "R": {
+   "slide": 0.0,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  }
+ },
+ "support_mm": 0.1,
+ "floor_mm": 8.0,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.89,
+ "thumb": "start@0.00",
+ "pose_hash": "9ea21cd1c632574a",
+ "view": [
+  20,
+  8
+ ],
+ "key": "dumbbell-shoulder-press",
+ "name_en": "Dumbbell Shoulder Press",
+ "template": "db_shoulder_press",
+ "gender": "m",
+ "seconds": 86.9,
+ "pose_seconds": 1.3,
+ "quality": 72,
+ "bytes": 242704,
+ "frames": 48,
+ "unique": 25
+}

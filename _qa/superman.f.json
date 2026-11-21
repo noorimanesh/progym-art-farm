@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": 0.2,
+ "floor_mm": -2.0,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.92,
+ "thumb": "end@1.00",
+ "pose_hash": "751515268e8346b2",
+ "view": [
+  80,
+  10
+ ],
+ "key": "superman",
+ "name_en": "Superman",
+ "template": "superman",
+ "gender": "f",
+ "seconds": 102.1,
+ "pose_seconds": 1.7,
+ "quality": 72,
+ "bytes": 323981,
+ "frames": 48,
+ "unique": 25
+}

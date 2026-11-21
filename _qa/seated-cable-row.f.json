@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": -0.4,
+ "floor_mm": 218.1,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.94,
+ "thumb": "end@1.00",
+ "pose_hash": "e42170c8afba90ac",
+ "view": [
+  82,
+  10
+ ],
+ "key": "seated-cable-row",
+ "name_en": "Seated Cable Row",
+ "template": "cable_row",
+ "gender": "f",
+ "seconds": 156.2,
+ "pose_seconds": 1.3,
+ "quality": 72,
+ "bytes": 323465,
+ "frames": 48,
+ "unique": 25
+}

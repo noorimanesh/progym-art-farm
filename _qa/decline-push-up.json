@@ -1,0 +1,38 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 0.3429579915549658,
+   "gap_min": -2.637598037719735,
+   "gap_max": -2.514067411422738
+  },
+  "R": {
+   "slide": 0.3429579915549658,
+   "gap_min": -2.637598037719735,
+   "gap_max": -2.514067411422738
+  }
+ },
+ "support_mm": 0.0,
+ "floor_mm": -2.5,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.92,
+ "thumb": "end@1.00",
+ "pose_hash": "b1531d8544dbe1d3",
+ "view": [
+  70,
+  10
+ ],
+ "key": "decline-push-up",
+ "name_en": "Decline Push-up",
+ "template": "push_up",
+ "gender": "m",
+ "seconds": 151.4,
+ "pose_seconds": 1.7,
+ "quality": 63,
+ "bytes": 367071,
+ "frames": 48,
+ "unique": 25
+}
