@@ -1,0 +1,33 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 2.2247786310271854e-13,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  }
+ },
+ "support_mm": -0.5,
+ "floor_mm": -2.5,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.92,
+ "thumb": "end@1.00",
+ "pose_hash": "cfba63360d9f98d1",
+ "view": [
+  80,
+  8
+ ],
+ "key": "single-leg-glute-bridge-with-external-rotation",
+ "name_en": "Single-Leg Glute Bridge with External Rotation",
+ "template": "x54",
+ "gender": "m",
+ "seconds": 239.2,
+ "pose_seconds": 3.6,
+ "quality": 45,
+ "bytes": 371617,
+ "frames": 48,
+ "unique": 25
+}

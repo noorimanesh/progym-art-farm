@@ -1,0 +1,38 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 6.206335383118183e-14,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  },
+  "R": {
+   "slide": 1.1443916996305594e-13,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  }
+ },
+ "support_mm": 0.0,
+ "floor_mm": 8.0,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.95,
+ "thumb": "start@0.00",
+ "pose_hash": "9e0d59f06f02b526",
+ "view": [
+  60,
+  8
+ ],
+ "key": "partner-standing-chest-press",
+ "name_en": "Partner Standing Chest Press",
+ "template": "chest_press_standing",
+ "gender": "m",
+ "seconds": 132.5,
+ "pose_seconds": 2.3,
+ "quality": 72,
+ "bytes": 210855,
+ "frames": 48,
+ "unique": 25
+}

@@ -1,0 +1,33 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "R": {
+   "slide": 3.3335590258932494e-13,
+   "gap_min": 1.000003392469917,
+   "gap_max": 1.000003392469917
+  }
+ },
+ "support_mm": 0.0,
+ "floor_mm": 8.0,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.94,
+ "thumb": "end@1.00",
+ "pose_hash": "886bfbdcedf94386",
+ "view": [
+  75,
+  8
+ ],
+ "key": "step-up",
+ "name_en": "Step-up",
+ "template": "step_up",
+ "gender": "f",
+ "seconds": 83.8,
+ "pose_seconds": 2.8,
+ "quality": 75,
+ "bytes": 182332,
+ "frames": 48,
+ "unique": 25
+}

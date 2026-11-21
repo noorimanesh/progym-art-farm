@@ -1,0 +1,38 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 2.2377260456559047e-13,
+   "gap_min": 1.7017327547073358,
+   "gap_max": 1.7017327547073358
+  },
+  "R": {
+   "slide": 2.2377260456559047e-13,
+   "gap_min": 1.7017327547073358,
+   "gap_max": 1.7017327547073358
+  }
+ },
+ "support_mm": -0.5,
+ "floor_mm": -2.5,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.92,
+ "thumb": "end@1.00",
+ "pose_hash": "fd02583051f7583c",
+ "view": [
+  90,
+  7
+ ],
+ "key": "foam-roll-glute-bridge",
+ "name_en": "Foam Roll Glute Bridge",
+ "template": "glute_bridge",
+ "gender": "m",
+ "seconds": 219.3,
+ "pose_seconds": 3.0,
+ "quality": 54,
+ "bytes": 364662,
+ "frames": 48,
+ "unique": 25
+}

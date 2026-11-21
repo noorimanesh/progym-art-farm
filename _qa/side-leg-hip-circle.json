@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 2.9,
+ "feet": {},
+ "support_mm": 0.0,
+ "floor_mm": -2.0,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.92,
+ "thumb": "end@1.00",
+ "pose_hash": "1e25fa2637f62ad8",
+ "view": [
+  10,
+  30
+ ],
+ "key": "side-leg-hip-circle",
+ "name_en": "Side Leg Hip Circle",
+ "template": "side_leg_raise",
+ "gender": "m",
+ "seconds": 215.0,
+ "pose_seconds": 1.7,
+ "quality": 72,
+ "bytes": 316849,
+ "frames": 48,
+ "unique": 25
+}

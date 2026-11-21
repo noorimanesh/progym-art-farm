@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": 0.5,
+ "floor_mm": -2.5,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.77,
+ "thumb": "end@1.00",
+ "pose_hash": "1fcc04e14f817986",
+ "view": [
+  80,
+  10
+ ],
+ "key": "partner-banded-reverse-leg-raise",
+ "name_en": "Partner Banded Reverse Leg Raise",
+ "template": "superman",
+ "gender": "f",
+ "seconds": 108.2,
+ "pose_seconds": 1.9,
+ "quality": 72,
+ "bytes": 244045,
+ "frames": 48,
+ "unique": 25
+}

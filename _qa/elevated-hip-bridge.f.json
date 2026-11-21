@@ -1,0 +1,38 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 2.2247786310271854e-13,
+   "gap_min": 0.9999923706054403,
+   "gap_max": 0.9999923706054403
+  },
+  "R": {
+   "slide": 2.2247786310271854e-13,
+   "gap_min": 0.9999923706054403,
+   "gap_max": 0.9999923706054403
+  }
+ },
+ "support_mm": -0.4,
+ "floor_mm": -2.4,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.79,
+ "thumb": "end@1.00",
+ "pose_hash": "98e51df67bc70d8a",
+ "view": [
+  90,
+  7
+ ],
+ "key": "elevated-hip-bridge",
+ "name_en": "Elevated Hip Bridge",
+ "template": "glute_bridge",
+ "gender": "f",
+ "seconds": 199.7,
+ "pose_seconds": 3.3,
+ "quality": 72,
+ "bytes": 354927,
+ "frames": 48,
+ "unique": 25
+}

@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": 0.6,
+ "floor_mm": -2.0,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.75,
+ "thumb": "end@1.00",
+ "pose_hash": "7a12af9301f7957a",
+ "view": [
+  28.0,
+  12.0
+ ],
+ "key": "kneeling-squat",
+ "name_en": "Kneeling Squat",
+ "template": "squat",
+ "gender": "f",
+ "seconds": 213.9,
+ "pose_seconds": 2.3,
+ "quality": 69,
+ "bytes": 382039,
+ "frames": 48,
+ "unique": 25
+}

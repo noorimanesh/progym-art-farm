@@ -1,0 +1,33 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 2.2247786310271854e-13,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  }
+ },
+ "support_mm": -0.5,
+ "floor_mm": -2.5,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.92,
+ "thumb": "end@1.00",
+ "pose_hash": "510e67450353e274",
+ "view": [
+  90,
+  7
+ ],
+ "key": "banded-glute-bridge-with-alternating-leg-raise",
+ "name_en": "Banded Glute Bridge with Alternating Leg Raise",
+ "template": "glute_bridge",
+ "gender": "m",
+ "seconds": 182.3,
+ "pose_seconds": 2.9,
+ "quality": 72,
+ "bytes": 341146,
+ "frames": 48,
+ "unique": 25
+}

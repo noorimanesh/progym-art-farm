@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": -0.0,
+ "floor_mm": -2.0,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.92,
+ "thumb": "end@1.00",
+ "pose_hash": "5029978b935b325c",
+ "view": [
+  10,
+  30
+ ],
+ "key": "side-leg-kick",
+ "name_en": "Side Leg Kick",
+ "template": "side_leg_raise",
+ "gender": "f",
+ "seconds": 210.6,
+ "pose_seconds": 1.7,
+ "quality": 72,
+ "bytes": 329767,
+ "frames": 48,
+ "unique": 25
+}
