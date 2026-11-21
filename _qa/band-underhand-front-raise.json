@@ -1,0 +1,38 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 6.938893903907228e-14,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  },
+  "R": {
+   "slide": 6.938893903907228e-14,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  }
+ },
+ "support_mm": 0.0,
+ "floor_mm": 8.0,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.95,
+ "thumb": "end@1.00",
+ "pose_hash": "9342973a69e46564",
+ "view": [
+  60,
+  8
+ ],
+ "key": "band-underhand-front-raise",
+ "name_en": "Band Underhand Front Raise",
+ "template": "front_raise",
+ "gender": "m",
+ "seconds": 67.9,
+ "pose_seconds": 1.0,
+ "quality": 72,
+ "bytes": 275494,
+ "frames": 48,
+ "unique": 25
+}

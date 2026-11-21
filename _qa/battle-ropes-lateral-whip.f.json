@@ -1,0 +1,38 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 8.777083671441753e-14,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  },
+  "R": {
+   "slide": 8.777083671441753e-14,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  }
+ },
+ "support_mm": 0.0,
+ "floor_mm": 8.0,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.93,
+ "thumb": "0.25@0.25",
+ "pose_hash": "99a2c67e4c426232",
+ "view": [
+  40,
+  12
+ ],
+ "key": "battle-ropes-lateral-whip",
+ "name_en": "Battle Ropes Lateral Whip",
+ "template": "battle_ropes",
+ "gender": "f",
+ "seconds": 181.8,
+ "pose_seconds": 1.5,
+ "quality": 72,
+ "bytes": 338171,
+ "frames": 48,
+ "unique": 48
+}

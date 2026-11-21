@@ -1,0 +1,38 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 2.1544120232613907e-13,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  },
+  "R": {
+   "slide": 2.1544120232613907e-13,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  }
+ },
+ "support_mm": 0.0,
+ "floor_mm": 8.0,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.95,
+ "thumb": "0.25@0.25",
+ "pose_hash": "96fac31cc7517eee",
+ "view": [
+  40,
+  12
+ ],
+ "key": "battle-ropes-outside-spiral",
+ "name_en": "Battle Ropes Outside Spiral",
+ "template": "battle_ropes",
+ "gender": "m",
+ "seconds": 190.5,
+ "pose_seconds": 1.8,
+ "quality": 72,
+ "bytes": 359325,
+ "frames": 48,
+ "unique": 48
+}

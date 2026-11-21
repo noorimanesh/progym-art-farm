@@ -1,0 +1,38 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 5.003707553108401e-14,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  },
+  "R": {
+   "slide": 5.003707553108401e-14,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  }
+ },
+ "support_mm": 0.0,
+ "floor_mm": 8.0,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.95,
+ "thumb": "end@1.00",
+ "pose_hash": "0144e83b5f5b59fe",
+ "view": [
+  20,
+  8
+ ],
+ "key": "cable-shoulder-external-rotation",
+ "name_en": "Cable Shoulder External Rotation",
+ "template": "external_rotation",
+ "gender": "m",
+ "seconds": 91.4,
+ "pose_seconds": 1.0,
+ "quality": 72,
+ "bytes": 221297,
+ "frames": 48,
+ "unique": 25
+}

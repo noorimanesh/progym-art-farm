@@ -1,0 +1,38 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 1.688305753616065e-13,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  },
+  "R": {
+   "slide": 1.688305753616065e-13,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  }
+ },
+ "support_mm": 0.0,
+ "floor_mm": 8.0,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.95,
+ "thumb": "0.25@0.25",
+ "pose_hash": "d9cdf720e54f9811",
+ "view": [
+  40,
+  12
+ ],
+ "key": "battle-ropes-outside-slam",
+ "name_en": "Battle Ropes Outside Slam",
+ "template": "battle_ropes",
+ "gender": "m",
+ "seconds": 179.8,
+ "pose_seconds": 1.8,
+ "quality": 72,
+ "bytes": 380072,
+ "frames": 48,
+ "unique": 48
+}
