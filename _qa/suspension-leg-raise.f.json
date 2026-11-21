@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": 0.3,
+ "floor_mm": -2.2,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.92,
+ "thumb": "end@1.00",
+ "pose_hash": "87d09daae716079c",
+ "view": [
+  80.0,
+  12.0
+ ],
+ "key": "suspension-leg-raise",
+ "name_en": "Suspension Leg Raise",
+ "template": "x54",
+ "gender": "f",
+ "seconds": 62.4,
+ "pose_seconds": 1.4,
+ "quality": 72,
+ "bytes": 198546,
+ "frames": 36,
+ "unique": 19
+}
