@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": -0.6,
+ "floor_mm": -2.6,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.92,
+ "thumb": "end@1.00",
+ "pose_hash": "e094080343b24b88",
+ "view": [
+  90,
+  16
+ ],
+ "key": "bicycle-crunch",
+ "name_en": "Bicycle Crunch",
+ "template": "bicycle_crunch",
+ "gender": "m",
+ "seconds": 142.4,
+ "pose_seconds": 1.5,
+ "quality": 69,
+ "bytes": 380926,
+ "frames": 48,
+ "unique": 25
+}

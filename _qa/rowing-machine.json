@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": 0.5,
+ "floor_mm": 228.7,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.55,
+ "thumb": "end@1.00",
+ "pose_hash": "16ccaea4bdb5fa84",
+ "view": [
+  90,
+  7
+ ],
+ "key": "rowing-machine",
+ "name_en": "Rowing Machine",
+ "template": "rower",
+ "gender": "m",
+ "seconds": 121.9,
+ "pose_seconds": 1.6,
+ "quality": 72,
+ "bytes": 310388,
+ "frames": 48,
+ "unique": 25
+}

@@ -1,0 +1,33 @@
+{
+ "issues": [
+  "pop:lowerleg01.L@0.31:109mm,lowerleg01.R@0.31:109mm",
+  "frame:0.55"
+ ],
+ "grip_mm": 0.4,
+ "feet": {},
+ "support_mm": -0.6,
+ "floor_mm": 248.4,
+ "pops": [
+  "lowerleg01.L@0.31:109mm",
+  "lowerleg01.R@0.31:109mm"
+ ],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.55,
+ "thumb": "end@1.00",
+ "pose_hash": "455413a2f3e3df32",
+ "view": [
+  90,
+  7
+ ],
+ "key": "rowing-machine",
+ "name_en": "Rowing Machine",
+ "template": "rower",
+ "gender": "f",
+ "seconds": 121.8,
+ "pose_seconds": 1.9,
+ "quality": 72,
+ "bytes": 314407,
+ "frames": 48,
+ "unique": 25
+}

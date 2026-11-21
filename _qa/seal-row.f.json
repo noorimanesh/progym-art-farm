@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 2.8,
+ "feet": {},
+ "support_mm": 0.5,
+ "floor_mm": 420.4,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.75,
+ "thumb": "end@1.00",
+ "pose_hash": "9eae268d9552bad2",
+ "view": [
+  60,
+  9
+ ],
+ "key": "seal-row",
+ "name_en": "Seal Row",
+ "template": "barbell_row",
+ "gender": "f",
+ "seconds": 171.9,
+ "pose_seconds": 1.7,
+ "quality": 45,
+ "bytes": 389009,
+ "frames": 48,
+ "unique": 25
+}

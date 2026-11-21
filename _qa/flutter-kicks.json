@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": -0.5,
+ "floor_mm": -2.5,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.92,
+ "thumb": "end@1.00",
+ "pose_hash": "35d2d244a37d33f1",
+ "view": [
+  90,
+  16
+ ],
+ "key": "flutter-kicks",
+ "name_en": "Flutter Kicks",
+ "template": "flutter_kick",
+ "gender": "m",
+ "seconds": 137.8,
+ "pose_seconds": 1.4,
+ "quality": 72,
+ "bytes": 318358,
+ "frames": 48,
+ "unique": 25
+}

@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 2.0,
+ "feet": {},
+ "support_mm": 0.0,
+ "floor_mm": 7.7,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.95,
+ "thumb": "end@1.00",
+ "pose_hash": "acca59834adfd42f",
+ "view": [
+  55,
+  8
+ ],
+ "key": "farmers-walk",
+ "name_en": "Farmer's Walk",
+ "template": "farmer_walk",
+ "gender": "m",
+ "seconds": 76.3,
+ "pose_seconds": 1.8,
+ "quality": 72,
+ "bytes": 252295,
+ "frames": 48,
+ "unique": 25
+}

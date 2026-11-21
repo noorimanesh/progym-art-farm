@@ -1,0 +1,29 @@
+{
+ "issues": [
+  "grip:gripL:166mm"
+ ],
+ "grip_mm": 166.1,
+ "feet": {},
+ "support_mm": 0.0,
+ "floor_mm": 425.5,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.93,
+ "thumb": "0.0@0.00",
+ "pose_hash": "c3db9e7c3aada065",
+ "view": [
+  60.0,
+  8.0
+ ],
+ "key": "stair-climber",
+ "name_en": "Stair Climber",
+ "template": "x54",
+ "gender": "f",
+ "seconds": 209.8,
+ "pose_seconds": 2.4,
+ "quality": 72,
+ "bytes": 306803,
+ "frames": 48,
+ "unique": 48
+}

@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": 0.1,
+ "floor_mm": -2.0,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.91,
+ "thumb": "end@1.00",
+ "pose_hash": "9699f8bfdeee175e",
+ "view": [
+  20,
+  8
+ ],
+ "key": "side-plank",
+ "name_en": "Side Plank",
+ "template": "side_plank",
+ "gender": "f",
+ "seconds": 135.4,
+ "pose_seconds": 1.5,
+ "quality": 72,
+ "bytes": 232047,
+ "frames": 48,
+ "unique": 25
+}

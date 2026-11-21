@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": 0.6,
+ "floor_mm": -2.0,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.88,
+ "thumb": "end@1.00",
+ "pose_hash": "c719a140b2faf031",
+ "view": [
+  80,
+  10
+ ],
+ "key": "ab-wheel-rollout",
+ "name_en": "Ab Wheel Rollout",
+ "template": "ab_rollout",
+ "gender": "f",
+ "seconds": 154.2,
+ "pose_seconds": 2.1,
+ "quality": 66,
+ "bytes": 361289,
+ "frames": 48,
+ "unique": 25
+}
