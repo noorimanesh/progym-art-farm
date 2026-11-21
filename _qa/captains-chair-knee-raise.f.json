@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": 0.6,
+ "floor_mm": 418.2,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.73,
+ "thumb": "end@1.00",
+ "pose_hash": "9db1def336b44680",
+ "view": [
+  60,
+  8
+ ],
+ "key": "captains-chair-knee-raise",
+ "name_en": "Captain's Chair Knee Raise",
+ "template": "hanging_leg_raise",
+ "gender": "f",
+ "seconds": 111.0,
+ "pose_seconds": 2.1,
+ "quality": 72,
+ "bytes": 219162,
+ "frames": 48,
+ "unique": 25
+}

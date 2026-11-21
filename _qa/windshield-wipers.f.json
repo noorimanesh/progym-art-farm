@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": 0.5,
+ "floor_mm": -2.5,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.92,
+ "thumb": "end@1.00",
+ "pose_hash": "f68f30e838c79d7c",
+ "view": [
+  60.0,
+  35.0
+ ],
+ "key": "windshield-wipers",
+ "name_en": "Windshield Wipers",
+ "template": "windshield_wiper",
+ "gender": "f",
+ "seconds": 204.4,
+ "pose_seconds": 2.1,
+ "quality": 72,
+ "bytes": 349258,
+ "frames": 48,
+ "unique": 25
+}

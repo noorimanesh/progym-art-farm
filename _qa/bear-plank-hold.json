@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": 0.0,
+ "floor_mm": -2.5,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.92,
+ "thumb": "end@1.00",
+ "pose_hash": "12a349c4b341b72e",
+ "view": [
+  65,
+  12
+ ],
+ "key": "bear-plank-hold",
+ "name_en": "Bear Plank Hold",
+ "template": "plank",
+ "gender": "m",
+ "seconds": 234.8,
+ "pose_seconds": 1.6,
+ "quality": 72,
+ "bytes": 299566,
+ "frames": 48,
+ "unique": 25
+}

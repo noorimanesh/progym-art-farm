@@ -1,0 +1,38 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 4.440892098500626e-13,
+   "gap_min": -2.7853113301098347,
+   "gap_max": -2.7853113301098347
+  },
+  "R": {
+   "slide": 4.440892098500626e-13,
+   "gap_min": -2.7853113301098347,
+   "gap_max": -2.7853113301098347
+  }
+ },
+ "support_mm": 0.0,
+ "floor_mm": 4.2,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.92,
+ "thumb": "end@1.00",
+ "pose_hash": "a3ba88438b07fa39",
+ "view": [
+  65,
+  12
+ ],
+ "key": "plank-up-down",
+ "name_en": "Plank Up-Down",
+ "template": "plank",
+ "gender": "f",
+ "seconds": 217.1,
+ "pose_seconds": 1.7,
+ "quality": 66,
+ "bytes": 363455,
+ "frames": 48,
+ "unique": 25
+}

@@ -1,0 +1,41 @@
+{
+ "issues": [
+  "foot_slideL:140mm",
+  "foot_slideR:140mm"
+ ],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 140.0000000000001,
+   "gap_min": -2.5132491886615753,
+   "gap_max": -2.5132491886615753
+  },
+  "R": {
+   "slide": 140.0000000000001,
+   "gap_min": -2.5132491886615753,
+   "gap_max": -2.5132491886615753
+  }
+ },
+ "support_mm": 0.0,
+ "floor_mm": 4.5,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.92,
+ "thumb": "0.0@0.00",
+ "pose_hash": "d7a85111451971c7",
+ "view": [
+  65.0,
+  12.0
+ ],
+ "key": "stir-the-pot",
+ "name_en": "Stir the Pot",
+ "template": "x54",
+ "gender": "m",
+ "seconds": 421.6,
+ "pose_seconds": 3.1,
+ "quality": 51,
+ "bytes": 372643,
+ "frames": 48,
+ "unique": 48
+}

@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 2.0,
+ "feet": {},
+ "support_mm": 0.0,
+ "floor_mm": 7.7,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.95,
+ "thumb": "end@1.00",
+ "pose_hash": "acd275bcce0e4489",
+ "view": [
+  15.0,
+  8.0
+ ],
+ "key": "suitcase-carry",
+ "name_en": "Suitcase Carry",
+ "template": "farmer_walk",
+ "gender": "m",
+ "seconds": 108.0,
+ "pose_seconds": 2.1,
+ "quality": 72,
+ "bytes": 250387,
+ "frames": 48,
+ "unique": 25
+}

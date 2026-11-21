@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": 0.0,
+ "floor_mm": 4.2,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.92,
+ "thumb": "end@1.00",
+ "pose_hash": "2822f6e1ed90e97a",
+ "view": [
+  35.0,
+  30.0
+ ],
+ "key": "plank-jack",
+ "name_en": "Plank Jack",
+ "template": "plank",
+ "gender": "f",
+ "seconds": 235.7,
+ "pose_seconds": 2.0,
+ "quality": 57,
+ "bytes": 375349,
+ "frames": 48,
+ "unique": 25
+}

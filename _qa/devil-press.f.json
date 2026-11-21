@@ -1,0 +1,36 @@
+{
+ "issues": [
+  "equip_floor:-41mm"
+ ],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": 0.0,
+ "floor_mm": 4.3,
+ "pops": [],
+ "twists": [
+  "wrist.L@0.71:64deg",
+  "wrist.R@0.71:64deg",
+  "lowerarm01.L@0.71:96deg",
+  "lowerarm01.L@0.85:93deg",
+  "lowerarm01.R@0.71:97deg",
+  "lowerarm01.R@0.85:93deg"
+ ],
+ "ranges": [],
+ "athlete_frac": 0.84,
+ "thumb": "0.32@0.31",
+ "pose_hash": "c3dd63c6811c8b0b",
+ "view": [
+  75.0,
+  12.0
+ ],
+ "key": "devil-press",
+ "name_en": "Devil Press",
+ "template": "x54f",
+ "gender": "f",
+ "seconds": 299.3,
+ "pose_seconds": 2.9,
+ "quality": 72,
+ "bytes": 299229,
+ "frames": 48,
+ "unique": 48
+}

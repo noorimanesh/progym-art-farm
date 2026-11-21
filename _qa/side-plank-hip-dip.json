@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": -0.2,
+ "floor_mm": -2.2,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.92,
+ "thumb": "end@1.00",
+ "pose_hash": "3ff40047ef3708cc",
+ "view": [
+  20.0,
+  8.0
+ ],
+ "key": "side-plank-hip-dip",
+ "name_en": "Side Plank Hip Dip",
+ "template": "x54",
+ "gender": "m",
+ "seconds": 216.2,
+ "pose_seconds": 2.6,
+ "quality": 54,
+ "bytes": 386330,
+ "frames": 48,
+ "unique": 25
+}

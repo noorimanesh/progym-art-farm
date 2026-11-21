@@ -1,0 +1,38 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 0.31200303168970833,
+   "gap_min": -2.64896225929262,
+   "gap_max": -2.51395773887636
+  },
+  "R": {
+   "slide": 0.31200303168970833,
+   "gap_min": -2.64896225929262,
+   "gap_max": -2.51395773887636
+  }
+ },
+ "support_mm": 0.0,
+ "floor_mm": -2.5,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.92,
+ "thumb": "end@1.00",
+ "pose_hash": "19a27aed49e4f42e",
+ "view": [
+  70,
+  10
+ ],
+ "key": "suspension-atomic-push-up",
+ "name_en": "Suspension Atomic Push-up",
+ "template": "push_up",
+ "gender": "m",
+ "seconds": 215.5,
+ "pose_seconds": 2.3,
+ "quality": 69,
+ "bytes": 364111,
+ "frames": 48,
+ "unique": 25
+}

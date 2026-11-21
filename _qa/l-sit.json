@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": 0.0,
+ "floor_mm": 484.5,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.95,
+ "thumb": "end@1.00",
+ "pose_hash": "966bad1fbb94fd6b",
+ "view": [
+  70,
+  8
+ ],
+ "key": "l-sit",
+ "name_en": "L-Sit",
+ "template": "l_sit",
+ "gender": "m",
+ "seconds": 188.4,
+ "pose_seconds": 1.6,
+ "quality": 72,
+ "bytes": 313448,
+ "frames": 48,
+ "unique": 25
+}

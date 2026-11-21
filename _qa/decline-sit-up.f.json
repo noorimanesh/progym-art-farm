@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": 0.6,
+ "floor_mm": 366.8,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.95,
+ "thumb": "end@1.00",
+ "pose_hash": "e1447b56afa7b985",
+ "view": [
+  90,
+  16
+ ],
+ "key": "decline-sit-up",
+ "name_en": "Decline Sit-up",
+ "template": "sit_up",
+ "gender": "f",
+ "seconds": 229.5,
+ "pose_seconds": 2.3,
+ "quality": 72,
+ "bytes": 353516,
+ "frames": 48,
+ "unique": 25
+}
