@@ -1,0 +1,38 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 1.2412670766236365e-13,
+   "gap_min": 0.5579762458801096,
+   "gap_max": 0.5579762458801096
+  },
+  "R": {
+   "slide": 1.2412670766236365e-13,
+   "gap_min": 0.5579762458801096,
+   "gap_max": 0.5579762458801096
+  }
+ },
+ "support_mm": -0.5,
+ "floor_mm": 207.6,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.91,
+ "thumb": "end@1.00",
+ "pose_hash": "7e5563467be71a17",
+ "view": [
+  80.0,
+  8.0
+ ],
+ "key": "chest-supported-t-bar-row",
+ "name_en": "Chest-Supported T-Bar Row",
+ "template": "x54",
+ "gender": "f",
+ "seconds": 55.0,
+ "pose_seconds": 1.0,
+ "quality": 72,
+ "bytes": 193668,
+ "frames": 36,
+ "unique": 19
+}
