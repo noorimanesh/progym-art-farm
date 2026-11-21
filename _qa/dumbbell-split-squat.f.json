@@ -1,0 +1,38 @@
+{
+ "issues": [],
+ "grip_mm": 4.4,
+ "feet": {
+  "R": {
+   "slide": 0.20101325902353587,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.2845594733953474
+  },
+  "L": {
+   "slide": 1.6711069443220838e-13,
+   "gap_min": -1.881570339202881,
+   "gap_max": -1.881570339202881
+  }
+ },
+ "support_mm": 0.0,
+ "floor_mm": 5.1,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.94,
+ "thumb": "end@1.00",
+ "pose_hash": "fbdd7b5e54d63414",
+ "view": [
+  88,
+  6
+ ],
+ "key": "dumbbell-split-squat",
+ "name_en": "Dumbbell Split Squat",
+ "template": "split_squat",
+ "gender": "f",
+ "seconds": 121.0,
+ "pose_seconds": 2.2,
+ "quality": 72,
+ "bytes": 274461,
+ "frames": 48,
+ "unique": 25
+}

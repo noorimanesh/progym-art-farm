@@ -1,0 +1,33 @@
+{
+ "issues": [],
+ "grip_mm": 4.4,
+ "feet": {
+  "R": {
+   "slide": 2.155529167242746e-13,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  }
+ },
+ "support_mm": 0.0,
+ "floor_mm": 5.1,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.94,
+ "thumb": "end@1.00",
+ "pose_hash": "d85fff259545db61",
+ "view": [
+  88,
+  6
+ ],
+ "key": "dumbbell-reverse-lunge",
+ "name_en": "Dumbbell Reverse Lunge",
+ "template": "reverse_lunge",
+ "gender": "f",
+ "seconds": 123.0,
+ "pose_seconds": 3.1,
+ "quality": 72,
+ "bytes": 266464,
+ "frames": 48,
+ "unique": 25
+}

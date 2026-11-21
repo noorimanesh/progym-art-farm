@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": 0.6,
+ "floor_mm": 366.8,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.91,
+ "thumb": "end@1.00",
+ "pose_hash": "855f626ed9917001",
+ "view": [
+  90,
+  16
+ ],
+ "key": "decline-crunch",
+ "name_en": "Decline Crunch",
+ "template": "crunch",
+ "gender": "f",
+ "seconds": 199.8,
+ "pose_seconds": 1.9,
+ "quality": 72,
+ "bytes": 342280,
+ "frames": 48,
+ "unique": 25
+}

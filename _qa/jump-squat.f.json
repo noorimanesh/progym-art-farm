@@ -1,0 +1,38 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 1.5011122659325205e-13,
+   "gap_min": -1.3186147337052867,
+   "gap_max": 1.0000003799796102
+  },
+  "R": {
+   "slide": 1.5011122659325205e-13,
+   "gap_min": -1.3186147337052867,
+   "gap_max": 1.0000003799796102
+  }
+ },
+ "support_mm": 0.0,
+ "floor_mm": 8.0,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.94,
+ "thumb": "end@1.00",
+ "pose_hash": "762d2ab3e1e1d5db",
+ "view": [
+  55,
+  8
+ ],
+ "key": "jump-squat",
+ "name_en": "Jump Squat",
+ "template": "jump_squat",
+ "gender": "f",
+ "seconds": 101.9,
+ "pose_seconds": 2.7,
+ "quality": 72,
+ "bytes": 247253,
+ "frames": 48,
+ "unique": 25
+}

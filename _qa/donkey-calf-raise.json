@@ -1,0 +1,42 @@
+{
+ "issues": [
+  "grip:palmL:75mm",
+  "foot_sinkL:-18mm",
+  "foot_sinkR:-18mm"
+ ],
+ "grip_mm": 74.7,
+ "feet": {
+  "L": {
+   "slide": 1.3877787807814457e-13,
+   "gap_min": -17.56369662284851,
+   "gap_max": 1.776758909225462
+  },
+  "R": {
+   "slide": 1.3877787807814457e-13,
+   "gap_min": -17.56369662284851,
+   "gap_max": 1.776758909225462
+  }
+ },
+ "support_mm": 0.0,
+ "floor_mm": 68.7,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.95,
+ "thumb": "end@1.00",
+ "pose_hash": "7672d4b938d46e06",
+ "view": [
+  85.0,
+  8.0
+ ],
+ "key": "donkey-calf-raise",
+ "name_en": "Donkey Calf Raise",
+ "template": "x54",
+ "gender": "m",
+ "seconds": 217.4,
+ "pose_seconds": 1.5,
+ "quality": 72,
+ "bytes": 309584,
+ "frames": 48,
+ "unique": 25
+}

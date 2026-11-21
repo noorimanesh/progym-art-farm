@@ -1,0 +1,38 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 0.0,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  },
+  "R": {
+   "slide": 0.0,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  }
+ },
+ "support_mm": -0.4,
+ "floor_mm": 8.0,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.9,
+ "thumb": "end@1.00",
+ "pose_hash": "187031c2eb51baff",
+ "view": [
+  60,
+  18
+ ],
+ "key": "tate-press",
+ "name_en": "Tate Press",
+ "template": "skull_crusher",
+ "gender": "m",
+ "seconds": 189.1,
+ "pose_seconds": 1.6,
+ "quality": 72,
+ "bytes": 212975,
+ "frames": 48,
+ "unique": 25
+}

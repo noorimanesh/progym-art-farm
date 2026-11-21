@@ -1,0 +1,38 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 3.3306690738754696e-13,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  },
+  "R": {
+   "slide": 3.3306690738754696e-13,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  }
+ },
+ "support_mm": 0.5,
+ "floor_mm": -2.0,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.91,
+ "thumb": "end@1.00",
+ "pose_hash": "446b3f638f36936b",
+ "view": [
+  90,
+  16
+ ],
+ "key": "sit-up",
+ "name_en": "Sit-up",
+ "template": "sit_up",
+ "gender": "f",
+ "seconds": 224.6,
+ "pose_seconds": 2.4,
+ "quality": 72,
+ "bytes": 364367,
+ "frames": 48,
+ "unique": 25
+}

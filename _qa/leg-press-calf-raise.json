@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": 0.5,
+ "floor_mm": 440.2,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.74,
+ "thumb": "end@1.00",
+ "pose_hash": "d0a920e94ebdd29c",
+ "view": [
+  96.0,
+  12.0
+ ],
+ "key": "leg-press-calf-raise",
+ "name_en": "Leg Press Calf Raise",
+ "template": "leg_press",
+ "gender": "m",
+ "seconds": 227.5,
+ "pose_seconds": 2.1,
+ "quality": 72,
+ "bytes": 267169,
+ "frames": 48,
+ "unique": 25
+}

@@ -1,0 +1,33 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "R": {
+   "slide": 1.2412670766236365e-13,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  }
+ },
+ "support_mm": 0.5,
+ "floor_mm": -2.5,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.95,
+ "thumb": "end@1.00",
+ "pose_hash": "e2d6dca02730a16e",
+ "view": [
+  35,
+  12
+ ],
+ "key": "turkish-get-up",
+ "name_en": "Turkish Get-up",
+ "template": "turkish_get_up",
+ "gender": "f",
+ "seconds": 207.7,
+ "pose_seconds": 2.0,
+ "quality": 72,
+ "bytes": 349086,
+ "frames": 48,
+ "unique": 25
+}

@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": -0.5,
+ "floor_mm": -2.5,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.95,
+ "thumb": "end@1.00",
+ "pose_hash": "bf8e06e5d5cea896",
+ "view": [
+  90,
+  7
+ ],
+ "key": "donkey-kick",
+ "name_en": "Donkey Kick",
+ "template": "donkey_kick",
+ "gender": "m",
+ "seconds": 194.3,
+ "pose_seconds": 1.7,
+ "quality": 72,
+ "bytes": 287911,
+ "frames": 48,
+ "unique": 25
+}

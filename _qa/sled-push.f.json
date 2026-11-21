@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 1.2,
+ "feet": {},
+ "support_mm": 0.0,
+ "floor_mm": 4.8,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.92,
+ "thumb": "end@1.00",
+ "pose_hash": "9c8fbb39049d9dd6",
+ "view": [
+  80,
+  8
+ ],
+ "key": "sled-push",
+ "name_en": "Sled Push",
+ "template": "sled_push",
+ "gender": "f",
+ "seconds": 193.5,
+ "pose_seconds": 1.5,
+ "quality": 72,
+ "bytes": 336423,
+ "frames": 48,
+ "unique": 25
+}
