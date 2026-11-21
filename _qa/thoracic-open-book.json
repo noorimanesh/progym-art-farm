@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": 0.6,
+ "floor_mm": -2.3,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.95,
+ "thumb": "end@1.00",
+ "pose_hash": "f0d5a6b25b8778c0",
+ "view": [
+  60.0,
+  35.0
+ ],
+ "key": "thoracic-open-book",
+ "name_en": "Thoracic Open Book",
+ "template": "arm_stretch",
+ "gender": "m",
+ "seconds": 98.5,
+ "pose_seconds": 1.1,
+ "quality": 72,
+ "bytes": 294994,
+ "frames": 48,
+ "unique": 25
+}

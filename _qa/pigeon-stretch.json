@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": -0.5,
+ "floor_mm": -2.5,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.92,
+ "thumb": "end@1.00",
+ "pose_hash": "1d61b254dd8d97bf",
+ "view": [
+  40,
+  14
+ ],
+ "key": "pigeon-stretch",
+ "name_en": "Pigeon Stretch",
+ "template": "pigeon_pose",
+ "gender": "m",
+ "seconds": 123.6,
+ "pose_seconds": 0.9,
+ "quality": 60,
+ "bytes": 381989,
+ "frames": 48,
+ "unique": 25
+}

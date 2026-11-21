@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": 0.5,
+ "floor_mm": -2.5,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.94,
+ "thumb": "end@1.00",
+ "pose_hash": "e34eac157ae6f458",
+ "view": [
+  20,
+  8
+ ],
+ "key": "butterfly-stretch",
+ "name_en": "Butterfly Stretch",
+ "template": "butterfly_stretch",
+ "gender": "f",
+ "seconds": 107.6,
+ "pose_seconds": 1.1,
+ "quality": 42,
+ "bytes": 389233,
+ "frames": 48,
+ "unique": 25
+}

@@ -1,0 +1,38 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 2.288783399261119e-13,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  },
+  "R": {
+   "slide": 2.288783399261119e-13,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  }
+ },
+ "support_mm": -0.6,
+ "floor_mm": 8.0,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.9,
+ "thumb": "start@0.00",
+ "pose_hash": "7705bfcb9b3007b0",
+ "view": [
+  45.0,
+  12.0
+ ],
+ "key": "incline-dumbbell-fly",
+ "name_en": "Incline Dumbbell Fly",
+ "template": "db_fly",
+ "gender": "m",
+ "seconds": 88.0,
+ "pose_seconds": 0.9,
+ "quality": 72,
+ "bytes": 293024,
+ "frames": 48,
+ "unique": 25
+}

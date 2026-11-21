@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": -0.5,
+ "floor_mm": -2.5,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.92,
+ "thumb": "end@1.00",
+ "pose_hash": "c9b4e24a6241acf7",
+ "view": [
+  90.0,
+  8.0
+ ],
+ "key": "figure-4-glute-stretch",
+ "name_en": "Figure-4 Glute Stretch",
+ "template": "pigeon_pose",
+ "gender": "m",
+ "seconds": 86.2,
+ "pose_seconds": 0.9,
+ "quality": 72,
+ "bytes": 316348,
+ "frames": 48,
+ "unique": 25
+}

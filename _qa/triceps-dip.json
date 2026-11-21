@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": 0.0,
+ "floor_mm": 331.2,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.95,
+ "thumb": "end@1.00",
+ "pose_hash": "8030da93d02b6967",
+ "view": [
+  75,
+  8
+ ],
+ "key": "triceps-dip",
+ "name_en": "Triceps Dip",
+ "template": "dip",
+ "gender": "m",
+ "seconds": 62.7,
+ "pose_seconds": 1.7,
+ "quality": 72,
+ "bytes": 266714,
+ "frames": 48,
+ "unique": 25
+}

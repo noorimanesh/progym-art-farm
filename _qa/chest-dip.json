@@ -1,0 +1,38 @@
+{
+ "issues": [
+  "pop:lowerleg01.L@0.85:24mm,lowerleg01.R@0.85:24mm,foot.L@0.85:24mm"
+ ],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": 0.0,
+ "floor_mm": 415.6,
+ "pops": [
+  "lowerleg01.L@0.85:24mm",
+  "lowerleg01.R@0.85:24mm",
+  "foot.L@0.85:24mm",
+  "foot.R@0.85:24mm",
+  "head@0.85:22mm",
+  "upperarm01.L@0.85:23mm",
+  "upperarm01.R@0.85:23mm",
+  "root@0.85:24mm"
+ ],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.95,
+ "thumb": "end@1.00",
+ "pose_hash": "b444e433c21ae6d0",
+ "view": [
+  75,
+  8
+ ],
+ "key": "chest-dip",
+ "name_en": "Chest Dip",
+ "template": "dip",
+ "gender": "m",
+ "seconds": 66.7,
+ "pose_seconds": 2.1,
+ "quality": 72,
+ "bytes": 288454,
+ "frames": 48,
+ "unique": 25
+}

@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": 0.6,
+ "floor_mm": -2.0,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.91,
+ "thumb": "end@1.00",
+ "pose_hash": "1c363eb0fa1bd598",
+ "view": [
+  75,
+  10
+ ],
+ "key": "cobra-stretch",
+ "name_en": "Cobra Stretch",
+ "template": "cobra",
+ "gender": "f",
+ "seconds": 104.9,
+ "pose_seconds": 1.1,
+ "quality": 72,
+ "bytes": 342827,
+ "frames": 48,
+ "unique": 25
+}

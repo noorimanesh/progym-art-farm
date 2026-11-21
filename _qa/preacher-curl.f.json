@@ -1,0 +1,38 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 0.0,
+   "gap_min": 0.9999965429305924,
+   "gap_max": 0.9999965429305924
+  },
+  "R": {
+   "slide": 0.0,
+   "gap_min": 0.9999965429305924,
+   "gap_max": 0.9999965429305924
+  }
+ },
+ "support_mm": 0.3,
+ "floor_mm": 138.0,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.93,
+ "thumb": "end@1.00",
+ "pose_hash": "3c5eb74b5bbe9e71",
+ "view": [
+  100,
+  6
+ ],
+ "key": "preacher-curl",
+ "name_en": "Preacher Curl",
+ "template": "preacher_curl",
+ "gender": "f",
+ "seconds": 70.4,
+ "pose_seconds": 1.0,
+ "quality": 72,
+ "bytes": 295567,
+ "frames": 48,
+ "unique": 25
+}

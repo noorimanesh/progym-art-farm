@@ -1,0 +1,38 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 0.0,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  },
+  "R": {
+   "slide": 0.0,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  }
+ },
+ "support_mm": 0.3,
+ "floor_mm": 8.0,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.94,
+ "thumb": "end@1.00",
+ "pose_hash": "193aa473d948bc26",
+ "view": [
+  25,
+  16
+ ],
+ "key": "machine-fly",
+ "name_en": "Machine Fly",
+ "template": "pec_deck",
+ "gender": "f",
+ "seconds": 84.8,
+ "pose_seconds": 0.8,
+ "quality": 72,
+ "bytes": 299890,
+ "frames": 48,
+ "unique": 25
+}
