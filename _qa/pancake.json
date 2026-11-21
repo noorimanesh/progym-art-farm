@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": -0.5,
+ "floor_mm": -2.5,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.95,
+ "thumb": "end@1.00",
+ "pose_hash": "ec204eb561002e2d",
+ "view": [
+  30.0,
+  24.0
+ ],
+ "key": "pancake",
+ "name_en": "Pancake",
+ "template": "seated_forward_bend",
+ "gender": "m",
+ "seconds": 135.5,
+ "pose_seconds": 1.3,
+ "quality": 66,
+ "bytes": 385937,
+ "frames": 48,
+ "unique": 25
+}

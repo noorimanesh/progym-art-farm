@@ -1,0 +1,29 @@
+{
+ "issues": [
+  "grip:palmL:54mm"
+ ],
+ "grip_mm": 54.5,
+ "feet": {},
+ "support_mm": 0.2,
+ "floor_mm": -2.0,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.93,
+ "thumb": "end@1.00",
+ "pose_hash": "2cf45da3bad97437",
+ "view": [
+  35.0,
+  24.0
+ ],
+ "key": "fan-stretch",
+ "name_en": "Fan Stretch",
+ "template": "seated_forward_bend",
+ "gender": "f",
+ "seconds": 122.3,
+ "pose_seconds": 0.4,
+ "quality": 69,
+ "bytes": 398222,
+ "frames": 48,
+ "unique": 25
+}

@@ -1,0 +1,31 @@
+{
+ "issues": [
+  "twist:foot.R@0.25:98deg"
+ ],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": 0.6,
+ "floor_mm": -2.5,
+ "pops": [],
+ "twists": [
+  "foot.R@0.25:98deg"
+ ],
+ "ranges": [],
+ "athlete_frac": 0.95,
+ "thumb": "end@1.00",
+ "pose_hash": "30789bd5fea76a65",
+ "view": [
+  20.0,
+  14.0
+ ],
+ "key": "shin-box-hip-flexor",
+ "name_en": "Shin Box Hip Flexor",
+ "template": "x54",
+ "gender": "f",
+ "seconds": 100.5,
+ "pose_seconds": 1.1,
+ "quality": 72,
+ "bytes": 341602,
+ "frames": 48,
+ "unique": 25
+}

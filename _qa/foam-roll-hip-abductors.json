@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": 0.6,
+ "floor_mm": -2.5,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.92,
+ "thumb": "end@1.00",
+ "pose_hash": "ec347f0fba8089ab",
+ "view": [
+  10.0,
+  22.0
+ ],
+ "key": "foam-roll-hip-abductors",
+ "name_en": "Foam Roll Hip Abductors",
+ "template": "x54",
+ "gender": "m",
+ "seconds": 124.0,
+ "pose_seconds": 0.9,
+ "quality": 72,
+ "bytes": 273520,
+ "frames": 48,
+ "unique": 25
+}

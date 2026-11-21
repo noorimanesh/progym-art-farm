@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": -0.5,
+ "floor_mm": -2.5,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.92,
+ "thumb": "end@1.00",
+ "pose_hash": "abf3a89baefa6165",
+ "view": [
+  70,
+  14
+ ],
+ "key": "fire-hydrant-circle",
+ "name_en": "Fire Hydrant Circle",
+ "template": "fire_hydrant",
+ "gender": "m",
+ "seconds": 122.8,
+ "pose_seconds": 1.7,
+ "quality": 66,
+ "bytes": 360152,
+ "frames": 48,
+ "unique": 25
+}

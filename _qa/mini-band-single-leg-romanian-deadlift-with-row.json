@@ -1,0 +1,33 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "R": {
+   "slide": 7.376145397762942e-14,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  }
+ },
+ "support_mm": 0.0,
+ "floor_mm": 4.0,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.95,
+ "thumb": "end@1.00",
+ "pose_hash": "8b5308b124dfb976",
+ "view": [
+  80,
+  8
+ ],
+ "key": "mini-band-single-leg-romanian-deadlift-with-row",
+ "name_en": "Mini Band Single-Leg Romanian Deadlift with Row",
+ "template": "single_leg_rdl",
+ "gender": "m",
+ "seconds": 95.2,
+ "pose_seconds": 2.8,
+ "quality": 72,
+ "bytes": 277934,
+ "frames": 48,
+ "unique": 25
+}

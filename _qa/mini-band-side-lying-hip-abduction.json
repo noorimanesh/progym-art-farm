@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 2.9,
+ "feet": {},
+ "support_mm": 0.0,
+ "floor_mm": -2.0,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.92,
+ "thumb": "end@1.00",
+ "pose_hash": "7e667abca3ecbdf6",
+ "view": [
+  10,
+  30
+ ],
+ "key": "mini-band-side-lying-hip-abduction",
+ "name_en": "Mini Band Side-Lying Hip Abduction",
+ "template": "side_leg_raise",
+ "gender": "m",
+ "seconds": 132.0,
+ "pose_seconds": 0.9,
+ "quality": 72,
+ "bytes": 318632,
+ "frames": 48,
+ "unique": 25
+}

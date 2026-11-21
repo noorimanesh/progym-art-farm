@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": -0.5,
+ "floor_mm": -2.5,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.92,
+ "thumb": "end@1.00",
+ "pose_hash": "d41172db1fdb6ae6",
+ "view": [
+  80,
+  10
+ ],
+ "key": "foam-roll-hip-adductors",
+ "name_en": "Foam Roll Hip Adductors",
+ "template": "foam_roll",
+ "gender": "f",
+ "seconds": 73.9,
+ "pose_seconds": 0.9,
+ "quality": 72,
+ "bytes": 344117,
+ "frames": 48,
+ "unique": 25
+}

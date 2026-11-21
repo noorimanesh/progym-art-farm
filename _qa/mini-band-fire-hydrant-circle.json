@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": -0.5,
+ "floor_mm": -2.5,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.92,
+ "thumb": "end@1.00",
+ "pose_hash": "7d3d1d0168dc5fca",
+ "view": [
+  70,
+  14
+ ],
+ "key": "mini-band-fire-hydrant-circle",
+ "name_en": "Mini Band Fire Hydrant Circle",
+ "template": "fire_hydrant",
+ "gender": "m",
+ "seconds": 123.9,
+ "pose_seconds": 1.7,
+ "quality": 63,
+ "bytes": 365644,
+ "frames": 48,
+ "unique": 25
+}

@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": 0.6,
+ "floor_mm": -2.5,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.95,
+ "thumb": "end@1.00",
+ "pose_hash": "45e67d2ab3b55ea0",
+ "view": [
+  70,
+  14
+ ],
+ "key": "prone-hip-circle",
+ "name_en": "Prone Hip Circle",
+ "template": "fire_hydrant",
+ "gender": "f",
+ "seconds": 139.0,
+ "pose_seconds": 1.0,
+ "quality": 57,
+ "bytes": 357497,
+ "frames": 48,
+ "unique": 25
+}

@@ -1,0 +1,38 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 2.288783399261119e-13,
+   "gap_min": -2.1568464748561382,
+   "gap_max": -2.1568464748561382
+  },
+  "R": {
+   "slide": 1.1443916996305594e-13,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  }
+ },
+ "support_mm": 0.0,
+ "floor_mm": 4.8,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.94,
+ "thumb": "end@1.00",
+ "pose_hash": "3823a6c6634961d5",
+ "view": [
+  85,
+  8
+ ],
+ "key": "standing-hip-flexor-stretch",
+ "name_en": "Standing Hip Flexor Stretch",
+ "template": "hip_flexor_stretch",
+ "gender": "f",
+ "seconds": 65.8,
+ "pose_seconds": 1.0,
+ "quality": 72,
+ "bytes": 236308,
+ "frames": 48,
+ "unique": 25
+}

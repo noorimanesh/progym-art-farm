@@ -1,0 +1,33 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 1.688305753616065e-13,
+   "gap_min": -1.881570339202881,
+   "gap_max": 1.0000003799796102
+  }
+ },
+ "support_mm": 0.0,
+ "floor_mm": 5.1,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.95,
+ "thumb": "end@1.00",
+ "pose_hash": "c361d262d064756d",
+ "view": [
+  15.0,
+  8.0
+ ],
+ "key": "lunge-to-lateral-reach",
+ "name_en": "Lunge to Lateral Reach",
+ "template": "forward_lunge",
+ "gender": "f",
+ "seconds": 57.8,
+ "pose_seconds": 1.5,
+ "quality": 72,
+ "bytes": 266486,
+ "frames": 48,
+ "unique": 25
+}

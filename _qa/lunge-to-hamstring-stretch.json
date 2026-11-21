@@ -1,0 +1,37 @@
+{
+ "issues": [
+  "grip:palmR:64mm",
+  "foot_sinkL:-30mm",
+  "floor:-66mm"
+ ],
+ "grip_mm": 63.9,
+ "feet": {
+  "L": {
+   "slide": 3.402181501003038e-13,
+   "gap_min": -29.89152517914772,
+   "gap_max": 1.0000003799796102
+  }
+ },
+ "support_mm": 0.0,
+ "floor_mm": -65.7,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.92,
+ "thumb": "0.75@0.75",
+ "pose_hash": "0d47ad9604e4c7b3",
+ "view": [
+  80.0,
+  10.0
+ ],
+ "key": "lunge-to-hamstring-stretch",
+ "name_en": "Lunge to Hamstring Stretch",
+ "template": "x54",
+ "gender": "m",
+ "seconds": 218.8,
+ "pose_seconds": 9.6,
+ "quality": 72,
+ "bytes": 344115,
+ "frames": 48,
+ "unique": 48
+}
