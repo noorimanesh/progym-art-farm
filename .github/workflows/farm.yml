@@ -9,6 +9,14 @@ on:
         description: 'comma-separated keys to render (empty = whole library)'
         required: false
         default: ''
+      style:
+        description: 'v5 (5.5 videos) or v4 (5.4 pictures)'
+        required: false
+        default: 'v5'
+      genders:
+        description: 'm f, or one of them'
+        required: false
+        default: 'm f'
   push:
     branches: [ main ]
     paths: [ 'farm/go' ]
@@ -45,9 +53,16 @@ jobs:
           TOTAL=$(($(wc -l < data/v5/all-moves.csv) - 1))
           S=$(( TOTAL * I / N )); E=$(( TOTAL * (I + 1) / N ))
           ONLY="${{ github.event.inputs.only }}"
-          ARGS="--moves data/v5/all-moves.csv --out out --style v5 --threads $(nproc) --skip-existing"
-          if [ -n "$ONLY" ]; then ARGS="$ARGS --only $ONLY"; [ "$I" = "0" ] || exit 0; else ARGS="$ARGS --start $S --end $E"; fi
-          for G in m f; do
+          STYLE="${{ github.event.inputs.style }}"; STYLE=${STYLE:-v5}
+          GS="${{ github.event.inputs.genders }}"; GS=${GS:-m f}
+          ARGS="--moves data/v5/all-moves.csv --out out --style $STYLE --threads $(nproc) --skip-existing"
+          if [ -n "$ONLY" ]; then
+            # a key list: spread over the slices, a few keys each
+            K=$(python3 -c "import sys; k=[x for x in sys.argv[1].split(',') if x]; print(','.join(k[$I::40]))" "$ONLY")
+            [ -n "$K" ] || exit 0
+            ARGS="$ARGS --only $K"
+          else ARGS="$ARGS --start $S --end $E"; fi
+          for G in $GS; do
             python -m artgen.render3 $ARGS --gender $G 2>&1 | grep --line-buffered -E '^\[|^done|Error|Traceback' || true
           done
           ls out/*.mp4 | wc -l
