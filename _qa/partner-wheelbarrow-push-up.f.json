@@ -1,0 +1,38 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 0.34511239690235757,
+   "gap_min": -2.988516807556185,
+   "gap_max": -2.8152461051941247
+  },
+  "R": {
+   "slide": 0.34511239690235757,
+   "gap_min": -2.988516807556185,
+   "gap_max": -2.8152461051941247
+  }
+ },
+ "support_mm": 0.0,
+ "floor_mm": 3.5,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.6,
+ "thumb": "end@1.00",
+ "pose_hash": "1f376e93933dacd0",
+ "view": [
+  75.0,
+  10.0
+ ],
+ "key": "partner-wheelbarrow-push-up",
+ "name_en": "Partner Wheelbarrow Push-up",
+ "template": "x54",
+ "gender": "f",
+ "seconds": 41.7,
+ "pose_seconds": 1.4,
+ "quality": 72,
+ "bytes": 209618,
+ "frames": 36,
+ "unique": 19
+}
