@@ -1,0 +1,74 @@
+{
+ "issues": [
+  "foot_slideL:21mm",
+  "foot_slideR:21mm",
+  "floor:-113mm",
+  "pop:wrist.L@0.14:245mm,wrist.R@0.14:246mm,lowerarm01.L@0.14:245mm",
+  "twist:wrist.L@0.19:77deg,wrist.R@0.19:81deg,lowerarm01.L@0.69:77deg",
+  "range:elbowL:168,elbowL:170,elbowR:168,elbowR:170"
+ ],
+ "grip_mm": 0.4,
+ "feet": {
+  "L": {
+   "slide": 20.5663222950971,
+   "gap_min": -2.684531517326832,
+   "gap_max": 1.0000003799796102
+  },
+  "R": {
+   "slide": 20.5663222950971,
+   "gap_min": -2.684531517326832,
+   "gap_max": 1.0000003799796102
+  }
+ },
+ "support_mm": 0.0,
+ "floor_mm": -113.3,
+ "pops": [
+  "wrist.L@0.14:245mm",
+  "wrist.R@0.14:246mm",
+  "lowerarm01.L@0.14:245mm",
+  "lowerleg01.L@0.64:230mm",
+  "lowerleg01.R@0.64:230mm",
+  "wrist.L@0.72:175mm",
+  "wrist.R@0.72:175mm",
+  "lowerleg01.L@0.72:157mm",
+  "lowerleg01.R@0.72:157mm",
+  "foot.L@0.72:39mm",
+  "foot.R@0.72:39mm",
+  "upperarm01.L@0.72:146mm",
+  "upperarm01.R@0.72:147mm",
+  "root@0.72:157mm",
+  "lowerarm01.L@0.86:260mm",
+  "lowerarm01.R@0.86:260mm"
+ ],
+ "twists": [
+  "wrist.L@0.19:77deg",
+  "wrist.R@0.19:81deg",
+  "lowerarm01.L@0.69:77deg",
+  "lowerarm01.L@0.94:80deg",
+  "lowerarm01.R@0.69:68deg",
+  "lowerarm01.R@0.94:80deg"
+ ],
+ "ranges": [
+  "elbowL:168",
+  "elbowL:170",
+  "elbowR:168",
+  "elbowR:170"
+ ],
+ "athlete_frac": 0.94,
+ "thumb": "end@0.25",
+ "pose_hash": "4cad6452c49172a0",
+ "view": [
+  75.0,
+  10.0
+ ],
+ "key": "walkout-to-push-up",
+ "name_en": "Walkout to Push-up",
+ "template": "x54",
+ "gender": "f",
+ "seconds": 57.5,
+ "pose_seconds": 1.1,
+ "quality": 72,
+ "bytes": 131438,
+ "frames": 36,
+ "unique": 36
+}
