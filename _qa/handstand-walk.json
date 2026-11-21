@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": 0.0,
+ "floor_mm": -2.5,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.95,
+ "thumb": "end@0.25",
+ "pose_hash": "56d86115ef0b03ef",
+ "view": [
+  85.0,
+  6.0
+ ],
+ "key": "handstand-walk",
+ "name_en": "Handstand Walk",
+ "template": "x54",
+ "gender": "m",
+ "seconds": 95.6,
+ "pose_seconds": 2.3,
+ "quality": 78,
+ "bytes": 115642,
+ "frames": 36,
+ "unique": 36
+}
