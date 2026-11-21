@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 4.6,
+ "feet": {},
+ "support_mm": 0.0,
+ "floor_mm": 446.4,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.73,
+ "thumb": "end@1.00",
+ "pose_hash": "9132e1b4021e0423",
+ "view": [
+  15.0,
+  8.0
+ ],
+ "key": "archer-pull-up",
+ "name_en": "Archer Pull-up",
+ "template": "pull_up",
+ "gender": "m",
+ "seconds": 113.3,
+ "pose_seconds": 1.5,
+ "quality": 72,
+ "bytes": 221411,
+ "frames": 48,
+ "unique": 25
+}

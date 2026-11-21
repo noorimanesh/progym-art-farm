@@ -1,0 +1,33 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "R": {
+   "slide": 0.0,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  }
+ },
+ "support_mm": 6.0,
+ "floor_mm": 4.0,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.95,
+ "thumb": "end@1.00",
+ "pose_hash": "699743f040d7ebee",
+ "view": [
+  60,
+  9
+ ],
+ "key": "mini-band-kneeling-row",
+ "name_en": "Mini Band Kneeling Row",
+ "template": "barbell_row",
+ "gender": "m",
+ "seconds": 209.9,
+ "pose_seconds": 9.6,
+ "quality": 72,
+ "bytes": 243118,
+ "frames": 48,
+ "unique": 25
+}

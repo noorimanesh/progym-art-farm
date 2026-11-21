@@ -1,0 +1,38 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 9.71445146547012e-14,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  },
+  "R": {
+   "slide": 9.71445146547012e-14,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  }
+ },
+ "support_mm": 0.0,
+ "floor_mm": 8.0,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.78,
+ "thumb": "end@1.00",
+ "pose_hash": "5935769a978e1908",
+ "view": [
+  60,
+  9
+ ],
+ "key": "trap-bar-bent-over-row",
+ "name_en": "Trap Bar Bent Over Row",
+ "template": "barbell_row",
+ "gender": "f",
+ "seconds": 189.6,
+ "pose_seconds": 2.0,
+ "quality": 69,
+ "bytes": 390231,
+ "frames": 48,
+ "unique": 25
+}

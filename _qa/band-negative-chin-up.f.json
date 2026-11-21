@@ -1,0 +1,32 @@
+{
+ "issues": [
+  "pop:lowerarm01.L@0.98:25mm,lowerarm01.R@0.98:25mm"
+ ],
+ "grip_mm": 0.7,
+ "feet": {},
+ "support_mm": 0.0,
+ "floor_mm": 576.4,
+ "pops": [
+  "lowerarm01.L@0.98:25mm",
+  "lowerarm01.R@0.98:25mm"
+ ],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.67,
+ "thumb": "end@1.00",
+ "pose_hash": "8556510439481af0",
+ "view": [
+  140,
+  10
+ ],
+ "key": "band-negative-chin-up",
+ "name_en": "Band Negative Chin-up",
+ "template": "pull_up",
+ "gender": "f",
+ "seconds": 122.3,
+ "pose_seconds": 2.2,
+ "quality": 72,
+ "bytes": 228467,
+ "frames": 48,
+ "unique": 25
+}

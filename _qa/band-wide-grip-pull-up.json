@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": 0.0,
+ "floor_mm": 585.4,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.7,
+ "thumb": "end@1.00",
+ "pose_hash": "cba2a84c504ea7a8",
+ "view": [
+  140,
+  10
+ ],
+ "key": "band-wide-grip-pull-up",
+ "name_en": "Band Wide Grip Pull-up",
+ "template": "pull_up",
+ "gender": "m",
+ "seconds": 117.9,
+ "pose_seconds": 2.3,
+ "quality": 72,
+ "bytes": 206030,
+ "frames": 48,
+ "unique": 25
+}

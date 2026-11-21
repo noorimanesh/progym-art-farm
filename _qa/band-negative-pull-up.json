@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": 0.0,
+ "floor_mm": 587.4,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.7,
+ "thumb": "end@1.00",
+ "pose_hash": "6a4d528d8faec6ab",
+ "view": [
+  140,
+  10
+ ],
+ "key": "band-negative-pull-up",
+ "name_en": "Band Negative Pull-up",
+ "template": "pull_up",
+ "gender": "m",
+ "seconds": 118.4,
+ "pose_seconds": 2.3,
+ "quality": 72,
+ "bytes": 210773,
+ "frames": 48,
+ "unique": 25
+}

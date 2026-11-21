@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": 0.0,
+ "floor_mm": 737.4,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.6,
+ "thumb": "end@1.00",
+ "pose_hash": "5ef5334096cd59b9",
+ "view": [
+  36,
+  10
+ ],
+ "key": "assisted-wide-grip-pull-up",
+ "name_en": "Assisted Wide Grip Pull-up",
+ "template": "assisted_pull_up",
+ "gender": "f",
+ "seconds": 113.0,
+ "pose_seconds": 2.0,
+ "quality": 72,
+ "bytes": 227607,
+ "frames": 48,
+ "unique": 25
+}

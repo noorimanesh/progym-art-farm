@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": 0.0,
+ "floor_mm": -0.3,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.93,
+ "thumb": "end@1.00",
+ "pose_hash": "63fc2547bb750bd7",
+ "view": [
+  -60.0,
+  20.0
+ ],
+ "key": "australian-chin-up",
+ "name_en": "Australian Chin-up",
+ "template": "inverted_row",
+ "gender": "m",
+ "seconds": 246.6,
+ "pose_seconds": 1.5,
+ "quality": 51,
+ "bytes": 372364,
+ "frames": 48,
+ "unique": 25
+}

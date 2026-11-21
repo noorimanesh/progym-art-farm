@@ -1,0 +1,38 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 0.0,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  },
+  "R": {
+   "slide": 0.0,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  }
+ },
+ "support_mm": -0.5,
+ "floor_mm": 8.0,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.88,
+ "thumb": "end@1.00",
+ "pose_hash": "2471cce979204c46",
+ "view": [
+  15.0,
+  8.0
+ ],
+ "key": "cable-crossover-lat-pulldown",
+ "name_en": "Cable Crossover Lat Pulldown",
+ "template": "lat_pulldown",
+ "gender": "f",
+ "seconds": 104.1,
+ "pose_seconds": 1.8,
+ "quality": 78,
+ "bytes": 173178,
+ "frames": 48,
+ "unique": 25
+}

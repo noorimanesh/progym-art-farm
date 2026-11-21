@@ -1,0 +1,46 @@
+{
+ "issues": [
+  "pop:wrist.R@0.75:113mm,lowerarm01.R@0.75:340mm",
+  "twist:wrist.R@0.80:150deg"
+ ],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 1.0007415106216802e-13,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  },
+  "R": {
+   "slide": 1.1102230246251565e-13,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  }
+ },
+ "support_mm": 0.0,
+ "floor_mm": 8.0,
+ "pops": [
+  "wrist.R@0.75:113mm",
+  "lowerarm01.R@0.75:340mm"
+ ],
+ "twists": [
+  "wrist.R@0.80:150deg"
+ ],
+ "ranges": [],
+ "athlete_frac": 0.95,
+ "thumb": "end@1.00",
+ "pose_hash": "b04574c0843f57b4",
+ "view": [
+  60.0,
+  8.0
+ ],
+ "key": "single-arm-band-row",
+ "name_en": "Single-Arm Band Row",
+ "template": "x54",
+ "gender": "m",
+ "seconds": 166.1,
+ "pose_seconds": 2.8,
+ "quality": 72,
+ "bytes": 293454,
+ "frames": 48,
+ "unique": 25
+}

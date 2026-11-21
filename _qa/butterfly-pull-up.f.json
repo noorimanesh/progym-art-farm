@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": 0.0,
+ "floor_mm": 413.5,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.73,
+ "thumb": "end@0.25",
+ "pose_hash": "1b44a746de6f6616",
+ "view": [
+  60.0,
+  8.0
+ ],
+ "key": "butterfly-pull-up",
+ "name_en": "Butterfly Pull-up",
+ "template": "pull_up",
+ "gender": "f",
+ "seconds": 207.6,
+ "pose_seconds": 4.5,
+ "quality": 72,
+ "bytes": 205253,
+ "frames": 48,
+ "unique": 48
+}

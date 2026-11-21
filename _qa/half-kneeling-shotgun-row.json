@@ -1,0 +1,37 @@
+{
+ "issues": [
+  "twist:wrist.R@0.85:64deg"
+ ],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 1.1443916996305594e-13,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  }
+ },
+ "support_mm": 0.0,
+ "floor_mm": 8.0,
+ "pops": [],
+ "twists": [
+  "wrist.R@0.85:64deg"
+ ],
+ "ranges": [],
+ "athlete_frac": 0.95,
+ "thumb": "end@1.00",
+ "pose_hash": "375d5cfe1bfa3d63",
+ "view": [
+  55.0,
+  8.0
+ ],
+ "key": "half-kneeling-shotgun-row",
+ "name_en": "Half Kneeling Shotgun Row",
+ "template": "x54",
+ "gender": "m",
+ "seconds": 207.7,
+ "pose_seconds": 1.8,
+ "quality": 66,
+ "bytes": 364527,
+ "frames": 48,
+ "unique": 25
+}

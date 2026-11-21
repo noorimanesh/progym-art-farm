@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": 0.0,
+ "floor_mm": 553.6,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.7,
+ "thumb": "end@1.00",
+ "pose_hash": "dd636545078edcfb",
+ "view": [
+  140,
+  10
+ ],
+ "key": "band-chin-up",
+ "name_en": "Band Chin-up",
+ "template": "pull_up",
+ "gender": "m",
+ "seconds": 119.3,
+ "pose_seconds": 2.3,
+ "quality": 72,
+ "bytes": 221537,
+ "frames": 48,
+ "unique": 25
+}
