@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": 0.6,
+ "floor_mm": -2.0,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.74,
+ "thumb": "end@1.00",
+ "pose_hash": "5cb6fa32a6a19d08",
+ "view": [
+  80,
+  10
+ ],
+ "key": "barbell-ab-rollout",
+ "name_en": "Barbell Ab Rollout",
+ "template": "ab_rollout",
+ "gender": "f",
+ "seconds": 106.1,
+ "pose_seconds": 1.1,
+ "quality": 69,
+ "bytes": 369931,
+ "frames": 48,
+ "unique": 25
+}

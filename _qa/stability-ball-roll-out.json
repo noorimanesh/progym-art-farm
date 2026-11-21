@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": 0.0,
+ "floor_mm": -2.0,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.71,
+ "thumb": "end@1.00",
+ "pose_hash": "15dbea506796a2e8",
+ "view": [
+  80,
+  10
+ ],
+ "key": "stability-ball-roll-out",
+ "name_en": "Stability Ball Roll Out",
+ "template": "ab_rollout",
+ "gender": "m",
+ "seconds": 94.3,
+ "pose_seconds": 1.2,
+ "quality": 72,
+ "bytes": 310671,
+ "frames": 48,
+ "unique": 25
+}

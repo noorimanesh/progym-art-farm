@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": 0.5,
+ "floor_mm": -2.3,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.91,
+ "thumb": "end@1.00",
+ "pose_hash": "2e9b9ca1b30cc8f0",
+ "view": [
+  90,
+  16
+ ],
+ "key": "partner-lying-leg-throw-down",
+ "name_en": "Partner Lying Leg Throw Down",
+ "template": "leg_raise",
+ "gender": "f",
+ "seconds": 98.6,
+ "pose_seconds": 0.9,
+ "quality": 72,
+ "bytes": 352398,
+ "frames": 48,
+ "unique": 25
+}

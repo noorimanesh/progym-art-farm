@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": 0.0,
+ "floor_mm": 8.0,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.95,
+ "thumb": "end@1.00",
+ "pose_hash": "e7dc91fe7aed2a15",
+ "view": [
+  6,
+  6
+ ],
+ "key": "stance-jack",
+ "name_en": "Stance Jack",
+ "template": "jumping_jack",
+ "gender": "f",
+ "seconds": 72.8,
+ "pose_seconds": 0.9,
+ "quality": 72,
+ "bytes": 293141,
+ "frames": 48,
+ "unique": 25
+}

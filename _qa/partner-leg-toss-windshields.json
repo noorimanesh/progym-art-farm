@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": -0.6,
+ "floor_mm": -2.6,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.92,
+ "thumb": "end@1.00",
+ "pose_hash": "fc32e2a0836f59b5",
+ "view": [
+  90.0,
+  8.0
+ ],
+ "key": "partner-leg-toss-windshields",
+ "name_en": "Partner Leg Toss Windshields",
+ "template": "windshield_wiper",
+ "gender": "m",
+ "seconds": 89.9,
+ "pose_seconds": 0.9,
+ "quality": 72,
+ "bytes": 288589,
+ "frames": 48,
+ "unique": 25
+}

@@ -1,0 +1,38 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 2.2377260456559047e-13,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  },
+  "R": {
+   "slide": 2.2377260456559047e-13,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  }
+ },
+ "support_mm": 0.6,
+ "floor_mm": -2.5,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.92,
+ "thumb": "end@1.00",
+ "pose_hash": "61a3021a36be91ca",
+ "view": [
+  90,
+  16
+ ],
+ "key": "partner-sit-up-toss",
+ "name_en": "Partner Sit-up Toss",
+ "template": "sit_up",
+ "gender": "m",
+ "seconds": 116.7,
+ "pose_seconds": 1.1,
+ "quality": 66,
+ "bytes": 369960,
+ "frames": 48,
+ "unique": 25
+}

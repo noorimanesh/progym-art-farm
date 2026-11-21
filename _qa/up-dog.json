@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": -0.5,
+ "floor_mm": -2.5,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.92,
+ "thumb": "end@1.00",
+ "pose_hash": "60675bbcbd9cf856",
+ "view": [
+  75,
+  10
+ ],
+ "key": "up-dog",
+ "name_en": "Up Dog",
+ "template": "cobra",
+ "gender": "m",
+ "seconds": 102.8,
+ "pose_seconds": 0.7,
+ "quality": 69,
+ "bytes": 364725,
+ "frames": 48,
+ "unique": 25
+}

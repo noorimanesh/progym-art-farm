@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": 0.5,
+ "floor_mm": 347.3,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.95,
+ "thumb": "end@1.00",
+ "pose_hash": "ba34f09963b2efba",
+ "view": [
+  90,
+  16
+ ],
+ "key": "decline-sit-up-with-medicine-ball-toss",
+ "name_en": "Decline Sit-up with Medicine Ball Toss",
+ "template": "sit_up",
+ "gender": "m",
+ "seconds": 117.7,
+ "pose_seconds": 1.0,
+ "quality": 72,
+ "bytes": 357928,
+ "frames": 48,
+ "unique": 25
+}

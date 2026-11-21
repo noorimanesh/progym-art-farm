@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": -0.5,
+ "floor_mm": 750.0,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.95,
+ "thumb": "end@1.00",
+ "pose_hash": "1cd9668fb5e7ecaf",
+ "view": [
+  80.0,
+  8.0
+ ],
+ "key": "glute-ham-raise-sit-up",
+ "name_en": "Glute Ham Raise Sit-up",
+ "template": "x54",
+ "gender": "m",
+ "seconds": 94.5,
+ "pose_seconds": 0.8,
+ "quality": 72,
+ "bytes": 260138,
+ "frames": 48,
+ "unique": 25
+}

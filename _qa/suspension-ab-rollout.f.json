@@ -1,0 +1,38 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 0.05228319216250174,
+   "gap_min": -0.7534062191843988,
+   "gap_max": 1.151908405125141
+  },
+  "R": {
+   "slide": 0.05228319216250174,
+   "gap_min": -0.7534062191843988,
+   "gap_max": 1.151908405125141
+  }
+ },
+ "support_mm": 0.0,
+ "floor_mm": 6.2,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.93,
+ "thumb": "end@1.00",
+ "pose_hash": "b391724171f18869",
+ "view": [
+  80,
+  10
+ ],
+ "key": "suspension-ab-rollout",
+ "name_en": "Suspension Ab Rollout",
+ "template": "ab_rollout",
+ "gender": "f",
+ "seconds": 80.3,
+ "pose_seconds": 0.7,
+ "quality": 72,
+ "bytes": 271531,
+ "frames": 48,
+ "unique": 25
+}

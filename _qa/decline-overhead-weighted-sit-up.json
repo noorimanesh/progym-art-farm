@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": 0.5,
+ "floor_mm": 346.9,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.95,
+ "thumb": "end@1.00",
+ "pose_hash": "d38f3cfe2a028eb0",
+ "view": [
+  90,
+  16
+ ],
+ "key": "decline-overhead-weighted-sit-up",
+ "name_en": "Decline Overhead Weighted Sit-up",
+ "template": "sit_up",
+ "gender": "m",
+ "seconds": 117.9,
+ "pose_seconds": 1.0,
+ "quality": 72,
+ "bytes": 335319,
+ "frames": 48,
+ "unique": 25
+}

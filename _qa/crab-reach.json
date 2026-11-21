@@ -1,0 +1,31 @@
+{
+ "issues": [
+  "twist:wrist.R@0.57:84deg"
+ ],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": 0.0,
+ "floor_mm": -2.7,
+ "pops": [],
+ "twists": [
+  "wrist.R@0.57:84deg"
+ ],
+ "ranges": [],
+ "athlete_frac": 0.95,
+ "thumb": "end@1.00",
+ "pose_hash": "961ca3fb070940c3",
+ "view": [
+  80,
+  8
+ ],
+ "key": "crab-reach",
+ "name_en": "Crab Reach",
+ "template": "reverse_plank",
+ "gender": "m",
+ "seconds": 94.2,
+ "pose_seconds": 0.7,
+ "quality": 72,
+ "bytes": 354851,
+ "frames": 48,
+ "unique": 25
+}

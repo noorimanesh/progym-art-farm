@@ -1,0 +1,38 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 8.12176708575559e-14,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  },
+  "R": {
+   "slide": 8.441528768080325e-14,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  }
+ },
+ "support_mm": 0.0,
+ "floor_mm": 8.0,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.85,
+ "thumb": "end@1.00",
+ "pose_hash": "5ceae4b1a85894c7",
+ "view": [
+  12,
+  8
+ ],
+ "key": "dowel-lateral-bend",
+ "name_en": "Dowel Lateral Bend",
+ "template": "side_bend",
+ "gender": "f",
+ "seconds": 76.2,
+ "pose_seconds": 0.8,
+ "quality": 72,
+ "bytes": 223169,
+ "frames": 48,
+ "unique": 25
+}

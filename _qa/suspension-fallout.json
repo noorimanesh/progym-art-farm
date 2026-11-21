@@ -1,0 +1,38 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 1.3947004136484322e-13,
+   "gap_min": 0.6777255162596701,
+   "gap_max": 1.779877796769142
+  },
+  "R": {
+   "slide": 1.3947004136484322e-13,
+   "gap_min": 0.6777255162596701,
+   "gap_max": 1.779877796769142
+  }
+ },
+ "support_mm": 0.0,
+ "floor_mm": 7.7,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.95,
+ "thumb": "end@1.00",
+ "pose_hash": "d106dbf15718eef5",
+ "view": [
+  80,
+  10
+ ],
+ "key": "suspension-fallout",
+ "name_en": "Suspension Fallout",
+ "template": "ab_rollout",
+ "gender": "m",
+ "seconds": 85.6,
+ "pose_seconds": 0.7,
+ "quality": 72,
+ "bytes": 263163,
+ "frames": 48,
+ "unique": 25
+}
