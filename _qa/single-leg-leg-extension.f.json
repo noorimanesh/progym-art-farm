@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 7.1,
+ "feet": {},
+ "support_mm": 0.0,
+ "floor_mm": 98.8,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.94,
+ "thumb": "end@1.00",
+ "pose_hash": "63455ffa1a49d29f",
+ "view": [
+  72,
+  8
+ ],
+ "key": "single-leg-leg-extension",
+ "name_en": "Single-Leg Leg Extension",
+ "template": "leg_extension",
+ "gender": "f",
+ "seconds": 136.4,
+ "pose_seconds": 1.1,
+ "quality": 72,
+ "bytes": 288088,
+ "frames": 48,
+ "unique": 25
+}

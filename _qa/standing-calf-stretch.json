@@ -1,0 +1,38 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 0.11965873111322578,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.2095107063651083
+  },
+  "R": {
+   "slide": 1.688305753616065e-13,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  }
+ },
+ "support_mm": 0.0,
+ "floor_mm": 8.0,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.95,
+ "thumb": "end@1.00",
+ "pose_hash": "e06a9f9d3270f12f",
+ "view": [
+  75,
+  8
+ ],
+ "key": "standing-calf-stretch",
+ "name_en": "Standing Calf Stretch",
+ "template": "calf_stretch",
+ "gender": "m",
+ "seconds": 121.3,
+ "pose_seconds": 1.0,
+ "quality": 72,
+ "bytes": 262717,
+ "frames": 48,
+ "unique": 25
+}

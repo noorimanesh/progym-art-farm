@@ -1,0 +1,38 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 0.0,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  },
+  "R": {
+   "slide": 0.0,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  }
+ },
+ "support_mm": 0.3,
+ "floor_mm": 8.0,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.81,
+ "thumb": "start@0.00",
+ "pose_hash": "e6423ff61846a1cb",
+ "view": [
+  60,
+  8
+ ],
+ "key": "smith-machine-shoulder-press",
+ "name_en": "Smith Machine Shoulder Press",
+ "template": "overhead_press",
+ "gender": "f",
+ "seconds": 132.3,
+ "pose_seconds": 1.1,
+ "quality": 72,
+ "bytes": 312475,
+ "frames": 48,
+ "unique": 25
+}

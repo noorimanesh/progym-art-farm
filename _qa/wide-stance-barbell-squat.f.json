@@ -1,0 +1,38 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 1.1796119636642288e-13,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  },
+  "R": {
+   "slide": 1.1796119636642288e-13,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  }
+ },
+ "support_mm": 0.0,
+ "floor_mm": 8.0,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.94,
+ "thumb": "end@1.00",
+ "pose_hash": "1757b9febb572377",
+ "view": [
+  15.0,
+  10.0
+ ],
+ "key": "wide-stance-barbell-squat",
+ "name_en": "Wide-Stance Barbell Squat",
+ "template": "back_squat",
+ "gender": "f",
+ "seconds": 165.8,
+ "pose_seconds": 1.8,
+ "quality": 72,
+ "bytes": 383896,
+ "frames": 48,
+ "unique": 25
+}

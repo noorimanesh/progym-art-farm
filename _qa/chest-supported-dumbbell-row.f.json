@@ -1,0 +1,38 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 2.288783399261119e-13,
+   "gap_min": -1.881570339202881,
+   "gap_max": -1.881570339202881
+  },
+  "R": {
+   "slide": 2.288783399261119e-13,
+   "gap_min": -1.881570339202881,
+   "gap_max": -1.881570339202881
+  }
+ },
+ "support_mm": 0.5,
+ "floor_mm": 5.1,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.88,
+ "thumb": "end@1.00",
+ "pose_hash": "db22e7826b915e9f",
+ "view": [
+  70,
+  12
+ ],
+ "key": "chest-supported-dumbbell-row",
+ "name_en": "Chest-Supported Dumbbell Row",
+ "template": "chest_supported",
+ "gender": "f",
+ "seconds": 188.6,
+ "pose_seconds": 1.3,
+ "quality": 54,
+ "bytes": 378278,
+ "frames": 48,
+ "unique": 25
+}

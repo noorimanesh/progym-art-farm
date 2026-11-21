@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": 0.5,
+ "floor_mm": 65.4,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.92,
+ "thumb": "end@1.00",
+ "pose_hash": "1548544ca6758328",
+ "view": [
+  90,
+  7
+ ],
+ "key": "reverse-hyperextension",
+ "name_en": "Reverse Hyperextension",
+ "template": "back_extension",
+ "gender": "f",
+ "seconds": 138.6,
+ "pose_seconds": 1.4,
+ "quality": 72,
+ "bytes": 316783,
+ "frames": 48,
+ "unique": 25
+}

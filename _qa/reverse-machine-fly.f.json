@@ -1,0 +1,38 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 0.0,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  },
+  "R": {
+   "slide": 0.0,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  }
+ },
+ "support_mm": 0.3,
+ "floor_mm": 8.0,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.94,
+ "thumb": "end@1.00",
+ "pose_hash": "ec56c8325d4996e0",
+ "view": [
+  25,
+  16
+ ],
+ "key": "reverse-machine-fly",
+ "name_en": "Reverse Machine Fly",
+ "template": "pec_deck",
+ "gender": "f",
+ "seconds": 138.6,
+ "pose_seconds": 1.1,
+ "quality": 72,
+ "bytes": 303112,
+ "frames": 48,
+ "unique": 25
+}

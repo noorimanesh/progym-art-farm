@@ -1,0 +1,38 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 1.1102230246251565e-13,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  },
+  "R": {
+   "slide": 1.1102230246251565e-13,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  }
+ },
+ "support_mm": -0.5,
+ "floor_mm": 8.0,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.91,
+ "thumb": "end@1.00",
+ "pose_hash": "69e5965ef24fa152",
+ "view": [
+  15.0,
+  8.0
+ ],
+ "key": "wide-grip-lat-pulldown",
+ "name_en": "Wide-Grip Lat Pulldown",
+ "template": "lat_pulldown",
+ "gender": "f",
+ "seconds": 102.8,
+ "pose_seconds": 1.2,
+ "quality": 72,
+ "bytes": 207055,
+ "frames": 48,
+ "unique": 25
+}

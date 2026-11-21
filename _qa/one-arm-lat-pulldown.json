@@ -1,0 +1,38 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 1.1443916996305594e-13,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  },
+  "R": {
+   "slide": 1.1443916996305594e-13,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  }
+ },
+ "support_mm": 0.3,
+ "floor_mm": 8.0,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.88,
+ "thumb": "end@1.00",
+ "pose_hash": "99b3cdef195049ec",
+ "view": [
+  78,
+  8
+ ],
+ "key": "one-arm-lat-pulldown",
+ "name_en": "One-Arm Lat Pulldown",
+ "template": "lat_pulldown",
+ "gender": "m",
+ "seconds": 106.6,
+ "pose_seconds": 1.3,
+ "quality": 72,
+ "bytes": 201900,
+ "frames": 48,
+ "unique": 25
+}

@@ -1,0 +1,38 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 1.1102230246251565e-13,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  },
+  "R": {
+   "slide": 1.1102230246251565e-13,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  }
+ },
+ "support_mm": 0.0,
+ "floor_mm": 8.0,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.95,
+ "thumb": "end@1.00",
+ "pose_hash": "d25948cf011c4d50",
+ "view": [
+  15.0,
+  8.0
+ ],
+ "key": "cable-rear-delt-fly",
+ "name_en": "Cable Rear Delt Fly",
+ "template": "rear_delt_raise",
+ "gender": "m",
+ "seconds": 180.3,
+ "pose_seconds": 1.0,
+ "quality": 66,
+ "bytes": 379153,
+ "frames": 48,
+ "unique": 25
+}

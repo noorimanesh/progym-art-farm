@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": -0.3,
+ "floor_mm": 168.9,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.95,
+ "thumb": "end@1.00",
+ "pose_hash": "4fbfb0772e7a80db",
+ "view": [
+  82,
+  10
+ ],
+ "key": "one-arm-seated-cable-row",
+ "name_en": "One-Arm Seated Cable Row",
+ "template": "cable_row",
+ "gender": "m",
+ "seconds": 168.4,
+ "pose_seconds": 1.3,
+ "quality": 72,
+ "bytes": 346513,
+ "frames": 48,
+ "unique": 25
+}
