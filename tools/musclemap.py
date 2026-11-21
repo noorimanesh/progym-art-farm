@@ -69,6 +69,8 @@ def main():
             cam, tgt = fit_camera(pts, az, 3.0, lens=85, aspect=W / H, margin=0.06, margin_v=0.04)
             scene.set_camera(cam, tgt, 85)
             # the figure
+            for ob in [o for o, _, _ in body.shells] + ([body.bun] if body.bun is not None else []):
+                ob.hide_render = False
             body.body.data.materials[0] = clay
             body.set_highlight([], None)
             sc.cycles.samples = 16
@@ -80,7 +82,9 @@ def main():
             scene.render_png(f)
             Image.open(f).save(os.path.join(out, f"{g}-{view}.webp"), "WEBP", quality=88, method=6)
             os.remove(f)
-            # the masks (flat emission, no light, no noise)
+            # the masks (flat emission, no light, no noise); hair and shoes out of the way
+            for ob in [o for o, _, _ in body.shells] + ([body.bun] if body.bun is not None else []):
+                ob.hide_render = True
             body.body.data.materials[0] = mm
             sc.cycles.samples = 2
             sc.cycles.use_denoising = False
