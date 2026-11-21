@@ -1,0 +1,56 @@
+{
+ "issues": [
+  "pop:wrist.L@0.40:59mm,wrist.R@0.40:59mm,lowerarm01.L@0.40:70mm"
+ ],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 2.2377260456559047e-13,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  }
+ },
+ "support_mm": 0.0,
+ "floor_mm": 4.0,
+ "pops": [
+  "wrist.L@0.40:59mm",
+  "wrist.R@0.40:59mm",
+  "lowerarm01.L@0.40:70mm",
+  "lowerarm01.R@0.40:70mm",
+  "lowerleg01.L@0.40:47mm",
+  "lowerleg01.R@0.40:67mm",
+  "head@0.40:80mm",
+  "upperarm01.L@0.40:80mm",
+  "upperarm01.R@0.40:80mm",
+  "root@0.40:80mm",
+  "foot.R@0.54:286mm",
+  "wrist.L@0.69:55mm",
+  "wrist.R@0.69:55mm",
+  "lowerarm01.L@0.69:68mm",
+  "lowerarm01.R@0.69:68mm",
+  "lowerleg01.L@0.69:40mm",
+  "head@0.69:80mm",
+  "upperarm01.L@0.69:80mm",
+  "upperarm01.R@0.69:80mm",
+  "root@0.69:80mm"
+ ],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.66,
+ "thumb": "0.4@0.40",
+ "pose_hash": "e08a8c9937bf4c6e",
+ "view": [
+  30.0,
+  8.0
+ ],
+ "key": "suspension-crossing-balance-lunge",
+ "name_en": "Suspension Crossing Balance Lunge",
+ "template": "x54",
+ "gender": "m",
+ "seconds": 93.2,
+ "pose_seconds": 1.9,
+ "quality": 72,
+ "bytes": 230641,
+ "frames": 48,
+ "unique": 48
+}

@@ -1,0 +1,38 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "R": {
+   "slide": 0.16365835001537246,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.2256887108087537
+  },
+  "L": {
+   "slide": 3.3422138886441676e-13,
+   "gap_min": -0.8555811531841756,
+   "gap_max": -0.8555811531841756
+  }
+ },
+ "support_mm": 0.0,
+ "floor_mm": 1.1,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.95,
+ "thumb": "end@1.00",
+ "pose_hash": "efc2bc97a6d99884",
+ "view": [
+  88,
+  6
+ ],
+ "key": "suspension-pulse-lunge",
+ "name_en": "Suspension Pulse Lunge",
+ "template": "split_squat",
+ "gender": "m",
+ "seconds": 59.2,
+ "pose_seconds": 1.0,
+ "quality": 72,
+ "bytes": 274231,
+ "frames": 48,
+ "unique": 25
+}

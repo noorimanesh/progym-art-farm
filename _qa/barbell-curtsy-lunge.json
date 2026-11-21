@@ -1,0 +1,38 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "R": {
+   "slide": 1.2412670766236365e-13,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  },
+  "L": {
+   "slide": 2.288783399261119e-13,
+   "gap_min": -1.3161457777023318,
+   "gap_max": -1.3161457777023318
+  }
+ },
+ "support_mm": 0.0,
+ "floor_mm": 5.7,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.95,
+ "thumb": "end@1.00",
+ "pose_hash": "9aea9f3ead2db35c",
+ "view": [
+  40,
+  8
+ ],
+ "key": "barbell-curtsy-lunge",
+ "name_en": "Barbell Curtsy Lunge",
+ "template": "curtsy_lunge",
+ "gender": "m",
+ "seconds": 80.7,
+ "pose_seconds": 1.1,
+ "quality": 72,
+ "bytes": 338352,
+ "frames": 48,
+ "unique": 25
+}

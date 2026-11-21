@@ -1,0 +1,38 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "R": {
+   "slide": 0.16979114431493533,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.2324128597974775
+  },
+  "L": {
+   "slide": 2.220446049250313e-13,
+   "gap_min": -0.8555811531841756,
+   "gap_max": -0.8555811531841756
+  }
+ },
+ "support_mm": 0.0,
+ "floor_mm": 0.2,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.95,
+ "thumb": "end@1.00",
+ "pose_hash": "c44c29d21ed5a241",
+ "view": [
+  88,
+  6
+ ],
+ "key": "band-pulse-lunge",
+ "name_en": "Band Pulse Lunge",
+ "template": "split_squat",
+ "gender": "m",
+ "seconds": 57.6,
+ "pose_seconds": 1.0,
+ "quality": 72,
+ "bytes": 257694,
+ "frames": 48,
+ "unique": 25
+}

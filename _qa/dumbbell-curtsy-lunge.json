@@ -1,0 +1,38 @@
+{
+ "issues": [],
+ "grip_mm": 1.9,
+ "feet": {
+  "R": {
+   "slide": 0.04218144212765722,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.1307608634233473
+  },
+  "L": {
+   "slide": 2.0206364052201327e-13,
+   "gap_min": -1.3161457777023318,
+   "gap_max": -1.3161457777023318
+  }
+ },
+ "support_mm": 0.0,
+ "floor_mm": 5.7,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.95,
+ "thumb": "end@1.00",
+ "pose_hash": "2ba72ea0191a0895",
+ "view": [
+  40,
+  8
+ ],
+ "key": "dumbbell-curtsy-lunge",
+ "name_en": "Dumbbell Curtsy Lunge",
+ "template": "curtsy_lunge",
+ "gender": "m",
+ "seconds": 51.0,
+ "pose_seconds": 1.1,
+ "quality": 72,
+ "bytes": 289476,
+ "frames": 48,
+ "unique": 25
+}

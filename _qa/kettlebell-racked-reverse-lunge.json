@@ -1,0 +1,33 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "R": {
+   "slide": 1.5265566588595902e-13,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  }
+ },
+ "support_mm": 0.0,
+ "floor_mm": 6.1,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.95,
+ "thumb": "end@1.00",
+ "pose_hash": "16f5c59e886151f4",
+ "view": [
+  88,
+  6
+ ],
+ "key": "kettlebell-racked-reverse-lunge",
+ "name_en": "Kettlebell Racked Reverse Lunge",
+ "template": "reverse_lunge",
+ "gender": "m",
+ "seconds": 57.9,
+ "pose_seconds": 1.4,
+ "quality": 72,
+ "bytes": 243221,
+ "frames": 48,
+ "unique": 25
+}

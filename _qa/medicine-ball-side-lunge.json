@@ -1,0 +1,38 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 2.5589376332604514e-13,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  },
+  "R": {
+   "slide": 2.288783399261119e-13,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  }
+ },
+ "support_mm": 0.0,
+ "floor_mm": 8.0,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.95,
+ "thumb": "end@1.00",
+ "pose_hash": "aae179c1c4c1e584",
+ "view": [
+  6,
+  6
+ ],
+ "key": "medicine-ball-side-lunge",
+ "name_en": "Medicine Ball Side Lunge",
+ "template": "lateral_lunge",
+ "gender": "m",
+ "seconds": 58.7,
+ "pose_seconds": 1.2,
+ "quality": 72,
+ "bytes": 300033,
+ "frames": 48,
+ "unique": 25
+}

@@ -1,0 +1,33 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 1.6653345369377348e-13,
+   "gap_min": -0.8555811531841756,
+   "gap_max": 1.78364872187376
+  }
+ },
+ "support_mm": 0.0,
+ "floor_mm": 6.1,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.95,
+ "thumb": "end@1.00",
+ "pose_hash": "13492c21fc61ff8e",
+ "view": [
+  88,
+  6
+ ],
+ "key": "suspension-balance-lunge",
+ "name_en": "Suspension Balance Lunge",
+ "template": "forward_lunge",
+ "gender": "m",
+ "seconds": 58.9,
+ "pose_seconds": 1.4,
+ "quality": 72,
+ "bytes": 263557,
+ "frames": 48,
+ "unique": 25
+}
