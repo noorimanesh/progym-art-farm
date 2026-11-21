@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": -0.3,
+ "floor_mm": -2.3,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.92,
+ "thumb": "end@1.00",
+ "pose_hash": "d69ef8f4359b3042",
+ "view": [
+  60.0,
+  30.0
+ ],
+ "key": "reverse-leg-crossover",
+ "name_en": "Reverse Leg Crossover",
+ "template": "x54",
+ "gender": "f",
+ "seconds": 76.3,
+ "pose_seconds": 0.9,
+ "quality": 72,
+ "bytes": 210422,
+ "frames": 36,
+ "unique": 19
+}
