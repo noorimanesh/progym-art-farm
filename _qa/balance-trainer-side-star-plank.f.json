@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": 0.0,
+ "floor_mm": -2.0,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.82,
+ "thumb": "end@1.00",
+ "pose_hash": "9996d31f6b246ffd",
+ "view": [
+  20.0,
+  8.0
+ ],
+ "key": "balance-trainer-side-star-plank",
+ "name_en": "Balance Trainer Side Star Plank",
+ "template": "x54",
+ "gender": "f",
+ "seconds": 175.9,
+ "pose_seconds": 1.7,
+ "quality": 72,
+ "bytes": 247905,
+ "frames": 48,
+ "unique": 25
+}

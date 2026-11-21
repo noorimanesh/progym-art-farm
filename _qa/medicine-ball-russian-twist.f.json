@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": 0.4,
+ "floor_mm": -2.0,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.92,
+ "thumb": "end@1.00",
+ "pose_hash": "8a9e6830ca0b9b5e",
+ "view": [
+  20,
+  8
+ ],
+ "key": "medicine-ball-russian-twist",
+ "name_en": "Medicine Ball Russian Twist",
+ "template": "russian_twist",
+ "gender": "f",
+ "seconds": 205.5,
+ "pose_seconds": 1.7,
+ "quality": 72,
+ "bytes": 347751,
+ "frames": 48,
+ "unique": 25
+}

@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": -0.5,
+ "floor_mm": -2.5,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.92,
+ "thumb": "end@1.00",
+ "pose_hash": "e2ab5881ef719c07",
+ "view": [
+  70,
+  14
+ ],
+ "key": "quadruped-plank-with-leg-extensions",
+ "name_en": "Quadruped Plank With Leg Extensions",
+ "template": "bird_dog",
+ "gender": "m",
+ "seconds": 211.4,
+ "pose_seconds": 6.0,
+ "quality": 72,
+ "bytes": 339890,
+ "frames": 48,
+ "unique": 25
+}

@@ -1,0 +1,38 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 1.3877787807814457e-13,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  },
+  "R": {
+   "slide": 1.3877787807814457e-13,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  }
+ },
+ "support_mm": -0.6,
+ "floor_mm": 8.0,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.95,
+ "thumb": "end@1.00",
+ "pose_hash": "8ed1658be876a75f",
+ "view": [
+  60.0,
+  35.0
+ ],
+ "key": "stability-ball-abdominal-twist",
+ "name_en": "Stability Ball Abdominal Twist",
+ "template": "russian_twist",
+ "gender": "m",
+ "seconds": 178.6,
+ "pose_seconds": 1.7,
+ "quality": 72,
+ "bytes": 237243,
+ "frames": 48,
+ "unique": 25
+}

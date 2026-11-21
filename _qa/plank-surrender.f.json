@@ -1,0 +1,39 @@
+{
+ "issues": [
+  "floor:-114mm",
+  "twist:foot.R@0.15:90deg,foot.R@0.37:88deg"
+ ],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 2.2377260456559047e-13,
+   "gap_min": -2.7853113301098347,
+   "gap_max": -2.7853113301098347
+  }
+ },
+ "support_mm": 0.0,
+ "floor_mm": -113.6,
+ "pops": [],
+ "twists": [
+  "foot.R@0.15:90deg",
+  "foot.R@0.37:88deg"
+ ],
+ "ranges": [],
+ "athlete_frac": 0.92,
+ "thumb": "end@1.00",
+ "pose_hash": "7d1941eed6f2493c",
+ "view": [
+  70.0,
+  10.0
+ ],
+ "key": "plank-surrender",
+ "name_en": "Plank Surrender",
+ "template": "x54",
+ "gender": "f",
+ "seconds": 164.9,
+ "pose_seconds": 3.7,
+ "quality": 72,
+ "bytes": 353790,
+ "frames": 48,
+ "unique": 25
+}

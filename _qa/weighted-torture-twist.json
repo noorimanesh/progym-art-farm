@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": -0.6,
+ "floor_mm": -2.6,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.95,
+ "thumb": "end@1.00",
+ "pose_hash": "99d04ee5cad81054",
+ "view": [
+  60.0,
+  35.0
+ ],
+ "key": "weighted-torture-twist",
+ "name_en": "Weighted Torture Twist",
+ "template": "russian_twist",
+ "gender": "m",
+ "seconds": 246.9,
+ "pose_seconds": 1.9,
+ "quality": 63,
+ "bytes": 366161,
+ "frames": 48,
+ "unique": 25
+}

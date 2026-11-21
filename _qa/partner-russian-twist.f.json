@@ -1,0 +1,29 @@
+{
+ "issues": [
+  "grip:palmL:37mm"
+ ],
+ "grip_mm": 36.6,
+ "feet": {},
+ "support_mm": 0.4,
+ "floor_mm": -2.0,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.92,
+ "thumb": "end@1.00",
+ "pose_hash": "2cc68a20ab4bda0f",
+ "view": [
+  20,
+  8
+ ],
+ "key": "partner-russian-twist",
+ "name_en": "Partner Russian Twist",
+ "template": "russian_twist",
+ "gender": "f",
+ "seconds": 223.2,
+ "pose_seconds": 1.7,
+ "quality": 72,
+ "bytes": 334672,
+ "frames": 48,
+ "unique": 25
+}

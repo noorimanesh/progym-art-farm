@@ -1,0 +1,38 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {
+  "L": {
+   "slide": 1.5265566588595902e-13,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  },
+  "R": {
+   "slide": 1.2412670766236365e-13,
+   "gap_min": 1.0000003799796102,
+   "gap_max": 1.0000003799796102
+  }
+ },
+ "support_mm": 0.0,
+ "floor_mm": 8.0,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.95,
+ "thumb": "end@1.00",
+ "pose_hash": "6e028de6a7c32931",
+ "view": [
+  20,
+  8
+ ],
+ "key": "partner-medicine-ball-full-twist",
+ "name_en": "Partner Medicine Ball Full Twist",
+ "template": "russian_twist",
+ "gender": "m",
+ "seconds": 142.0,
+ "pose_seconds": 2.7,
+ "quality": 72,
+ "bytes": 269992,
+ "frames": 48,
+ "unique": 25
+}

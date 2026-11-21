@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": -0.6,
+ "floor_mm": 388.5,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.92,
+ "thumb": "end@1.00",
+ "pose_hash": "b88498b19bcf9a78",
+ "view": [
+  20,
+  8
+ ],
+ "key": "decline-russian-twist",
+ "name_en": "Decline Russian Twist",
+ "template": "russian_twist",
+ "gender": "f",
+ "seconds": 178.0,
+ "pose_seconds": 1.9,
+ "quality": 69,
+ "bytes": 350468,
+ "frames": 48,
+ "unique": 25
+}

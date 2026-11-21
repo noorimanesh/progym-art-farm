@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": 0.2,
+ "floor_mm": -2.0,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.92,
+ "thumb": "end@1.00",
+ "pose_hash": "7bee30995e54d2b1",
+ "view": [
+  20.0,
+  8.0
+ ],
+ "key": "side-plank-with-knees-bent",
+ "name_en": "Side Plank With Knees Bent",
+ "template": "x54",
+ "gender": "m",
+ "seconds": 231.9,
+ "pose_seconds": 2.6,
+ "quality": 66,
+ "bytes": 360483,
+ "frames": 48,
+ "unique": 25
+}

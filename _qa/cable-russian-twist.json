@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": -0.5,
+ "floor_mm": -2.5,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.72,
+ "thumb": "end@1.00",
+ "pose_hash": "77cae1802e54b16c",
+ "view": [
+  20,
+  8
+ ],
+ "key": "cable-russian-twist",
+ "name_en": "Cable Russian Twist",
+ "template": "russian_twist",
+ "gender": "m",
+ "seconds": 226.2,
+ "pose_seconds": 1.8,
+ "quality": 66,
+ "bytes": 359782,
+ "frames": 48,
+ "unique": 25
+}

@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": -0.3,
+ "floor_mm": 405.2,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.92,
+ "thumb": "end@1.00",
+ "pose_hash": "48bef974bb7a9632",
+ "view": [
+  20.0,
+  28.0
+ ],
+ "key": "torture-twist",
+ "name_en": "Torture Twist",
+ "template": "russian_twist",
+ "gender": "m",
+ "seconds": 222.4,
+ "pose_seconds": 2.5,
+ "quality": 72,
+ "bytes": 351752,
+ "frames": 48,
+ "unique": 25
+}

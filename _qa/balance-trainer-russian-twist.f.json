@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": -0.6,
+ "floor_mm": 40.2,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.9,
+ "thumb": "end@1.00",
+ "pose_hash": "aa658f7d3c362a70",
+ "view": [
+  20,
+  8
+ ],
+ "key": "balance-trainer-russian-twist",
+ "name_en": "Balance Trainer Russian Twist",
+ "template": "russian_twist",
+ "gender": "f",
+ "seconds": 181.8,
+ "pose_seconds": 1.8,
+ "quality": 72,
+ "bytes": 335114,
+ "frames": 48,
+ "unique": 25
+}

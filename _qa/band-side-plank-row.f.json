@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": -0.1,
+ "floor_mm": -2.1,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.89,
+ "thumb": "end@1.00",
+ "pose_hash": "e496712302fc3d3d",
+ "view": [
+  35.0,
+  10.0
+ ],
+ "key": "band-side-plank-row",
+ "name_en": "Band Side Plank Row",
+ "template": "x54",
+ "gender": "f",
+ "seconds": 237.8,
+ "pose_seconds": 1.8,
+ "quality": 66,
+ "bytes": 320204,
+ "frames": 48,
+ "unique": 25
+}

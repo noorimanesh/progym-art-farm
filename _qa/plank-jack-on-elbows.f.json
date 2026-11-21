@@ -1,0 +1,27 @@
+{
+ "issues": [],
+ "grip_mm": 0.0,
+ "feet": {},
+ "support_mm": 0.0,
+ "floor_mm": 4.2,
+ "pops": [],
+ "twists": [],
+ "ranges": [],
+ "athlete_frac": 0.92,
+ "thumb": "end@1.00",
+ "pose_hash": "0ef5b4e333578235",
+ "view": [
+  65,
+  12
+ ],
+ "key": "plank-jack-on-elbows",
+ "name_en": "Plank Jack on Elbows",
+ "template": "plank",
+ "gender": "f",
+ "seconds": 163.2,
+ "pose_seconds": 2.1,
+ "quality": 72,
+ "bytes": 351092,
+ "frames": 48,
+ "unique": 25
+}
